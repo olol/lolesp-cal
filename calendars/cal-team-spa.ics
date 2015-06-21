@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-spa
+X-WR-CALNAME:LoL eSports SPA
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-3180
@@ -14,6 +15,6 @@ DESCRIPTION:SPARTA (SPA) vs Different Dimension (DD)\nType : BO3\nTournamen
  t : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/3180
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150621T152806Z
+DTSTAMP:20150621T155734Z
 END:VEVENT
 END:VCALENDAR

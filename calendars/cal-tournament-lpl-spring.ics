@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-lpl-spring
+X-WR-CALNAME:LoL eSports Lpl spring
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-4254
@@ -14,7 +15,7 @@ DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament :
  LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4254
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4255
@@ -27,7 +28,7 @@ SUMMARY:Snake vs Gamtee
 DESCRIPTION:Snake (SS) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\
  nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4255
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4256
@@ -41,7 +42,7 @@ DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4256
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4257
@@ -55,7 +56,7 @@ DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4257
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4258
@@ -69,7 +70,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Master3 (M3)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4258
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4259
@@ -83,7 +84,7 @@ DESCRIPTION:Team WE (WE) vs Snake (SS)\nType : BO2\nTournament : LPL Spring
  \nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/425
  9
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4260
@@ -97,7 +98,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Gamtee (GT)\nType : BO2\nTournament : L
  PL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4260
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4261
@@ -111,7 +112,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  4261
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4262
@@ -125,7 +126,7 @@ DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : LPL Spring
  \nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/426
  2
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4263
@@ -139,7 +140,7 @@ DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
  Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4263
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4264
@@ -153,7 +154,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4264
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4265
@@ -167,7 +168,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
   : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4265
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4266
@@ -181,7 +182,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
  ment : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4266
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4267
@@ -195,7 +196,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4267
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4268
@@ -209,7 +210,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Snake (SS)\nType : BO2\nTournament : LPL
   Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4268
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4269
@@ -223,7 +224,7 @@ DESCRIPTION:Team WE (WE) vs Master3 (M3)\nType : BO2\nTournament : LPL Spri
  ng\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4
  269
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4270
@@ -237,7 +238,7 @@ DESCRIPTION:King (KNG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
   Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4270
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4271
@@ -251,7 +252,7 @@ DESCRIPTION:Vici Gaming (VG) vs Gamtee (GT)\nType : BO2\nTournament : LPL S
  pring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/4271
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4272
@@ -264,7 +265,7 @@ SUMMARY:Team WE vs OMG
 DESCRIPTION:Team WE (WE) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4272
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4273
@@ -278,7 +279,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4273
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4274
@@ -291,7 +292,7 @@ SUMMARY:King vs Snake
 DESCRIPTION:King (KNG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\n
  Week : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4274
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4275
@@ -305,7 +306,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Gamtee (GT)\nType : BO2\nTourname
  nt : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4275
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4276
@@ -319,7 +320,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4276
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4277
@@ -333,7 +334,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Master3 (M3)\nType : BO2\nTournament : LPL
  Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4277
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4278
@@ -346,7 +347,7 @@ SUMMARY:OMG vs Snake
 DESCRIPTION:OMG (OMG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\nW
  eek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4278
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4279
@@ -360,7 +361,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs King (KNG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4279
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4280
@@ -374,7 +375,7 @@ DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL
  Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4280
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4281
@@ -388,7 +389,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
  ment : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4281
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4282
@@ -402,7 +403,7 @@ DESCRIPTION:Energy PACEMAKER () vs Gamtee (GT)\nType : BO2\nTournament : LP
  L Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4282
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4283
@@ -416,7 +417,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Snake (SS)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4283
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4284
@@ -430,7 +431,7 @@ DESCRIPTION:Team WE (WE) vs Vici Gaming (VG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4284
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4285
@@ -443,7 +444,7 @@ SUMMARY:Master3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4285
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4286
@@ -457,7 +458,7 @@ DESCRIPTION:Master3 (M3) vs Gamtee (GT)\nType : BO2\nTournament : LPL Sprin
  g\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/42
  86
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4287
@@ -471,7 +472,7 @@ DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4287
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4288
@@ -485,7 +486,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Snake (SS)\nType : BO2\nTournament : LP
  L Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4288
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4289
@@ -499,7 +500,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4289
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4290
@@ -513,7 +514,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : L
  PL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4290
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4291
@@ -527,7 +528,7 @@ DESCRIPTION:Team WE (WE) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
  PL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4291
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4292
@@ -541,7 +542,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4292
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4293
@@ -555,7 +556,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Vici Gaming (VG)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4293
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4294
@@ -569,7 +570,7 @@ DESCRIPTION:Snake (SS) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
   Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4294
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4295
@@ -583,7 +584,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Gamtee (GT)\nType : BO2\nTournament : LP
  L Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4295
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4296
@@ -597,7 +598,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4296
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4297
@@ -611,7 +612,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team WE (WE)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4297
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4298
@@ -625,7 +626,7 @@ DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4298
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4299
@@ -639,7 +640,7 @@ DESCRIPTION:Vici Gaming (VG) vs Snake (SS)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4299
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4300
@@ -652,7 +653,7 @@ SUMMARY:OMG vs Gamtee
 DESCRIPTION:OMG (OMG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\n
  Week : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4300
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4301
@@ -666,7 +667,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : L
  PL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4301
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4302
@@ -680,7 +681,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4302
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4303
@@ -694,7 +695,7 @@ DESCRIPTION:Master3 (M3) vs Invictus Gaming (iG)\nType : BO2\nTournament :
  LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4303
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4304
@@ -708,7 +709,7 @@ DESCRIPTION:Vici Gaming (VG) vs LGD GAMING (LGD)\nType : BO2\nTournament :
  LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4304
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4305
@@ -721,7 +722,7 @@ SUMMARY:OMG vs King
 DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : LPL Spring\nW
  eek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4305
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4306
@@ -734,7 +735,7 @@ SUMMARY:King vs Gamtee
 DESCRIPTION:King (KNG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\
  nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4306
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4307
@@ -748,7 +749,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
  nTournament : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4307
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4308
@@ -762,7 +763,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  4308
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4309
@@ -776,7 +777,7 @@ DESCRIPTION:Vici Gaming (VG) vs Master3 (M3)\nType : BO2\nTournament : LPL
  Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4309
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4310
@@ -790,7 +791,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Snake (SS)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4310
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4311
@@ -804,7 +805,7 @@ DESCRIPTION:Master3 (M3) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
  PL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4311
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4312
@@ -818,7 +819,7 @@ DESCRIPTION:Team WE (WE) vs Gamtee (GT)\nType : BO2\nTournament : LPL Sprin
  g\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/43
  12
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4313
@@ -832,7 +833,7 @@ DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : LP
  L Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4313
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4314
@@ -846,7 +847,7 @@ DESCRIPTION:Vici Gaming (VG) vs Energy PACEMAKER ()\nType : BO2\nTournament
   : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4314
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4315
@@ -860,7 +861,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Gamtee (GT)\nType : BO2\nTournament : LPL S
  pring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/4315
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4316
@@ -874,7 +875,7 @@ DESCRIPTION:Team WE (WE) vs King (KNG)\nType : BO2\nTournament : LPL Spring
  \nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/431
  6
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4317
@@ -888,7 +889,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4317
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4318
@@ -902,7 +903,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
  Tournament : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4318
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4319
@@ -916,7 +917,7 @@ DESCRIPTION:Master3 (M3) vs Snake (SS)\nType : BO2\nTournament : LPL Spring
  \nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/431
  9
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4320
@@ -930,7 +931,7 @@ DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament :
  LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4320
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4321
@@ -944,7 +945,7 @@ DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4321
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4322
@@ -958,7 +959,7 @@ DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4322
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4323
@@ -972,7 +973,7 @@ DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4323
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4324
@@ -986,7 +987,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Master3 (M3)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4324
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4325
@@ -1000,7 +1001,7 @@ DESCRIPTION:Team WE (WE) vs Vici Gaming (VG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4325
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4326
@@ -1014,7 +1015,7 @@ DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : LPL Spring
  \nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/432
  6
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4327
@@ -1028,7 +1029,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4327
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4328
@@ -1042,7 +1043,7 @@ DESCRIPTION:Team WE (WE) vs Snake (SS)\nType : BO2\nTournament : LPL Spring
  \nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/432
  8
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4329
@@ -1056,7 +1057,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  4329
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4330
@@ -1069,7 +1070,7 @@ SUMMARY:King vs Snake
 DESCRIPTION:King (KNG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\n
  Week : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4330
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4331
@@ -1083,7 +1084,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
  ment : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4331
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4332
@@ -1097,7 +1098,7 @@ DESCRIPTION:Team WE (WE) vs Master3 (M3)\nType : BO2\nTournament : LPL Spri
  ng\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4
  332
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4333
@@ -1110,7 +1111,7 @@ SUMMARY:OMG vs Gamtee
 DESCRIPTION:OMG (OMG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\n
  Week : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4333
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4334
@@ -1124,7 +1125,7 @@ DESCRIPTION:Vici Gaming (VG) vs Energy PACEMAKER ()\nType : BO2\nTournament
   : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4334
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4335
@@ -1138,7 +1139,7 @@ DESCRIPTION:Master3 (M3) vs Gamtee (GT)\nType : BO2\nTournament : LPL Sprin
  g\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/43
  35
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4336
@@ -1152,7 +1153,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Snake (SS)\nType : BO2\nTournament : LPL
   Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4336
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4337
@@ -1166,7 +1167,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4337
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4338
@@ -1180,7 +1181,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Gamtee (GT)\nType : BO2\nTourname
  nt : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4338
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4339
@@ -1194,7 +1195,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4339
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4340
@@ -1208,7 +1209,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4340
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4341
@@ -1222,7 +1223,7 @@ DESCRIPTION:King (KNG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
   Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4341
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4342
@@ -1236,7 +1237,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Snake (SS)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4342
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4343
@@ -1250,7 +1251,7 @@ DESCRIPTION:Energy PACEMAKER () vs Gamtee (GT)\nType : BO2\nTournament : LP
  L Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4343
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4344
@@ -1264,7 +1265,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
  ment : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4344
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4345
@@ -1277,7 +1278,7 @@ SUMMARY:Master3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4345
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4346
@@ -1291,7 +1292,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs King (KNG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4346
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4347
@@ -1305,7 +1306,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Gamtee (GT)\nType : BO2\nTournament : L
  PL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4347
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4348
@@ -1318,7 +1319,7 @@ SUMMARY:OMG vs Snake
 DESCRIPTION:OMG (OMG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\nW
  eek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4348
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4349
@@ -1332,7 +1333,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Master3 (M3)\nType : BO2\nTournament : LPL
  Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4349
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4350
@@ -1346,7 +1347,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Snake (SS)\nType : BO2\nTournament : LP
  L Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4350
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4351
@@ -1360,7 +1361,7 @@ DESCRIPTION:Vici Gaming (VG) vs Gamtee (GT)\nType : BO2\nTournament : LPL S
  pring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/4351
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4352
@@ -1373,7 +1374,7 @@ SUMMARY:Team WE vs OMG
 DESCRIPTION:Team WE (WE) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4352
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4353
@@ -1387,7 +1388,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4353
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4354
@@ -1401,7 +1402,7 @@ DESCRIPTION:Vici Gaming (VG) vs Snake (SS)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4354
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4355
@@ -1414,7 +1415,7 @@ SUMMARY:OMG vs King
 DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : LPL Spring\nW
  eek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4355
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4356
@@ -1428,7 +1429,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : L
  PL Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4356
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4357
@@ -1442,7 +1443,7 @@ DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL
  Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4357
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4358
@@ -1456,7 +1457,7 @@ DESCRIPTION:Snake (SS) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
   Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4358
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4359
@@ -1470,7 +1471,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Gamtee (GT)\nType : BO2\nTournament : LP
  L Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4359
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4360
@@ -1484,7 +1485,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team WE (WE)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4360
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4361
@@ -1498,7 +1499,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4361
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4362
@@ -1512,7 +1513,7 @@ DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
  Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4362
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4363
@@ -1526,7 +1527,7 @@ DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Sp
  ring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/4363
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4364
@@ -1540,7 +1541,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Vici Gaming (VG)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4364
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4365
@@ -1554,7 +1555,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : L
  PL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4365
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4366
@@ -1568,7 +1569,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
  Tournament : LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4366
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4367
@@ -1582,7 +1583,7 @@ DESCRIPTION:Snake (SS) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\
  nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/match/436
  7
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4368
@@ -1596,7 +1597,7 @@ DESCRIPTION:Master3 (M3) vs Invictus Gaming (iG)\nType : BO2\nTournament :
  LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/4368
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4369
@@ -1610,7 +1611,7 @@ DESCRIPTION:Team WE (WE) vs King (KNG)\nType : BO2\nTournament : LPL Spring
  \nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/match/43
  69
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4370
@@ -1624,7 +1625,7 @@ DESCRIPTION:Master3 (M3) vs Snake (SS)\nType : BO2\nTournament : LPL Spring
  \nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/match/43
  70
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4371
@@ -1638,7 +1639,7 @@ DESCRIPTION:Team WE (WE) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
  PL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4371
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4372
@@ -1652,7 +1653,7 @@ DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : LP
  L Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4372
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4373
@@ -1666,7 +1667,7 @@ DESCRIPTION:Vici Gaming (VG) vs LGD GAMING (LGD)\nType : BO2\nTournament :
  LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/4373
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4374
@@ -1680,7 +1681,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Gamtee (GT)\nType : BO2\nTournament : LPL S
  pring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4374
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4375
@@ -1694,7 +1695,7 @@ DESCRIPTION:Master3 (M3) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
  PL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4375
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4376
@@ -1708,7 +1709,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
  nTournament : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/4376
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4377
@@ -1722,7 +1723,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
   : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4377
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152809Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4378
@@ -1736,7 +1737,7 @@ DESCRIPTION:King (KNG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\
  nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/match/437
  8
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4379
@@ -1750,7 +1751,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Snake (SS)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4379
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4380
@@ -1764,7 +1765,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4380
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4381
@@ -1778,7 +1779,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4381
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4382
@@ -1792,7 +1793,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4382
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4383
@@ -1806,7 +1807,7 @@ DESCRIPTION:Team WE (WE) vs Gamtee (GT)\nType : BO2\nTournament : LPL Sprin
  g\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4
  383
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4384
@@ -1820,7 +1821,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4384
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4385
@@ -1834,6 +1835,6 @@ DESCRIPTION:Vici Gaming (VG) vs Master3 (M3)\nType : BO2\nTournament : LPL
  Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4385
 CATEGORIES:LPL Spring
-DTSTAMP:20150621T152810Z
+DTSTAMP:20150621T155738Z
 END:VEVENT
 END:VCALENDAR

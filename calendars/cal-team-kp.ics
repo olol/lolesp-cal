@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-kp
+X-WR-CALNAME:LoL eSports KP
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2656
@@ -14,6 +15,6 @@ DESCRIPTION:Kappa Team (KP) vs Unicorns Of Love (UOL)\nType : BO1\nTourname
  nt : EU CS Play In 5\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2656
 CATEGORIES:EU CS Play In 5
-DTSTAMP:20150621T152800Z
+DTSTAMP:20150621T155728Z
 END:VEVENT
 END:VCALENDAR

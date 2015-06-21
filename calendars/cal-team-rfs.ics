@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-rfs
+X-WR-CALNAME:LoL eSports RFS
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-4403
@@ -14,6 +15,6 @@ DESCRIPTION:Team Refuse (RFS) vs Gamers2 (defunct) (G2)\nType : BO3\nTourna
  ment : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : h
  ttp://www.lolesports.com/tourney/match/4403
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150621T152816Z
+DTSTAMP:20150621T155744Z
 END:VEVENT
 END:VCALENDAR

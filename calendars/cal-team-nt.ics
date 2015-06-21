@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-nt
+X-WR-CALNAME:LoL eSports NT
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-3147
@@ -14,6 +15,6 @@ DESCRIPTION:Enemy Esports (NME) vs Noble Truth (NT)\nType : BO3\nTournament
   : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/3147
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150621T152805Z
+DTSTAMP:20150621T155734Z
 END:VEVENT
 END:VCALENDAR

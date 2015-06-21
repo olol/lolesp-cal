@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-na-play-in-5
+X-WR-CALNAME:LoL eSports Na play in 5
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-1789
@@ -14,6 +15,6 @@ DESCRIPTION:TINT Gaming (TNT) vs compLexity.Red (CLR)\nType : BO1\nTourname
  nt : NA Play in 5\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1789
 CATEGORIES:NA Play in 5
-DTSTAMP:20150621T152752Z
+DTSTAMP:20150621T155720Z
 END:VEVENT
 END:VCALENDAR

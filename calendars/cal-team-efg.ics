@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-efg
+X-WR-CALNAME:LoL eSports EFG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2629
@@ -14,7 +15,7 @@ DESCRIPTION:Team LolPro (PRO) vs everFrag (EFG)\nType : BO1\nTournament : N
  A CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2629
 CATEGORIES:NA CS Play In 1
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2629
@@ -28,6 +29,6 @@ DESCRIPTION:Team LolPro (PRO) vs everFrag (EFG)\nType : BO1\nTournament : N
  A CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2629
 CATEGORIES:NA CS Play In 1
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 END:VCALENDAR

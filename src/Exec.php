@@ -246,7 +246,7 @@ class Exec
 
             foreach ($addToCalendars as $calendarName) {
                 $calendar = $this->getCalendars()->get($calendarName)->get();
-                $calendar->getICalendar()->addComponent($event);
+                $calendar->getICalendar()->addEvent($event);
             }
         }
     }

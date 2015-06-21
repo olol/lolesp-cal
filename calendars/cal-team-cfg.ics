@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-cfg
+X-WR-CALNAME:LoL eSports CFG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-1665
@@ -14,6 +15,6 @@ DESCRIPTION:Cognitive Forge (CFG) vs y so E-Sports (YSO)\nType : BO1\nTourn
  ament : NA Play in 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1665
 CATEGORIES:NA Play in 1
-DTSTAMP:20150621T152751Z
+DTSTAMP:20150621T155720Z
 END:VEVENT
 END:VCALENDAR

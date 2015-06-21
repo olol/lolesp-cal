@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-eu-cs-2-play-in-3
+X-WR-CALNAME:LoL eSports Eu cs 2 play in 3
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2080
@@ -14,6 +15,6 @@ DESCRIPTION:Reason Gaming (RG) vs n!faculty (NF)\nType : BO1\nTournament :
  EU CS 2 Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2080
 CATEGORIES:EU CS 2 Play In 3
-DTSTAMP:20150621T152756Z
+DTSTAMP:20150621T155724Z
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-stn
+X-WR-CALNAME:LoL eSports STN
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2061
@@ -14,6 +15,6 @@ DESCRIPTION:vVv Gaming (vVv) vs Super Team NA (STN)\nType : BO1\nTournament
   : NA CS 2 Play In 2\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2061
 CATEGORIES:NA CS 2 Play In 2
-DTSTAMP:20150621T152757Z
+DTSTAMP:20150621T155725Z
 END:VEVENT
 END:VCALENDAR

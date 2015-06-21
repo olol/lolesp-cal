@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-euo
+X-WR-CALNAME:LoL eSports EUO
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-1947
@@ -14,6 +15,6 @@ DESCRIPTION:Mousesports (MOU) vs EYES ON U (EUO)\nType : BO3\nTournament :
  EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/1947
 CATEGORIES:EU Top 8
-DTSTAMP:20150621T152752Z
+DTSTAMP:20150621T155720Z
 END:VEVENT
 END:VCALENDAR

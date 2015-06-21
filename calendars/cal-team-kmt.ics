@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-kmt
+X-WR-CALNAME:LoL eSports KMT
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-1657
@@ -14,6 +15,6 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Kiedyś Miałem Team (KMT)\nType : B
  O5\nTournament : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/1657
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150621T152745Z
+DTSTAMP:20150621T155713Z
 END:VEVENT
 END:VCALENDAR

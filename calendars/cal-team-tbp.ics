@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-tbp
+X-WR-CALNAME:LoL eSports TBP
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2063
@@ -14,6 +15,6 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs The Blue Pill (TBP)\nType : BO1\nTourna
  ment : NA CS 2 Play In 4\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2063
 CATEGORIES:NA CS 2 Play In 4
-DTSTAMP:20150621T152756Z
+DTSTAMP:20150621T155724Z
 END:VEVENT
 END:VCALENDAR

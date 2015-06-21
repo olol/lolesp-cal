@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-kx
+X-WR-CALNAME:LoL eSports KX
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-4551
@@ -14,6 +15,6 @@ DESCRIPTION:Master3 (M3) vs Kx.Happy (KX)\nType : BO5\nTournament : 2015 LP
  L Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4551
 CATEGORIES:2015 LPL Summer Promotion
-DTSTAMP:20150621T152817Z
+DTSTAMP:20150621T155746Z
 END:VEVENT
 END:VCALENDAR

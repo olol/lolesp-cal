@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-ody
+X-WR-CALNAME:LoL eSports ODY
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-5153
@@ -14,7 +15,7 @@ DESCRIPTION:Odyssey Gaming (ODY) vs Fiction eSports (FCN)\nType : BO3\nTour
  nament : 2015 NA Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl :
   http://www.lolesports.com/tourney/match/5153
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5158
@@ -28,6 +29,6 @@ DESCRIPTION:Odyssey Gaming (ODY) vs Cloud9 Tempest (C9T)\nType : BO3\nTourn
  ament : 2015 NA Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/5158
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 END:VCALENDAR

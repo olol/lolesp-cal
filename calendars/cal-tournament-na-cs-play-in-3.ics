@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-na-cs-play-in-3
+X-WR-CALNAME:LoL eSports Na cs play in 3
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2635
@@ -14,7 +15,7 @@ DESCRIPTION:Team Green Forest (TGF) vs No Dice Gaming (NDG)\nType : BO1\nTo
  urnament : NA CS Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/2635
 CATEGORIES:NA CS Play In 3
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2635
@@ -28,7 +29,7 @@ DESCRIPTION:Team Green Forest (TGF) vs No Dice Gaming (NDG)\nType : BO1\nTo
  urnament : NA CS Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/2635
 CATEGORIES:NA CS Play In 3
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2991
@@ -42,6 +43,6 @@ DESCRIPTION:XDG (XDG) vs To Be Decided (TBD)\nType : BO1\nTournament : NA C
  S Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2991
 CATEGORIES:NA CS Play In 3
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 END:VCALENDAR

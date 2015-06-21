@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-rgn
+X-WR-CALNAME:LoL eSports RGN
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-4404
@@ -14,6 +15,6 @@ DESCRIPTION:Nevo (NVO) vs Ragnarok (RGN)\nType : BO3\nTournament : 2015 EU
  Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4404
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150621T152816Z
+DTSTAMP:20150621T155744Z
 END:VEVENT
 END:VCALENDAR

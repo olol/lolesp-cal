@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-arb
+X-WR-CALNAME:LoL eSports ARB
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-4386
@@ -14,6 +15,6 @@ DESCRIPTION:Enemy Esports (NME) vs The Arbiters (ARB)\nType : BO3\nTourname
  nt : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/4386
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150621T152812Z
+DTSTAMP:20150621T155740Z
 END:VEVENT
 END:VCALENDAR

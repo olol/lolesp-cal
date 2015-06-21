@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-inv
+X-WR-CALNAME:LoL eSports INV
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2965
@@ -14,6 +15,6 @@ DESCRIPTION:Invaders (INV) vs SK Gaming Prime (SKP)\nType : BO1\nTournament
   : EU CS Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2965
 CATEGORIES:EU CS Play In 2
-DTSTAMP:20150621T152803Z
+DTSTAMP:20150621T155731Z
 END:VEVENT
 END:VCALENDAR

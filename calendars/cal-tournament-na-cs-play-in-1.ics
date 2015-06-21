@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-na-cs-play-in-1
+X-WR-CALNAME:LoL eSports Na cs play in 1
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2629
@@ -14,7 +15,7 @@ DESCRIPTION:Team LolPro (PRO) vs everFrag (EFG)\nType : BO1\nTournament : N
  A CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2629
 CATEGORIES:NA CS Play In 1
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2629
@@ -28,7 +29,7 @@ DESCRIPTION:Team LolPro (PRO) vs everFrag (EFG)\nType : BO1\nTournament : N
  A CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2629
 CATEGORIES:NA CS Play In 1
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2985
@@ -42,6 +43,6 @@ DESCRIPTION:Team 8 (T8) vs Area of Effect (AOE)\nType : BO1\nTournament : N
  A CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2985
 CATEGORIES:NA CS Play In 1
-DTSTAMP:20150621T152801Z
+DTSTAMP:20150621T155729Z
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-exn
+X-WR-CALNAME:LoL eSports EXN
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-5115
@@ -14,7 +15,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Phoenix Reborn (PHX)\nType : BO3\nTournament
   : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5115
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5119
@@ -28,7 +29,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Caseking Gaming (CK)\nType : BO3\nTournament
   : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5119
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5121
@@ -42,7 +43,7 @@ DESCRIPTION:Denial eSports (DNE) vs Ex Nihilo (EXN)\nType : BO3\nTournament
   : 2015 EU Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5121
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5122
@@ -56,7 +57,7 @@ DESCRIPTION:Mousesports (MOU) vs Ex Nihilo (EXN)\nType : BO3\nTournament :
  2015 EU Summer Challenger Qualifier\nWeek : 4\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/5122
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5255
@@ -70,7 +71,7 @@ DESCRIPTION:Mousesports (MOU) vs Ex Nihilo (EXN)\nType : BO1\nTournament :
  2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5255
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5258
@@ -84,7 +85,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Mousesports (MOU)\nType : BO1\nTournament :
  2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5258
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5259
@@ -98,7 +99,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Denial eSports (DNE)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5259
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5262
@@ -112,7 +113,7 @@ DESCRIPTION:Denial eSports (DNE) vs Ex Nihilo (EXN)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5262
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5266
@@ -126,7 +127,7 @@ DESCRIPTION:Gamers2 (G2) vs Ex Nihilo (EXN)\nType : BO1\nTournament : 2015
  EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5266
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5269
@@ -140,7 +141,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Gamers2 (G2)\nType : BO1\nTournament : 2015
  EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5269
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5273
@@ -154,7 +155,7 @@ DESCRIPTION:Team Dignitas EU (DEU) vs Ex Nihilo (EXN)\nType : BO1\nTourname
  nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5273
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5276
@@ -168,7 +169,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Team Dignitas EU (DEU)\nType : BO1\nTourname
  nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5276
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5279
@@ -182,7 +183,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Overclockers UK (OC)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5279
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5282
@@ -196,6 +197,6 @@ DESCRIPTION:Overclockers UK (OC) vs Ex Nihilo (EXN)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5282
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 END:VCALENDAR

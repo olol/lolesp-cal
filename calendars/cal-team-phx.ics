@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-phx
+X-WR-CALNAME:LoL eSports PHX
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-5115
@@ -14,6 +15,6 @@ DESCRIPTION:Ex Nihilo (EXN) vs Phoenix Reborn (PHX)\nType : BO3\nTournament
   : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5115
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150621T152821Z
+DTSTAMP:20150621T155750Z
 END:VEVENT
 END:VCALENDAR

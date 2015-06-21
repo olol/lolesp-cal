@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-fse
+X-WR-CALNAME:LoL eSports FSE
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-3151
@@ -14,6 +15,6 @@ DESCRIPTION:Team LolPro (PRO) vs Fission Esports (FSE)\nType : BO3\nTournam
  ent : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/3151
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150621T152805Z
+DTSTAMP:20150621T155733Z
 END:VEVENT
 END:VCALENDAR

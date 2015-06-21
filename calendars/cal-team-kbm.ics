@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-kbm
+X-WR-CALNAME:LoL eSports KBM
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-3120
@@ -14,7 +15,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KaBuM e-Sports (KBM)\nType : BO1\nTourna
  ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3120
 CATEGORIES:Group D
-DTSTAMP:20150621T152804Z
+DTSTAMP:20150621T155733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3122
@@ -28,7 +29,7 @@ DESCRIPTION:Cloud9  (C9) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament :
  Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3122
 CATEGORIES:Group D
-DTSTAMP:20150621T152804Z
+DTSTAMP:20150621T155733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3125
@@ -42,7 +43,7 @@ DESCRIPTION:Alliance (ALL) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament
  : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3125
 CATEGORIES:Group D
-DTSTAMP:20150621T152804Z
+DTSTAMP:20150621T155733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3127
@@ -56,7 +57,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Najin e-mFire (NJE)\nType : BO1\nTourna
  ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3127
 CATEGORIES:Group D
-DTSTAMP:20150621T152804Z
+DTSTAMP:20150621T155733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3129
@@ -70,7 +71,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Cloud9  (C9)\nType : BO1\nTournament :
  Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3129
 CATEGORIES:Group D
-DTSTAMP:20150621T152804Z
+DTSTAMP:20150621T155733Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3130
@@ -84,6 +85,6 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Alliance (ALL)\nType : BO1\nTournament
  : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3130
 CATEGORIES:Group D
-DTSTAMP:20150621T152804Z
+DTSTAMP:20150621T155733Z
 END:VEVENT
 END:VCALENDAR

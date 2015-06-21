@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-eu-cs-2-play-in-4
+X-WR-CALNAME:LoL eSports Eu cs 2 play in 4
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2083
@@ -14,6 +15,6 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Storm Games Clan (SGC)\nType : BO1\nT
  ournament : EU CS 2 Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2083
 CATEGORIES:EU CS 2 Play In 4
-DTSTAMP:20150621T152756Z
+DTSTAMP:20150621T155724Z
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-eu-play-in-2
+X-WR-CALNAME:LoL eSports Eu play in 2
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-1914
@@ -14,6 +15,6 @@ DESCRIPTION:Tick Trick and Duck (TTD) vs Team For Nothing (T4N)\nType : BO1
  \nTournament : EU Play in 2\nWeek : 2\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1914
 CATEGORIES:EU Play in 2
-DTSTAMP:20150621T152749Z
+DTSTAMP:20150621T155718Z
 END:VEVENT
 END:VCALENDAR

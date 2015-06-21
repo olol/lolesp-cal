@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-shc
+X-WR-CALNAME:LoL eSports SHC
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-1656
@@ -14,6 +15,6 @@ DESCRIPTION:SK Gaming (SK) vs SUPA HOT CREW XD (SHC)\nType : BO5\nTournamen
  t : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1656
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150621T152745Z
+DTSTAMP:20150621T155713Z
 END:VEVENT
 END:VCALENDAR

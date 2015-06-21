@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-im1
+X-WR-CALNAME:LoL eSports IM1
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2202
@@ -14,7 +15,7 @@ DESCRIPTION:Samsung White (SSW) vs Incredible Miracle 1 (IM1)\nType : BO2\n
  Tournament : OGN Group B\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2202
 CATEGORIES:OGN Group B
-DTSTAMP:20150621T152758Z
+DTSTAMP:20150621T155726Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2203
@@ -28,7 +29,7 @@ DESCRIPTION:Incredible Miracle 1 (IM1) vs Midas FIO ()\nType : BO2\nTournam
  ent : OGN Group B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2203
 CATEGORIES:OGN Group B
-DTSTAMP:20150621T152758Z
+DTSTAMP:20150621T155726Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2205
@@ -42,7 +43,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Incredible Miracle 1 (IM1)\nType : BO2\nTourna
  ment : OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2205
 CATEGORIES:OGN Group B
-DTSTAMP:20150621T152758Z
+DTSTAMP:20150621T155726Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2922
@@ -56,7 +57,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Incredible Miracle 1 (IM1)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2922
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T152758Z
+DTSTAMP:20150621T155726Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2925
@@ -70,7 +71,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Incredible Miracle 1 (IM1)\n
  Type : BO2\nTournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/2925
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T152758Z
+DTSTAMP:20150621T155726Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2927
@@ -84,6 +85,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Incredible Miracle 1 (IM1)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2927
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T152758Z
+DTSTAMP:20150621T155726Z
 END:VEVENT
 END:VCALENDAR

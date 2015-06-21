@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-tournament-2015-msi-knockout
+X-WR-CALNAME:LoL eSports 2015 msi knockout
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-4577
@@ -14,7 +15,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO5\nTournament : 20
  15 MSI Knockout\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4577
 CATEGORIES:2015 MSI Knockout
-DTSTAMP:20150621T152817Z
+DTSTAMP:20150621T155746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4578
@@ -28,7 +29,7 @@ DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO5\nTou
  rnament : 2015 MSI Knockout\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4578
 CATEGORIES:2015 MSI Knockout
-DTSTAMP:20150621T152817Z
+DTSTAMP:20150621T155746Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4579
@@ -42,6 +43,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO5\nTourname
  nt : 2015 MSI Knockout\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4579
 CATEGORIES:2015 MSI Knockout
-DTSTAMP:20150621T152817Z
+DTSTAMP:20150621T155746Z
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-tbd
+X-WR-CALNAME:LoL eSports TBD
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-2991
@@ -14,6 +15,6 @@ DESCRIPTION:XDG (XDG) vs To Be Decided (TBD)\nType : BO1\nTournament : NA C
  S Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2991
 CATEGORIES:NA CS Play In 3
-DTSTAMP:20150621T152803Z
+DTSTAMP:20150621T155732Z
 END:VEVENT
 END:VCALENDAR

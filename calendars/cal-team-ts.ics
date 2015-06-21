@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:www.lolesports.com|cal-team-ts
+X-WR-CALNAME:LoL eSports TS
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
 UID:match-3182
@@ -14,6 +15,6 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Team Strix (TS)\nType : BO3\nTourname
  nt : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/3182
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150621T152806Z
+DTSTAMP:20150621T155734Z
 END:VEVENT
 END:VCALENDAR
