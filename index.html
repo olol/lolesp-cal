@@ -1,7 +1,7 @@
  <!DOCTYPE html>
   <html>
     <head>
-      <title>LoL eSports Agenda</title>
+      <title>LoL eSports Calendar</title>
       <meta charset="UTF-8" />
       <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css"  media="screen,projection"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
@@ -11,7 +11,7 @@
 
       <div class="navbar-fixed">
           <nav class="purple lighten-1" role="navigation">
-            <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">LoL<span class="hide-on-small-only">   eSports</span> Agenda</a>
+            <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">LoL<span class="hide-on-small-only"> eSports</span> Calendar</a>
               <ul class="right hide-on-med-and-down">
                 <li><a href="#calendar-all">All matches</a></li>
                 <li><a href="#calendar-team">By team</a></li>
@@ -33,13 +33,12 @@
       <div class="container">
 
           <h3>What is this ?</h3>
-          <p>Have you ever been tired needing to go to the <a class="purple-text text-lighten-3" href="http://www.lolesports.com/">LoL eSports</a> website and look thru <a class="purple-text text-lighten-3" href="http://www.lolesports.com/schedule/">the schedules</a> in order to find when your favorite team is going to play next time ?</p>
-          <p>We're trying to help you here if you're using an agenda. In fact we're providing you with up to date agendas of either all matches, or the ones for your favorite team <!--or region--> and even tournament.</p>
-          <p>Technically, we're just getting the data right from the LoL eSports website and creating these agendas accordingly. And most importantly, we're updating them once a day !</p>
-          <p>Just look under here !</p>
+          <p>Are you tired of going to the <a class="purple-text text-lighten-3" href="http://www.lolesports.com/">LoL eSports</a> website and looking thru <a class="purple-text text-lighten-3" href="http://www.lolesports.com/schedule/">the schedules</a> to know at what time your favorite team will play ?</p>
+          <p>Help is here with calendar synchronization ! We're providing you with up to date individual calendars, including all matches, or just your favorite teams, <!--or region--> or specific tournaments you wish to follow.</p>
+          <p>The data we're using to create these calendars is retrieved directly from the LoL eSports website and, best part, is updated daily !</p>
 
           <h4 id="calendar-all">All matches in one place</h4>
-          <p>Don't want to bother looking for a specific agenda ? Or interested in everything happening on the pro scene ? Just get this one.</p>
+          <p>Don't want to bother looking for a specific calendar ? Or interested in everything happening on the pro scene ? Just get this one.</p>
 
           <div id="calendar-all-list" class="row center-align">
             <a class="col s2 waves-effect waves-light btn-large purple lighten-1 modal-trigger" href="#modal-download" style="margin:2px" data-ics="http://olol.github.io/lolesp-cal/calendars/cal-all.ics">All matches</a>
@@ -53,7 +52,7 @@
               <div class="row">
                 <div class="input-field col s12">
                   <input id="search-team" type="text" class="validate">
-                  <label for="search-team">Too many teams ? Type the one you're looking for !</label>
+                  <label for="search-team">Too many teams ? Type here the one you're looking for !</label>
                 </div>
               </div>
             </form>
@@ -76,7 +75,7 @@
               <div class="row">
                 <div class="input-field col s12">
                   <input id="search-tournament" type="text" class="validate">
-                  <label for="search-tournament">Type something you're looking for (eu, lck or 2015...)</label>
+                  <label for="search-tournament">Type here something you're looking for (eu, lck or 2015...)</label>
                 </div>
               </div>
             </form>
@@ -89,7 +88,7 @@
           <footer class="page-footer grey darken-3">
             <div class="footer-copyright purple lighten-2">
               <div class="container ">
-                This website is in no way affiliated with <a class="grey-text text-lighten-4" href="http://www.riotgames.com/">Riot Games</a>. We're just providing something we feel we're missing.
+                This website is in no way affiliated with <a class="grey-text text-lighten-4" href="http://www.riotgames.com/">Riot Games</a>. We're just providing a service we feel we're missing.
                 <a class="grey-text text-lighten-4 right" href="#">Back to top</a>
               </div>
             </div>
@@ -108,7 +107,7 @@
              </li>
              <li class="collection-item avatar" style="min-height:62px">
                <img src="web/img/gcal.png" alt="" class="circle">
-               <span class="title">Google Agenda</span>
+               <span class="title">Google Calendar</span>
                <p><a id="gcal-url" class="purple-text text-lighten-1" href="http://www.google.com/calendar/render?cid=http://www.test.com/all.ics">Click here</a> to add this to your agenda.</p>
              </li>
              <li class="collection-item avatar" style="min-height:62px">
