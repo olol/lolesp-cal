@@ -15,7 +15,7 @@ DESCRIPTION:Team Coast (CST) vs Call Gaming (CG)\nType : BO3\nTournament :
  Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3150
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150621T155733Z
+DTSTAMP:20150621T164307Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3181
@@ -29,7 +29,7 @@ DESCRIPTION:Meloncats (MC) vs Cyber Gaming (CG)\nType : BO3\nTournament : S
  ingle Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3181
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150621T155733Z
+DTSTAMP:20150621T164307Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4401
@@ -43,6 +43,6 @@ DESCRIPTION:ThunderBot Sparta (TBS) vs Cyber Gaming (CG)\nType : BO3\nTourn
  ament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/4401
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150621T155733Z
+DTSTAMP:20150621T164307Z
 END:VEVENT
 END:VCALENDAR

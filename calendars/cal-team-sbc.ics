@@ -15,7 +15,7 @@ DESCRIPTION:The Fox Sound (TFS) vs Steve Bakes Cookies (SBC)\nType : BO1\nT
  ournament : EU CS 2 Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2077
 CATEGORIES:EU CS 2 Play In 2
-DTSTAMP:20150621T155724Z
+DTSTAMP:20150621T164256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2088
@@ -29,6 +29,6 @@ DESCRIPTION:Team Coast Gold (CSG) vs Steve Bakes Cookies (SBC)\nType : BO3\
  nTournament : EU CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2088
 CATEGORIES:EU CS 2 Top 8
-DTSTAMP:20150621T155724Z
+DTSTAMP:20150621T164256Z
 END:VEVENT
 END:VCALENDAR

@@ -141,14 +141,18 @@ class Exec
             });
         }
 
-        $this->getBlocksRetriever()->getEmitter()->addListener(BlocksRetriever::EVENT_POST_BLOCKS, function($event, $params) use($that) {
-            $that->checkForSettingBlocksCache($params['blocks']);
-        });
+        if (true === $this->getOption('cache')) {
+            $this->getBlocksRetriever()->getEmitter()->addListener(BlocksRetriever::EVENT_POST_BLOCKS, function($event, $params) use($that) {
+                $that->checkForSettingBlocksCache($params['blocks']);
+            });
+        }
 
 
-        $this->getMatchRetriever()->getEmitter()->addListener(MatchRetriever::EVENT_PRE_MATCH, function($event, $params) use($that) {
-            $that->checkForGettingMatchCache($params['matchId'], $params['url']);
-        });
+        if (true === $this->getOption('cache')) {
+            $this->getMatchRetriever()->getEmitter()->addListener(MatchRetriever::EVENT_PRE_MATCH, function($event, $params) use($that) {
+                $that->checkForGettingMatchCache($params['matchId'], $params['url']);
+            });
+        }
 
         $this->getMatchRetriever()->getEmitter()->addListener(MatchRetriever::EVENT_POST_MATCH, function($event, $params) use($that) {
             $that->checkForNewCalendar($params['match']);

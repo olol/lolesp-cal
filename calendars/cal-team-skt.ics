@@ -15,7 +15,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Lemondogs (LD)\nType : BO1\nTournament :
  Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1602
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164239Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1605
@@ -29,7 +29,7 @@ DESCRIPTION:OMG (OMG) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : Group
   A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  605
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164239Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1607
@@ -43,7 +43,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs GamingGear.eu ()\nType : BO1\nTournament
  : Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1607
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164239Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1610
@@ -57,7 +57,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Team SoloMid (TSM)\nType : BO1\nTournamen
  t : Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1610
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164239Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1611
@@ -71,7 +71,7 @@ DESCRIPTION:Lemondogs (LD) vs SKTelecom T1 (SKT)\nType : BO1\nTournament :
  Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1611
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164239Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1613
@@ -85,7 +85,7 @@ DESCRIPTION:Team SoloMid (TSM) vs SKTelecom T1 (SKT)\nType : BO1\nTournamen
  t : Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1613
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1617
@@ -99,7 +99,7 @@ DESCRIPTION:GamingGear.eu () vs SKTelecom T1 (SKT)\nType : BO1\nTournament
  : Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1617
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1620
@@ -113,7 +113,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO1\nTournament : Group
   A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  620
 CATEGORIES:Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1641
@@ -127,7 +127,7 @@ DESCRIPTION:Gamania Bears () vs SKTelecom T1 (SKT)\nType : BO3\nTournament
  : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1641
 CATEGORIES:World Playoffs
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1645
@@ -141,7 +141,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs NaJin Black Sword (NBS)\nType : BO5\nTour
  nament : World Playoffs\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1645
 CATEGORIES:World Playoffs
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1647
@@ -155,7 +155,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Star Horn Royal Club (SHR)\nType : BO5\nT
  ournament : World Playoffs\nWeek : 9\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1647
 CATEGORIES:World Playoffs
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2195
@@ -169,7 +169,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO2\nTourna
  ment : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2195
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2197
@@ -183,7 +183,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Prime Optimus ()\nType : BO2\nTournament
  : OGN Group A\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2197
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2199
@@ -197,7 +197,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs SKTelecom T1 (SKT)\nType : BO2\nTour
  nament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2199
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2227
@@ -211,7 +211,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO1\nTourna
  ment : OGN Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2227
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2219
@@ -225,7 +225,7 @@ DESCRIPTION:Samsung White (SSW) vs SKTelecom T1 (SKT)\nType : BO5\nTourname
  nt : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2219
 CATEGORIES:OGN Top 8
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2279
@@ -239,7 +239,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs SKTelecom T1 (SKT)\nType : BO1\nTourn
  ament : All-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/2279
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2282
@@ -253,7 +253,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Cloud9  (C9)\nType : BO1\nTournament : Al
  l-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2282
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2283
@@ -267,7 +267,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO1\nTournament : All-S
  tar 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2283
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2285
@@ -281,7 +281,7 @@ DESCRIPTION:Fnatic (FNC) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : Al
  l-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2285
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2289
@@ -295,7 +295,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO3\nTournament : Al
  l-Star 2014 Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2289
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2290
@@ -309,7 +309,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO5\nTournament : All-S
  tar 2014 Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2290
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2923
@@ -323,7 +323,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Incredible Miracle (IM)\nType : B
  O2\nTournament : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2923
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2924
@@ -337,7 +337,7 @@ DESCRIPTION:Samsung Blue (SSB) vs SKTelecom T1 (SKT)\nType : BO2\nTournamen
  t : OGN Group A\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2924
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2927
@@ -351,7 +351,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Incredible Miracle 1 (IM1)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2927
 CATEGORIES:OGN Group A
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2948
@@ -365,7 +365,7 @@ DESCRIPTION:Samsung White (SSW) vs SKTelecom T1 (SKT)\nType : BO5\nTourname
  nt : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2948
 CATEGORIES:OGN Top 8
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3076
@@ -379,7 +379,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Samsung White (SSW)\nType : BO5\nTourname
  nt : Circuit Points Tiebreaker\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/3076
 CATEGORIES:Circuit Points Tiebreaker
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3034
@@ -393,7 +393,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO5\nTourname
  nt : OGN Regional Qualifier\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3034
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3290
@@ -407,7 +407,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : 2015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3290
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3294
@@ -421,7 +421,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 2
  015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3294
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3296
@@ -435,7 +435,7 @@ DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO3\nTournament :
   2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3296
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3301
@@ -449,7 +449,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs SKTelecom T1 (SKT)\nType : B
  O3\nTournament : 2015 LCK Spring Split\nWeek : 3\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/3301
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3308
@@ -463,7 +463,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs SKTelecom T1 (SKT)\nType : BO3\nTo
  urnament : 2015 LCK Spring Split\nWeek : 4\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/3308
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3310
@@ -477,7 +477,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Samsung Galaxy (SSG)\nType : BO3\nTournam
  ent : 2015 LCK Spring Split\nWeek : 5\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3310
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3317
@@ -491,7 +491,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO3\nTournament
  : 2015 LCK Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3317
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3318
@@ -505,7 +505,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Najin e-mFire (NJE)\nType : BO3\nTourname
  nt : 2015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3318
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3321
@@ -519,7 +519,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : 2
  015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3321
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3325
@@ -533,7 +533,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
   2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3325
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3330
@@ -547,7 +547,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Incredible Miracle (IM)\nType : B
  O3\nTournament : 2015 LCK Spring Split\nWeek : 9\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/3330
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3337
@@ -561,7 +561,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO3\nTo
  urnament : 2015 LCK Spring Split\nWeek : 10\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/3337
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3339
@@ -575,7 +575,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : 2015 LCK Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3339
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3344
@@ -589,7 +589,7 @@ DESCRIPTION:KOO Tigers (KOO) vs SKTelecom T1 (SKT)\nType : BO3\nTournament
  : 2015 LCK Spring Split\nWeek : 12\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3344
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4534
@@ -603,7 +603,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO5\nTournament : 2
  015 LCK Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4534
 CATEGORIES:2015 LCK Spring Playoffs
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4535
@@ -617,7 +617,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO5\nTournament
  : 2015 LCK Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4535
 CATEGORIES:2015 LCK Spring Playoffs
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4563
@@ -631,7 +631,7 @@ DESCRIPTION:Besiktas e-Sports Club (BJK) vs SKTelecom T1 (SKT)\nType : BO1\
  nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/4563
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4567
@@ -645,7 +645,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO1\nTourname
  nt : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/4567
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4569
@@ -659,7 +659,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Team SoloMid (TSM)\nType : BO1\nTournamen
  t : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4569
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4573
@@ -673,7 +673,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO1\nTournament : 20
  15 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4573
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4576
@@ -687,7 +687,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs SKTelecom T1 (SKT)\nType : BO1\nTour
  nament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/4576
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4577
@@ -701,7 +701,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO5\nTournament : 20
  15 MSI Knockout\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4577
 CATEGORIES:2015 MSI Knockout
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4579
@@ -715,7 +715,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO5\nTourname
  nt : 2015 MSI Knockout\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4579
 CATEGORIES:2015 MSI Knockout
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4939
@@ -729,7 +729,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTourna
  ment : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/4939
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4944
@@ -743,7 +743,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4944
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4948
@@ -757,7 +757,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO3\nTournament
  : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4948
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4953
@@ -771,7 +771,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4953
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4956
@@ -785,7 +785,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Anarchy (ANC)\nType : BO3\nTournament : 2
  015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4956
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4959
@@ -799,7 +799,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : 2
  015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4959
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4965
@@ -813,7 +813,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Incredible Miracle (IM)\nType : B
  O3\nTournament : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/4965
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4972
@@ -827,7 +827,7 @@ DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO3\nTournament :
   2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4972
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4978
@@ -841,6 +841,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO3\nTo
  urnament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/4978
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150621T155710Z
+DTSTAMP:20150621T164240Z
 END:VEVENT
 END:VCALENDAR

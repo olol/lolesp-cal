@@ -15,7 +15,7 @@ DESCRIPTION:Cloud9  (C9) vs OMG (OMG)\nType : BO3\nTournament : All-Star 20
  14 Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2288
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150621T155728Z
+DTSTAMP:20150621T164302Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2289
@@ -29,7 +29,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO3\nTournament : Al
  l-Star 2014 Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2289
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150621T155728Z
+DTSTAMP:20150621T164302Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2290
@@ -43,6 +43,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO5\nTournament : All-S
  tar 2014 Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2290
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150621T155728Z
+DTSTAMP:20150621T164302Z
 END:VEVENT
 END:VCALENDAR

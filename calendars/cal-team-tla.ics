@@ -15,7 +15,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Infinity (OO)\nType : BO3\nTournam
  ent : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/4392
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150621T155744Z
+DTSTAMP:20150621T164319Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4397
@@ -29,7 +29,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs CLG Black (CLB)\nType : BO3\nTourn
  ament : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/4397
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150621T155744Z
+DTSTAMP:20150621T164319Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5149
@@ -43,7 +43,7 @@ DESCRIPTION:Zenith eSports (ZEN) vs Team Liquid Academy (TLA)\nType : BO3\n
  Tournament : 2015 NA Summer Challenger Qualifier\nWeek : 1\nStream : No\nU
  rl : http://www.lolesports.com/tourney/match/5149
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150621T155744Z
+DTSTAMP:20150621T164319Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5156
@@ -57,6 +57,6 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Renegades (RNG)\nType : BO3\nTourn
  ament : 2015 NA Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/5156
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150621T155744Z
+DTSTAMP:20150621T164319Z
 END:VEVENT
 END:VCALENDAR

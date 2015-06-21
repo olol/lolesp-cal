@@ -15,7 +15,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Jin Air Green Wings (JAG)\nType : BO5\nTournam
  ent : 2015 LCK Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4533
 CATEGORIES:2015 LCK Spring Playoffs
-DTSTAMP:20150621T155746Z
+DTSTAMP:20150621T164320Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4534
@@ -29,7 +29,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO5\nTournament : 2
  015 LCK Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4534
 CATEGORIES:2015 LCK Spring Playoffs
-DTSTAMP:20150621T155746Z
+DTSTAMP:20150621T164320Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4535
@@ -43,6 +43,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO5\nTournament
  : 2015 LCK Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4535
 CATEGORIES:2015 LCK Spring Playoffs
-DTSTAMP:20150621T155746Z
+DTSTAMP:20150621T164320Z
 END:VEVENT
 END:VCALENDAR

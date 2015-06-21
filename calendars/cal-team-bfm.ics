@@ -15,7 +15,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Bigfile Miracle (BFM)\nType : BO2\nTournament
  : OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2955
 CATEGORIES:OGN Group C
-DTSTAMP:20150621T155731Z
+DTSTAMP:20150621T164305Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2957
@@ -29,7 +29,7 @@ DESCRIPTION:Bigfile Miracle (BFM) vs SK Telecom T1 S (SKS)\nType : BO2\nTou
  rnament : OGN Group C\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2957
 CATEGORIES:OGN Group C
-DTSTAMP:20150621T155731Z
+DTSTAMP:20150621T164305Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2958
@@ -43,6 +43,6 @@ DESCRIPTION:Samsung White (SSW) vs Bigfile Miracle (BFM)\nType : BO2\nTourn
  ament : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2958
 CATEGORIES:OGN Group C
-DTSTAMP:20150621T155731Z
+DTSTAMP:20150621T164305Z
 END:VEVENT
 END:VCALENDAR

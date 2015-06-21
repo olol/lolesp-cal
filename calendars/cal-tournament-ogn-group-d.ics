@@ -15,7 +15,7 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs Longzhu Incredible Miracle (IM)\nType :
   BO2\nTournament : OGN Group D\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/2213
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2214
@@ -29,7 +29,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Xenics Storm ()\nType : BO2\nTournament
  : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2214
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2215
@@ -43,7 +43,7 @@ DESCRIPTION:Xenics Storm () vs Longzhu Incredible Miracle (IM)\nType : BO2\
  nTournament : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2215
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2216
@@ -57,7 +57,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs CJ Entus Blaze (CJB)\nType : BO2\nTourna
  ment : OGN Group D\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2216
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2217
@@ -71,7 +71,7 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs Xenics Storm ()\nType : BO2\nTournament
   : OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2217
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2218
@@ -85,7 +85,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Najin e-mFire (NJE)\nType :
  BO2\nTournament : OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2218
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2228
@@ -99,7 +99,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs CJ Entus Blaze (CJB)\nType : BO1\nTourna
  ment : OGN Group D\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2228
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2934
@@ -113,7 +113,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs Jin Air Green Wings (JAG)\nType : BO
  2\nTournament : OGN Group D\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2934
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2935
@@ -127,7 +127,7 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs MKZ (MKZ)\nType : BO2\nTournament : OGN
   Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2935
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2936
@@ -141,7 +141,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs MKZ (MKZ)\nType : BO2\nTournament
  : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2936
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2937
@@ -155,7 +155,7 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs KT Rolster Arrows (KTA)\nType : BO2\nTo
  urnament : OGN Group D\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2937
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2938
@@ -169,7 +169,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs MKZ (MKZ)\nType : BO2\nTournament :
  OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2938
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2939
@@ -183,6 +183,6 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs Jin Air Green Wings (JAG)\nType : BO2\n
  Tournament : OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2939
 CATEGORIES:OGN Group D
-DTSTAMP:20150621T155726Z
+DTSTAMP:20150621T164259Z
 END:VEVENT
 END:VCALENDAR

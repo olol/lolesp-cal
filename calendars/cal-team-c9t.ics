@@ -15,7 +15,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9 Tempest (C9T)\nType : BO5\nTournamen
  t : NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1653
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1937
@@ -29,7 +29,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs compLexity.Red (CLR)\nType : BO3\nTourn
  ament : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1937
 CATEGORIES:NA Top 8
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2063
@@ -43,7 +43,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs The Blue Pill (TBP)\nType : BO1\nTourna
  ment : NA CS 2 Play In 4\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2063
 CATEGORIES:NA CS 2 Play In 4
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2098
@@ -57,7 +57,7 @@ DESCRIPTION:compLexity Black (CLB) vs Cloud9 Tempest (C9T)\nType : BO3\nTou
  rnament : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2098
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2100
@@ -71,7 +71,7 @@ DESCRIPTION:Curse Academy (CA) vs Cloud9 Tempest (C9T)\nType : BO3\nTournam
  ent : NA CS 2 Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2100
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2101
@@ -85,7 +85,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9 Tempest (C9T)\nType : BO3\nTournament : NA
  CS 2 Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2101
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2183
@@ -99,7 +99,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs compLexity Black (CLB)\nType : BO3\nTou
  rnament : NA CS Spring Playoffs 2014\nWeek : 2\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/2183
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2184
@@ -113,7 +113,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9 Tempest (C9T)\nType : BO5\nTournament : NA
  CS Spring Playoffs 2014\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2184
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2258
@@ -127,7 +127,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Cloud9 Tempest (C9T)\nType : BO5\nTournam
  ent : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2258
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4388
@@ -141,7 +141,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Roar (RR)\nType : BO3\nTournament : 201
  5 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/4388
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4395
@@ -155,7 +155,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Team Confound (CON)\nType : BO3\nTourna
  ment : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : h
  ttp://www.lolesports.com/tourney/match/4395
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5154
@@ -169,7 +169,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Frank Fang Gaming (FFG)\nType : BO3\nTo
  urnament : 2015 NA Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl
   : http://www.lolesports.com/tourney/match/5154
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5158
@@ -183,7 +183,7 @@ DESCRIPTION:Odyssey Gaming (ODY) vs Cloud9 Tempest (C9T)\nType : BO3\nTourn
  ament : 2015 NA Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/5158
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5160
@@ -197,7 +197,7 @@ DESCRIPTION:CLG Black (CLB) vs Cloud9 Tempest (C9T)\nType : BO3\nTournament
   : 2015 NA Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5160
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164244Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5165
@@ -211,7 +211,7 @@ DESCRIPTION:Renegades (RNG) vs Cloud9 Tempest (C9T)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5165
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5168
@@ -225,7 +225,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Renegades (RNG)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5168
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5169
@@ -239,7 +239,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Final Five (F5)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5169
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5172
@@ -253,7 +253,7 @@ DESCRIPTION:Final Five (F5) vs Cloud9 Tempest (C9T)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5172
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5176
@@ -267,7 +267,7 @@ DESCRIPTION:Winterfox (WFX) vs Cloud9 Tempest (C9T)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5176
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5179
@@ -281,7 +281,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Winterfox (WFX)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5179
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5183
@@ -295,7 +295,7 @@ DESCRIPTION:Imagine (IMG) vs Cloud9 Tempest (C9T)\nType : BO1\nTournament :
   2015 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5183
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5186
@@ -309,7 +309,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Imagine (IMG)\nType : BO1\nTournament :
   2015 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5186
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5189
@@ -323,7 +323,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Team Coast (CST)\nType : BO1\nTournamen
  t : 2015 NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/5189
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5192
@@ -337,6 +337,6 @@ DESCRIPTION:Team Coast (CST) vs Cloud9 Tempest (C9T)\nType : BO1\nTournamen
  t : 2015 NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/5192
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150621T155714Z
+DTSTAMP:20150621T164245Z
 END:VEVENT
 END:VCALENDAR
