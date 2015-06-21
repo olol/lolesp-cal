@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-mac
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4881
+DTSTART:20150521T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150521T133000Z
+URL:http://www.lolesports.com/tourney/match/4881
+SUMMARY:Machi vs ahq e-Sports Club
+DESCRIPTION:Machi (MAC) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4881
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4884
+DTSTART:20150527T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T113000Z
+URL:http://www.lolesports.com/tourney/match/4884
+SUMMARY:Machi vs Assassin Sniper
+DESCRIPTION:Machi (MAC) vs Assassin Sniper (AS)\nType : BO2\nTournament : 2
+ 015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4884
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4889
+DTSTART:20150529T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T133000Z
+URL:http://www.lolesports.com/tourney/match/4889
+SUMMARY:Machi vs Hong Kong Esports
+DESCRIPTION:Machi (MAC) vs Hong Kong Esports (HKE)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4889
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4893
+DTSTART:20150604T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T133000Z
+URL:http://www.lolesports.com/tourney/match/4893
+SUMMARY:Midnight Sun e-Sports vs Machi
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (MAC)\nType : BO2\nTournam
+ ent : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4893
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4895
+DTSTART:20150605T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T133000Z
+URL:http://www.lolesports.com/tourney/match/4895
+SUMMARY:Logitech G Sniper vs Machi
+DESCRIPTION:Logitech G Sniper (LGS) vs Machi (MAC)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4895
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4900
+DTSTART:20150612T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T113000Z
+URL:http://www.lolesports.com/tourney/match/4900
+SUMMARY:Taipei Assassins vs Machi
+DESCRIPTION:Taipei Assassins (TPA) vs Machi (MAC)\nType : BO2\nTournament :
+  2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4900
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4904
+DTSTART:20150618T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T120000Z
+URL:http://www.lolesports.com/tourney/match/4904
+SUMMARY:Flash Wolves vs Machi
+DESCRIPTION:Flash Wolves (YFW) vs Machi (MAC)\nType : BO2\nTournament : 201
+ 5 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4904
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4908
+DTSTART:20150624T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T120000Z
+URL:http://www.lolesports.com/tourney/match/4908
+SUMMARY:ahq e-Sports Club vs Machi
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (MAC)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4908
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4912
+DTSTART:20150626T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T120000Z
+URL:http://www.lolesports.com/tourney/match/4912
+SUMMARY:Assassin Sniper vs Machi
+DESCRIPTION:Assassin Sniper (AS) vs Machi (MAC)\nType : BO2\nTournament : 2
+ 015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4912
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4916
+DTSTART:20150702T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T120000Z
+URL:http://www.lolesports.com/tourney/match/4916
+SUMMARY:Hong Kong Esports vs Machi
+DESCRIPTION:Hong Kong Esports (HKE) vs Machi (MAC)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4916
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4919
+DTSTART:20150703T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T140000Z
+URL:http://www.lolesports.com/tourney/match/4919
+SUMMARY:Machi vs Logitech G Sniper
+DESCRIPTION:Machi (MAC) vs Logitech G Sniper (LGS)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4919
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4923
+DTSTART:20150705T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T140000Z
+URL:http://www.lolesports.com/tourney/match/4923
+SUMMARY:Machi vs Midnight Sun e-Sports
+DESCRIPTION:Machi (MAC) vs Midnight Sun e-Sports (MSE)\nType : BO2\nTournam
+ ent : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4923
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4928
+DTSTART:20150710T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T120000Z
+URL:http://www.lolesports.com/tourney/match/4928
+SUMMARY:Machi vs Taipei Assassins
+DESCRIPTION:Machi (MAC) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
+  2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4928
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4932
+DTSTART:20150712T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150712T120000Z
+URL:http://www.lolesports.com/tourney/match/4932
+SUMMARY:Machi vs yoe Flash Wolves
+DESCRIPTION:Machi (MAC) vs Flash Wolves (YFW)\nType : BO2\nTournament : 201
+ 5 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4932
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+END:VCALENDAR

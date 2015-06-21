@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-img
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5159
+DTSTART:20150611T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T020000Z
+URL:http://www.lolesports.com/tourney/match/5159
+SUMMARY:Magnetic vs Misfits
+DESCRIPTION:Imagine (IMG) vs Renegades (RNG)\nType : BO3\nTournament : 2015
+  NA Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/5159
+CATEGORIES:2015 NA Summer Challenger Qualifier
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5162
+DTSTART:20150617T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T020000Z
+URL:http://www.lolesports.com/tourney/match/5162
+SUMMARY:Magnetic vs CLG Black
+DESCRIPTION:Imagine (IMG) vs CLG Black (CLB)\nType : BO3\nTournament : 2015
+  NA Summer Challenger Qualifier\nWeek : 0\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/5162
+CATEGORIES:2015 NA Summer Challenger Qualifier
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5164
+DTSTART:20150624T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T030000Z
+URL:http://www.lolesports.com/tourney/match/5164
+SUMMARY:Magnetic vs Final Five
+DESCRIPTION:Imagine (IMG) vs Final Five (F5)\nType : BO1\nTournament : 2015
+  NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5164
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5167
+DTSTART:20150625T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T030000Z
+URL:http://www.lolesports.com/tourney/match/5167
+SUMMARY:Final Five vs Magnetic
+DESCRIPTION:Final Five (F5) vs Imagine (IMG)\nType : BO1\nTournament : 2015
+  NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5167
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5170
+DTSTART:20150708T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T030000Z
+URL:http://www.lolesports.com/tourney/match/5170
+SUMMARY:Team Coast vs Magnetic
+DESCRIPTION:Team Coast (CST) vs Imagine (IMG)\nType : BO1\nTournament : 201
+ 5 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5170
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5173
+DTSTART:20150709T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T030000Z
+URL:http://www.lolesports.com/tourney/match/5173
+SUMMARY:Magnetic vs Team Coast
+DESCRIPTION:Imagine (IMG) vs Team Coast (CST)\nType : BO1\nTournament : 201
+ 5 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5173
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5175
+DTSTART:20150715T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150715T020000Z
+URL:http://www.lolesports.com/tourney/match/5175
+SUMMARY:Magnetic vs Misfits
+DESCRIPTION:Imagine (IMG) vs Renegades (RNG)\nType : BO1\nTournament : 2015
+  NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5175
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5178
+DTSTART:20150716T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T020000Z
+URL:http://www.lolesports.com/tourney/match/5178
+SUMMARY:Misfits vs Magnetic
+DESCRIPTION:Renegades (RNG) vs Imagine (IMG)\nType : BO1\nTournament : 2015
+  NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5178
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5183
+DTSTART:20150722T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150722T040000Z
+URL:http://www.lolesports.com/tourney/match/5183
+SUMMARY:Magnetic vs Cloud9 Tempest
+DESCRIPTION:Imagine (IMG) vs Cloud9 Tempest (C9T)\nType : BO1\nTournament :
+  2015 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5183
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5186
+DTSTART:20150723T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T040000Z
+URL:http://www.lolesports.com/tourney/match/5186
+SUMMARY:Cloud9 Tempest vs Magnetic
+DESCRIPTION:Cloud9 Tempest (C9T) vs Imagine (IMG)\nType : BO1\nTournament :
+  2015 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5186
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5187
+DTSTART:20150729T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150729T020000Z
+URL:http://www.lolesports.com/tourney/match/5187
+SUMMARY:Winterfox vs Magnetic
+DESCRIPTION:Winterfox (WFX) vs Imagine (IMG)\nType : BO1\nTournament : 2015
+  NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5187
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5190
+DTSTART:20150730T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150730T020000Z
+URL:http://www.lolesports.com/tourney/match/5190
+SUMMARY:Magnetic vs Winterfox
+DESCRIPTION:Imagine (IMG) vs Winterfox (WFX)\nType : BO1\nTournament : 2015
+  NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5190
+CATEGORIES:2015 NA CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+END:VCALENDAR

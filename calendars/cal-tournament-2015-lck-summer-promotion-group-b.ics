@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-lck-summer-promotion-group-b
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4583
+DTSTART:20150516T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150516T060000Z
+URL:http://www.lolesports.com/tourney/match/4583
+SUMMARY:Samsung Galaxy vs Prime Clan
+DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SBE)\nType : BO3\nTour
+ nament : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : h
+ ttp://www.lolesports.com/tourney/match/4583
+CATEGORIES:2015 LCK Summer Promotion Group B
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4584
+DTSTART:20150516T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150516T080000Z
+URL:http://www.lolesports.com/tourney/match/4584
+SUMMARY:Samsung Galaxy vs Xenics Storm
+DESCRIPTION:Samsung Galaxy (SSG) vs Xenics Storm ()\nType : BO3\nTournament
+  : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/4584
+CATEGORIES:2015 LCK Summer Promotion Group B
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4585
+DTSTART:20150516T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150516T100000Z
+URL:http://www.lolesports.com/tourney/match/4585
+SUMMARY:Prime Clan vs Xenics Storm
+DESCRIPTION:SBENU SONICBOOM (SBE) vs Xenics Storm ()\nType : BO3\nTournamen
+ t : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/4585
+CATEGORIES:2015 LCK Summer Promotion Group B
+DTSTAMP:20150621T152818Z
+END:VEVENT
+END:VCALENDAR

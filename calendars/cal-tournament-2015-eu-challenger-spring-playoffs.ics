@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-eu-challenger-spring-playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4522
+DTSTART:20150331T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150331T170000Z
+URL:http://www.lolesports.com/tourney/match/4522
+SUMMARY:Copenhagen Wolves Academy vs Gamers2
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Gamers2 (G2)\nType : BO3\nTo
+ urnament : 2015 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/4522
+CATEGORIES:2015 EU Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4521
+DTSTART:20150401T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150401T170000Z
+URL:http://www.lolesports.com/tourney/match/4521
+SUMMARY:ORIGEN vs Reason Gaming
+DESCRIPTION:Origen (OG) vs Reason Gaming (RG)\nType : BO3\nTournament : 201
+ 5 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/4521
+CATEGORIES:2015 EU Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4524
+DTSTART:20150407T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150407T170000Z
+URL:http://www.lolesports.com/tourney/match/4524
+SUMMARY:Reason Gaming vs Gamers2
+DESCRIPTION:Reason Gaming (RG) vs Gamers2 (G2)\nType : BO3\nTournament : 20
+ 15 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4524
+CATEGORIES:2015 EU Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4523
+DTSTART:20150408T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150408T170000Z
+URL:http://www.lolesports.com/tourney/match/4523
+SUMMARY:ORIGEN vs Copenhagen Wolves Academy
+DESCRIPTION:Origen (OG) vs Copenhagen Wolves Academy (CWA)\nType : BO5\nTou
+ rnament : 2015 EU Challenger Spring Playoffs\nWeek : 2\nStream : No\nUrl :
+  http://www.lolesports.com/tourney/match/4523
+CATEGORIES:2015 EU Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+END:VCALENDAR

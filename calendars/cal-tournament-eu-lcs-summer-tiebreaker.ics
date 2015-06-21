@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-lcs-summer-tiebreaker
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3020
+DTSTART:20140731T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140731T230000Z
+URL:http://www.lolesports.com/tourney/match/3020
+SUMMARY:Gambit Gaming vs Copenhagen Wolves
+DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
+ nament : EU LCS Summer Tiebreaker\nWeek : 1\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/3020
+CATEGORIES:EU LCS Summer Tiebreaker
+DTSTAMP:20150621T152803Z
+END:VEVENT
+END:VCALENDAR

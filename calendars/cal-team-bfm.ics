@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-bfm
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2955
+DTSTART:20140625T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140625T110000Z
+URL:http://www.lolesports.com/tourney/match/2955
+SUMMARY:CJ Entus Frost vs Bigfile Miracle
+DESCRIPTION:CJ ENTUS (CJ) vs Bigfile Miracle (BFM)\nType : BO2\nTournament 
+ : OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2955
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2957
+DTSTART:20140704T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140704T110000Z
+URL:http://www.lolesports.com/tourney/match/2957
+SUMMARY:Bigfile Miracle vs SK Telecom T1 S
+DESCRIPTION:Bigfile Miracle (BFM) vs SK Telecom T1 S (SKS)\nType : BO2\nTou
+ rnament : OGN Group C\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2957
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2958
+DTSTART:20140709T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140709T110000Z
+URL:http://www.lolesports.com/tourney/match/2958
+SUMMARY:Samsung White vs Bigfile Miracle
+DESCRIPTION:Samsung White (SSW) vs Bigfile Miracle (BFM)\nType : BO2\nTourn
+ ament : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2958
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152803Z
+END:VEVENT
+END:VCALENDAR

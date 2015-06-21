@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-cn
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2650
+DTSTART:20140516T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140516T190000Z
+URL:http://www.lolesports.com/tourney/match/2650
+SUMMARY:GG Call Nash vs Lublin Shore
+DESCRIPTION:GG Call Nash (CN) vs Lublin Shore (LBS)\nType : BO1\nTournament
+  : EU CS Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2650
+CATEGORIES:EU CS Play In 3
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2975
+DTSTART:20140710T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140710T210000Z
+URL:http://www.lolesports.com/tourney/match/2975
+SUMMARY:H2k Gaming vs GG Call Nash
+DESCRIPTION:H2K (H2K) vs GG Call Nash (CN)\nType : BO3\nTournament : EU Top
+  8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/2
+ 975
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152800Z
+END:VEVENT
+END:VCALENDAR

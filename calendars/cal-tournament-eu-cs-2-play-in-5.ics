@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-cs-2-play-in-5
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2086
+DTSTART:20140301T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140301T010000Z
+URL:http://www.lolesports.com/tourney/match/2086
+SUMMARY:SK Gaming Prime vs Departed
+DESCRIPTION:SK Gaming Prime (SKP) vs Denial eSports EU (DEFUNCT) (DNE)\nTyp
+ e : BO1\nTournament : EU CS 2 Play In 5\nWeek : 2\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/2086
+CATEGORIES:EU CS 2 Play In 5
+DTSTAMP:20150621T152756Z
+END:VEVENT
+END:VCALENDAR

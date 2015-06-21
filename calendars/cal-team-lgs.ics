@@ -1,0 +1,481 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-lgs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3683
+DTSTART:20150108T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150108T130000Z
+URL:http://www.lolesports.com/tourney/match/3683
+SUMMARY:Dream or Reality vs Logitech Sniper
+DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3683
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3685
+DTSTART:20150109T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150109T120000Z
+URL:http://www.lolesports.com/tourney/match/3685
+SUMMARY:Logitech Sniper vs Never Give Up
+DESCRIPTION:Logitech G Sniper (LGS) vs Never Give Up (NGU)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3685
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3690
+DTSTART:20150111T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150111T130000Z
+URL:http://www.lolesports.com/tourney/match/3690
+SUMMARY:Hong Kong Esports vs Logitech Sniper
+DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3690
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3698
+DTSTART:20150117T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150117T130000Z
+URL:http://www.lolesports.com/tourney/match/3698
+SUMMARY:Logitech Sniper vs Midnight Sun e-Sports
+DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3698
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3701
+DTSTART:20150118T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150118T140000Z
+URL:http://www.lolesports.com/tourney/match/3701
+SUMMARY:Logitech Sniper vs Ahq e-Sports Club
+DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3701
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3707
+DTSTART:20150123T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T140000Z
+URL:http://www.lolesports.com/tourney/match/3707
+SUMMARY:Taipei Assassins vs Logitech Sniper
+DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3707
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3708
+DTSTART:20150124T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T130000Z
+URL:http://www.lolesports.com/tourney/match/3708
+SUMMARY:Logitech Sniper vs yoe Flash Wolves
+DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3708
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3727
+DTSTART:20150125T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150125T140000Z
+URL:http://www.lolesports.com/tourney/match/3727
+SUMMARY:Dream or Reality vs Logitech Sniper
+DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3727
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3729
+DTSTART:20150207T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T130000Z
+URL:http://www.lolesports.com/tourney/match/3729
+SUMMARY:Never Give Up vs Logitech Sniper
+DESCRIPTION:Never Give Up (NGU) vs Logitech G Sniper (LGS)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3729
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3712
+DTSTART:20150212T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T140000Z
+URL:http://www.lolesports.com/tourney/match/3712
+SUMMARY:Logitech Sniper vs Hong Kong Esports
+DESCRIPTION:Logitech G Sniper (LGS) vs Hong Kong Esports (HKE)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3712
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3722
+DTSTART:20150215T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T140000Z
+URL:http://www.lolesports.com/tourney/match/3722
+SUMMARY:Midnight Sun e-Sports vs Logitech Sniper
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Logitech G Sniper (LGS)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3722
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3711
+DTSTART:20150225T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150225T120000Z
+URL:http://www.lolesports.com/tourney/match/3711
+SUMMARY:Ahq e-Sports Club vs Logitech Sniper
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Logitech G Sniper (LGS)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3711
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3749
+DTSTART:20150225T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150225T130000Z
+URL:http://www.lolesports.com/tourney/match/3749
+SUMMARY:Logitech Sniper vs Never Give Up
+DESCRIPTION:Logitech G Sniper (LGS) vs Never Give Up (NGU)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3749
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3718
+DTSTART:20150226T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T120000Z
+URL:http://www.lolesports.com/tourney/match/3718
+SUMMARY:yoe Flash Wolves vs Logitech Sniper
+DESCRIPTION:Flash Wolves (YFW) vs Logitech G Sniper (LGS)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3718
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3747
+DTSTART:20150228T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T140000Z
+URL:http://www.lolesports.com/tourney/match/3747
+SUMMARY:Dream or Reality vs Logitech Sniper
+DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3747
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3721
+DTSTART:20150301T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T130000Z
+URL:http://www.lolesports.com/tourney/match/3721
+SUMMARY:Taipei Assassins vs Logitech Sniper
+DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3721
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3742
+DTSTART:20150306T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T120000Z
+URL:http://www.lolesports.com/tourney/match/3742
+SUMMARY:Logitech Sniper vs Midnight Sun e-Sports
+DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3742
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3754
+DTSTART:20150306T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T130000Z
+URL:http://www.lolesports.com/tourney/match/3754
+SUMMARY:Hong Kong Esports vs Logitech Sniper
+DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3754
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3763
+DTSTART:20150319T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150319T130000Z
+URL:http://www.lolesports.com/tourney/match/3763
+SUMMARY:Logitech Sniper vs Ahq e-Sports Club
+DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3763
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3764
+DTSTART:20150320T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T130000Z
+URL:http://www.lolesports.com/tourney/match/3764
+SUMMARY:Logitech Sniper vs yoe Flash Wolves
+DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3764
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4878
+DTSTART:20150520T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150520T113000Z
+URL:http://www.lolesports.com/tourney/match/4878
+SUMMARY:Midnight Sun e-Sports vs Logitech G Sniper
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Logitech G Sniper (LGS)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4878
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4883
+DTSTART:20150522T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T133000Z
+URL:http://www.lolesports.com/tourney/match/4883
+SUMMARY:Logitech G Sniper vs yoe Flash Wolves
+DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO2\nTour
+ nament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4883
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4886
+DTSTART:20150528T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T113000Z
+URL:http://www.lolesports.com/tourney/match/4886
+SUMMARY:Logitech G Sniper vs Taipei Assassins
+DESCRIPTION:Logitech G Sniper (LGS) vs Taipei Assassins (TPA)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4886
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4891
+DTSTART:20150603T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T133000Z
+URL:http://www.lolesports.com/tourney/match/4891
+SUMMARY:Logitech G Sniper vs ahq e-Sports Club
+DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4891
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4895
+DTSTART:20150605T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T133000Z
+URL:http://www.lolesports.com/tourney/match/4895
+SUMMARY:Logitech G Sniper vs Machi
+DESCRIPTION:Logitech G Sniper (LGS) vs Machi (MAC)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4895
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4899
+DTSTART:20150611T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T133000Z
+URL:http://www.lolesports.com/tourney/match/4899
+SUMMARY:Logitech G Sniper vs Hong Kong Esports
+DESCRIPTION:Logitech G Sniper (LGS) vs Hong Kong Esports (HKE)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4899
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4905
+DTSTART:20150618T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T140000Z
+URL:http://www.lolesports.com/tourney/match/4905
+SUMMARY:Logitech G Sniper vs Assassin Sniper
+DESCRIPTION:Logitech G Sniper (LGS) vs Assassin Sniper (AS)\nType : BO2\nTo
+ urnament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4905
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4906
+DTSTART:20150619T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T120000Z
+URL:http://www.lolesports.com/tourney/match/4906
+SUMMARY:Logitech G Sniper vs Midnight Sun e-Sports
+DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4906
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4911
+DTSTART:20150625T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T140000Z
+URL:http://www.lolesports.com/tourney/match/4911
+SUMMARY:yoe Flash Wolves vs Logitech G Sniper
+DESCRIPTION:Flash Wolves (YFW) vs Logitech G Sniper (LGS)\nType : BO2\nTour
+ nament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4911
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4915
+DTSTART:20150701T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T140000Z
+URL:http://www.lolesports.com/tourney/match/4915
+SUMMARY:Taipei Assassins vs Logitech G Sniper
+DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4915
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4919
+DTSTART:20150703T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T140000Z
+URL:http://www.lolesports.com/tourney/match/4919
+SUMMARY:Machi vs Logitech G Sniper
+DESCRIPTION:Machi (MAC) vs Logitech G Sniper (LGS)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4919
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4922
+DTSTART:20150705T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T120000Z
+URL:http://www.lolesports.com/tourney/match/4922
+SUMMARY:ahq e-Sports Club vs Logitech G Sniper
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Logitech G Sniper (LGS)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4922
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4926
+DTSTART:20150709T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T120000Z
+URL:http://www.lolesports.com/tourney/match/4926
+SUMMARY:Hong Kong Esports vs Logitech G Sniper
+DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4926
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4930
+DTSTART:20150711T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T120000Z
+URL:http://www.lolesports.com/tourney/match/4930
+SUMMARY:Assassin Sniper vs Logitech G Sniper
+DESCRIPTION:Assassin Sniper (AS) vs Logitech G Sniper (LGS)\nType : BO2\nTo
+ urnament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4930
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152807Z
+END:VEVENT
+END:VCALENDAR

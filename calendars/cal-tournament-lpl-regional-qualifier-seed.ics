@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-lpl-regional-qualifier-seed
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3040
+DTSTART:20140907T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140907T110000Z
+URL:http://www.lolesports.com/tourney/match/3040
+SUMMARY:EDward Gaming vs Royal Club
+DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO3\n
+ Tournament : LPL Regional Qualifier Seed\nWeek : 1\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/3040
+CATEGORIES:LPL Regional Qualifier Seed
+DTSTAMP:20150621T152804Z
+END:VEVENT
+END:VCALENDAR

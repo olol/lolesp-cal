@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-play-in-6
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1936
+DTSTART:20140117T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140117T010000Z
+URL:http://www.lolesports.com/tourney/match/1936
+SUMMARY:Gamers2 vs SK Gaming Prime
+DESCRIPTION:Gamers2 (defunct) (G2) vs SK Gaming Prime (SKP)\nType : BO1\nTo
+ urnament : EU Play in 6\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1936
+CATEGORIES:EU Play in 6
+DTSTAMP:20150621T152750Z
+END:VEVENT
+END:VCALENDAR

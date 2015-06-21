@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-dor
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3682
+DTSTART:20150108T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150108T120000Z
+URL:http://www.lolesports.com/tourney/match/3682
+SUMMARY:Ahq e-Sports Club vs Dream or Reality
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3682
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3683
+DTSTART:20150108T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150108T130000Z
+URL:http://www.lolesports.com/tourney/match/3683
+SUMMARY:Dream or Reality vs Logitech Sniper
+DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3683
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3692
+DTSTART:20150115T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150115T120000Z
+URL:http://www.lolesports.com/tourney/match/3692
+SUMMARY:Dream or Reality vs yoe Flash Wolves
+DESCRIPTION:Dream or Reality (DOR) vs Flash Wolves (YFW)\nType : BO1\nTourn
+ ament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3692
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3693
+DTSTART:20150115T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150115T130000Z
+URL:http://www.lolesports.com/tourney/match/3693
+SUMMARY:Hong Kong Esports vs Dream or Reality
+DESCRIPTION:Hong Kong Esports (HKE) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3693
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3695
+DTSTART:20150116T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T120000Z
+URL:http://www.lolesports.com/tourney/match/3695
+SUMMARY:Taipei Assassins vs Dream or Reality
+DESCRIPTION:Taipei Assassins (TPA) vs Dream or Reality (DOR)\nType : BO1\nT
+ ournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3695
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3696
+DTSTART:20150116T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T130000Z
+URL:http://www.lolesports.com/tourney/match/3696
+SUMMARY:Dream or Reality vs Never Give Up
+DESCRIPTION:Dream or Reality (DOR) vs Never Give Up (NGU)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3696
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3702
+DTSTART:20150122T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150122T120000Z
+URL:http://www.lolesports.com/tourney/match/3702
+SUMMARY:Midnight Sun e-Sports vs Dream or Reality
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3702
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3716
+DTSTART:20150125T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150125T130000Z
+URL:http://www.lolesports.com/tourney/match/3716
+SUMMARY:Ahq e-Sports Club vs Dream or Reality
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3716
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3727
+DTSTART:20150125T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150125T140000Z
+URL:http://www.lolesports.com/tourney/match/3727
+SUMMARY:Dream or Reality vs Logitech Sniper
+DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3727
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3732
+DTSTART:20150211T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150211T130000Z
+URL:http://www.lolesports.com/tourney/match/3732
+SUMMARY:yoe Flash Wolves vs Dream or Reality
+DESCRIPTION:Flash Wolves (YFW) vs Dream or Reality (DOR)\nType : BO1\nTourn
+ ament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3732
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3733
+DTSTART:20150211T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150211T140000Z
+URL:http://www.lolesports.com/tourney/match/3733
+SUMMARY:Dream or Reality vs Hong Kong Esports
+DESCRIPTION:Dream or Reality (DOR) vs Hong Kong Esports (HKE)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3733
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3736
+DTSTART:20150213T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T130000Z
+URL:http://www.lolesports.com/tourney/match/3736
+SUMMARY:Dream or Reality vs Taipei Assassins
+DESCRIPTION:Dream or Reality (DOR) vs Taipei Assassins (TPA)\nType : BO1\nT
+ ournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3736
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3734
+DTSTART:20150213T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T140000Z
+URL:http://www.lolesports.com/tourney/match/3734
+SUMMARY:Never Give Up vs Dream or Reality
+DESCRIPTION:Never Give Up (NGU) vs Dream or Reality (DOR)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3734
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3756
+DTSTART:20150215T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T130000Z
+URL:http://www.lolesports.com/tourney/match/3756
+SUMMARY:Midnight Sun e-Sports vs Dream or Reality
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3756
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3726
+DTSTART:20150228T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T130000Z
+URL:http://www.lolesports.com/tourney/match/3726
+SUMMARY:Dream or Reality vs Ahq e-Sports Club
+DESCRIPTION:Dream or Reality (DOR) vs ahq e-Sports Club (AHQ)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3726
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3747
+DTSTART:20150228T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T140000Z
+URL:http://www.lolesports.com/tourney/match/3747
+SUMMARY:Dream or Reality vs Logitech Sniper
+DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3747
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3745
+DTSTART:20150301T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T140000Z
+URL:http://www.lolesports.com/tourney/match/3745
+SUMMARY:Taipei Assassins vs Dream or Reality
+DESCRIPTION:Taipei Assassins (TPA) vs Dream or Reality (DOR)\nType : BO1\nT
+ ournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3745
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3740
+DTSTART:20150305T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T120000Z
+URL:http://www.lolesports.com/tourney/match/3740
+SUMMARY:Hong Kong Esports vs Dream or Reality
+DESCRIPTION:Hong Kong Esports (HKE) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3740
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3739
+DTSTART:20150305T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T130000Z
+URL:http://www.lolesports.com/tourney/match/3739
+SUMMARY:yoe Flash Wolves vs Dream or Reality
+DESCRIPTION:Flash Wolves (YFW) vs Dream or Reality (DOR)\nType : BO1\nTourn
+ ament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3739
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3744
+DTSTART:20150307T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150307T130000Z
+URL:http://www.lolesports.com/tourney/match/3744
+SUMMARY:Dream or Reality vs Never Give Up
+DESCRIPTION:Dream or Reality (DOR) vs Never Give Up (NGU)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3744
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3746
+DTSTART:20150320T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T120000Z
+URL:http://www.lolesports.com/tourney/match/3746
+SUMMARY:Midnight Sun e-Sports vs Dream or Reality
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3746
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152806Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,635 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-lck-summer-split
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4934
+DTSTART:20150520T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150520T090000Z
+URL:http://www.lolesports.com/tourney/match/4934
+SUMMARY:Anarchy vs Najin e-mFire
+DESCRIPTION:Anarchy (ANC) vs Najin e-mFire (NJE)\nType : BO3\nTournament : 
+ 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4934
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4935
+DTSTART:20150520T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150520T110000Z
+URL:http://www.lolesports.com/tourney/match/4935
+SUMMARY:Samsung Galaxy vs SBENU SONICBOOM
+DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SBE)\nType : BO3\nTour
+ nament : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4935
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4936
+DTSTART:20150521T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150521T060000Z
+URL:http://www.lolesports.com/tourney/match/4936
+SUMMARY:CJ ENTUS vs Anarchy
+DESCRIPTION:CJ ENTUS (CJ) vs Anarchy (ANC)\nType : BO3\nTournament : 2015 L
+ CK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4936
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4937
+DTSTART:20150522T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T090000Z
+URL:http://www.lolesports.com/tourney/match/4937
+SUMMARY:KT Rolster vs Samsung Galaxy
+DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO3\nTournament
+  : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4937
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4938
+DTSTART:20150522T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T110000Z
+URL:http://www.lolesports.com/tourney/match/4938
+SUMMARY:Jin Air Green Wings vs Incredible Miracle
+DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Incredible Miracle (IM)\nT
+ ype : BO3\nTournament : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/4938
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4939
+DTSTART:20150523T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T090000Z
+URL:http://www.lolesports.com/tourney/match/4939
+SUMMARY:SKTelecom T1 vs SBENU SONICBOOM
+DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTourna
+ ment : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4939
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4940
+DTSTART:20150523T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T110000Z
+URL:http://www.lolesports.com/tourney/match/4940
+SUMMARY:KOO Tigers vs Najin e-mFire
+DESCRIPTION:KOO Tigers (KOO) vs Najin e-mFire (NJE)\nType : BO3\nTournament
+  : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4940
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4941
+DTSTART:20150527T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T090000Z
+URL:http://www.lolesports.com/tourney/match/4941
+SUMMARY:Jin Air Green Wings vs Anarchy
+DESCRIPTION:Jin Air Green Wings (JAG) vs Anarchy (ANC)\nType : BO3\nTournam
+ ent : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4941
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4942
+DTSTART:20150527T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T110000Z
+URL:http://www.lolesports.com/tourney/match/4942
+SUMMARY:KT Rolster vs CJ ENTUS
+DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 2015
+  LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4942
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4943
+DTSTART:20150528T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T060000Z
+URL:http://www.lolesports.com/tourney/match/4943
+SUMMARY:KOO Tigers vs Samsung Galaxy
+DESCRIPTION:KOO Tigers (KOO) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
+ t : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4943
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4944
+DTSTART:20150529T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T090000Z
+URL:http://www.lolesports.com/tourney/match/4944
+SUMMARY:Najin e-mFire vs SKTelecom T1
+DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
+ nt : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4944
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4945
+DTSTART:20150529T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T110000Z
+URL:http://www.lolesports.com/tourney/match/4945
+SUMMARY:Anarchy vs Longzhu Incredible Miracle
+DESCRIPTION:Anarchy (ANC) vs Longzhu Incredible Miracle (IM)\nType : BO3\nT
+ ournament : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4945
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4946
+DTSTART:20150530T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T090000Z
+URL:http://www.lolesports.com/tourney/match/4946
+SUMMARY:CJ ENTUS vs SBENU SONICBOOM
+DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournament 
+ : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4946
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4947
+DTSTART:20150530T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T110000Z
+URL:http://www.lolesports.com/tourney/match/4947
+SUMMARY:Jin Air Green Wings vs KT Rolster
+DESCRIPTION:Jin Air Green Wings (JAG) vs KT Rolster (KT)\nType : BO3\nTourn
+ ament : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4947
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4948
+DTSTART:20150603T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T090000Z
+URL:http://www.lolesports.com/tourney/match/4948
+SUMMARY:SKTelecom T1 vs KOO Tigers
+DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO3\nTournament 
+ : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4948
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4949
+DTSTART:20150603T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T110000Z
+URL:http://www.lolesports.com/tourney/match/4949
+SUMMARY:Samsung Galaxy vs Jin Air Green Wings
+DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
+ Tournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4949
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4950
+DTSTART:20150604T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T060000Z
+URL:http://www.lolesports.com/tourney/match/4950
+SUMMARY:Najin e-mFire vs Longzhu Incredible Miracle
+DESCRIPTION:Najin e-mFire (NJE) vs Longzhu Incredible Miracle (IM)\nType : 
+ BO3\nTournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/4950
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4951
+DTSTART:20150605T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T090000Z
+URL:http://www.lolesports.com/tourney/match/4951
+SUMMARY:KOO Tigers vs CJ ENTUS
+DESCRIPTION:KOO Tigers (KOO) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 201
+ 5 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4951
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4952
+DTSTART:20150605T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T110000Z
+URL:http://www.lolesports.com/tourney/match/4952
+SUMMARY:SBENU SONICBOOM vs Jin Air Green Wings
+DESCRIPTION:SBENU SONICBOOM (SBE) vs Jin Air Green Wings (JAG)\nType : BO3\
+ nTournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/4952
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4953
+DTSTART:20150606T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T090000Z
+URL:http://www.lolesports.com/tourney/match/4953
+SUMMARY:Samsung Galaxy vs SKTelecom T1
+DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
+ ent : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4953
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4954
+DTSTART:20150606T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T110000Z
+URL:http://www.lolesports.com/tourney/match/4954
+SUMMARY:Longzhu Incredible Miracle vs KT Rolster
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs KT Rolster (KT)\nType : BO3\
+ nTournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/4954
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4955
+DTSTART:20150610T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T090000Z
+URL:http://www.lolesports.com/tourney/match/4955
+SUMMARY:SBENU SONICBOOM vs Najin e-mFire
+DESCRIPTION:SBENU SONICBOOM (SBE) vs Najin e-mFire (NJE)\nType : BO3\nTourn
+ ament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4955
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4956
+DTSTART:20150610T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T110000Z
+URL:http://www.lolesports.com/tourney/match/4956
+SUMMARY:SKTelecom T1 vs Anarchy
+DESCRIPTION:SKTelecom T1 (SKT) vs Anarchy (ANC)\nType : BO3\nTournament : 2
+ 015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4956
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4957
+DTSTART:20150611T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T040000Z
+URL:http://www.lolesports.com/tourney/match/4957
+SUMMARY:KT Rolster vs KOO Tigers
+DESCRIPTION:KT Rolster (KT) vs KOO Tigers (KOO)\nType : BO3\nTournament : 2
+ 015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4957
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4958
+DTSTART:20150611T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T060000Z
+URL:http://www.lolesports.com/tourney/match/4958
+SUMMARY:Longzhu Incredible Miracle vs SBENU SONICBOOM
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs SBENU SONICBOOM (SBE)\nType 
+ : BO3\nTournament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : ht
+ tp://www.lolesports.com/tourney/match/4958
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4959
+DTSTART:20150612T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T090000Z
+URL:http://www.lolesports.com/tourney/match/4959
+SUMMARY:CJ ENTUS vs SKTelecom T1
+DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : 2
+ 015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4959
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4960
+DTSTART:20150612T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T110000Z
+URL:http://www.lolesports.com/tourney/match/4960
+SUMMARY:Najin e-mFire vs Samsung Galaxy
+DESCRIPTION:Najin e-mFire (NJE) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
+ ment : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4960
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4961
+DTSTART:20150613T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T090000Z
+URL:http://www.lolesports.com/tourney/match/4961
+SUMMARY:KOO Tigers vs Jin Air Green Wings
+DESCRIPTION:KOO Tigers (KOO) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
+ nament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4961
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4962
+DTSTART:20150613T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T110000Z
+URL:http://www.lolesports.com/tourney/match/4962
+SUMMARY:Anarchy vs KT Rolster
+DESCRIPTION:Anarchy (ANC) vs KT Rolster (KT)\nType : BO3\nTournament : 2015
+  LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4962
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4963
+DTSTART:20150617T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T090000Z
+URL:http://www.lolesports.com/tourney/match/4963
+SUMMARY:Jin Air Green Wings vs CJ ENTUS
+DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO3\nTournam
+ ent : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4963
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4964
+DTSTART:20150617T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T110000Z
+URL:http://www.lolesports.com/tourney/match/4964
+SUMMARY:SBENU SONICBOOM vs KOO Tigers
+DESCRIPTION:SBENU SONICBOOM (SBE) vs KOO Tigers (KOO)\nType : BO3\nTourname
+ nt : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4964
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4965
+DTSTART:20150618T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T040000Z
+URL:http://www.lolesports.com/tourney/match/4965
+SUMMARY:SKTelecom T1 vs Longzhu Incredible Miracle
+DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Incredible Miracle (IM)\nType : B
+ O3\nTournament : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/4965
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4966
+DTSTART:20150618T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T060000Z
+URL:http://www.lolesports.com/tourney/match/4966
+SUMMARY:Anarchy vs Samsung Galaxy
+DESCRIPTION:Anarchy (ANC) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
+  2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4966
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4967
+DTSTART:20150619T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T090000Z
+URL:http://www.lolesports.com/tourney/match/4967
+SUMMARY:KT Rolster vs SBENU SONICBOOM
+DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournamen
+ t : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4967
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4968
+DTSTART:20150619T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T110000Z
+URL:http://www.lolesports.com/tourney/match/4968
+SUMMARY:CJ ENTUS vs Najin e-mFire
+DESCRIPTION:CJ ENTUS (CJ) vs Najin e-mFire (NJE)\nType : BO3\nTournament : 
+ 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4968
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4969
+DTSTART:20150620T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T090000Z
+URL:http://www.lolesports.com/tourney/match/4969
+SUMMARY:Samsung Galaxy vs Incredible Miracle
+DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Incredible Miracle (IM)\nType :
+  BO3\nTournament : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/4969
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4970
+DTSTART:20150620T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T110000Z
+URL:http://www.lolesports.com/tourney/match/4970
+SUMMARY:KOO Tigers vs Anarchy
+DESCRIPTION:KOO Tigers (KOO) vs Anarchy (ANC)\nType : BO3\nTournament : 201
+ 5 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4970
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4971
+DTSTART:20150624T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T090000Z
+URL:http://www.lolesports.com/tourney/match/4971
+SUMMARY:Incredible Miracle vs CJ ENTUS
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs CJ ENTUS (CJ)\nType : BO3\nT
+ ournament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4971
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4972
+DTSTART:20150624T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T110000Z
+URL:http://www.lolesports.com/tourney/match/4972
+SUMMARY:KT Rolster vs SKTelecom T1
+DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO3\nTournament :
+  2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4972
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4973
+DTSTART:20150625T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T040000Z
+URL:http://www.lolesports.com/tourney/match/4973
+SUMMARY:SBENU SONICBOOM vs Anarchy
+DESCRIPTION:SBENU SONICBOOM (SBE) vs Anarchy (ANC)\nType : BO3\nTournament 
+ : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4973
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4974
+DTSTART:20150625T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T060000Z
+URL:http://www.lolesports.com/tourney/match/4974
+SUMMARY:Jin Air Green Wings vs Najin e-mFire
+DESCRIPTION:Jin Air Green Wings (JAG) vs Najin e-mFire (NJE)\nType : BO3\nT
+ ournament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4974
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4975
+DTSTART:20150626T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T090000Z
+URL:http://www.lolesports.com/tourney/match/4975
+SUMMARY:CJ ENTUS vs Samsung Galaxy
+DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
+  2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4975
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4976
+DTSTART:20150626T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T110000Z
+URL:http://www.lolesports.com/tourney/match/4976
+SUMMARY:Incredible Miracle vs KOO Tigers
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs KOO Tigers (KOO)\nType : BO3
+ \nTournament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/4976
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4977
+DTSTART:20150627T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T090000Z
+URL:http://www.lolesports.com/tourney/match/4977
+SUMMARY:Najin e-mFire vs KT Rolster
+DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO3\nTournament 
+ : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4977
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4978
+DTSTART:20150627T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T110000Z
+URL:http://www.lolesports.com/tourney/match/4978
+SUMMARY:SKTelecom T1 vs Jin Air Green Wings
+DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO3\nTo
+ urnament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4978
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152818Z
+END:VEVENT
+END:VCALENDAR

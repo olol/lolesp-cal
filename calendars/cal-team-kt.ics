@@ -1,0 +1,439 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-kt
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2209
+DTSTART:20140322T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140322T110000Z
+URL:http://www.lolesports.com/tourney/match/2209
+SUMMARY:KT Rolster Bullets vs Samsung Blue
+DESCRIPTION:KT Rolster (KT) vs Samsung Blue (SSB)\nType : BO2\nTournament :
+  OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/2209
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2210
+DTSTART:20140328T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140328T110000Z
+URL:http://www.lolesports.com/tourney/match/2210
+SUMMARY:KT Rolster Bullets vs NaJin Black Sword
+DESCRIPTION:KT Rolster (KT) vs NaJin Black Sword (NBS)\nType : BO2\nTournam
+ ent : OGN Group C\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2210
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2211
+DTSTART:20140402T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T110000Z
+URL:http://www.lolesports.com/tourney/match/2211
+SUMMARY:Jin Air Falcons vs KT Rolster Bullets
+DESCRIPTION:Jin Air Falcons (JAF) vs KT Rolster (KT)\nType : BO2\nTournamen
+ t : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2211
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2222
+DTSTART:20140425T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140425T110000Z
+URL:http://www.lolesports.com/tourney/match/2222
+SUMMARY:NaJin White Shield  vs KT Rolster Bullets
+DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO5\nTournament 
+ : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2222
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2928
+DTSTART:20140618T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140618T120000Z
+URL:http://www.lolesports.com/tourney/match/2928
+SUMMARY:KT Rolster Bullets vs NaJin Black Sword
+DESCRIPTION:KT Rolster (KT) vs NaJin Black Sword (NBS)\nType : BO2\nTournam
+ ent : OGN Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2928
+CATEGORIES:OGN Group B
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2931
+DTSTART:20140702T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140702T120000Z
+URL:http://www.lolesports.com/tourney/match/2931
+SUMMARY:NaJin White Shield  vs KT Rolster Bullets
+DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO2\nTournament 
+ : OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2931
+CATEGORIES:OGN Group B
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2932
+DTSTART:20140705T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T120000Z
+URL:http://www.lolesports.com/tourney/match/2932
+SUMMARY:KT Rolster Bullets vs Jin Air Falcons
+DESCRIPTION:KT Rolster (KT) vs Jin Air Falcons (JAF)\nType : BO2\nTournamen
+ t : OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2932
+CATEGORIES:OGN Group B
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3032
+DTSTART:20140828T093000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140828T103000Z
+URL:http://www.lolesports.com/tourney/match/3032
+SUMMARY:KT Rolster Bullets vs NaJin White Shield 
+DESCRIPTION:KT Rolster (KT) vs Najin e-mFire (NJE)\nType : BO5\nTournament 
+ : OGN Regional Qualifier\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3032
+CATEGORIES:OGN Regional Qualifier
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3293
+DTSTART:20150110T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150110T090000Z
+URL:http://www.lolesports.com/tourney/match/3293
+SUMMARY:Najin e-mFire vs KT Rolster
+DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO3\nTournament 
+ : 2015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3293
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3296
+DTSTART:20150116T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T090000Z
+URL:http://www.lolesports.com/tourney/match/3296
+SUMMARY:KT Rolster vs SKtelecom T1
+DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO3\nTournament :
+  2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3296
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3300
+DTSTART:20150121T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150121T100000Z
+URL:http://www.lolesports.com/tourney/match/3300
+SUMMARY:KT Rolster vs CJ ENTUS
+DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 2015
+  LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3300
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3304
+DTSTART:20150124T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T100000Z
+URL:http://www.lolesports.com/tourney/match/3304
+SUMMARY:Samsung Galaxy vs KT Rolster
+DESCRIPTION:Samsung Galaxy (SSG) vs KT Rolster (KT)\nType : BO3\nTournament
+  : 2015 LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3304
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3307
+DTSTART:20150130T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T100000Z
+URL:http://www.lolesports.com/tourney/match/3307
+SUMMARY:GE Tigers vs KT Rolster
+DESCRIPTION:KOO Tigers (KOO) vs KT Rolster (KT)\nType : BO3\nTournament : 2
+ 015 LCK Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3307
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3313
+DTSTART:20150207T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T100000Z
+URL:http://www.lolesports.com/tourney/match/3313
+SUMMARY:KT Rolster vs Incredible Miracle
+DESCRIPTION:KT Rolster (KT) vs Longzhu Incredible Miracle (IM)\nType : BO3\
+ nTournament : 2015 LCK Spring Split\nWeek : 5\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/3313
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3315
+DTSTART:20150213T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T100000Z
+URL:http://www.lolesports.com/tourney/match/3315
+SUMMARY:KT Rolster vs Jin Air Green Wings
+DESCRIPTION:KT Rolster (KT) vs Jin Air Green Wings (JAG)\nType : BO3\nTourn
+ ament : 2015 LCK Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/3315
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3322
+DTSTART:20150228T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T110000Z
+URL:http://www.lolesports.com/tourney/match/3322
+SUMMARY:KT Rolster vs Najin e-mFire
+DESCRIPTION:KT Rolster (KT) vs Najin e-mFire (NJE)\nType : BO3\nTournament 
+ : 2015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3322
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3325
+DTSTART:20150306T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T110000Z
+URL:http://www.lolesports.com/tourney/match/3325
+SUMMARY:SK Telecom T1 vs KT Rolster
+DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
+  2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3325
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3328
+DTSTART:20150318T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T100000Z
+URL:http://www.lolesports.com/tourney/match/3328
+SUMMARY:CJ ENTUS vs KT Rolster
+DESCRIPTION:CJ ENTUS (CJ) vs KT Rolster (KT)\nType : BO3\nTournament : 2015
+  LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3328
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3331
+DTSTART:20150321T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T090000Z
+URL:http://www.lolesports.com/tourney/match/3331
+SUMMARY:KT Rolster vs Samsung Galaxy
+DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO3\nTournament
+  : 2015 LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3331
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3334
+DTSTART:20150327T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150327T090000Z
+URL:http://www.lolesports.com/tourney/match/3334
+SUMMARY:KT Rolster vs GE Tigers
+DESCRIPTION:KT Rolster (KT) vs KOO Tigers (KOO)\nType : BO3\nTournament : 2
+ 015 LCK Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/3334
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3340
+DTSTART:20150404T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150404T090000Z
+URL:http://www.lolesports.com/tourney/match/3340
+SUMMARY:Incredible Miracle vs KT Rolster
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs KT Rolster (KT)\nType : BO3\
+ nTournament : 2015 LCK Spring Split\nWeek : 11\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/3340
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3342
+DTSTART:20150408T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150408T100000Z
+URL:http://www.lolesports.com/tourney/match/3342
+SUMMARY:Jin Air Green Wings vs KT Rolster
+DESCRIPTION:Jin Air Green Wings (JAG) vs KT Rolster (KT)\nType : BO3\nTourn
+ ament : 2015 LCK Spring Split\nWeek : 12\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/3342
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4937
+DTSTART:20150522T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T090000Z
+URL:http://www.lolesports.com/tourney/match/4937
+SUMMARY:KT Rolster vs Samsung Galaxy
+DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO3\nTournament
+  : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4937
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4942
+DTSTART:20150527T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T110000Z
+URL:http://www.lolesports.com/tourney/match/4942
+SUMMARY:KT Rolster vs CJ ENTUS
+DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 2015
+  LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4942
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4947
+DTSTART:20150530T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T110000Z
+URL:http://www.lolesports.com/tourney/match/4947
+SUMMARY:Jin Air Green Wings vs KT Rolster
+DESCRIPTION:Jin Air Green Wings (JAG) vs KT Rolster (KT)\nType : BO3\nTourn
+ ament : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4947
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4954
+DTSTART:20150606T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T110000Z
+URL:http://www.lolesports.com/tourney/match/4954
+SUMMARY:Longzhu Incredible Miracle vs KT Rolster
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs KT Rolster (KT)\nType : BO3\
+ nTournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/4954
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4957
+DTSTART:20150611T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T040000Z
+URL:http://www.lolesports.com/tourney/match/4957
+SUMMARY:KT Rolster vs KOO Tigers
+DESCRIPTION:KT Rolster (KT) vs KOO Tigers (KOO)\nType : BO3\nTournament : 2
+ 015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4957
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4962
+DTSTART:20150613T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T110000Z
+URL:http://www.lolesports.com/tourney/match/4962
+SUMMARY:Anarchy vs KT Rolster
+DESCRIPTION:Anarchy (ANC) vs KT Rolster (KT)\nType : BO3\nTournament : 2015
+  LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4962
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4967
+DTSTART:20150619T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T090000Z
+URL:http://www.lolesports.com/tourney/match/4967
+SUMMARY:KT Rolster vs SBENU SONICBOOM
+DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournamen
+ t : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4967
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4972
+DTSTART:20150624T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T110000Z
+URL:http://www.lolesports.com/tourney/match/4972
+SUMMARY:KT Rolster vs SKTelecom T1
+DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO3\nTournament :
+  2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4972
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4977
+DTSTART:20150627T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T090000Z
+URL:http://www.lolesports.com/tourney/match/4977
+SUMMARY:Najin e-mFire vs KT Rolster
+DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO3\nTournament 
+ : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4977
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152759Z
+END:VEVENT
+END:VCALENDAR

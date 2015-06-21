@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-sgc
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1946
+DTSTART:20140124T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140124T230000Z
+URL:http://www.lolesports.com/tourney/match/1946
+SUMMARY:Tick Trick and Duck vs Storm Games Clan
+DESCRIPTION:Tick Trick and Duck (TTD) vs Storm Games Clan (SGC)\nType : BO3
+ \nTournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1946
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152752Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2083
+DTSTART:20140228T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140228T230000Z
+URL:http://www.lolesports.com/tourney/match/2083
+SUMMARY:Gamers2 vs Storm Games Clan
+DESCRIPTION:Gamers2 (defunct) (G2) vs Storm Games Clan (SGC)\nType : BO1\nT
+ ournament : EU CS 2 Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/2083
+CATEGORIES:EU CS 2 Play In 4
+DTSTAMP:20150621T152752Z
+END:VEVENT
+END:VCALENDAR

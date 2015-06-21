@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-con
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4389
+DTSTART:20150129T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150129T040000Z
+URL:http://www.lolesports.com/tourney/match/4389
+SUMMARY:Team Confound vs AffNity
+DESCRIPTION:Team Confound (CON) vs AffNity (AFN)\nType : BO3\nTournament : 
+ 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/4389
+CATEGORIES:2015 NA Spring Challenger Qualifier
+DTSTAMP:20150621T152816Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4395
+DTSTART:20150205T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150205T030000Z
+URL:http://www.lolesports.com/tourney/match/4395
+SUMMARY:Cloud9 Tempest vs Team Confound
+DESCRIPTION:Cloud9 Tempest (C9T) vs Team Confound (CON)\nType : BO3\nTourna
+ ment : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : h
+ ttp://www.lolesports.com/tourney/match/4395
+CATEGORIES:2015 NA Spring Challenger Qualifier
+DTSTAMP:20150621T152816Z
+END:VEVENT
+END:VCALENDAR

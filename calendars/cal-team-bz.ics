@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-bz
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5116
+DTSTART:20150527T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T170000Z
+URL:http://www.lolesports.com/tourney/match/5116
+SUMMARY:Biskvitki Zakuska vs Caseking Gaming
+DESCRIPTION:Biskvitki Zakuska (BZ) vs Caseking Gaming (CK)\nType : BO3\nTou
+ rnament : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/5116
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+END:VCALENDAR

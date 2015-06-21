@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-euo
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1947
+DTSTART:20140130T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140130T230000Z
+URL:http://www.lolesports.com/tourney/match/1947
+SUMMARY:Meet Your Makers vs EYES ON U
+DESCRIPTION:Mousesports (MOU) vs EYES ON U (EUO)\nType : BO3\nTournament : 
+ EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/1947
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152752Z
+END:VEVENT
+END:VCALENDAR

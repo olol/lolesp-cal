@@ -1,0 +1,425 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-eu-cs-summer
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5253
+DTSTART:20150623T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150623T170000Z
+URL:http://www.lolesports.com/tourney/match/5253
+SUMMARY:Overclockers UK vs Gamers2
+DESCRIPTION:Overclockers UK (OC) vs Gamers2 (G2)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5253
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5254
+DTSTART:20150623T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150623T180000Z
+URL:http://www.lolesports.com/tourney/match/5254
+SUMMARY:Team Dignitas EU vs Denial eSports EU
+DESCRIPTION:Team Dignitas EU (DEU) vs Denial eSports (DNE)\nType : BO1\nTou
+ rnament : 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5254
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5255
+DTSTART:20150623T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150623T190000Z
+URL:http://www.lolesports.com/tourney/match/5255
+SUMMARY:Mousesports vs Ex Nihilo
+DESCRIPTION:Mousesports (MOU) vs Ex Nihilo (EXN)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5255
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5256
+DTSTART:20150624T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T170000Z
+URL:http://www.lolesports.com/tourney/match/5256
+SUMMARY:Gamers2 vs Overclockers UK
+DESCRIPTION:Gamers2 (G2) vs Overclockers UK (OC)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5256
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5257
+DTSTART:20150624T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T180000Z
+URL:http://www.lolesports.com/tourney/match/5257
+SUMMARY:Denial eSports EU vs Team Dignitas EU
+DESCRIPTION:Denial eSports (DNE) vs Team Dignitas EU (DEU)\nType : BO1\nTou
+ rnament : 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5257
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5258
+DTSTART:20150624T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T190000Z
+URL:http://www.lolesports.com/tourney/match/5258
+SUMMARY:Ex Nihilo vs Mousesports
+DESCRIPTION:Ex Nihilo (EXN) vs Mousesports (MOU)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5258
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5259
+DTSTART:20150630T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150630T170000Z
+URL:http://www.lolesports.com/tourney/match/5259
+SUMMARY:Ex Nihilo vs Denial eSports EU
+DESCRIPTION:Ex Nihilo (EXN) vs Denial eSports (DNE)\nType : BO1\nTournament
+  : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5259
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5260
+DTSTART:20150630T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150630T180000Z
+URL:http://www.lolesports.com/tourney/match/5260
+SUMMARY:Overclockers UK vs Team Dignitas EU
+DESCRIPTION:Overclockers UK (OC) vs Team Dignitas EU (DEU)\nType : BO1\nTou
+ rnament : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5260
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5261
+DTSTART:20150630T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150630T190000Z
+URL:http://www.lolesports.com/tourney/match/5261
+SUMMARY:Mousesports vs Gamers2
+DESCRIPTION:Mousesports (MOU) vs Gamers2 (G2)\nType : BO1\nTournament : 201
+ 5 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5261
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5262
+DTSTART:20150701T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T170000Z
+URL:http://www.lolesports.com/tourney/match/5262
+SUMMARY:Denial eSports EU vs Ex Nihilo
+DESCRIPTION:Denial eSports (DNE) vs Ex Nihilo (EXN)\nType : BO1\nTournament
+  : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5262
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5263
+DTSTART:20150701T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T180000Z
+URL:http://www.lolesports.com/tourney/match/5263
+SUMMARY:Team Dignitas EU vs Overclockers UK
+DESCRIPTION:Team Dignitas EU (DEU) vs Overclockers UK (OC)\nType : BO1\nTou
+ rnament : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5263
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5264
+DTSTART:20150701T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T190000Z
+URL:http://www.lolesports.com/tourney/match/5264
+SUMMARY:Gamers2 vs Mousesports
+DESCRIPTION:Gamers2 (G2) vs Mousesports (MOU)\nType : BO1\nTournament : 201
+ 5 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5264
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5265
+DTSTART:20150707T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150707T170000Z
+URL:http://www.lolesports.com/tourney/match/5265
+SUMMARY:Team Dignitas EU vs Mousesports
+DESCRIPTION:Team Dignitas EU (DEU) vs Mousesports (MOU)\nType : BO1\nTourna
+ ment : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5265
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5266
+DTSTART:20150707T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150707T180000Z
+URL:http://www.lolesports.com/tourney/match/5266
+SUMMARY:Gamers2 vs Ex Nihilo
+DESCRIPTION:Gamers2 (G2) vs Ex Nihilo (EXN)\nType : BO1\nTournament : 2015 
+ EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/5266
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5267
+DTSTART:20150707T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150707T190000Z
+URL:http://www.lolesports.com/tourney/match/5267
+SUMMARY:Denial eSports EU vs Overclockers UK
+DESCRIPTION:Denial eSports (DNE) vs Overclockers UK (OC)\nType : BO1\nTourn
+ ament : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/5267
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5268
+DTSTART:20150708T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T170000Z
+URL:http://www.lolesports.com/tourney/match/5268
+SUMMARY:Mousesports vs Team Dignitas EU
+DESCRIPTION:Mousesports (MOU) vs Team Dignitas EU (DEU)\nType : BO1\nTourna
+ ment : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5268
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5269
+DTSTART:20150708T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T180000Z
+URL:http://www.lolesports.com/tourney/match/5269
+SUMMARY:Ex Nihilo vs Gamers2
+DESCRIPTION:Ex Nihilo (EXN) vs Gamers2 (G2)\nType : BO1\nTournament : 2015 
+ EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/5269
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5270
+DTSTART:20150708T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T190000Z
+URL:http://www.lolesports.com/tourney/match/5270
+SUMMARY:Overclockers UK vs Denial eSports EU
+DESCRIPTION:Overclockers UK (OC) vs Denial eSports (DNE)\nType : BO1\nTourn
+ ament : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/5270
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5271
+DTSTART:20150714T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150714T170000Z
+URL:http://www.lolesports.com/tourney/match/5271
+SUMMARY:Overclockers UK vs Mousesports
+DESCRIPTION:Overclockers UK (OC) vs Mousesports (MOU)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5271
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5272
+DTSTART:20150714T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150714T180000Z
+URL:http://www.lolesports.com/tourney/match/5272
+SUMMARY:Gamers2 vs Denial eSports EU
+DESCRIPTION:Gamers2 (G2) vs Denial eSports (DNE)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5272
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5273
+DTSTART:20150714T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150714T190000Z
+URL:http://www.lolesports.com/tourney/match/5273
+SUMMARY:Team Dignitas EU vs Ex Nihilo
+DESCRIPTION:Team Dignitas EU (DEU) vs Ex Nihilo (EXN)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5273
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5274
+DTSTART:20150715T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150715T170000Z
+URL:http://www.lolesports.com/tourney/match/5274
+SUMMARY:Mousesports vs Overclockers UK
+DESCRIPTION:Mousesports (MOU) vs Overclockers UK (OC)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5274
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5275
+DTSTART:20150715T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150715T180000Z
+URL:http://www.lolesports.com/tourney/match/5275
+SUMMARY:Denial eSports EU vs Gamers2
+DESCRIPTION:Denial eSports (DNE) vs Gamers2 (G2)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5275
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5276
+DTSTART:20150715T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150715T190000Z
+URL:http://www.lolesports.com/tourney/match/5276
+SUMMARY:Ex Nihilo vs Team Dignitas EU
+DESCRIPTION:Ex Nihilo (EXN) vs Team Dignitas EU (DEU)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5276
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5277
+DTSTART:20150721T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150721T170000Z
+URL:http://www.lolesports.com/tourney/match/5277
+SUMMARY:Gamers2 vs Team Dignitas EU
+DESCRIPTION:Gamers2 (G2) vs Team Dignitas EU (DEU)\nType : BO1\nTournament 
+ : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5277
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5278
+DTSTART:20150721T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150721T180000Z
+URL:http://www.lolesports.com/tourney/match/5278
+SUMMARY:Denial eSports EU vs Mousesports
+DESCRIPTION:Denial eSports (DNE) vs Mousesports (MOU)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5278
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5279
+DTSTART:20150721T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150721T190000Z
+URL:http://www.lolesports.com/tourney/match/5279
+SUMMARY:Ex Nihilo vs Overclockers UK
+DESCRIPTION:Ex Nihilo (EXN) vs Overclockers UK (OC)\nType : BO1\nTournament
+  : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5279
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5280
+DTSTART:20150722T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150722T170000Z
+URL:http://www.lolesports.com/tourney/match/5280
+SUMMARY:Team Dignitas EU vs Gamers2
+DESCRIPTION:Team Dignitas EU (DEU) vs Gamers2 (G2)\nType : BO1\nTournament 
+ : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5280
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5281
+DTSTART:20150722T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150722T180000Z
+URL:http://www.lolesports.com/tourney/match/5281
+SUMMARY:Mousesports vs Denial eSports EU
+DESCRIPTION:Mousesports (MOU) vs Denial eSports (DNE)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5281
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5282
+DTSTART:20150722T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150722T190000Z
+URL:http://www.lolesports.com/tourney/match/5282
+SUMMARY:Overclockers UK vs Ex Nihilo
+DESCRIPTION:Overclockers UK (OC) vs Ex Nihilo (EXN)\nType : BO1\nTournament
+  : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5282
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152823Z
+END:VEVENT
+END:VCALENDAR

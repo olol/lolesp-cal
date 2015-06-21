@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-kbm
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3120
+DTSTART:20140925T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140925T110000Z
+URL:http://www.lolesports.com/tourney/match/3120
+SUMMARY:NaJin White Shield  vs KaBuM e-Sports
+DESCRIPTION:Najin e-mFire (NJE) vs KaBuM e-Sports (KBM)\nType : BO1\nTourna
+ ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3120
+CATEGORIES:Group D
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3122
+DTSTART:20140925T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140925T150000Z
+URL:http://www.lolesports.com/tourney/match/3122
+SUMMARY:Cloud9  vs KaBuM e-Sports
+DESCRIPTION:Cloud9  (C9) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament : 
+ Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3122
+CATEGORIES:Group D
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3125
+DTSTART:20140926T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140926T140000Z
+URL:http://www.lolesports.com/tourney/match/3125
+SUMMARY:Alliance vs KaBuM e-Sports
+DESCRIPTION:Alliance (ALL) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament 
+ : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3125
+CATEGORIES:Group D
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3127
+DTSTART:20140927T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140927T100000Z
+URL:http://www.lolesports.com/tourney/match/3127
+SUMMARY:KaBuM e-Sports vs NaJin White Shield 
+DESCRIPTION:KaBuM e-Sports (KBM) vs Najin e-mFire (NJE)\nType : BO1\nTourna
+ ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3127
+CATEGORIES:Group D
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3129
+DTSTART:20140928T061500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140928T071500Z
+URL:http://www.lolesports.com/tourney/match/3129
+SUMMARY:KaBuM e-Sports vs Cloud9 
+DESCRIPTION:KaBuM e-Sports (KBM) vs Cloud9  (C9)\nType : BO1\nTournament : 
+ Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3129
+CATEGORIES:Group D
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3130
+DTSTART:20140928T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140928T090000Z
+URL:http://www.lolesports.com/tourney/match/3130
+SUMMARY:KaBuM e-Sports vs Alliance
+DESCRIPTION:KaBuM e-Sports (KBM) vs Alliance (ALL)\nType : BO1\nTournament 
+ : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3130
+CATEGORIES:Group D
+DTSTAMP:20150621T152804Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1573 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-season-3-summer-split
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1477
+DTSTART:20130615T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T140000Z
+URL:http://www.lolesports.com/tourney/match/1477
+SUMMARY:Gambit Gaming vs Fnatic
+DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1477
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1478
+DTSTART:20130615T141500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T151500Z
+URL:http://www.lolesports.com/tourney/match/1478
+SUMMARY:Meet Your Makers vs SK Gaming
+DESCRIPTION:Mousesports (MOU) vs SK Gaming (SK)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1478
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1479
+DTSTART:20130615T153000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T163000Z
+URL:http://www.lolesports.com/tourney/match/1479
+SUMMARY:Ninjas in Pyjamas vs Lemondogs
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Lemondogs (LD)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1479
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1480
+DTSTART:20130615T164500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T174500Z
+URL:http://www.lolesports.com/tourney/match/1480
+SUMMARY:Millenium vs Alliance
+DESCRIPTION: () vs Alliance (ALL)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1480
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1481
+DTSTART:20130615T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T190000Z
+URL:http://www.lolesports.com/tourney/match/1481
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1481
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1482
+DTSTART:20130615T191500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T201500Z
+URL:http://www.lolesports.com/tourney/match/1482
+SUMMARY:Gambit Gaming vs Alliance
+DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1482
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1483
+DTSTART:20130615T203000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T213000Z
+URL:http://www.lolesports.com/tourney/match/1483
+SUMMARY:Meet Your Makers vs Ninjas in Pyjamas
+DESCRIPTION:Mousesports (MOU) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1483
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1484
+DTSTART:20130616T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T090000Z
+URL:http://www.lolesports.com/tourney/match/1484
+SUMMARY:Millenium vs Lemondogs
+DESCRIPTION: () vs Lemondogs (LD)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1484
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1485
+DTSTART:20130616T091500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T101500Z
+URL:http://www.lolesports.com/tourney/match/1485
+SUMMARY:Ninjas in Pyjamas vs Gambit Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gambit Gaming (GMB)\nType : BO1\nTou
+ rnament : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/1485
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1486
+DTSTART:20130616T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T113000Z
+URL:http://www.lolesports.com/tourney/match/1486
+SUMMARY:Alliance vs Fnatic
+DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1486
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1487
+DTSTART:20130616T114500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T124500Z
+URL:http://www.lolesports.com/tourney/match/1487
+SUMMARY:Lemondogs vs Meet Your Makers
+DESCRIPTION:Lemondogs (LD) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1487
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1488
+DTSTART:20130616T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T140000Z
+URL:http://www.lolesports.com/tourney/match/1488
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1488
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1489
+DTSTART:20130616T141500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T151500Z
+URL:http://www.lolesports.com/tourney/match/1489
+SUMMARY:Alliance vs Lemondogs
+DESCRIPTION:Alliance (ALL) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1489
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1490
+DTSTART:20130616T154500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T164500Z
+URL:http://www.lolesports.com/tourney/match/1490
+SUMMARY:Millenium vs Ninjas in Pyjamas
+DESCRIPTION: () vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1490
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1491
+DTSTART:20130616T171500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T181500Z
+URL:http://www.lolesports.com/tourney/match/1491
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1491
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1492
+DTSTART:20130616T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T194500Z
+URL:http://www.lolesports.com/tourney/match/1492
+SUMMARY:Meet Your Makers vs Fnatic
+DESCRIPTION:Mousesports (MOU) vs Fnatic (FNC)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1492
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1496
+DTSTART:20130616T201500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T211500Z
+URL:http://www.lolesports.com/tourney/match/1496
+SUMMARY:Gambit Gaming vs Lemondogs
+DESCRIPTION:Gambit Gaming (GMB) vs Lemondogs (LD)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1496
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1493
+DTSTART:20130617T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130617T180000Z
+URL:http://www.lolesports.com/tourney/match/1493
+SUMMARY:Fnatic vs Ninjas in Pyjamas
+DESCRIPTION:Fnatic (FNC) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament
+  : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1493
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1494
+DTSTART:20130617T181500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130617T191500Z
+URL:http://www.lolesports.com/tourney/match/1494
+SUMMARY:Meet Your Makers vs Millenium
+DESCRIPTION:Mousesports (MOU) vs  ()\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1494
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1495
+DTSTART:20130617T193000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130617T203000Z
+URL:http://www.lolesports.com/tourney/match/1495
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1495
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1503
+DTSTART:20130621T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130621T140000Z
+URL:http://www.lolesports.com/tourney/match/1503
+SUMMARY:Ninjas in Pyjamas vs Fnatic
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Fnatic (FNC)\nType : BO1\nTournament
+  : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1503
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1501
+DTSTART:20130621T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130621T150000Z
+URL:http://www.lolesports.com/tourney/match/1501
+SUMMARY:Alliance vs Meet Your Makers
+DESCRIPTION:Alliance (ALL) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1501
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1502
+DTSTART:20130621T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130621T160000Z
+URL:http://www.lolesports.com/tourney/match/1502
+SUMMARY:Millenium vs Gambit Gaming
+DESCRIPTION: () vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1502
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1504
+DTSTART:20130622T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T140000Z
+URL:http://www.lolesports.com/tourney/match/1504
+SUMMARY:SK Gaming vs Lemondogs
+DESCRIPTION:SK Gaming (SK) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1504
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1497
+DTSTART:20130622T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T150000Z
+URL:http://www.lolesports.com/tourney/match/1497
+SUMMARY:Fnatic vs Alliance
+DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1497
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1498
+DTSTART:20130622T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T160000Z
+URL:http://www.lolesports.com/tourney/match/1498
+SUMMARY:Lemondogs vs Ninjas in Pyjamas
+DESCRIPTION:Lemondogs (LD) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1498
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1499
+DTSTART:20130622T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T170000Z
+URL:http://www.lolesports.com/tourney/match/1499
+SUMMARY:Millenium vs Meet Your Makers
+DESCRIPTION: () vs Mousesports (MOU)\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1499
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1500
+DTSTART:20130622T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T180000Z
+URL:http://www.lolesports.com/tourney/match/1500
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1500
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1506
+DTSTART:20130623T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130623T140000Z
+URL:http://www.lolesports.com/tourney/match/1506
+SUMMARY:SK Gaming vs Ninjas in Pyjamas
+DESCRIPTION:SK Gaming (SK) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1506
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1508
+DTSTART:20130623T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130623T150000Z
+URL:http://www.lolesports.com/tourney/match/1508
+SUMMARY:Lemondogs vs Alliance
+DESCRIPTION:Lemondogs (LD) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1508
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1507
+DTSTART:20130623T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130623T160000Z
+URL:http://www.lolesports.com/tourney/match/1507
+SUMMARY:Millenium vs Fnatic
+DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1507
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1505
+DTSTART:20130623T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130623T170000Z
+URL:http://www.lolesports.com/tourney/match/1505
+SUMMARY:Meet Your Makers vs Gambit Gaming
+DESCRIPTION:Mousesports (MOU) vs Gambit Gaming (GMB)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1505
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1509
+DTSTART:20130629T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T170000Z
+URL:http://www.lolesports.com/tourney/match/1509
+SUMMARY:Ninjas in Pyjamas vs Meet Your Makers
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Mousesports (MOU)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1509
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1510
+DTSTART:20130629T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T180000Z
+URL:http://www.lolesports.com/tourney/match/1510
+SUMMARY:Fnatic vs Lemondogs
+DESCRIPTION:Fnatic (FNC) vs Lemondogs (LD)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1510
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1511
+DTSTART:20130629T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T190000Z
+URL:http://www.lolesports.com/tourney/match/1511
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION: () vs SK Gaming (SK)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1511
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1512
+DTSTART:20130629T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T200000Z
+URL:http://www.lolesports.com/tourney/match/1512
+SUMMARY:Alliance vs Gambit Gaming
+DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1512
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1513
+DTSTART:20130630T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T170000Z
+URL:http://www.lolesports.com/tourney/match/1513
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1513
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1514
+DTSTART:20130630T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T180000Z
+URL:http://www.lolesports.com/tourney/match/1514
+SUMMARY:Gambit Gaming vs Ninjas in Pyjamas
+DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
+ rnament : EU Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/1514
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1515
+DTSTART:20130630T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T190000Z
+URL:http://www.lolesports.com/tourney/match/1515
+SUMMARY:Alliance vs Millenium
+DESCRIPTION:Alliance (ALL) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1515
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1516
+DTSTART:20130630T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T200000Z
+URL:http://www.lolesports.com/tourney/match/1516
+SUMMARY:Meet Your Makers vs Lemondogs
+DESCRIPTION:Mousesports (MOU) vs Lemondogs (LD)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1516
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1517
+DTSTART:20130706T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T170000Z
+URL:http://www.lolesports.com/tourney/match/1517
+SUMMARY:Fnatic vs Meet Your Makers
+DESCRIPTION:Fnatic (FNC) vs Mousesports (MOU)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1517
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1518
+DTSTART:20130706T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T180000Z
+URL:http://www.lolesports.com/tourney/match/1518
+SUMMARY:Gambit Gaming vs Millenium
+DESCRIPTION:Gambit Gaming (GMB) vs  ()\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1518
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1519
+DTSTART:20130706T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T190000Z
+URL:http://www.lolesports.com/tourney/match/1519
+SUMMARY:Alliance vs Lemondogs
+DESCRIPTION:Alliance (ALL) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1519
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1520
+DTSTART:20130706T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T200000Z
+URL:http://www.lolesports.com/tourney/match/1520
+SUMMARY:Ninjas in Pyjamas vs SK Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming (SK)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1520
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1521
+DTSTART:20130706T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T210000Z
+URL:http://www.lolesports.com/tourney/match/1521
+SUMMARY:Lemondogs vs Fnatic
+DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1521
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1522
+DTSTART:20130706T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T220000Z
+URL:http://www.lolesports.com/tourney/match/1522
+SUMMARY:Gambit Gaming vs Meet Your Makers
+DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1522
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1523
+DTSTART:20130707T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T150000Z
+URL:http://www.lolesports.com/tourney/match/1523
+SUMMARY:Ninjas in Pyjamas vs Millenium
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs  ()\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1523
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1524
+DTSTART:20130707T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T160000Z
+URL:http://www.lolesports.com/tourney/match/1524
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1524
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1525
+DTSTART:20130707T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T170000Z
+URL:http://www.lolesports.com/tourney/match/1525
+SUMMARY:Lemondogs vs Gambit Gaming
+DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1525
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1526
+DTSTART:20130707T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T180000Z
+URL:http://www.lolesports.com/tourney/match/1526
+SUMMARY:Fnatic vs Millenium
+DESCRIPTION:Fnatic (FNC) vs  ()\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1526
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1527
+DTSTART:20130707T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T190000Z
+URL:http://www.lolesports.com/tourney/match/1527
+SUMMARY:SK Gaming vs Meet Your Makers
+DESCRIPTION:SK Gaming (SK) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1527
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1528
+DTSTART:20130707T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T200000Z
+URL:http://www.lolesports.com/tourney/match/1528
+SUMMARY:Ninjas in Pyjamas vs Alliance
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Alliance (ALL)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1528
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1530
+DTSTART:20130713T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T170000Z
+URL:http://www.lolesports.com/tourney/match/1530
+SUMMARY:Millenium vs Fnatic
+DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1530
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1529
+DTSTART:20130713T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T180000Z
+URL:http://www.lolesports.com/tourney/match/1529
+SUMMARY:Mousesports vs Gambit Gaming
+DESCRIPTION:Mousesports (MOU) vs Gambit Gaming (GMB)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1529
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1531
+DTSTART:20130713T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T190000Z
+URL:http://www.lolesports.com/tourney/match/1531
+SUMMARY:Alliance vs Ninjas in Pyjamas
+DESCRIPTION:Alliance (ALL) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1531
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1532
+DTSTART:20130713T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T200000Z
+URL:http://www.lolesports.com/tourney/match/1532
+SUMMARY:Lemondogs vs SK Gaming
+DESCRIPTION:Lemondogs (LD) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1532
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152740Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1533
+DTSTART:20130714T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130714T170000Z
+URL:http://www.lolesports.com/tourney/match/1533
+SUMMARY:Ninjas in Pyjamas vs Gambit Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gambit Gaming (GMB)\nType : BO1\nTou
+ rnament : EU Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/1533
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1534
+DTSTART:20130714T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130714T180000Z
+URL:http://www.lolesports.com/tourney/match/1534
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1534
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1535
+DTSTART:20130714T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130714T190000Z
+URL:http://www.lolesports.com/tourney/match/1535
+SUMMARY:Lemondogs vs Millenium
+DESCRIPTION:Lemondogs (LD) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1535
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1536
+DTSTART:20130714T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130714T200000Z
+URL:http://www.lolesports.com/tourney/match/1536
+SUMMARY:Meet Your Makers vs Alliance
+DESCRIPTION:Mousesports (MOU) vs Alliance (ALL)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1536
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1539
+DTSTART:20130718T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T170000Z
+URL:http://www.lolesports.com/tourney/match/1539
+SUMMARY:Meet Your Makers vs SK Gaming
+DESCRIPTION:Mousesports (MOU) vs SK Gaming (SK)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1539
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1538
+DTSTART:20130718T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T180000Z
+URL:http://www.lolesports.com/tourney/match/1538
+SUMMARY:Alliance vs Fnatic
+DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1538
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1537
+DTSTART:20130718T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T190000Z
+URL:http://www.lolesports.com/tourney/match/1537
+SUMMARY:Gambit Gaming vs Lemondogs
+DESCRIPTION:Gambit Gaming (GMB) vs Lemondogs (LD)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1537
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1540
+DTSTART:20130718T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T200000Z
+URL:http://www.lolesports.com/tourney/match/1540
+SUMMARY:Millenium vs Ninjas in Pyjamas
+DESCRIPTION: () vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1540
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1541
+DTSTART:20130719T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T170000Z
+URL:http://www.lolesports.com/tourney/match/1541
+SUMMARY:Meet Your Makers vs Fnatic
+DESCRIPTION:Mousesports (MOU) vs Fnatic (FNC)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1541
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1544
+DTSTART:20130719T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T180000Z
+URL:http://www.lolesports.com/tourney/match/1544
+SUMMARY:Ninjas in Pyjamas vs Lemondogs
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Lemondogs (LD)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1544
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1543
+DTSTART:20130719T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T190000Z
+URL:http://www.lolesports.com/tourney/match/1543
+SUMMARY:Millenium vs Alliance
+DESCRIPTION: () vs Alliance (ALL)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1543
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1542
+DTSTART:20130719T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T200000Z
+URL:http://www.lolesports.com/tourney/match/1542
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1542
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1545
+DTSTART:20130720T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T170000Z
+URL:http://www.lolesports.com/tourney/match/1545
+SUMMARY:Fnatic vs Gambit Gaming
+DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1545
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1546
+DTSTART:20130720T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T180000Z
+URL:http://www.lolesports.com/tourney/match/1546
+SUMMARY:SK Gaming vs Ninjas in Pyjamas
+DESCRIPTION:SK Gaming (SK) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1546
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1547
+DTSTART:20130720T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T190000Z
+URL:http://www.lolesports.com/tourney/match/1547
+SUMMARY:Alliance vs Meet Your Makers
+DESCRIPTION:Alliance (ALL) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1547
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1548
+DTSTART:20130720T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T200000Z
+URL:http://www.lolesports.com/tourney/match/1548
+SUMMARY:Millenium vs Lemondogs
+DESCRIPTION: () vs Lemondogs (LD)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1548
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1549
+DTSTART:20130727T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T170000Z
+URL:http://www.lolesports.com/tourney/match/1549
+SUMMARY:Ninjas in Pyjamas vs Alliance
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Alliance (ALL)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1549
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1550
+DTSTART:20130727T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T180000Z
+URL:http://www.lolesports.com/tourney/match/1550
+SUMMARY:Gambit Gaming vs Fnatic
+DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1550
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1551
+DTSTART:20130727T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T190000Z
+URL:http://www.lolesports.com/tourney/match/1551
+SUMMARY:Meet Your Makers vs Millenium
+DESCRIPTION:Mousesports (MOU) vs  ()\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1551
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1552
+DTSTART:20130727T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T200000Z
+URL:http://www.lolesports.com/tourney/match/1552
+SUMMARY:SK Gaming vs Lemondogs
+DESCRIPTION:SK Gaming (SK) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1552
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1553
+DTSTART:20130728T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130728T170000Z
+URL:http://www.lolesports.com/tourney/match/1553
+SUMMARY:Millenium vs Gambit Gaming
+DESCRIPTION: () vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1553
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1554
+DTSTART:20130728T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130728T180000Z
+URL:http://www.lolesports.com/tourney/match/1554
+SUMMARY:Fnatic vs Lemondogs
+DESCRIPTION:Fnatic (FNC) vs Lemondogs (LD)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1554
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1555
+DTSTART:20130728T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130728T190000Z
+URL:http://www.lolesports.com/tourney/match/1555
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1555
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1556
+DTSTART:20130728T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130728T200000Z
+URL:http://www.lolesports.com/tourney/match/1556
+SUMMARY:Meet Your Makers vs Ninjas in Pyjamas
+DESCRIPTION:Mousesports (MOU) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1556
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1557
+DTSTART:20130803T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T170000Z
+URL:http://www.lolesports.com/tourney/match/1557
+SUMMARY:Gambit Gaming vs Alliance
+DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1557
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1558
+DTSTART:20130803T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T180000Z
+URL:http://www.lolesports.com/tourney/match/1558
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1558
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1559
+DTSTART:20130803T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T190000Z
+URL:http://www.lolesports.com/tourney/match/1559
+SUMMARY:Lemondogs vs Meet Your Makers
+DESCRIPTION:Lemondogs (LD) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1559
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1560
+DTSTART:20130803T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T200000Z
+URL:http://www.lolesports.com/tourney/match/1560
+SUMMARY:Fnatic vs Ninjas in Pyjamas
+DESCRIPTION:Fnatic (FNC) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament
+  : EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1560
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1561
+DTSTART:20130803T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T210000Z
+URL:http://www.lolesports.com/tourney/match/1561
+SUMMARY:Millenium vs Meet Your Makers
+DESCRIPTION: () vs Mousesports (MOU)\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1561
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1562
+DTSTART:20130803T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T220000Z
+URL:http://www.lolesports.com/tourney/match/1562
+SUMMARY:Lemondogs vs SK Gaming
+DESCRIPTION:Lemondogs (LD) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1562
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1563
+DTSTART:20130804T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T150000Z
+URL:http://www.lolesports.com/tourney/match/1563
+SUMMARY:Fnatic vs Alliance
+DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1563
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1564
+DTSTART:20130804T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T160000Z
+URL:http://www.lolesports.com/tourney/match/1564
+SUMMARY:Gambit Gaming vs Ninjas in Pyjamas
+DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
+ rnament : EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/1564
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1567
+DTSTART:20130804T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T170000Z
+URL:http://www.lolesports.com/tourney/match/1567
+SUMMARY:Fnatic vs Millenium
+DESCRIPTION:Fnatic (FNC) vs  ()\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1567
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1566
+DTSTART:20130804T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T180000Z
+URL:http://www.lolesports.com/tourney/match/1566
+SUMMARY:Lemondogs vs Gambit Gaming
+DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1566
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1565
+DTSTART:20130804T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T190000Z
+URL:http://www.lolesports.com/tourney/match/1565
+SUMMARY:Ninjas in Pyjamas vs Meet Your Makers
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Mousesports (MOU)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1565
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1568
+DTSTART:20130804T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T200000Z
+URL:http://www.lolesports.com/tourney/match/1568
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1568
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1569
+DTSTART:20130815T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T130000Z
+URL:http://www.lolesports.com/tourney/match/1569
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION: () vs SK Gaming (SK)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1569
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1570
+DTSTART:20130815T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T140000Z
+URL:http://www.lolesports.com/tourney/match/1570
+SUMMARY:Alliance vs Ninjas in Pyjamas
+DESCRIPTION:Alliance (ALL) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1570
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1571
+DTSTART:20130815T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T150000Z
+URL:http://www.lolesports.com/tourney/match/1571
+SUMMARY:Gambit Gaming vs Meet Your Makers
+DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1571
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1572
+DTSTART:20130815T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T160000Z
+URL:http://www.lolesports.com/tourney/match/1572
+SUMMARY:Lemondogs vs Fnatic
+DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1572
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1573
+DTSTART:20130815T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T170000Z
+URL:http://www.lolesports.com/tourney/match/1573
+SUMMARY:Meet Your Makers vs Alliance
+DESCRIPTION:Mousesports (MOU) vs Alliance (ALL)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1573
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1574
+DTSTART:20130815T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T180000Z
+URL:http://www.lolesports.com/tourney/match/1574
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1574
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1575
+DTSTART:20130815T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T190000Z
+URL:http://www.lolesports.com/tourney/match/1575
+SUMMARY:Gambit Gaming vs Millenium
+DESCRIPTION:Gambit Gaming (GMB) vs  ()\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1575
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1576
+DTSTART:20130815T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T200000Z
+URL:http://www.lolesports.com/tourney/match/1576
+SUMMARY:Lemondogs vs Ninjas in Pyjamas
+DESCRIPTION:Lemondogs (LD) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1576
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1577
+DTSTART:20130816T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T130000Z
+URL:http://www.lolesports.com/tourney/match/1577
+SUMMARY:SK Gaming vs Meet Your Makers
+DESCRIPTION:SK Gaming (SK) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1577
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1578
+DTSTART:20130816T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T140000Z
+URL:http://www.lolesports.com/tourney/match/1578
+SUMMARY:Alliance vs Gambit Gaming
+DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1578
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1579
+DTSTART:20130816T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T150000Z
+URL:http://www.lolesports.com/tourney/match/1579
+SUMMARY:Lemondogs vs Millenium
+DESCRIPTION:Lemondogs (LD) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1579
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1580
+DTSTART:20130816T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T160000Z
+URL:http://www.lolesports.com/tourney/match/1580
+SUMMARY:Ninjas in Pyjamas vs Fnatic
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Fnatic (FNC)\nType : BO1\nTournament
+  : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1580
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1581
+DTSTART:20130816T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T170000Z
+URL:http://www.lolesports.com/tourney/match/1581
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1581
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1582
+DTSTART:20130816T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T180000Z
+URL:http://www.lolesports.com/tourney/match/1582
+SUMMARY:Lemondogs vs Alliance
+DESCRIPTION:Lemondogs (LD) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1582
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1583
+DTSTART:20130817T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T130000Z
+URL:http://www.lolesports.com/tourney/match/1583
+SUMMARY:Fnatic vs Meet Your Makers
+DESCRIPTION:Fnatic (FNC) vs Mousesports (MOU)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1583
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1584
+DTSTART:20130817T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T140000Z
+URL:http://www.lolesports.com/tourney/match/1584
+SUMMARY:Ninjas in Pyjamas vs Millenium
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs  ()\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1584
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1585
+DTSTART:20130817T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T150000Z
+URL:http://www.lolesports.com/tourney/match/1585
+SUMMARY:Meet Your Makers vs Lemondogs
+DESCRIPTION:Mousesports (MOU) vs Lemondogs (LD)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1585
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1586
+DTSTART:20130817T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T160000Z
+URL:http://www.lolesports.com/tourney/match/1586
+SUMMARY:Alliance vs Millenium
+DESCRIPTION:Alliance (ALL) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1586
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1587
+DTSTART:20130817T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T170000Z
+URL:http://www.lolesports.com/tourney/match/1587
+SUMMARY:Ninjas in Pyjamas vs SK Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming (SK)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1587
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1588
+DTSTART:20130817T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T180000Z
+URL:http://www.lolesports.com/tourney/match/1588
+SUMMARY:Fnatic vs Gambit Gaming
+DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1588
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152741Z
+END:VEVENT
+END:VCALENDAR

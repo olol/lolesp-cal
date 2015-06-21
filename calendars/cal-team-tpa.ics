@@ -1,0 +1,635 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-tpa
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2279
+DTSTART:20140508T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140508T160000Z
+URL:http://www.lolesports.com/tourney/match/2279
+SUMMARY:Azubu Taipei Assassins vs SK Telecom T1 K
+DESCRIPTION:Taipei Assassins (TPA) vs SKTelecom T1 (SKT)\nType : BO1\nTourn
+ ament : All-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/2279
+CATEGORIES:All-Star 2014 Group Stage
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2281
+DTSTART:20140508T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140508T180000Z
+URL:http://www.lolesports.com/tourney/match/2281
+SUMMARY:OMG vs Azubu Taipei Assassins
+DESCRIPTION:OMG (OMG) vs Taipei Assassins (TPA)\nType : BO1\nTournament : A
+ ll-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2281
+CATEGORIES:All-Star 2014 Group Stage
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2284
+DTSTART:20140509T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140509T140000Z
+URL:http://www.lolesports.com/tourney/match/2284
+SUMMARY:Cloud 9  vs Azubu Taipei Assassins
+DESCRIPTION:Cloud9  (C9) vs Taipei Assassins (TPA)\nType : BO1\nTournament 
+ : All-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2284
+CATEGORIES:All-Star 2014 Group Stage
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2287
+DTSTART:20140509T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140509T170000Z
+URL:http://www.lolesports.com/tourney/match/2287
+SUMMARY:Azubu Taipei Assassins vs Fnatic
+DESCRIPTION:Taipei Assassins (TPA) vs Fnatic (FNC)\nType : BO1\nTournament 
+ : All-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2287
+CATEGORIES:All-Star 2014 Group Stage
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3097
+DTSTART:20140918T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140918T130000Z
+URL:http://www.lolesports.com/tourney/match/3097
+SUMMARY:Taipei Assassins vs Star Horn Royal Club
+DESCRIPTION:Taipei Assassins (TPA) vs Star Horn Royal Club (SHR)\nType : BO
+ 1\nTournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3097
+CATEGORIES:Group B
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3099
+DTSTART:20140919T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T100000Z
+URL:http://www.lolesports.com/tourney/match/3099
+SUMMARY:Taipei Assassins vs SK Gaming
+DESCRIPTION:Taipei Assassins (TPA) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3099
+CATEGORIES:Group B
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3101
+DTSTART:20140919T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T140000Z
+URL:http://www.lolesports.com/tourney/match/3101
+SUMMARY:Team SoloMid vs Taipei Assassins
+DESCRIPTION:Team SoloMid (TSM) vs Taipei Assassins (TPA)\nType : BO1\nTourn
+ ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3101
+CATEGORIES:Group B
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3103
+DTSTART:20140920T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T130000Z
+URL:http://www.lolesports.com/tourney/match/3103
+SUMMARY:Taipei Assassins vs Team SoloMid
+DESCRIPTION:Taipei Assassins (TPA) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3103
+CATEGORIES:Group B
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3104
+DTSTART:20140920T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T150000Z
+URL:http://www.lolesports.com/tourney/match/3104
+SUMMARY:SK Gaming vs Taipei Assassins
+DESCRIPTION:SK Gaming (SK) vs Taipei Assassins (TPA)\nType : BO1\nTournamen
+ t : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3104
+CATEGORIES:Group B
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3106
+DTSTART:20140921T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T120000Z
+URL:http://www.lolesports.com/tourney/match/3106
+SUMMARY:Star Horn Royal Club vs Taipei Assassins
+DESCRIPTION:Star Horn Royal Club (SHR) vs Taipei Assassins (TPA)\nType : BO
+ 1\nTournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3106
+CATEGORIES:Group B
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3684
+DTSTART:20150108T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150108T140000Z
+URL:http://www.lolesports.com/tourney/match/3684
+SUMMARY:Taipei Assassins vs Ahq e-Sports Club
+DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3684
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3689
+DTSTART:20150110T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150110T140000Z
+URL:http://www.lolesports.com/tourney/match/3689
+SUMMARY:yoe Flash Wolves vs Taipei Assassins
+DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO1\nTourn
+ ament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3689
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3691
+DTSTART:20150111T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150111T140000Z
+URL:http://www.lolesports.com/tourney/match/3691
+SUMMARY:Midnight Sun e-Sports vs Taipei Assassins
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3691
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3695
+DTSTART:20150116T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T120000Z
+URL:http://www.lolesports.com/tourney/match/3695
+SUMMARY:Taipei Assassins vs Dream or Reality
+DESCRIPTION:Taipei Assassins (TPA) vs Dream or Reality (DOR)\nType : BO1\nT
+ ournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3695
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3697
+DTSTART:20150116T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T140000Z
+URL:http://www.lolesports.com/tourney/match/3697
+SUMMARY:Never Give Up vs Taipei Assassins
+DESCRIPTION:Never Give Up (NGU) vs Taipei Assassins (TPA)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3697
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3699
+DTSTART:20150117T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150117T140000Z
+URL:http://www.lolesports.com/tourney/match/3699
+SUMMARY:Hong Kong Esports vs Taipei Assassins
+DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3699
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3707
+DTSTART:20150123T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T140000Z
+URL:http://www.lolesports.com/tourney/match/3707
+SUMMARY:Taipei Assassins vs Logitech Sniper
+DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3707
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3728
+DTSTART:20150207T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T140000Z
+URL:http://www.lolesports.com/tourney/match/3728
+SUMMARY:Ahq e-Sports Club vs Taipei Assassins
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3728
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3713
+DTSTART:20150212T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T120000Z
+URL:http://www.lolesports.com/tourney/match/3713
+SUMMARY:Taipei Assassins vs Midnight Sun e-Sports
+DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3713
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3715
+DTSTART:20150212T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T130000Z
+URL:http://www.lolesports.com/tourney/match/3715
+SUMMARY:Taipei Assassins vs yoe Flash Wolves
+DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (YFW)\nType : BO1\nTourn
+ ament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3715
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3736
+DTSTART:20150213T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T130000Z
+URL:http://www.lolesports.com/tourney/match/3736
+SUMMARY:Dream or Reality vs Taipei Assassins
+DESCRIPTION:Dream or Reality (DOR) vs Taipei Assassins (TPA)\nType : BO1\nT
+ ournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3736
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3737
+DTSTART:20150214T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150214T130000Z
+URL:http://www.lolesports.com/tourney/match/3737
+SUMMARY:Taipei Assassins vs Never Give Up
+DESCRIPTION:Taipei Assassins (TPA) vs Never Give Up (NGU)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3737
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3723
+DTSTART:20150226T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T140000Z
+URL:http://www.lolesports.com/tourney/match/3723
+SUMMARY:Taipei Assassins vs Hong Kong Esports
+DESCRIPTION:Taipei Assassins (TPA) vs Hong Kong Esports (HKE)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3723
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3721
+DTSTART:20150301T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T130000Z
+URL:http://www.lolesports.com/tourney/match/3721
+SUMMARY:Taipei Assassins vs Logitech Sniper
+DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3721
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3745
+DTSTART:20150301T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T140000Z
+URL:http://www.lolesports.com/tourney/match/3745
+SUMMARY:Taipei Assassins vs Dream or Reality
+DESCRIPTION:Taipei Assassins (TPA) vs Dream or Reality (DOR)\nType : BO1\nT
+ ournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3745
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3753
+DTSTART:20150305T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T140000Z
+URL:http://www.lolesports.com/tourney/match/3753
+SUMMARY:yoe Flash Wolves vs Taipei Assassins
+DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO1\nTourn
+ ament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3753
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3760
+DTSTART:20150308T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150308T130000Z
+URL:http://www.lolesports.com/tourney/match/3760
+SUMMARY:Never Give Up vs Taipei Assassins
+DESCRIPTION:Never Give Up (NGU) vs Taipei Assassins (TPA)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3760
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3755
+DTSTART:20150308T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150308T140000Z
+URL:http://www.lolesports.com/tourney/match/3755
+SUMMARY:Midnight Sun e-Sports vs Taipei Assassins
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3755
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3743
+DTSTART:20150322T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150322T140000Z
+URL:http://www.lolesports.com/tourney/match/3743
+SUMMARY:Hong Kong Esports vs Taipei Assassins
+DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3743
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4519
+DTSTART:20150411T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150411T120000Z
+URL:http://www.lolesports.com/tourney/match/4519
+SUMMARY:Ahq e-Sports Club vs Taipei Assassins
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO5\n
+ Tournament : 2015 LMS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/4519
+CATEGORIES:2015 LMS Spring Playoffs
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4880
+DTSTART:20150521T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150521T113000Z
+URL:http://www.lolesports.com/tourney/match/4880
+SUMMARY:Taipei Assassins vs yoe Flash Wolves
+DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (YFW)\nType : BO2\nTourn
+ ament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4880
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4882
+DTSTART:20150522T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T113000Z
+URL:http://www.lolesports.com/tourney/match/4882
+SUMMARY:Midnight Sun e-Sports vs Taipei Assassins
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
+ O2\nTournament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4882
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4886
+DTSTART:20150528T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T113000Z
+URL:http://www.lolesports.com/tourney/match/4886
+SUMMARY:Logitech G Sniper vs Taipei Assassins
+DESCRIPTION:Logitech G Sniper (LGS) vs Taipei Assassins (TPA)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4886
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4892
+DTSTART:20150604T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T113000Z
+URL:http://www.lolesports.com/tourney/match/4892
+SUMMARY:Taipei Assassins vs Assassin Sniper
+DESCRIPTION:Taipei Assassins (TPA) vs Assassin Sniper (AS)\nType : BO2\nTou
+ rnament : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4892
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4896
+DTSTART:20150610T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T113000Z
+URL:http://www.lolesports.com/tourney/match/4896
+SUMMARY:Taipei Assassins vs Hong Kong Esports
+DESCRIPTION:Taipei Assassins (TPA) vs Hong Kong Esports (HKE)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4896
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4900
+DTSTART:20150612T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T113000Z
+URL:http://www.lolesports.com/tourney/match/4900
+SUMMARY:Taipei Assassins vs Machi
+DESCRIPTION:Taipei Assassins (TPA) vs Machi (MAC)\nType : BO2\nTournament :
+  2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4900
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4903
+DTSTART:20150617T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T140000Z
+URL:http://www.lolesports.com/tourney/match/4903
+SUMMARY:Taipei Assassins vs ahq e-Sports Club
+DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4903
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4907
+DTSTART:20150619T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T140000Z
+URL:http://www.lolesports.com/tourney/match/4907
+SUMMARY:Flash Wolves vs Taipei Assassins
+DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO2\nTourn
+ ament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4907
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4909
+DTSTART:20150624T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T140000Z
+URL:http://www.lolesports.com/tourney/match/4909
+SUMMARY:yoe Flash Wolves vs Taipei Assassins
+DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO2\nTourn
+ ament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4909
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4910
+DTSTART:20150625T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T120000Z
+URL:http://www.lolesports.com/tourney/match/4910
+SUMMARY:Taipei Assassins vs Midnight Sun e-Sports
+DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
+ O2\nTournament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4910
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4915
+DTSTART:20150701T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T140000Z
+URL:http://www.lolesports.com/tourney/match/4915
+SUMMARY:Taipei Assassins vs Logitech G Sniper
+DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4915
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4920
+DTSTART:20150704T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T120000Z
+URL:http://www.lolesports.com/tourney/match/4920
+SUMMARY:Assassin Sniper vs Taipei Assassins
+DESCRIPTION:Assassin Sniper (AS) vs Taipei Assassins (TPA)\nType : BO2\nTou
+ rnament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4920
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4925
+DTSTART:20150708T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T140000Z
+URL:http://www.lolesports.com/tourney/match/4925
+SUMMARY:Hong Kong Esports vs Taipei Assassins
+DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4925
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4928
+DTSTART:20150710T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T120000Z
+URL:http://www.lolesports.com/tourney/match/4928
+SUMMARY:Machi vs Taipei Assassins
+DESCRIPTION:Machi (MAC) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
+  2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4928
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4933
+DTSTART:20150712T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150712T140000Z
+URL:http://www.lolesports.com/tourney/match/4933
+SUMMARY:ahq e-Sports Club vs Taipei Assassins
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4933
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152800Z
+END:VEVENT
+END:VCALENDAR

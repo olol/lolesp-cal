@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-lck-summer-promotion-group-a
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4580
+DTSTART:20150515T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150515T090000Z
+URL:http://www.lolesports.com/tourney/match/4580
+SUMMARY:Incredible Miracle vs Winners
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs Winners (WIN)\nType : BO3\nT
+ ournament : 2015 LCK Summer Promotion Group A\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/4580
+CATEGORIES:2015 LCK Summer Promotion Group A
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4581
+DTSTART:20150515T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150515T110000Z
+URL:http://www.lolesports.com/tourney/match/4581
+SUMMARY:Incredible Miracle vs Anarchy
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs Anarchy (ANC)\nType : BO3\nT
+ ournament : 2015 LCK Summer Promotion Group A\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/4581
+CATEGORIES:2015 LCK Summer Promotion Group A
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4582
+DTSTART:20150515T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150515T130000Z
+URL:http://www.lolesports.com/tourney/match/4582
+SUMMARY:Winners vs Anarchy
+DESCRIPTION:Winners (WIN) vs Anarchy (ANC)\nType : BO3\nTournament : 2015 L
+ CK Summer Promotion Group A\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4582
+CATEGORIES:2015 LCK Summer Promotion Group A
+DTSTAMP:20150621T152817Z
+END:VEVENT
+END:VCALENDAR

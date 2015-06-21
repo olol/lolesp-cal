@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-oo
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3149
+DTSTART:20141115T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141115T220000Z
+URL:http://www.lolesports.com/tourney/match/3149
+SUMMARY:compLexity White vs Monstar Kittenz
+DESCRIPTION:compLexity White (COW) vs Infinity (OO)\nType : BO3\nTournament
+  : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/3149
+CATEGORIES:Single Elimination Bracket
+DTSTAMP:20150621T152805Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4392
+DTSTART:20150128T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150128T030000Z
+URL:http://www.lolesports.com/tourney/match/4392
+SUMMARY:Team Liquid Academy vs Infinity
+DESCRIPTION:Team Liquid Academy (TLA) vs Infinity (OO)\nType : BO3\nTournam
+ ent : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : ht
+ tp://www.lolesports.com/tourney/match/4392
+CATEGORIES:2015 NA Spring Challenger Qualifier
+DTSTAMP:20150621T152805Z
+END:VEVENT
+END:VCALENDAR

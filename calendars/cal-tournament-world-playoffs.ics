@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-world-playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1644
+DTSTART:20130923T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130923T200000Z
+URL:http://www.lolesports.com/tourney/match/1644
+SUMMARY:Fnatic vs Cloud 9 
+DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO3\nTournament : World Pl
+ ayoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/1644
+CATEGORIES:World Playoffs
+DTSTAMP:20150621T152743Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1642
+DTSTART:20130923T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130924T000000Z
+URL:http://www.lolesports.com/tourney/match/1642
+SUMMARY:Gambit Gaming vs NaJin Black Sword
+DESCRIPTION:Gambit Gaming (GMB) vs NaJin Black Sword (NBS)\nType : BO3\nTou
+ rnament : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1642
+CATEGORIES:World Playoffs
+DTSTAMP:20150621T152743Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1641
+DTSTART:20130925T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130925T030000Z
+URL:http://www.lolesports.com/tourney/match/1641
+SUMMARY:Gamania Bears vs SK Telecom T1 K
+DESCRIPTION:Gamania Bears () vs SKTelecom T1 (SKT)\nType : BO3\nTournament 
+ : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1641
+CATEGORIES:World Playoffs
+DTSTAMP:20150621T152743Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1643
+DTSTART:20130925T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130925T060000Z
+URL:http://www.lolesports.com/tourney/match/1643
+SUMMARY:Royal Club vs OMG
+DESCRIPTION:Star Horn Royal Club (SHR) vs OMG (OMG)\nType : BO3\nTournament
+  : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1643
+CATEGORIES:World Playoffs
+DTSTAMP:20150621T152743Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1645
+DTSTART:20130928T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130928T040000Z
+URL:http://www.lolesports.com/tourney/match/1645
+SUMMARY:SK Telecom T1 K vs NaJin Black Sword
+DESCRIPTION:SKTelecom T1 (SKT) vs NaJin Black Sword (NBS)\nType : BO5\nTour
+ nament : World Playoffs\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1645
+CATEGORIES:World Playoffs
+DTSTAMP:20150621T152743Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1646
+DTSTART:20130928T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130928T200000Z
+URL:http://www.lolesports.com/tourney/match/1646
+SUMMARY:Royal Club vs Fnatic
+DESCRIPTION:Star Horn Royal Club (SHR) vs Fnatic (FNC)\nType : BO5\nTournam
+ ent : World Playoffs\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1646
+CATEGORIES:World Playoffs
+DTSTAMP:20150621T152743Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1647
+DTSTART:20131005T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20131005T040000Z
+URL:http://www.lolesports.com/tourney/match/1647
+SUMMARY:SK Telecom T1 K vs Royal Club
+DESCRIPTION:SKTelecom T1 (SKT) vs Star Horn Royal Club (SHR)\nType : BO5\nT
+ ournament : World Playoffs\nWeek : 9\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/1647
+CATEGORIES:World Playoffs
+DTSTAMP:20150621T152743Z
+END:VEVENT
+END:VCALENDAR

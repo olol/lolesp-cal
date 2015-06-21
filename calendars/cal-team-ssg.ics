@@ -1,0 +1,355 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-ssg
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3292
+DTSTART:20150109T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150109T100000Z
+URL:http://www.lolesports.com/tourney/match/3292
+SUMMARY:Samsung Galaxy vs Jin Air Green Wings
+DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
+ Tournament : 2015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/3292
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3295
+DTSTART:20150114T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150114T100000Z
+URL:http://www.lolesports.com/tourney/match/3295
+SUMMARY:GE Tigers vs Samsung Galaxy
+DESCRIPTION:KOO Tigers (KOO) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
+ t : 2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/3295
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3298
+DTSTART:20150117T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150117T090000Z
+URL:http://www.lolesports.com/tourney/match/3298
+SUMMARY:Samsung Galaxy vs Incredible Miracle
+DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Incredible Miracle (IM)\nType :
+  BO3\nTournament : 2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/3298
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3304
+DTSTART:20150124T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T100000Z
+URL:http://www.lolesports.com/tourney/match/3304
+SUMMARY:Samsung Galaxy vs KT Rolster
+DESCRIPTION:Samsung Galaxy (SSG) vs KT Rolster (KT)\nType : BO3\nTournament
+  : 2015 LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3304
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3306
+DTSTART:20150130T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T090000Z
+URL:http://www.lolesports.com/tourney/match/3306
+SUMMARY:CJ ENTUS vs Samsung Galaxy
+DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
+  2015 LCK Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3306
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3310
+DTSTART:20150204T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150204T100000Z
+URL:http://www.lolesports.com/tourney/match/3310
+SUMMARY:SKtelecom T1 vs Samsung Galaxy
+DESCRIPTION:SKTelecom T1 (SKT) vs Samsung Galaxy (SSG)\nType : BO3\nTournam
+ ent : 2015 LCK Spring Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3310
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3316
+DTSTART:20150214T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150214T090000Z
+URL:http://www.lolesports.com/tourney/match/3316
+SUMMARY:Najin e-mFire vs Samsung Galaxy
+DESCRIPTION:Najin e-mFire (NJE) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
+ ment : 2015 LCK Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3316
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3319
+DTSTART:20150227T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T090000Z
+URL:http://www.lolesports.com/tourney/match/3319
+SUMMARY:Jin Air Green Wings vs Samsung Galaxy
+DESCRIPTION:Jin Air Green Wings (JAG) vs Samsung Galaxy (SSG)\nType : BO3\n
+ Tournament : 2015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/3319
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3323
+DTSTART:20150304T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150304T100000Z
+URL:http://www.lolesports.com/tourney/match/3323
+SUMMARY:Samsung Galaxy vs GE Tigers
+DESCRIPTION:Samsung Galaxy (SSG) vs KOO Tigers (KOO)\nType : BO3\nTournamen
+ t : 2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/3323
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3327
+DTSTART:20150307T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150307T110000Z
+URL:http://www.lolesports.com/tourney/match/3327
+SUMMARY:Incredible Miracle vs Samsung Galaxy
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs Samsung Galaxy (SSG)\nType :
+  BO3\nTournament : 2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/3327
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3331
+DTSTART:20150321T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T090000Z
+URL:http://www.lolesports.com/tourney/match/3331
+SUMMARY:KT Rolster vs Samsung Galaxy
+DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO3\nTournament
+  : 2015 LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3331
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3335
+DTSTART:20150327T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150327T110000Z
+URL:http://www.lolesports.com/tourney/match/3335
+SUMMARY:Samsung Galaxy vs CJ ENTUS
+DESCRIPTION:Samsung Galaxy (SSG) vs CJ ENTUS (CJ)\nType : BO3\nTournament :
+  2015 LCK Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3335
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3339
+DTSTART:20150403T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150403T100000Z
+URL:http://www.lolesports.com/tourney/match/3339
+SUMMARY:Samsung Galaxy vs SK Telecom T1
+DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
+ ent : 2015 LCK Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3339
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3345
+DTSTART:20150411T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150411T110000Z
+URL:http://www.lolesports.com/tourney/match/3345
+SUMMARY:Samsung Galaxy vs Najin e-mFire
+DESCRIPTION:Samsung Galaxy (SSG) vs Najin e-mFire (NJE)\nType : BO3\nTourna
+ ment : 2015 LCK Spring Split\nWeek : 12\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/3345
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4583
+DTSTART:20150516T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150516T060000Z
+URL:http://www.lolesports.com/tourney/match/4583
+SUMMARY:Samsung Galaxy vs Prime Clan
+DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SBE)\nType : BO3\nTour
+ nament : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : h
+ ttp://www.lolesports.com/tourney/match/4583
+CATEGORIES:2015 LCK Summer Promotion Group B
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4584
+DTSTART:20150516T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150516T080000Z
+URL:http://www.lolesports.com/tourney/match/4584
+SUMMARY:Samsung Galaxy vs Xenics Storm
+DESCRIPTION:Samsung Galaxy (SSG) vs Xenics Storm ()\nType : BO3\nTournament
+  : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/4584
+CATEGORIES:2015 LCK Summer Promotion Group B
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4935
+DTSTART:20150520T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150520T110000Z
+URL:http://www.lolesports.com/tourney/match/4935
+SUMMARY:Samsung Galaxy vs SBENU SONICBOOM
+DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SBE)\nType : BO3\nTour
+ nament : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4935
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4937
+DTSTART:20150522T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T090000Z
+URL:http://www.lolesports.com/tourney/match/4937
+SUMMARY:KT Rolster vs Samsung Galaxy
+DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO3\nTournament
+  : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4937
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4943
+DTSTART:20150528T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T060000Z
+URL:http://www.lolesports.com/tourney/match/4943
+SUMMARY:KOO Tigers vs Samsung Galaxy
+DESCRIPTION:KOO Tigers (KOO) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
+ t : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4943
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4949
+DTSTART:20150603T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T110000Z
+URL:http://www.lolesports.com/tourney/match/4949
+SUMMARY:Samsung Galaxy vs Jin Air Green Wings
+DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
+ Tournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4949
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4953
+DTSTART:20150606T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T090000Z
+URL:http://www.lolesports.com/tourney/match/4953
+SUMMARY:Samsung Galaxy vs SKTelecom T1
+DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
+ ent : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4953
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4960
+DTSTART:20150612T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T110000Z
+URL:http://www.lolesports.com/tourney/match/4960
+SUMMARY:Najin e-mFire vs Samsung Galaxy
+DESCRIPTION:Najin e-mFire (NJE) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
+ ment : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4960
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4966
+DTSTART:20150618T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T060000Z
+URL:http://www.lolesports.com/tourney/match/4966
+SUMMARY:Anarchy vs Samsung Galaxy
+DESCRIPTION:Anarchy (ANC) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
+  2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4966
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4969
+DTSTART:20150620T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T090000Z
+URL:http://www.lolesports.com/tourney/match/4969
+SUMMARY:Samsung Galaxy vs Incredible Miracle
+DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Incredible Miracle (IM)\nType :
+  BO3\nTournament : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/4969
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4975
+DTSTART:20150626T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T090000Z
+URL:http://www.lolesports.com/tourney/match/4975
+SUMMARY:CJ ENTUS vs Samsung Galaxy
+DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
+  2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4975
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152808Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-dp
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3078
+DTSTART:20140918T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140918T120000Z
+URL:http://www.lolesports.com/tourney/match/3078
+SUMMARY:Dark Passage vs Ahq e-Sports Club
+DESCRIPTION:Dark Passage (DP) vs ahq e-Sports Club (AHQ)\nType : BO1\nTourn
+ ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3078
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3080
+DTSTART:20140919T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T110000Z
+URL:http://www.lolesports.com/tourney/match/3080
+SUMMARY:Edward Gaming vs Dark Passage
+DESCRIPTION:Edward Gaming (EDG) vs Dark Passage (DP)\nType : BO1\nTournamen
+ t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3080
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3081
+DTSTART:20140919T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T130000Z
+URL:http://www.lolesports.com/tourney/match/3081
+SUMMARY:Dark Passage vs Samsung White
+DESCRIPTION:Dark Passage (DP) vs Samsung White (SSW)\nType : BO1\nTournamen
+ t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3081
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3083
+DTSTART:20140920T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T100000Z
+URL:http://www.lolesports.com/tourney/match/3083
+SUMMARY:Samsung White vs Dark Passage
+DESCRIPTION:Samsung White (SSW) vs Dark Passage (DP)\nType : BO1\nTournamen
+ t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3083
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3085
+DTSTART:20140920T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T140000Z
+URL:http://www.lolesports.com/tourney/match/3085
+SUMMARY:Dark Passage vs Edward Gaming
+DESCRIPTION:Dark Passage (DP) vs Edward Gaming (EDG)\nType : BO1\nTournamen
+ t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3085
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3086
+DTSTART:20140921T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T110000Z
+URL:http://www.lolesports.com/tourney/match/3086
+SUMMARY:Ahq e-Sports Club vs Dark Passage
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Dark Passage (DP)\nType : BO1\nTourn
+ ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3086
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+END:VCALENDAR

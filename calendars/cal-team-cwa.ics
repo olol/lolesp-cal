@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-cwa
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4405
+DTSTART:20150121T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150121T180000Z
+URL:http://www.lolesports.com/tourney/match/4405
+SUMMARY:Tricked Esport vs LowLandLions White
+DESCRIPTION:Tricked Esport (TE) vs Copenhagen Wolves Academy (CWA)\nType : 
+ BO3\nTournament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : 
+ No\nUrl : http://www.lolesports.com/tourney/match/4405
+CATEGORIES:2015 EU Spring Challenger Qualifier
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4411
+DTSTART:20150203T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150203T190000Z
+URL:http://www.lolesports.com/tourney/match/4411
+SUMMARY:LowLandLions White vs Different Dimension
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Different Dimension (DD)\nTy
+ pe : BO3\nTournament : 2015 EU Spring Challenger Qualifier\nWeek : 2\nStre
+ am : No\nUrl : http://www.lolesports.com/tourney/match/4411
+CATEGORIES:2015 EU Spring Challenger Qualifier
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4447
+DTSTART:20150217T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150217T190000Z
+URL:http://www.lolesports.com/tourney/match/4447
+SUMMARY:Team Dignitas EU vs LowLandLions White
+DESCRIPTION:Team Dignitas EU (DEU) vs Copenhagen Wolves Academy (CWA)\nType
+  : BO1\nTournament : 2015 EU CS Spring\nWeek : 1\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/4447
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4450
+DTSTART:20150218T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150218T190000Z
+URL:http://www.lolesports.com/tourney/match/4450
+SUMMARY:LowLandLions White vs Team Dignitas EU
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Team Dignitas EU (DEU)\nType
+  : BO1\nTournament : 2015 EU CS Spring\nWeek : 1\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/4450
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4452
+DTSTART:20150224T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150224T180000Z
+URL:http://www.lolesports.com/tourney/match/4452
+SUMMARY:Gamers2 vs LowLandLions White
+DESCRIPTION:Gamers2 (G2) vs Copenhagen Wolves Academy (CWA)\nType : BO1\nTo
+ urnament : 2015 EU CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4452
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4455
+DTSTART:20150225T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150225T180000Z
+URL:http://www.lolesports.com/tourney/match/4455
+SUMMARY:LowLandLions White vs Gamers2
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Gamers2 (G2)\nType : BO1\nTo
+ urnament : 2015 EU CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4455
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4460
+DTSTART:20150303T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150303T200000Z
+URL:http://www.lolesports.com/tourney/match/4460
+SUMMARY:LowLandLions White vs Mousesports
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Mousesports (MOU)\nType : BO
+ 1\nTournament : 2015 EU CS Spring\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4460
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4463
+DTSTART:20150304T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150304T200000Z
+URL:http://www.lolesports.com/tourney/match/4463
+SUMMARY:Mousesports vs LowLandLions White
+DESCRIPTION:Mousesports (MOU) vs Copenhagen Wolves Academy (CWA)\nType : BO
+ 1\nTournament : 2015 EU CS Spring\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4463
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4465
+DTSTART:20150317T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150317T190000Z
+URL:http://www.lolesports.com/tourney/match/4465
+SUMMARY:Reason Gaming vs LowLandLions White
+DESCRIPTION:Reason Gaming (RG) vs Copenhagen Wolves Academy (CWA)\nType : B
+ O1\nTournament : 2015 EU CS Spring\nWeek : 4\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4465
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4468
+DTSTART:20150318T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T190000Z
+URL:http://www.lolesports.com/tourney/match/4468
+SUMMARY:LowLandLions White vs Reason Gaming
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Reason Gaming (RG)\nType : B
+ O1\nTournament : 2015 EU CS Spring\nWeek : 4\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4468
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4471
+DTSTART:20150324T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150324T190000Z
+URL:http://www.lolesports.com/tourney/match/4471
+SUMMARY:LowLandLions White vs ORIGEN
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Origen (OG)\nType : BO1\nTou
+ rnament : 2015 EU CS Spring\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4471
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4474
+DTSTART:20150325T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150325T190000Z
+URL:http://www.lolesports.com/tourney/match/4474
+SUMMARY:ORIGEN vs LowLandLions White
+DESCRIPTION:Origen (OG) vs Copenhagen Wolves Academy (CWA)\nType : BO1\nTou
+ rnament : 2015 EU CS Spring\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4474
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4522
+DTSTART:20150331T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150331T170000Z
+URL:http://www.lolesports.com/tourney/match/4522
+SUMMARY:Copenhagen Wolves Academy vs Gamers2
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Gamers2 (G2)\nType : BO3\nTo
+ urnament : 2015 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/4522
+CATEGORIES:2015 EU Challenger Spring Playoffs
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4523
+DTSTART:20150408T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150408T170000Z
+URL:http://www.lolesports.com/tourney/match/4523
+SUMMARY:ORIGEN vs Copenhagen Wolves Academy
+DESCRIPTION:Origen (OG) vs Copenhagen Wolves Academy (CWA)\nType : BO5\nTou
+ rnament : 2015 EU Challenger Spring Playoffs\nWeek : 2\nStream : No\nUrl :
+  http://www.lolesports.com/tourney/match/4523
+CATEGORIES:2015 EU Challenger Spring Playoffs
+DTSTAMP:20150621T152812Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4559
+DTSTART:20150425T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150425T160000Z
+URL:http://www.lolesports.com/tourney/match/4559
+SUMMARY:ROCCAT vs Copenhagen Wolves Academy
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves Academy (CWA)\nType : BO5\nTo
+ urnament : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4559
+CATEGORIES:EU LCS Summer Promotion
+DTSTAMP:20150621T152812Z
+END:VEVENT
+END:VCALENDAR

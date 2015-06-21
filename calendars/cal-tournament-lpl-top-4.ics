@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-lpl-top-4
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2673
+DTSTART:20140524T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T080000Z
+URL:http://www.lolesports.com/tourney/match/2673
+SUMMARY:OMG vs Invictus Gaming
+DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO3\nTournament : LPL
+  Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/2673
+CATEGORIES:LPL Top 4
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2674
+DTSTART:20140524T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T100000Z
+URL:http://www.lolesports.com/tourney/match/2674
+SUMMARY:EDward Gaming vs Team WE
+DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO3\nTournament : L
+ PL Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2674
+CATEGORIES:LPL Top 4
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2676
+DTSTART:20140525T060000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T070000Z
+URL:http://www.lolesports.com/tourney/match/2676
+SUMMARY:OMG vs Team WE
+DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO3\nTournament : LPL Top 4\n
+ Week : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/2676
+CATEGORIES:LPL Top 4
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2675
+DTSTART:20140525T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T100000Z
+URL:http://www.lolesports.com/tourney/match/2675
+SUMMARY:Invictus Gaming vs EDward Gaming
+DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO5\nTourna
+ ment : LPL Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2675
+CATEGORIES:LPL Top 4
+DTSTAMP:20150621T152803Z
+END:VEVENT
+END:VCALENDAR

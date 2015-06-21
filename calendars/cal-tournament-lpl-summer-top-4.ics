@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-lpl-summer-top-4
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3069
+DTSTART:20140819T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140819T090000Z
+URL:http://www.lolesports.com/tourney/match/3069
+SUMMARY:LGD GAMING vs EDward Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Edward Gaming (EDG)\nType : BO5\nTournament
+  : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3069
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3070
+DTSTART:20140820T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140820T090000Z
+URL:http://www.lolesports.com/tourney/match/3070
+SUMMARY:OMG vs Royal Club
+DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO5\nTournament
+  : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3070
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3071
+DTSTART:20140821T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140821T090000Z
+URL:http://www.lolesports.com/tourney/match/3071
+SUMMARY:EDward Gaming vs OMG
+DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO5\nTournament : LPL 
+ Summer Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3071
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3072
+DTSTART:20140822T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140822T090000Z
+URL:http://www.lolesports.com/tourney/match/3072
+SUMMARY:Royal Club vs LGD GAMING
+DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO5\nTou
+ rnament : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/3072
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3073
+DTSTART:20140823T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140823T090000Z
+URL:http://www.lolesports.com/tourney/match/3073
+SUMMARY:OMG vs Royal Club
+DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO5\nTournament
+  : LPL Summer Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3073
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3074
+DTSTART:20140824T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140824T090000Z
+URL:http://www.lolesports.com/tourney/match/3074
+SUMMARY:EDward Gaming vs OMG
+DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO5\nTournament : LPL 
+ Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3074
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152804Z
+END:VEVENT
+END:VCALENDAR

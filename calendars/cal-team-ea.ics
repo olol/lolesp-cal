@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-ea
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5112
+DTSTART:20150526T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150526T170000Z
+URL:http://www.lolesports.com/tourney/match/5112
+SUMMARY:Mousesports vs Epic Avalanche
+DESCRIPTION:Mousesports (MOU) vs Epic Avalanche (EA)\nType : BO3\nTournamen
+ t : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5112
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+END:VCALENDAR

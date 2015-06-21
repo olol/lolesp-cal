@@ -1,0 +1,2315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-sk
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-653
+DTSTART:20130209T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T170000Z
+URL:http://www.lolesports.com/tourney/match/653
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/653
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-656
+DTSTART:20130209T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T200000Z
+URL:http://www.lolesports.com/tourney/match/656
+SUMMARY:SK Gaming vs Ninjas in Pyjamas
+DESCRIPTION:SK Gaming (SK) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/656
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-660
+DTSTART:20130210T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130210T200000Z
+URL:http://www.lolesports.com/tourney/match/660
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/660
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-662
+DTSTART:20130216T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T180000Z
+URL:http://www.lolesports.com/tourney/match/662
+SUMMARY:Ninjas in Pyjamas vs SK Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming (SK)\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/662
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-664
+DTSTART:20130216T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T200000Z
+URL:http://www.lolesports.com/tourney/match/664
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/664
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-667
+DTSTART:20130217T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130217T180000Z
+URL:http://www.lolesports.com/tourney/match/667
+SUMMARY:SK Gaming vs Dragonborns
+DESCRIPTION:SK Gaming (SK) vs Dragonborns ()\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/667
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-679
+DTSTART:20130301T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130301T110000Z
+URL:http://www.lolesports.com/tourney/match/679
+SUMMARY:SK Gaming vs Against All Authority
+DESCRIPTION:SK Gaming (SK) vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/679
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-682
+DTSTART:20130301T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130301T140000Z
+URL:http://www.lolesports.com/tourney/match/682
+SUMMARY:Ozone GIANTS vs SK Gaming
+DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/682
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-692
+DTSTART:20130302T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T200000Z
+URL:http://www.lolesports.com/tourney/match/692
+SUMMARY:SK Gaming vs Ninjas in Pyjamas
+DESCRIPTION:SK Gaming (SK) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/692
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-693
+DTSTART:20130303T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130303T170000Z
+URL:http://www.lolesports.com/tourney/match/693
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/693
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-688
+DTSTART:20130303T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130303T200000Z
+URL:http://www.lolesports.com/tourney/match/688
+SUMMARY:Dragonborns vs SK Gaming
+DESCRIPTION:Dragonborns () vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/688
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-698
+DTSTART:20130316T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T150000Z
+URL:http://www.lolesports.com/tourney/match/698
+SUMMARY:SK Gaming vs Against All Authority
+DESCRIPTION:SK Gaming (SK) vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/698
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-700
+DTSTART:20130317T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T130000Z
+URL:http://www.lolesports.com/tourney/match/700
+SUMMARY:SK Gaming vs Dragonborns
+DESCRIPTION:SK Gaming (SK) vs Dragonborns ()\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/700
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-701
+DTSTART:20130317T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T150000Z
+URL:http://www.lolesports.com/tourney/match/701
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/701
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-705
+DTSTART:20130323T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T150000Z
+URL:http://www.lolesports.com/tourney/match/705
+SUMMARY:SK Gaming vs Ozone GIANTS
+DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/705
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-709
+DTSTART:20130323T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T190000Z
+URL:http://www.lolesports.com/tourney/match/709
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/709
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-713
+DTSTART:20130324T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130324T160000Z
+URL:http://www.lolesports.com/tourney/match/713
+SUMMARY:Against All Authority vs SK Gaming
+DESCRIPTION:Against All Authority () vs SK Gaming (SK)\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/713
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-719
+DTSTART:20130330T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T150000Z
+URL:http://www.lolesports.com/tourney/match/719
+SUMMARY:Ninjas in Pyjamas vs SK Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming (SK)\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/719
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-721
+DTSTART:20130331T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T130000Z
+URL:http://www.lolesports.com/tourney/match/721
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/721
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-725
+DTSTART:20130406T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T130000Z
+URL:http://www.lolesports.com/tourney/match/725
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/725
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-729
+DTSTART:20130406T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T170000Z
+URL:http://www.lolesports.com/tourney/match/729
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/729
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-735
+DTSTART:20130407T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130407T170000Z
+URL:http://www.lolesports.com/tourney/match/735
+SUMMARY:Ozone GIANTS vs SK Gaming
+DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/735
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-744
+DTSTART:20130414T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130414T200000Z
+URL:http://www.lolesports.com/tourney/match/744
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/744
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-746
+DTSTART:20130419T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T140000Z
+URL:http://www.lolesports.com/tourney/match/746
+SUMMARY:Dragonborns vs SK Gaming
+DESCRIPTION:Dragonborns () vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/746
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-748
+DTSTART:20130419T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T160000Z
+URL:http://www.lolesports.com/tourney/match/748
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/748
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-752
+DTSTART:20130420T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T140000Z
+URL:http://www.lolesports.com/tourney/match/752
+SUMMARY:Against All Authority vs SK Gaming
+DESCRIPTION:Against All Authority () vs SK Gaming (SK)\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/752
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-759
+DTSTART:20130421T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130421T150000Z
+URL:http://www.lolesports.com/tourney/match/759
+SUMMARY:SK Gaming vs Ozone GIANTS
+DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/759
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-764
+DTSTART:20130421T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130421T200000Z
+URL:http://www.lolesports.com/tourney/match/764
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/764
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-766
+DTSTART:20130426T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130426T190000Z
+URL:http://www.lolesports.com/tourney/match/766
+SUMMARY:SK Gaming vs Against All Authority
+DESCRIPTION:SK Gaming (SK) vs Against All Authority ()\nType : BO3\nTournam
+ ent : EU Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/766
+CATEGORIES:EU Spring Playoffs
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-768
+DTSTART:20130427T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130427T150000Z
+URL:http://www.lolesports.com/tourney/match/768
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO3\nTournament :
+  EU Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/768
+CATEGORIES:EU Spring Playoffs
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-770
+DTSTART:20130428T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130428T120000Z
+URL:http://www.lolesports.com/tourney/match/770
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO3\nTournament : EU S
+ pring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/770
+CATEGORIES:EU Spring Playoffs
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1478
+DTSTART:20130615T141500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T151500Z
+URL:http://www.lolesports.com/tourney/match/1478
+SUMMARY:Meet Your Makers vs SK Gaming
+DESCRIPTION:Mousesports (MOU) vs SK Gaming (SK)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1478
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1481
+DTSTART:20130615T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T190000Z
+URL:http://www.lolesports.com/tourney/match/1481
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1481
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1488
+DTSTART:20130616T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T140000Z
+URL:http://www.lolesports.com/tourney/match/1488
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1488
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1491
+DTSTART:20130616T171500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T181500Z
+URL:http://www.lolesports.com/tourney/match/1491
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1491
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1495
+DTSTART:20130617T193000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130617T203000Z
+URL:http://www.lolesports.com/tourney/match/1495
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1495
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1504
+DTSTART:20130622T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T140000Z
+URL:http://www.lolesports.com/tourney/match/1504
+SUMMARY:SK Gaming vs Lemondogs
+DESCRIPTION:SK Gaming (SK) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1504
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1500
+DTSTART:20130622T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T180000Z
+URL:http://www.lolesports.com/tourney/match/1500
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1500
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1506
+DTSTART:20130623T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130623T140000Z
+URL:http://www.lolesports.com/tourney/match/1506
+SUMMARY:SK Gaming vs Ninjas in Pyjamas
+DESCRIPTION:SK Gaming (SK) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1506
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1511
+DTSTART:20130629T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T190000Z
+URL:http://www.lolesports.com/tourney/match/1511
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION: () vs SK Gaming (SK)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1511
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1513
+DTSTART:20130630T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T170000Z
+URL:http://www.lolesports.com/tourney/match/1513
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1513
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1520
+DTSTART:20130706T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T200000Z
+URL:http://www.lolesports.com/tourney/match/1520
+SUMMARY:Ninjas in Pyjamas vs SK Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming (SK)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1520
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1524
+DTSTART:20130707T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T160000Z
+URL:http://www.lolesports.com/tourney/match/1524
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1524
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1527
+DTSTART:20130707T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T190000Z
+URL:http://www.lolesports.com/tourney/match/1527
+SUMMARY:SK Gaming vs Meet Your Makers
+DESCRIPTION:SK Gaming (SK) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1527
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1532
+DTSTART:20130713T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T200000Z
+URL:http://www.lolesports.com/tourney/match/1532
+SUMMARY:Lemondogs vs SK Gaming
+DESCRIPTION:Lemondogs (LD) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1532
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1534
+DTSTART:20130714T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130714T180000Z
+URL:http://www.lolesports.com/tourney/match/1534
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1534
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1539
+DTSTART:20130718T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T170000Z
+URL:http://www.lolesports.com/tourney/match/1539
+SUMMARY:Meet Your Makers vs SK Gaming
+DESCRIPTION:Mousesports (MOU) vs SK Gaming (SK)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1539
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1542
+DTSTART:20130719T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T200000Z
+URL:http://www.lolesports.com/tourney/match/1542
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1542
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1546
+DTSTART:20130720T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T180000Z
+URL:http://www.lolesports.com/tourney/match/1546
+SUMMARY:SK Gaming vs Ninjas in Pyjamas
+DESCRIPTION:SK Gaming (SK) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1546
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1552
+DTSTART:20130727T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T200000Z
+URL:http://www.lolesports.com/tourney/match/1552
+SUMMARY:SK Gaming vs Lemondogs
+DESCRIPTION:SK Gaming (SK) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1552
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1555
+DTSTART:20130728T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130728T190000Z
+URL:http://www.lolesports.com/tourney/match/1555
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1555
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1558
+DTSTART:20130803T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T180000Z
+URL:http://www.lolesports.com/tourney/match/1558
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1558
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1562
+DTSTART:20130803T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T220000Z
+URL:http://www.lolesports.com/tourney/match/1562
+SUMMARY:Lemondogs vs SK Gaming
+DESCRIPTION:Lemondogs (LD) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1562
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1568
+DTSTART:20130804T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T200000Z
+URL:http://www.lolesports.com/tourney/match/1568
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1568
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1569
+DTSTART:20130815T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T130000Z
+URL:http://www.lolesports.com/tourney/match/1569
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION: () vs SK Gaming (SK)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1569
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1574
+DTSTART:20130815T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T180000Z
+URL:http://www.lolesports.com/tourney/match/1574
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1574
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1577
+DTSTART:20130816T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T130000Z
+URL:http://www.lolesports.com/tourney/match/1577
+SUMMARY:SK Gaming vs Meet Your Makers
+DESCRIPTION:SK Gaming (SK) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1577
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1581
+DTSTART:20130816T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T170000Z
+URL:http://www.lolesports.com/tourney/match/1581
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/1581
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1587
+DTSTART:20130817T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T170000Z
+URL:http://www.lolesports.com/tourney/match/1587
+SUMMARY:Ninjas in Pyjamas vs SK Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming (SK)\nType : BO1\nTourname
+ nt : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1587
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1656
+DTSTART:20131214T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20131214T210000Z
+URL:http://www.lolesports.com/tourney/match/1656
+SUMMARY:SK Gaming vs SUPA HOT CREW XD
+DESCRIPTION:SK Gaming (SK) vs SUPA HOT CREW XD (SHC)\nType : BO5\nTournamen
+ t : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1656
+CATEGORIES:EU LCS Spring Promotion
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1805
+DTSTART:20140114T223000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140114T233000Z
+URL:http://www.lolesports.com/tourney/match/1805
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU 
+ LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1805
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1807
+DTSTART:20140115T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140115T200000Z
+URL:http://www.lolesports.com/tourney/match/1807
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1807
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1809
+DTSTART:20140115T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140115T220000Z
+URL:http://www.lolesports.com/tourney/match/1809
+SUMMARY:Copenhagen Wolves vs SK Gaming
+DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1809
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1811
+DTSTART:20140116T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140116T190000Z
+URL:http://www.lolesports.com/tourney/match/1811
+SUMMARY:SK Gaming vs Supa Hot Crew
+DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1811
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1819
+DTSTART:20140123T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140123T220000Z
+URL:http://www.lolesports.com/tourney/match/1819
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1819
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1823
+DTSTART:20140124T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140124T220000Z
+URL:http://www.lolesports.com/tourney/match/1823
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU 
+ LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1823
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1826
+DTSTART:20140130T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140130T210000Z
+URL:http://www.lolesports.com/tourney/match/1826
+SUMMARY:Supa Hot Crew vs SK Gaming
+DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1826
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1828
+DTSTART:20140131T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140131T190000Z
+URL:http://www.lolesports.com/tourney/match/1828
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU L
+ CS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1828
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1830
+DTSTART:20140131T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140131T210000Z
+URL:http://www.lolesports.com/tourney/match/1830
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1830
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1836
+DTSTART:20140207T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140207T190000Z
+URL:http://www.lolesports.com/tourney/match/1836
+SUMMARY:SK Gaming vs Copenhagen Wolves
+DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1836
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1840
+DTSTART:20140213T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140213T190000Z
+URL:http://www.lolesports.com/tourney/match/1840
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1840
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1847
+DTSTART:20140214T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140214T200000Z
+URL:http://www.lolesports.com/tourney/match/1847
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1847
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1851
+DTSTART:20140220T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140220T220000Z
+URL:http://www.lolesports.com/tourney/match/1851
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU L
+ CS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1851
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1854
+DTSTART:20140221T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140221T210000Z
+URL:http://www.lolesports.com/tourney/match/1854
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1854
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1857
+DTSTART:20140227T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140227T200000Z
+URL:http://www.lolesports.com/tourney/match/1857
+SUMMARY:SK Gaming vs Supa Hot Crew
+DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1857
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1862
+DTSTART:20140228T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140228T210000Z
+URL:http://www.lolesports.com/tourney/match/1862
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU L
+ CS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1862
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1866
+DTSTART:20140304T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140304T190000Z
+URL:http://www.lolesports.com/tourney/match/1866
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU 
+ LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1866
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1869
+DTSTART:20140305T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140305T170000Z
+URL:http://www.lolesports.com/tourney/match/1869
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1869
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1876
+DTSTART:20140306T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140306T180000Z
+URL:http://www.lolesports.com/tourney/match/1876
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1876
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1878
+DTSTART:20140306T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140306T200000Z
+URL:http://www.lolesports.com/tourney/match/1878
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1878
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1883
+DTSTART:20140320T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140320T220000Z
+URL:http://www.lolesports.com/tourney/match/1883
+SUMMARY:Copenhagen Wolves vs SK Gaming
+DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1883
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1885
+DTSTART:20140321T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140321T200000Z
+URL:http://www.lolesports.com/tourney/match/1885
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1885
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1889
+DTSTART:20140327T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140327T200000Z
+URL:http://www.lolesports.com/tourney/match/1889
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1889
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1892
+DTSTART:20140328T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140328T170000Z
+URL:http://www.lolesports.com/tourney/match/1892
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU L
+ CS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1892
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1898
+DTSTART:20140401T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140401T180000Z
+URL:http://www.lolesports.com/tourney/match/1898
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1898
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1903
+DTSTART:20140402T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T180000Z
+URL:http://www.lolesports.com/tourney/match/1903
+SUMMARY:Supa Hot Crew vs SK Gaming
+DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1903
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1905
+DTSTART:20140402T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T200000Z
+URL:http://www.lolesports.com/tourney/match/1905
+SUMMARY:SK Gaming vs Copenhagen Wolves
+DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
+ t : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1905
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1907
+DTSTART:20140403T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140403T160000Z
+URL:http://www.lolesports.com/tourney/match/1907
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU 
+ LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1907
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2164
+DTSTART:20140416T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140416T180000Z
+URL:http://www.lolesports.com/tourney/match/2164
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO3\nTournament : EU LCS
+  Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2164
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2166
+DTSTART:20140417T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140417T180000Z
+URL:http://www.lolesports.com/tourney/match/2166
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO5\nTournament : EU LCS
+  Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2166
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2291
+DTSTART:20140520T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140520T160000Z
+URL:http://www.lolesports.com/tourney/match/2291
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2291
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2296
+DTSTART:20140521T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140521T160000Z
+URL:http://www.lolesports.com/tourney/match/2296
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2296
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2299
+DTSTART:20140521T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140521T190000Z
+URL:http://www.lolesports.com/tourney/match/2299
+SUMMARY:SK Gaming vs Copenhagen Wolves
+DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2299
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2306
+DTSTART:20140522T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140522T200000Z
+URL:http://www.lolesports.com/tourney/match/2306
+SUMMARY:Supa Hot Crew vs SK Gaming
+DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2306
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2310
+DTSTART:20140529T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140529T200000Z
+URL:http://www.lolesports.com/tourney/match/2310
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2310
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2311
+DTSTART:20140530T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140530T170000Z
+URL:http://www.lolesports.com/tourney/match/2311
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU L
+ CS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2311
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2316
+DTSTART:20140605T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140605T180000Z
+URL:http://www.lolesports.com/tourney/match/2316
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU 
+ LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2316
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2319
+DTSTART:20140606T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140606T170000Z
+URL:http://www.lolesports.com/tourney/match/2319
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2319
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2323
+DTSTART:20140612T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140612T170000Z
+URL:http://www.lolesports.com/tourney/match/2323
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2323
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2330
+DTSTART:20140613T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140613T200000Z
+URL:http://www.lolesports.com/tourney/match/2330
+SUMMARY:Copenhagen Wolves vs SK Gaming
+DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2330
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2331
+DTSTART:20140621T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140621T170000Z
+URL:http://www.lolesports.com/tourney/match/2331
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU L
+ CS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2331
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2336
+DTSTART:20140622T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140622T180000Z
+URL:http://www.lolesports.com/tourney/match/2336
+SUMMARY:SK Gaming vs Supa Hot Crew
+DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2336
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2342
+DTSTART:20140626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140626T200000Z
+URL:http://www.lolesports.com/tourney/match/2342
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2342
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2344
+DTSTART:20140627T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140627T180000Z
+URL:http://www.lolesports.com/tourney/match/2344
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU 
+ LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2344
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2348
+DTSTART:20140701T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140701T170000Z
+URL:http://www.lolesports.com/tourney/match/2348
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2348
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2352
+DTSTART:20140702T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140702T160000Z
+URL:http://www.lolesports.com/tourney/match/2352
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO1\nTournament : EU L
+ CS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2352
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2354
+DTSTART:20140702T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140702T180000Z
+URL:http://www.lolesports.com/tourney/match/2354
+SUMMARY:Supa Hot Crew vs SK Gaming
+DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2354
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2360
+DTSTART:20140703T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140703T180000Z
+URL:http://www.lolesports.com/tourney/match/2360
+SUMMARY:SK Gaming vs Copenhagen Wolves
+DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2360
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2363
+DTSTART:20140710T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140710T170000Z
+URL:http://www.lolesports.com/tourney/match/2363
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2363
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2368
+DTSTART:20140711T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140711T200000Z
+URL:http://www.lolesports.com/tourney/match/2368
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2368
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2373
+DTSTART:20140717T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140717T200000Z
+URL:http://www.lolesports.com/tourney/match/2373
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU 
+ LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2373
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2376
+DTSTART:20140718T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140718T170000Z
+URL:http://www.lolesports.com/tourney/match/2376
+SUMMARY:Copenhagen Wolves vs SK Gaming
+DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2376
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2380
+DTSTART:20140724T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140724T200000Z
+URL:http://www.lolesports.com/tourney/match/2380
+SUMMARY:SK Gaming vs Supa Hot Crew
+DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
+ t : EU LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2380
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2383
+DTSTART:20140725T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140725T180000Z
+URL:http://www.lolesports.com/tourney/match/2383
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2383
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2389
+DTSTART:20140729T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140729T190000Z
+URL:http://www.lolesports.com/tourney/match/2389
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU 
+ LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2389
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2392
+DTSTART:20140730T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140730T190000Z
+URL:http://www.lolesports.com/tourney/match/2392
+SUMMARY:SK Gaming vs Alliance
+DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO1\nTournament : EU L
+ CS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2392
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2395
+DTSTART:20140730T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140730T210000Z
+URL:http://www.lolesports.com/tourney/match/2395
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2395
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2402
+DTSTART:20140731T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140731T160000Z
+URL:http://www.lolesports.com/tourney/match/2402
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2402
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3042
+DTSTART:20140808T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140808T160000Z
+URL:http://www.lolesports.com/tourney/match/3042
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO5\nTournament : EU 
+ LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3042
+CATEGORIES:EU LCS Summer Playoffs
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3044
+DTSTART:20140815T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140815T150000Z
+URL:http://www.lolesports.com/tourney/match/3044
+SUMMARY:Alliance vs SK Gaming
+DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO5\nTournament : EU L
+ CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3044
+CATEGORIES:EU LCS Summer Playoffs
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3047
+DTSTART:20140816T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140816T140000Z
+URL:http://www.lolesports.com/tourney/match/3047
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS
+  Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3047
+CATEGORIES:EU LCS Summer Playoffs
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3096
+DTSTART:20140918T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140918T110000Z
+URL:http://www.lolesports.com/tourney/match/3096
+SUMMARY:Team SoloMid vs SK Gaming
+DESCRIPTION:Team SoloMid (TSM) vs SK Gaming (SK)\nType : BO1\nTournament : 
+ Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3096
+CATEGORIES:Group B
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3099
+DTSTART:20140919T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T100000Z
+URL:http://www.lolesports.com/tourney/match/3099
+SUMMARY:Taipei Assassins vs SK Gaming
+DESCRIPTION:Taipei Assassins (TPA) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3099
+CATEGORIES:Group B
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3100
+DTSTART:20140919T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T120000Z
+URL:http://www.lolesports.com/tourney/match/3100
+SUMMARY:Star Horn Royal Club vs SK Gaming
+DESCRIPTION:Star Horn Royal Club (SHR) vs SK Gaming (SK)\nType : BO1\nTourn
+ ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3100
+CATEGORIES:Group B
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3102
+DTSTART:20140920T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T110000Z
+URL:http://www.lolesports.com/tourney/match/3102
+SUMMARY:SK Gaming vs Star Horn Royal Club
+DESCRIPTION:SK Gaming (SK) vs Star Horn Royal Club (SHR)\nType : BO1\nTourn
+ ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3102
+CATEGORIES:Group B
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3104
+DTSTART:20140920T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T150000Z
+URL:http://www.lolesports.com/tourney/match/3104
+SUMMARY:SK Gaming vs Taipei Assassins
+DESCRIPTION:SK Gaming (SK) vs Taipei Assassins (TPA)\nType : BO1\nTournamen
+ t : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3104
+CATEGORIES:Group B
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3107
+DTSTART:20140921T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T140000Z
+URL:http://www.lolesports.com/tourney/match/3107
+SUMMARY:SK Gaming vs Team SoloMid
+DESCRIPTION:SK Gaming (SK) vs Team SoloMid (TSM)\nType : BO1\nTournament : 
+ Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3107
+CATEGORIES:Group B
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3349
+DTSTART:20150122T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150122T210000Z
+URL:http://www.lolesports.com/tourney/match/3349
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3349
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3351
+DTSTART:20150123T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T180000Z
+URL:http://www.lolesports.com/tourney/match/3351
+SUMMARY:Meet Your Makers vs SK Gaming
+DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3351
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3359
+DTSTART:20150129T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150129T210000Z
+URL:http://www.lolesports.com/tourney/match/3359
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3359
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3364
+DTSTART:20150130T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T210000Z
+URL:http://www.lolesports.com/tourney/match/3364
+SUMMARY:SK Gaming vs Unicorns Of Love
+DESCRIPTION:SK Gaming (SK) vs Unicorns Of Love (UOL)\nType : BO1\nTournamen
+ t : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3364
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3366
+DTSTART:20150205T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150205T180000Z
+URL:http://www.lolesports.com/tourney/match/3366
+SUMMARY:H2k vs SK Gaming
+DESCRIPTION:H2K (H2K) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS Sp
+ ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /3366
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3375
+DTSTART:20150206T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150206T220000Z
+URL:http://www.lolesports.com/tourney/match/3375
+SUMMARY:Elements vs SK Gaming
+DESCRIPTION:Elements (EL) vs SK Gaming (SK)\nType : BO1\nTournament : EU LC
+ S Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/3375
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3380
+DTSTART:20150212T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T220000Z
+URL:http://www.lolesports.com/tourney/match/3380
+SUMMARY:Copenhagen Wolves vs SK Gaming
+DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3380
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3382
+DTSTART:20150213T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T190000Z
+URL:http://www.lolesports.com/tourney/match/3382
+SUMMARY:SK Gaming vs GIANTS GAMING
+DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
+  EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3382
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3388
+DTSTART:20150219T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150219T200000Z
+URL:http://www.lolesports.com/tourney/match/3388
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3388
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3395
+DTSTART:20150220T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150220T220000Z
+URL:http://www.lolesports.com/tourney/match/3395
+SUMMARY:SK Gaming vs H2k
+DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Sp
+ ring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /3395
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3397
+DTSTART:20150226T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T190000Z
+URL:http://www.lolesports.com/tourney/match/3397
+SUMMARY:Unicorns Of Love vs SK Gaming
+DESCRIPTION:Unicorns Of Love (UOL) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3397
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3403
+DTSTART:20150227T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T200000Z
+URL:http://www.lolesports.com/tourney/match/3403
+SUMMARY:SK Gaming vs Elements
+DESCRIPTION:SK Gaming (SK) vs Elements (EL)\nType : BO1\nTournament : EU LC
+ S Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/3403
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3409
+DTSTART:20150305T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T210000Z
+URL:http://www.lolesports.com/tourney/match/3409
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
+  Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3409
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3411
+DTSTART:20150306T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T180000Z
+URL:http://www.lolesports.com/tourney/match/3411
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3411
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3420
+DTSTART:20150319T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150319T220000Z
+URL:http://www.lolesports.com/tourney/match/3420
+SUMMARY:GIANTS GAMING vs SK Gaming
+DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3420
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3424
+DTSTART:20150320T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T200000Z
+URL:http://www.lolesports.com/tourney/match/3424
+SUMMARY:SK Gaming vs Copenhagen Wolves
+DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
+ t : EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3424
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3430
+DTSTART:20150326T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150326T200000Z
+URL:http://www.lolesports.com/tourney/match/3430
+SUMMARY:SK Gaming vs Meet Your Makers
+DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
+ t : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3430
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3432
+DTSTART:20150327T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150327T200000Z
+URL:http://www.lolesports.com/tourney/match/3432
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3432
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4508
+DTSTART:20150412T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150412T160000Z
+URL:http://www.lolesports.com/tourney/match/4508
+SUMMARY:SK Gaming vs Unicorns Of Love
+DESCRIPTION:SK Gaming (SK) vs Unicorns Of Love (UOL)\nType : BO5\nTournamen
+ t : EU LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4508
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4511
+DTSTART:20150418T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150418T160000Z
+URL:http://www.lolesports.com/tourney/match/4511
+SUMMARY:SK Gaming vs H2k
+DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO5\nTournament : EU LCS Sp
+ ring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4511
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4588
+DTSTART:20150528T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T210000Z
+URL:http://www.lolesports.com/tourney/match/4588
+SUMMARY:Copenhagen Wolves vs SK Gaming
+DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4588
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4594
+DTSTART:20150529T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T200000Z
+URL:http://www.lolesports.com/tourney/match/4594
+SUMMARY:Fnatic vs SK Gaming
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 E
+ U LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4594
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4599
+DTSTART:20150604T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T200000Z
+URL:http://www.lolesports.com/tourney/match/4599
+SUMMARY:SK Gaming vs Origen
+DESCRIPTION:SK Gaming (SK) vs Origen (OG)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4599
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4602
+DTSTART:20150605T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T180000Z
+URL:http://www.lolesports.com/tourney/match/4602
+SUMMARY:Giants Gaming vs SK Gaming
+DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
+  2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/4602
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4608
+DTSTART:20150611T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T190000Z
+URL:http://www.lolesports.com/tourney/match/4608
+SUMMARY:SK Gaming vs H2K
+DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU L
+ CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4608
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4614
+DTSTART:20150612T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T200000Z
+URL:http://www.lolesports.com/tourney/match/4614
+SUMMARY:Gambit Gaming vs SK Gaming
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  2015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/4614
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4619
+DTSTART:20150618T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T200000Z
+URL:http://www.lolesports.com/tourney/match/4619
+SUMMARY:SK Gaming vs Unicorns Of Love
+DESCRIPTION:SK Gaming (SK) vs Unicorns Of Love (UOL)\nType : BO1\nTournamen
+ t : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4619
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4621
+DTSTART:20150619T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T170000Z
+URL:http://www.lolesports.com/tourney/match/4621
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 E
+ U LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4621
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4630
+DTSTART:20150625T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T210000Z
+URL:http://www.lolesports.com/tourney/match/4630
+SUMMARY:Elements vs SK Gaming
+DESCRIPTION:Elements (EL) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 
+ EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4630
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4635
+DTSTART:20150626T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T210000Z
+URL:http://www.lolesports.com/tourney/match/4635
+SUMMARY:H2K vs SK Gaming
+DESCRIPTION:H2K (H2K) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 EU L
+ CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4635
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4638
+DTSTART:20150702T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T180000Z
+URL:http://www.lolesports.com/tourney/match/4638
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 E
+ U LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4638
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4641
+DTSTART:20150703T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T170000Z
+URL:http://www.lolesports.com/tourney/match/4641
+SUMMARY:SK Gaming vs GIANTS GAMING
+DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
+  2015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/4641
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4647
+DTSTART:20150709T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T180000Z
+URL:http://www.lolesports.com/tourney/match/4647
+SUMMARY:SK Gaming vs Gambit Gaming
+DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/4647
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4654
+DTSTART:20150710T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T200000Z
+URL:http://www.lolesports.com/tourney/match/4654
+SUMMARY:SK Gaming vs Copenhagen Wolves
+DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
+ t : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4654
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4656
+DTSTART:20150716T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T170000Z
+URL:http://www.lolesports.com/tourney/match/4656
+SUMMARY:Unicorns Of Love vs SK Gaming
+DESCRIPTION:Unicorns Of Love (UOL) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : 2015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4656
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4661
+DTSTART:20150717T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T170000Z
+URL:http://www.lolesports.com/tourney/match/4661
+SUMMARY:ORIGEN vs SK Gaming
+DESCRIPTION:Origen (OG) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4661
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4666
+DTSTART:20150723T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T170000Z
+URL:http://www.lolesports.com/tourney/match/4666
+SUMMARY:SK Gaming vs Fnatic
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 E
+ U LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4666
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4674
+DTSTART:20150724T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T200000Z
+URL:http://www.lolesports.com/tourney/match/4674
+SUMMARY:SK Gaming vs Elements
+DESCRIPTION:SK Gaming (SK) vs Elements (EL)\nType : BO1\nTournament : 2015 
+ EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4674
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152728Z
+END:VEVENT
+END:VCALENDAR

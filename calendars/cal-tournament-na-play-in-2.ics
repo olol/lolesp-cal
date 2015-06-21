@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-na-play-in-2
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1668
+DTSTART:20140119T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140119T020000Z
+URL:http://www.lolesports.com/tourney/match/1668
+SUMMARY:LMQ vs vVv Gaming Red
+DESCRIPTION:LMQ (LMQ) vs vVv Gaming Red (VVV)\nType : BO1\nTournament : NA 
+ Play in 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1668
+CATEGORIES:NA Play in 2
+DTSTAMP:20150621T152751Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,845 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-mou
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-778
+DTSTART:20130503T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130503T100000Z
+URL:http://www.lolesports.com/tourney/match/778
+SUMMARY:Meet Your Makers vs Dexterisactuallyevil
+DESCRIPTION:Mousesports (MOU) vs Dexterisactuallyevil ()\nType : BO3\nTourn
+ ament : EU Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/778
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-782
+DTSTART:20130506T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130506T180000Z
+URL:http://www.lolesports.com/tourney/match/782
+SUMMARY:Dragonborns vs Meet Your Makers
+DESCRIPTION:Dragonborns () vs Mousesports (MOU)\nType : BO5\nTournament : E
+ U Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/782
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1478
+DTSTART:20130615T141500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T151500Z
+URL:http://www.lolesports.com/tourney/match/1478
+SUMMARY:Meet Your Makers vs SK Gaming
+DESCRIPTION:Mousesports (MOU) vs SK Gaming (SK)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1478
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1483
+DTSTART:20130615T203000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T213000Z
+URL:http://www.lolesports.com/tourney/match/1483
+SUMMARY:Meet Your Makers vs Ninjas in Pyjamas
+DESCRIPTION:Mousesports (MOU) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1483
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1487
+DTSTART:20130616T114500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T124500Z
+URL:http://www.lolesports.com/tourney/match/1487
+SUMMARY:Lemondogs vs Meet Your Makers
+DESCRIPTION:Lemondogs (LD) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1487
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1492
+DTSTART:20130616T184500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T194500Z
+URL:http://www.lolesports.com/tourney/match/1492
+SUMMARY:Meet Your Makers vs Fnatic
+DESCRIPTION:Mousesports (MOU) vs Fnatic (FNC)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1492
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1494
+DTSTART:20130617T181500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130617T191500Z
+URL:http://www.lolesports.com/tourney/match/1494
+SUMMARY:Meet Your Makers vs Millenium
+DESCRIPTION:Mousesports (MOU) vs  ()\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1494
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1501
+DTSTART:20130621T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130621T150000Z
+URL:http://www.lolesports.com/tourney/match/1501
+SUMMARY:Alliance vs Meet Your Makers
+DESCRIPTION:Alliance (ALL) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1501
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1499
+DTSTART:20130622T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T170000Z
+URL:http://www.lolesports.com/tourney/match/1499
+SUMMARY:Millenium vs Meet Your Makers
+DESCRIPTION: () vs Mousesports (MOU)\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1499
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1505
+DTSTART:20130623T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130623T170000Z
+URL:http://www.lolesports.com/tourney/match/1505
+SUMMARY:Meet Your Makers vs Gambit Gaming
+DESCRIPTION:Mousesports (MOU) vs Gambit Gaming (GMB)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1505
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1509
+DTSTART:20130629T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T170000Z
+URL:http://www.lolesports.com/tourney/match/1509
+SUMMARY:Ninjas in Pyjamas vs Meet Your Makers
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Mousesports (MOU)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1509
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1516
+DTSTART:20130630T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T200000Z
+URL:http://www.lolesports.com/tourney/match/1516
+SUMMARY:Meet Your Makers vs Lemondogs
+DESCRIPTION:Mousesports (MOU) vs Lemondogs (LD)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1516
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1517
+DTSTART:20130706T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T170000Z
+URL:http://www.lolesports.com/tourney/match/1517
+SUMMARY:Fnatic vs Meet Your Makers
+DESCRIPTION:Fnatic (FNC) vs Mousesports (MOU)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1517
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1522
+DTSTART:20130706T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T220000Z
+URL:http://www.lolesports.com/tourney/match/1522
+SUMMARY:Gambit Gaming vs Meet Your Makers
+DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1522
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1527
+DTSTART:20130707T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T190000Z
+URL:http://www.lolesports.com/tourney/match/1527
+SUMMARY:SK Gaming vs Meet Your Makers
+DESCRIPTION:SK Gaming (SK) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1527
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1529
+DTSTART:20130713T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T180000Z
+URL:http://www.lolesports.com/tourney/match/1529
+SUMMARY:Mousesports vs Gambit Gaming
+DESCRIPTION:Mousesports (MOU) vs Gambit Gaming (GMB)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1529
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1536
+DTSTART:20130714T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130714T200000Z
+URL:http://www.lolesports.com/tourney/match/1536
+SUMMARY:Meet Your Makers vs Alliance
+DESCRIPTION:Mousesports (MOU) vs Alliance (ALL)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1536
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1539
+DTSTART:20130718T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T170000Z
+URL:http://www.lolesports.com/tourney/match/1539
+SUMMARY:Meet Your Makers vs SK Gaming
+DESCRIPTION:Mousesports (MOU) vs SK Gaming (SK)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1539
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1541
+DTSTART:20130719T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T170000Z
+URL:http://www.lolesports.com/tourney/match/1541
+SUMMARY:Meet Your Makers vs Fnatic
+DESCRIPTION:Mousesports (MOU) vs Fnatic (FNC)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1541
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1547
+DTSTART:20130720T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T190000Z
+URL:http://www.lolesports.com/tourney/match/1547
+SUMMARY:Alliance vs Meet Your Makers
+DESCRIPTION:Alliance (ALL) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1547
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1551
+DTSTART:20130727T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T190000Z
+URL:http://www.lolesports.com/tourney/match/1551
+SUMMARY:Meet Your Makers vs Millenium
+DESCRIPTION:Mousesports (MOU) vs  ()\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1551
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1556
+DTSTART:20130728T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130728T200000Z
+URL:http://www.lolesports.com/tourney/match/1556
+SUMMARY:Meet Your Makers vs Ninjas in Pyjamas
+DESCRIPTION:Mousesports (MOU) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1556
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1559
+DTSTART:20130803T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T190000Z
+URL:http://www.lolesports.com/tourney/match/1559
+SUMMARY:Lemondogs vs Meet Your Makers
+DESCRIPTION:Lemondogs (LD) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1559
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1561
+DTSTART:20130803T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T210000Z
+URL:http://www.lolesports.com/tourney/match/1561
+SUMMARY:Millenium vs Meet Your Makers
+DESCRIPTION: () vs Mousesports (MOU)\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1561
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1565
+DTSTART:20130804T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T190000Z
+URL:http://www.lolesports.com/tourney/match/1565
+SUMMARY:Ninjas in Pyjamas vs Meet Your Makers
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Mousesports (MOU)\nType : BO1\nTourn
+ ament : EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1565
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1571
+DTSTART:20130815T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T150000Z
+URL:http://www.lolesports.com/tourney/match/1571
+SUMMARY:Gambit Gaming vs Meet Your Makers
+DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO1\nTournamen
+ t : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/1571
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1573
+DTSTART:20130815T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T170000Z
+URL:http://www.lolesports.com/tourney/match/1573
+SUMMARY:Meet Your Makers vs Alliance
+DESCRIPTION:Mousesports (MOU) vs Alliance (ALL)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1573
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1577
+DTSTART:20130816T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T130000Z
+URL:http://www.lolesports.com/tourney/match/1577
+SUMMARY:SK Gaming vs Meet Your Makers
+DESCRIPTION:SK Gaming (SK) vs Mousesports (MOU)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1577
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1583
+DTSTART:20130817T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T130000Z
+URL:http://www.lolesports.com/tourney/match/1583
+SUMMARY:Fnatic vs Meet Your Makers
+DESCRIPTION:Fnatic (FNC) vs Mousesports (MOU)\nType : BO1\nTournament : EU 
+ Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1583
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1585
+DTSTART:20130817T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T150000Z
+URL:http://www.lolesports.com/tourney/match/1585
+SUMMARY:Meet Your Makers vs Lemondogs
+DESCRIPTION:Mousesports (MOU) vs Lemondogs (LD)\nType : BO1\nTournament : E
+ U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1585
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1655
+DTSTART:20131213T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20131213T210000Z
+URL:http://www.lolesports.com/tourney/match/1655
+SUMMARY:Meet Your Makers vs Copenhagen Wolves
+DESCRIPTION:Mousesports (MOU) vs Copenhagen Wolves (CW)\nType : BO5\nTourna
+ ment : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/1655
+CATEGORIES:EU LCS Spring Promotion
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1947
+DTSTART:20140130T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140130T230000Z
+URL:http://www.lolesports.com/tourney/match/1947
+SUMMARY:Meet Your Makers vs EYES ON U
+DESCRIPTION:Mousesports (MOU) vs EYES ON U (EUO)\nType : BO3\nTournament : 
+ EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/1947
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1950
+DTSTART:20140207T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140207T230000Z
+URL:http://www.lolesports.com/tourney/match/1950
+SUMMARY:Meet Your Makers vs Cloud9 HyperX Eclipse
+DESCRIPTION:Mousesports (MOU) vs H2K (H2K)\nType : BO3\nTournament : EU Top
+  8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
+ 950
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1952
+DTSTART:20140213T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140213T230000Z
+URL:http://www.lolesports.com/tourney/match/1952
+SUMMARY:Tick Trick and Duck vs Meet Your Makers
+DESCRIPTION:Tick Trick and Duck (TTD) vs Mousesports (MOU)\nType : BO3\nTou
+ rnament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1952
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2089
+DTSTART:20140312T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140312T190000Z
+URL:http://www.lolesports.com/tourney/match/2089
+SUMMARY:Mousesports vs Reason Gaming
+DESCRIPTION:Mousesports (MOU) vs Reason Gaming (RG)\nType : BO3\nTournament
+  : EU CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2089
+CATEGORIES:EU CS 2 Top 8
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2175
+DTSTART:20140402T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T220000Z
+URL:http://www.lolesports.com/tourney/match/2175
+SUMMARY:Reason Gaming vs Mousesports
+DESCRIPTION:Reason Gaming (RG) vs Mousesports (MOU)\nType : BO3\nTournament
+  : EU LCS Spring Playoffs \nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/2175
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4446
+DTSTART:20150217T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150217T180000Z
+URL:http://www.lolesports.com/tourney/match/4446
+SUMMARY:Mousesports vs Reason Gaming
+DESCRIPTION:Mousesports (MOU) vs Reason Gaming (RG)\nType : BO1\nTournament
+  : 2015 EU CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4446
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4449
+DTSTART:20150218T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150218T180000Z
+URL:http://www.lolesports.com/tourney/match/4449
+SUMMARY:Reason Gaming vs Mousesports
+DESCRIPTION:Reason Gaming (RG) vs Mousesports (MOU)\nType : BO1\nTournament
+  : 2015 EU CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4449
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4453
+DTSTART:20150224T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150224T190000Z
+URL:http://www.lolesports.com/tourney/match/4453
+SUMMARY:Mousesports vs Team Dignitas EU
+DESCRIPTION:Mousesports (MOU) vs Team Dignitas EU (DEU)\nType : BO1\nTourna
+ ment : 2015 EU CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4453
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4456
+DTSTART:20150225T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150225T190000Z
+URL:http://www.lolesports.com/tourney/match/4456
+SUMMARY:Team Dignitas EU vs Mousesports
+DESCRIPTION:Team Dignitas EU (DEU) vs Mousesports (MOU)\nType : BO1\nTourna
+ ment : 2015 EU CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4456
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4460
+DTSTART:20150303T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150303T200000Z
+URL:http://www.lolesports.com/tourney/match/4460
+SUMMARY:LowLandLions White vs Mousesports
+DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Mousesports (MOU)\nType : BO
+ 1\nTournament : 2015 EU CS Spring\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4460
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4463
+DTSTART:20150304T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150304T200000Z
+URL:http://www.lolesports.com/tourney/match/4463
+SUMMARY:Mousesports vs LowLandLions White
+DESCRIPTION:Mousesports (MOU) vs Copenhagen Wolves Academy (CWA)\nType : BO
+ 1\nTournament : 2015 EU CS Spring\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4463
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4464
+DTSTART:20150317T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150317T180000Z
+URL:http://www.lolesports.com/tourney/match/4464
+SUMMARY:Mousesports vs ORIGEN
+DESCRIPTION:Mousesports (MOU) vs Origen (OG)\nType : BO1\nTournament : 2015
+  EU CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4464
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4467
+DTSTART:20150318T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T180000Z
+URL:http://www.lolesports.com/tourney/match/4467
+SUMMARY:ORIGEN vs Mousesports
+DESCRIPTION:Origen (OG) vs Mousesports (MOU)\nType : BO1\nTournament : 2015
+  EU CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4467
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4472
+DTSTART:20150324T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150324T200000Z
+URL:http://www.lolesports.com/tourney/match/4472
+SUMMARY:Gamers2 vs Mousesports
+DESCRIPTION:Gamers2 (G2) vs Mousesports (MOU)\nType : BO1\nTournament : 201
+ 5 EU CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4472
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4475
+DTSTART:20150325T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150325T200000Z
+URL:http://www.lolesports.com/tourney/match/4475
+SUMMARY:Mousesports vs Gamers2
+DESCRIPTION:Mousesports (MOU) vs Gamers2 (G2)\nType : BO1\nTournament : 201
+ 5 EU CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4475
+CATEGORIES:2015 EU CS Spring
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5112
+DTSTART:20150526T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150526T170000Z
+URL:http://www.lolesports.com/tourney/match/5112
+SUMMARY:Mousesports vs Epic Avalanche
+DESCRIPTION:Mousesports (MOU) vs Epic Avalanche (EA)\nType : BO3\nTournamen
+ t : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5112
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5117
+DTSTART:20150603T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T170000Z
+URL:http://www.lolesports.com/tourney/match/5117
+SUMMARY:LOW PRIORITY vs Mousesports
+DESCRIPTION:LOW PRIORITY (LP) vs Mousesports (MOU)\nType : BO3\nTournament 
+ : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/5117
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5120
+DTSTART:20150609T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150609T170000Z
+URL:http://www.lolesports.com/tourney/match/5120
+SUMMARY:Team Dignitas EU vs Mousesports
+DESCRIPTION:Team Dignitas EU (DEU) vs Mousesports (MOU)\nType : BO3\nTourna
+ ment : 2015 EU Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : h
+ ttp://www.lolesports.com/tourney/match/5120
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5122
+DTSTART:20150610T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T170000Z
+URL:http://www.lolesports.com/tourney/match/5122
+SUMMARY:Mousesports vs Ex Nihilo
+DESCRIPTION:Mousesports (MOU) vs Ex Nihilo (EXN)\nType : BO3\nTournament : 
+ 2015 EU Summer Challenger Qualifier\nWeek : 4\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/5122
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5255
+DTSTART:20150623T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150623T190000Z
+URL:http://www.lolesports.com/tourney/match/5255
+SUMMARY:Mousesports vs Ex Nihilo
+DESCRIPTION:Mousesports (MOU) vs Ex Nihilo (EXN)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5255
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5258
+DTSTART:20150624T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T190000Z
+URL:http://www.lolesports.com/tourney/match/5258
+SUMMARY:Ex Nihilo vs Mousesports
+DESCRIPTION:Ex Nihilo (EXN) vs Mousesports (MOU)\nType : BO1\nTournament : 
+ 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5258
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5261
+DTSTART:20150630T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150630T190000Z
+URL:http://www.lolesports.com/tourney/match/5261
+SUMMARY:Mousesports vs Gamers2
+DESCRIPTION:Mousesports (MOU) vs Gamers2 (G2)\nType : BO1\nTournament : 201
+ 5 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5261
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5264
+DTSTART:20150701T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T190000Z
+URL:http://www.lolesports.com/tourney/match/5264
+SUMMARY:Gamers2 vs Mousesports
+DESCRIPTION:Gamers2 (G2) vs Mousesports (MOU)\nType : BO1\nTournament : 201
+ 5 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5264
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5265
+DTSTART:20150707T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150707T170000Z
+URL:http://www.lolesports.com/tourney/match/5265
+SUMMARY:Team Dignitas EU vs Mousesports
+DESCRIPTION:Team Dignitas EU (DEU) vs Mousesports (MOU)\nType : BO1\nTourna
+ ment : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5265
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5268
+DTSTART:20150708T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T170000Z
+URL:http://www.lolesports.com/tourney/match/5268
+SUMMARY:Mousesports vs Team Dignitas EU
+DESCRIPTION:Mousesports (MOU) vs Team Dignitas EU (DEU)\nType : BO1\nTourna
+ ment : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5268
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5271
+DTSTART:20150714T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150714T170000Z
+URL:http://www.lolesports.com/tourney/match/5271
+SUMMARY:Overclockers UK vs Mousesports
+DESCRIPTION:Overclockers UK (OC) vs Mousesports (MOU)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5271
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5274
+DTSTART:20150715T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150715T170000Z
+URL:http://www.lolesports.com/tourney/match/5274
+SUMMARY:Mousesports vs Overclockers UK
+DESCRIPTION:Mousesports (MOU) vs Overclockers UK (OC)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5274
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5278
+DTSTART:20150721T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150721T180000Z
+URL:http://www.lolesports.com/tourney/match/5278
+SUMMARY:Denial eSports EU vs Mousesports
+DESCRIPTION:Denial eSports (DNE) vs Mousesports (MOU)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5278
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5281
+DTSTART:20150722T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150722T180000Z
+URL:http://www.lolesports.com/tourney/match/5281
+SUMMARY:Mousesports vs Denial eSports EU
+DESCRIPTION:Mousesports (MOU) vs Denial eSports (DNE)\nType : BO1\nTourname
+ nt : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5281
+CATEGORIES:2015 EU CS Summer
+DTSTAMP:20150621T152737Z
+END:VEVENT
+END:VCALENDAR

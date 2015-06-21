@@ -1,0 +1,509 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-el
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3346
+DTSTART:20150122T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150122T180000Z
+URL:http://www.lolesports.com/tourney/match/3346
+SUMMARY:Elements vs Fnatic
+DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS 
+ Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/3346
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3355
+DTSTART:20150123T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T220000Z
+URL:http://www.lolesports.com/tourney/match/3355
+SUMMARY:Unicorns Of Love vs Elements
+DESCRIPTION:Unicorns Of Love (UOL) vs Elements (EL)\nType : BO1\nTournament
+  : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3355
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3360
+DTSTART:20150129T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150129T220000Z
+URL:http://www.lolesports.com/tourney/match/3360
+SUMMARY:Elements vs Copenhagen Wolves
+DESCRIPTION:Elements (EL) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
+  : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3360
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3363
+DTSTART:20150130T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T200000Z
+URL:http://www.lolesports.com/tourney/match/3363
+SUMMARY:Elements vs ROCCAT
+DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS 
+ Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/3363
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3368
+DTSTART:20150205T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150205T200000Z
+URL:http://www.lolesports.com/tourney/match/3368
+SUMMARY:Meet Your Makers vs Elements
+DESCRIPTION:Meet Your Makers (MYM) vs Elements (EL)\nType : BO1\nTournament
+  : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3368
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3375
+DTSTART:20150206T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150206T220000Z
+URL:http://www.lolesports.com/tourney/match/3375
+SUMMARY:Elements vs SK Gaming
+DESCRIPTION:Elements (EL) vs SK Gaming (SK)\nType : BO1\nTournament : EU LC
+ S Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/3375
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3377
+DTSTART:20150212T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T190000Z
+URL:http://www.lolesports.com/tourney/match/3377
+SUMMARY:H2k vs Elements
+DESCRIPTION:H2K (H2K) vs Elements (EL)\nType : BO1\nTournament : EU LCS Spr
+ ing\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 3377
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3383
+DTSTART:20150213T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T200000Z
+URL:http://www.lolesports.com/tourney/match/3383
+SUMMARY:Gambit Gaming vs Elements
+DESCRIPTION:Gambit Gaming (GMB) vs Elements (EL)\nType : BO1\nTournament : 
+ EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/3383
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3387
+DTSTART:20150219T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150219T190000Z
+URL:http://www.lolesports.com/tourney/match/3387
+SUMMARY:Elements vs GIANTS GAMING
+DESCRIPTION:Elements (EL) vs Giants Gaming (GIA)\nType : BO1\nTournament : 
+ EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/3387
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3392
+DTSTART:20150220T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150220T190000Z
+URL:http://www.lolesports.com/tourney/match/3392
+SUMMARY:ROCCAT vs Elements
+DESCRIPTION:ROCCAT (ROC) vs Elements (EL)\nType : BO1\nTournament : EU LCS 
+ Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/3392
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3399
+DTSTART:20150226T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T210000Z
+URL:http://www.lolesports.com/tourney/match/3399
+SUMMARY:Elements vs Meet Your Makers
+DESCRIPTION:Elements (EL) vs Meet Your Makers (MYM)\nType : BO1\nTournament
+  : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3399
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3403
+DTSTART:20150227T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T200000Z
+URL:http://www.lolesports.com/tourney/match/3403
+SUMMARY:SK Gaming vs Elements
+DESCRIPTION:SK Gaming (SK) vs Elements (EL)\nType : BO1\nTournament : EU LC
+ S Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/3403
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3408
+DTSTART:20150305T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T200000Z
+URL:http://www.lolesports.com/tourney/match/3408
+SUMMARY:Copenhagen Wolves vs Elements
+DESCRIPTION:Copenhagen Wolves (CW) vs Elements (EL)\nType : BO1\nTournament
+  : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3408
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3412
+DTSTART:20150306T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T190000Z
+URL:http://www.lolesports.com/tourney/match/3412
+SUMMARY:Elements vs Unicorns Of Love
+DESCRIPTION:Elements (EL) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
+  : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3412
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3416
+DTSTART:20150319T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150319T210000Z
+URL:http://www.lolesports.com/tourney/match/3416
+SUMMARY:Elements vs H2k
+DESCRIPTION:Elements (EL) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Spr
+ ing\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 3416
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3423
+DTSTART:20150320T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T220000Z
+URL:http://www.lolesports.com/tourney/match/3423
+SUMMARY:Elements vs Gambit Gaming
+DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 
+ EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/3423
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3427
+DTSTART:20150326T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150326T210000Z
+URL:http://www.lolesports.com/tourney/match/3427
+SUMMARY:GIANTS GAMING vs Elements
+DESCRIPTION:Giants Gaming (GIA) vs Elements (EL)\nType : BO1\nTournament : 
+ EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/3427
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3433
+DTSTART:20150327T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150327T190000Z
+URL:http://www.lolesports.com/tourney/match/3433
+SUMMARY:Fnatic vs Elements
+DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : EU LCS 
+ Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/3433
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4589
+DTSTART:20150528T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T190000Z
+URL:http://www.lolesports.com/tourney/match/4589
+SUMMARY:Gambit Gaming vs Elements
+DESCRIPTION:Gambit Gaming (GMB) vs Elements (EL)\nType : BO1\nTournament : 
+ 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4589
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4595
+DTSTART:20150529T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T210000Z
+URL:http://www.lolesports.com/tourney/match/4595
+SUMMARY:Elements vs Unicorns Of Love
+DESCRIPTION:Elements (EL) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
+  : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4595
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4596
+DTSTART:20150604T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T170000Z
+URL:http://www.lolesports.com/tourney/match/4596
+SUMMARY:Elements vs Giants Gaming
+DESCRIPTION:Elements (EL) vs Giants Gaming (GIA)\nType : BO1\nTournament : 
+ 2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4596
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4604
+DTSTART:20150605T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T200000Z
+URL:http://www.lolesports.com/tourney/match/4604
+SUMMARY:H2K vs Elements
+DESCRIPTION:H2K (H2K) vs Elements (EL)\nType : BO1\nTournament : 2015 EU LC
+ S Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4604
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4609
+DTSTART:20150611T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T200000Z
+URL:http://www.lolesports.com/tourney/match/4609
+SUMMARY:Fnatic vs Elements
+DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4609
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4613
+DTSTART:20150612T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T190000Z
+URL:http://www.lolesports.com/tourney/match/4613
+SUMMARY:Elements vs Copenhagen Wolves
+DESCRIPTION:Elements (EL) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
+  : 2015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4613
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4617
+DTSTART:20150618T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T180000Z
+URL:http://www.lolesports.com/tourney/match/4617
+SUMMARY:Elements vs ROCCAT
+DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4617
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4625
+DTSTART:20150619T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T210000Z
+URL:http://www.lolesports.com/tourney/match/4625
+SUMMARY:Origen vs Elements
+DESCRIPTION:Origen (OG) vs Elements (EL)\nType : BO1\nTournament : 2015 EU 
+ LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/4625
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4630
+DTSTART:20150625T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T210000Z
+URL:http://www.lolesports.com/tourney/match/4630
+SUMMARY:Elements vs SK Gaming
+DESCRIPTION:Elements (EL) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 
+ EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4630
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4634
+DTSTART:20150626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T200000Z
+URL:http://www.lolesports.com/tourney/match/4634
+SUMMARY:GIANTS GAMING vs Elements
+DESCRIPTION:Giants Gaming (GIA) vs Elements (EL)\nType : BO1\nTournament : 
+ 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4634
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4637
+DTSTART:20150702T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T210000Z
+URL:http://www.lolesports.com/tourney/match/4637
+SUMMARY:Elements vs H2K
+DESCRIPTION:Elements (EL) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU LC
+ S Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4637
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4645
+DTSTART:20150703T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T200000Z
+URL:http://www.lolesports.com/tourney/match/4645
+SUMMARY:Elements vs ORIGEN
+DESCRIPTION:Elements (EL) vs Origen (OG)\nType : BO1\nTournament : 2015 EU 
+ LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/4645
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4650
+DTSTART:20150709T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T210000Z
+URL:http://www.lolesports.com/tourney/match/4650
+SUMMARY:ROCCAT vs Elements
+DESCRIPTION:ROCCAT (ROC) vs Elements (EL)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4650
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4652
+DTSTART:20150710T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T180000Z
+URL:http://www.lolesports.com/tourney/match/4652
+SUMMARY:Unicorns Of Love vs Elements
+DESCRIPTION:Unicorns Of Love (UOL) vs Elements (EL)\nType : BO1\nTournament
+  : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4652
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4657
+DTSTART:20150716T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T180000Z
+URL:http://www.lolesports.com/tourney/match/4657
+SUMMARY:Copenhagen Wolves vs Elements
+DESCRIPTION:Copenhagen Wolves (CW) vs Elements (EL)\nType : BO1\nTournament
+  : 2015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4657
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4665
+DTSTART:20150717T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T210000Z
+URL:http://www.lolesports.com/tourney/match/4665
+SUMMARY:Elements vs Fnatic
+DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4665
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4669
+DTSTART:20150723T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T200000Z
+URL:http://www.lolesports.com/tourney/match/4669
+SUMMARY:Elements vs Gambit Gaming
+DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 
+ 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4669
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4674
+DTSTART:20150724T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T200000Z
+URL:http://www.lolesports.com/tourney/match/4674
+SUMMARY:SK Gaming vs Elements
+DESCRIPTION:SK Gaming (SK) vs Elements (EL)\nType : BO1\nTournament : 2015 
+ EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4674
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152813Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-na-cs-play-in-4
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2638
+DTSTART:20140518T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140518T230000Z
+URL:http://www.lolesports.com/tourney/match/2638
+SUMMARY:Curse Academy vs Denial eSports NA
+DESCRIPTION:Curse Academy (CA) vs Denial eSports NA (DNL)\nType : BO1\nTour
+ nament : NA CS Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2638
+CATEGORIES:NA CS Play In 4
+DTSTAMP:20150621T152801Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2638
+DTSTART:20140518T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140518T230000Z
+URL:http://www.lolesports.com/tourney/match/2638
+SUMMARY:Curse Academy vs Denial eSports NA
+DESCRIPTION:Curse Academy (CA) vs Denial eSports NA (DNL)\nType : BO1\nTour
+ nament : NA CS Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2638
+CATEGORIES:NA CS Play In 4
+DTSTAMP:20150621T152801Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1573 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-na-lcs-summer-split
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2515
+DTSTART:20140523T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140523T200000Z
+URL:http://www.lolesports.com/tourney/match/2515
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2515
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2516
+DTSTART:20140523T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140523T210000Z
+URL:http://www.lolesports.com/tourney/match/2516
+SUMMARY:Curse vs Counter Logic Gaming
+DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2516
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2517
+DTSTART:20140523T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140523T220000Z
+URL:http://www.lolesports.com/tourney/match/2517
+SUMMARY:LMQ vs Evil Geniuses
+DESCRIPTION:LMQ (LMQ) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2517
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2518
+DTSTART:20140523T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140523T230000Z
+URL:http://www.lolesports.com/tourney/match/2518
+SUMMARY:compLexity  vs Team Dignitas
+DESCRIPTION:compLexity Black (CLB) vs Team Dignitas (DIG)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2518
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2519
+DTSTART:20140523T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T000000Z
+URL:http://www.lolesports.com/tourney/match/2519
+SUMMARY:Counter Logic Gaming vs LMQ
+DESCRIPTION:Counter Logic Gaming (CLG) vs LMQ (LMQ)\nType : BO1\nTournament
+  : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2519
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2520
+DTSTART:20140524T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T200000Z
+URL:http://www.lolesports.com/tourney/match/2520
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2520
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2521
+DTSTART:20140524T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T210000Z
+URL:http://www.lolesports.com/tourney/match/2521
+SUMMARY:compLexity  vs LMQ
+DESCRIPTION:compLexity Black (CLB) vs LMQ (LMQ)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2521
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2522
+DTSTART:20140524T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T220000Z
+URL:http://www.lolesports.com/tourney/match/2522
+SUMMARY:Team Dignitas vs Evil Geniuses
+DESCRIPTION:Team Dignitas (DIG) vs Evil Geniuses (EG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2522
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2523
+DTSTART:20140524T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T230000Z
+URL:http://www.lolesports.com/tourney/match/2523
+SUMMARY:Team SoloMid vs compLexity 
+DESCRIPTION:Team SoloMid (TSM) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2523
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2524
+DTSTART:20140524T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T000000Z
+URL:http://www.lolesports.com/tourney/match/2524
+SUMMARY:Team Dignitas vs Cloud9 
+DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2524
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2525
+DTSTART:20140525T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T010000Z
+URL:http://www.lolesports.com/tourney/match/2525
+SUMMARY:Evil Geniuses vs Counter Logic Gaming
+DESCRIPTION:Evil Geniuses (EG) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2525
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2526
+DTSTART:20140525T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T200000Z
+URL:http://www.lolesports.com/tourney/match/2526
+SUMMARY:LMQ vs Curse
+DESCRIPTION:LMQ (LMQ) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Summe
+ r Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/2526
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2527
+DTSTART:20140525T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T210000Z
+URL:http://www.lolesports.com/tourney/match/2527
+SUMMARY:Cloud9  vs compLexity 
+DESCRIPTION:Cloud9  (C9) vs compLexity Black (CLB)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2527
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2528
+DTSTART:20140525T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T220000Z
+URL:http://www.lolesports.com/tourney/match/2528
+SUMMARY:Evil Geniuses vs Team SoloMid
+DESCRIPTION:Evil Geniuses (EG) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2528
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2529
+DTSTART:20140525T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T230000Z
+URL:http://www.lolesports.com/tourney/match/2529
+SUMMARY:Curse vs Team Dignitas
+DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2529
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2530
+DTSTART:20140525T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140526T000000Z
+URL:http://www.lolesports.com/tourney/match/2530
+SUMMARY:Counter Logic Gaming vs Cloud9 
+DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
+ ent : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2530
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2531
+DTSTART:20140531T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140531T200000Z
+URL:http://www.lolesports.com/tourney/match/2531
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2531
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2532
+DTSTART:20140531T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140531T210000Z
+URL:http://www.lolesports.com/tourney/match/2532
+SUMMARY:compLexity  vs Evil Geniuses
+DESCRIPTION:compLexity Black (CLB) vs Evil Geniuses (EG)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2532
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2533
+DTSTART:20140531T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140531T220000Z
+URL:http://www.lolesports.com/tourney/match/2533
+SUMMARY:LMQ vs Team Dignitas
+DESCRIPTION:LMQ (LMQ) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
+ CS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2533
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2534
+DTSTART:20140531T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140531T230000Z
+URL:http://www.lolesports.com/tourney/match/2534
+SUMMARY:Cloud9  vs Curse
+DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Su
+ mmer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2534
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2535
+DTSTART:20140601T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140601T200000Z
+URL:http://www.lolesports.com/tourney/match/2535
+SUMMARY:LMQ vs Cloud9 
+DESCRIPTION:LMQ (LMQ) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Summ
+ er Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2535
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2536
+DTSTART:20140601T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140601T210000Z
+URL:http://www.lolesports.com/tourney/match/2536
+SUMMARY:Curse vs Evil Geniuses
+DESCRIPTION:Curse (CRS) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2536
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2537
+DTSTART:20140601T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140601T220000Z
+URL:http://www.lolesports.com/tourney/match/2537
+SUMMARY:compLexity  vs Counter Logic Gaming
+DESCRIPTION:compLexity Black (CLB) vs Counter Logic Gaming (CLG)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/2537
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2538
+DTSTART:20140601T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140601T230000Z
+URL:http://www.lolesports.com/tourney/match/2538
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2538
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2539
+DTSTART:20140607T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140607T200000Z
+URL:http://www.lolesports.com/tourney/match/2539
+SUMMARY:Team SoloMid vs LMQ
+DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2539
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2540
+DTSTART:20140607T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140607T210000Z
+URL:http://www.lolesports.com/tourney/match/2540
+SUMMARY:Evil Geniuses vs Cloud9 
+DESCRIPTION:Evil Geniuses (EG) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2540
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2541
+DTSTART:20140607T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140607T220000Z
+URL:http://www.lolesports.com/tourney/match/2541
+SUMMARY:Team Dignitas vs Counter Logic Gaming
+DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
+ Tournament : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/2541
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2542
+DTSTART:20140607T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140607T230000Z
+URL:http://www.lolesports.com/tourney/match/2542
+SUMMARY:compLexity  vs Curse
+DESCRIPTION:compLexity Black (CLB) vs Curse (CRS)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2542
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2543
+DTSTART:20140608T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140608T200000Z
+URL:http://www.lolesports.com/tourney/match/2543
+SUMMARY:Cloud9  vs Counter Logic Gaming
+DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
+ ent : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2543
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2544
+DTSTART:20140608T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140608T210000Z
+URL:http://www.lolesports.com/tourney/match/2544
+SUMMARY:LMQ vs compLexity 
+DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2544
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2545
+DTSTART:20140608T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140608T220000Z
+URL:http://www.lolesports.com/tourney/match/2545
+SUMMARY:Evil Geniuses vs Team Dignitas
+DESCRIPTION:Evil Geniuses (EG) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2545
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2546
+DTSTART:20140608T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140608T230000Z
+URL:http://www.lolesports.com/tourney/match/2546
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2546
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2547
+DTSTART:20140614T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140614T200000Z
+URL:http://www.lolesports.com/tourney/match/2547
+SUMMARY:Team SoloMid vs Cloud9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2547
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2548
+DTSTART:20140614T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140614T210000Z
+URL:http://www.lolesports.com/tourney/match/2548
+SUMMARY:Evil Geniuses vs LMQ
+DESCRIPTION:Evil Geniuses (EG) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2548
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2549
+DTSTART:20140614T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140614T220000Z
+URL:http://www.lolesports.com/tourney/match/2549
+SUMMARY:Team Dignitas vs Curse
+DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2549
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2550
+DTSTART:20140614T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140614T230000Z
+URL:http://www.lolesports.com/tourney/match/2550
+SUMMARY:Counter Logic Gaming vs compLexity 
+DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity Black (CLB)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/2550
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2551
+DTSTART:20140615T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140615T200000Z
+URL:http://www.lolesports.com/tourney/match/2551
+SUMMARY:Curse vs LMQ
+DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summe
+ r Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/2551
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2552
+DTSTART:20140615T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140615T210000Z
+URL:http://www.lolesports.com/tourney/match/2552
+SUMMARY:compLexity  vs Team SoloMid
+DESCRIPTION:compLexity Black (CLB) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2552
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2553
+DTSTART:20140615T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140615T220000Z
+URL:http://www.lolesports.com/tourney/match/2553
+SUMMARY:Counter Logic Gaming vs Evil Geniuses
+DESCRIPTION:Counter Logic Gaming (CLG) vs Evil Geniuses (EG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2553
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2554
+DTSTART:20140615T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140615T230000Z
+URL:http://www.lolesports.com/tourney/match/2554
+SUMMARY:Cloud9  vs Team Dignitas
+DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2554
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2555
+DTSTART:20140619T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140619T200000Z
+URL:http://www.lolesports.com/tourney/match/2555
+SUMMARY:Curse vs Cloud9 
+DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Su
+ mmer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2555
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2556
+DTSTART:20140619T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140619T210000Z
+URL:http://www.lolesports.com/tourney/match/2556
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2556
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2557
+DTSTART:20140619T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140619T220000Z
+URL:http://www.lolesports.com/tourney/match/2557
+SUMMARY:LMQ vs Counter Logic Gaming
+DESCRIPTION:LMQ (LMQ) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2557
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2558
+DTSTART:20140619T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140619T230000Z
+URL:http://www.lolesports.com/tourney/match/2558
+SUMMARY:Evil Geniuses vs compLexity 
+DESCRIPTION:Evil Geniuses (EG) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2558
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2559
+DTSTART:20140620T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T200000Z
+URL:http://www.lolesports.com/tourney/match/2559
+SUMMARY:Team Dignitas vs compLexity 
+DESCRIPTION:Team Dignitas (DIG) vs compLexity Black (CLB)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2559
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2560
+DTSTART:20140620T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T210000Z
+URL:http://www.lolesports.com/tourney/match/2560
+SUMMARY:Team SoloMid vs Evil Geniuses
+DESCRIPTION:Team SoloMid (TSM) vs Evil Geniuses (EG)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2560
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2561
+DTSTART:20140620T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T220000Z
+URL:http://www.lolesports.com/tourney/match/2561
+SUMMARY:Counter Logic Gaming vs Curse
+DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2561
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2562
+DTSTART:20140620T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T230000Z
+URL:http://www.lolesports.com/tourney/match/2562
+SUMMARY:Cloud9  vs LMQ
+DESCRIPTION:Cloud9  (C9) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summ
+ er Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2562
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2563
+DTSTART:20140628T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T200000Z
+URL:http://www.lolesports.com/tourney/match/2563
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2563
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2564
+DTSTART:20140628T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T210000Z
+URL:http://www.lolesports.com/tourney/match/2564
+SUMMARY:compLexity  vs Cloud9 
+DESCRIPTION:compLexity Black (CLB) vs Cloud9  (C9)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2564
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2565
+DTSTART:20140628T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T220000Z
+URL:http://www.lolesports.com/tourney/match/2565
+SUMMARY:Evil Geniuses vs Curse
+DESCRIPTION:Evil Geniuses (EG) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2565
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2566
+DTSTART:20140628T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T230000Z
+URL:http://www.lolesports.com/tourney/match/2566
+SUMMARY:Team Dignitas vs LMQ
+DESCRIPTION:Team Dignitas (DIG) vs LMQ (LMQ)\nType : BO1\nTournament : NA L
+ CS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2566
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2567
+DTSTART:20140629T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140629T200000Z
+URL:http://www.lolesports.com/tourney/match/2567
+SUMMARY:Cloud9  vs Evil Geniuses
+DESCRIPTION:Cloud9  (C9) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2567
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2568
+DTSTART:20140629T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140629T210000Z
+URL:http://www.lolesports.com/tourney/match/2568
+SUMMARY:LMQ vs Team SoloMid
+DESCRIPTION:LMQ (LMQ) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2568
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2569
+DTSTART:20140629T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140629T220000Z
+URL:http://www.lolesports.com/tourney/match/2569
+SUMMARY:Counter Logic Gaming vs Team Dignitas
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
+ Tournament : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/2569
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2570
+DTSTART:20140629T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140629T230000Z
+URL:http://www.lolesports.com/tourney/match/2570
+SUMMARY:Curse vs compLexity 
+DESCRIPTION:Curse (CRS) vs compLexity Black (CLB)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2570
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2571
+DTSTART:20140704T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140704T200000Z
+URL:http://www.lolesports.com/tourney/match/2571
+SUMMARY:LMQ vs Cloud9 
+DESCRIPTION:LMQ (LMQ) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Summ
+ er Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2571
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2572
+DTSTART:20140704T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140704T210000Z
+URL:http://www.lolesports.com/tourney/match/2572
+SUMMARY:compLexity  vs Counter Logic Gaming
+DESCRIPTION:compLexity Black (CLB) vs Counter Logic Gaming (CLG)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/2572
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2573
+DTSTART:20140704T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140704T220000Z
+URL:http://www.lolesports.com/tourney/match/2573
+SUMMARY:Team Dignitas vs Evil Geniuses
+DESCRIPTION:Team Dignitas (DIG) vs Evil Geniuses (EG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2573
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2574
+DTSTART:20140704T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140704T230000Z
+URL:http://www.lolesports.com/tourney/match/2574
+SUMMARY:Counter Logic Gaming vs Cloud9 
+DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
+ ent : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2574
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2575
+DTSTART:20140704T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T000000Z
+URL:http://www.lolesports.com/tourney/match/2575
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2575
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2576
+DTSTART:20140705T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T200000Z
+URL:http://www.lolesports.com/tourney/match/2576
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2576
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2577
+DTSTART:20140705T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T210000Z
+URL:http://www.lolesports.com/tourney/match/2577
+SUMMARY:compLexity  vs Evil Geniuses
+DESCRIPTION:compLexity Black (CLB) vs Evil Geniuses (EG)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2577
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2578
+DTSTART:20140705T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T220000Z
+URL:http://www.lolesports.com/tourney/match/2578
+SUMMARY:LMQ vs Curse
+DESCRIPTION:LMQ (LMQ) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Summe
+ r Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/2578
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2579
+DTSTART:20140705T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T230000Z
+URL:http://www.lolesports.com/tourney/match/2579
+SUMMARY:Evil Geniuses vs Team SoloMid
+DESCRIPTION:Evil Geniuses (EG) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2579
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2580
+DTSTART:20140705T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T000000Z
+URL:http://www.lolesports.com/tourney/match/2580
+SUMMARY:Cloud9  vs Curse
+DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Su
+ mmer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2580
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2581
+DTSTART:20140706T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T010000Z
+URL:http://www.lolesports.com/tourney/match/2581
+SUMMARY:Counter Logic Gaming vs LMQ
+DESCRIPTION:Counter Logic Gaming (CLG) vs LMQ (LMQ)\nType : BO1\nTournament
+  : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2581
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2582
+DTSTART:20140706T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T200000Z
+URL:http://www.lolesports.com/tourney/match/2582
+SUMMARY:Curse vs Counter Logic Gaming
+DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2582
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2583
+DTSTART:20140706T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T210000Z
+URL:http://www.lolesports.com/tourney/match/2583
+SUMMARY:compLexity  vs Team Dignitas
+DESCRIPTION:compLexity Black (CLB) vs Team Dignitas (DIG)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2583
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2584
+DTSTART:20140706T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T220000Z
+URL:http://www.lolesports.com/tourney/match/2584
+SUMMARY:LMQ vs Evil Geniuses
+DESCRIPTION:LMQ (LMQ) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2584
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2585
+DTSTART:20140706T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T230000Z
+URL:http://www.lolesports.com/tourney/match/2585
+SUMMARY:Team SoloMid vs compLexity 
+DESCRIPTION:Team SoloMid (TSM) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2585
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2586
+DTSTART:20140706T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140707T000000Z
+URL:http://www.lolesports.com/tourney/match/2586
+SUMMARY:Team Dignitas vs Cloud9 
+DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2586
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2589
+DTSTART:20140712T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T200000Z
+URL:http://www.lolesports.com/tourney/match/2589
+SUMMARY:compLexity  vs Curse
+DESCRIPTION:compLexity Black (CLB) vs Curse (CRS)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2589
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2588
+DTSTART:20140712T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T210000Z
+URL:http://www.lolesports.com/tourney/match/2588
+SUMMARY:Evil Geniuses vs Cloud9 
+DESCRIPTION:Evil Geniuses (EG) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2588
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2587
+DTSTART:20140712T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T220000Z
+URL:http://www.lolesports.com/tourney/match/2587
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2587
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2590
+DTSTART:20140712T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T230000Z
+URL:http://www.lolesports.com/tourney/match/2590
+SUMMARY:LMQ vs Team Dignitas
+DESCRIPTION:LMQ (LMQ) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
+ CS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2590
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2593
+DTSTART:20140713T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140713T200000Z
+URL:http://www.lolesports.com/tourney/match/2593
+SUMMARY:Curse vs Evil Geniuses
+DESCRIPTION:Curse (CRS) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2593
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2592
+DTSTART:20140713T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140713T210000Z
+URL:http://www.lolesports.com/tourney/match/2592
+SUMMARY:Team Dignitas vs Counter Logic Gaming
+DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
+ Tournament : NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/2592
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2594
+DTSTART:20140713T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140713T220000Z
+URL:http://www.lolesports.com/tourney/match/2594
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2594
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2591
+DTSTART:20140713T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140713T230000Z
+URL:http://www.lolesports.com/tourney/match/2591
+SUMMARY:compLexity  vs LMQ
+DESCRIPTION:compLexity Black (CLB) vs LMQ (LMQ)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2591
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2598
+DTSTART:20140719T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T200000Z
+URL:http://www.lolesports.com/tourney/match/2598
+SUMMARY:Curse vs Team Dignitas
+DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2598
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2597
+DTSTART:20140719T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T210000Z
+URL:http://www.lolesports.com/tourney/match/2597
+SUMMARY:Evil Geniuses vs Counter Logic Gaming
+DESCRIPTION:Evil Geniuses (EG) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2597
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2595
+DTSTART:20140719T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T220000Z
+URL:http://www.lolesports.com/tourney/match/2595
+SUMMARY:Team SoloMid vs LMQ
+DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2595
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2596
+DTSTART:20140719T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T230000Z
+URL:http://www.lolesports.com/tourney/match/2596
+SUMMARY:Cloud9  vs compLexity 
+DESCRIPTION:Cloud9  (C9) vs compLexity Black (CLB)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2596
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2602
+DTSTART:20140720T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T200000Z
+URL:http://www.lolesports.com/tourney/match/2602
+SUMMARY:Evil Geniuses vs Team Dignitas
+DESCRIPTION:Evil Geniuses (EG) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2602
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2600
+DTSTART:20140720T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T210000Z
+URL:http://www.lolesports.com/tourney/match/2600
+SUMMARY:compLexity  vs Team SoloMid
+DESCRIPTION:compLexity Black (CLB) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2600
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2601
+DTSTART:20140720T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T220000Z
+URL:http://www.lolesports.com/tourney/match/2601
+SUMMARY:LMQ vs Counter Logic Gaming
+DESCRIPTION:LMQ (LMQ) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2601
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2599
+DTSTART:20140720T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T230000Z
+URL:http://www.lolesports.com/tourney/match/2599
+SUMMARY:Curse vs Cloud9 
+DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Su
+ mmer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2599
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2606
+DTSTART:20140726T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140726T200000Z
+URL:http://www.lolesports.com/tourney/match/2606
+SUMMARY:LMQ vs compLexity 
+DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2606
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2604
+DTSTART:20140726T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140726T210000Z
+URL:http://www.lolesports.com/tourney/match/2604
+SUMMARY:Team SoloMid vs Evil Geniuses
+DESCRIPTION:Team SoloMid (TSM) vs Evil Geniuses (EG)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2604
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2605
+DTSTART:20140726T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140726T220000Z
+URL:http://www.lolesports.com/tourney/match/2605
+SUMMARY:Cloud9  vs Team Dignitas
+DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2605
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2603
+DTSTART:20140726T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140726T230000Z
+URL:http://www.lolesports.com/tourney/match/2603
+SUMMARY:Counter Logic Gaming vs Curse
+DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2603
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2609
+DTSTART:20140727T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140727T200000Z
+URL:http://www.lolesports.com/tourney/match/2609
+SUMMARY:Evil Geniuses vs Curse
+DESCRIPTION:Evil Geniuses (EG) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2609
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2607
+DTSTART:20140727T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140727T210000Z
+URL:http://www.lolesports.com/tourney/match/2607
+SUMMARY:Cloud9  vs LMQ
+DESCRIPTION:Cloud9  (C9) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summ
+ er Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/2607
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2608
+DTSTART:20140727T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140727T220000Z
+URL:http://www.lolesports.com/tourney/match/2608
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/2608
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2610
+DTSTART:20140727T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140727T230000Z
+URL:http://www.lolesports.com/tourney/match/2610
+SUMMARY:Team Dignitas vs compLexity 
+DESCRIPTION:Team Dignitas (DIG) vs compLexity Black (CLB)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/2610
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2613
+DTSTART:20140801T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T200000Z
+URL:http://www.lolesports.com/tourney/match/2613
+SUMMARY:Curse vs compLexity 
+DESCRIPTION:Curse (CRS) vs compLexity Black (CLB)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2613
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2614
+DTSTART:20140801T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T210000Z
+URL:http://www.lolesports.com/tourney/match/2614
+SUMMARY:Cloud9  vs Evil Geniuses
+DESCRIPTION:Cloud9  (C9) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2614
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2612
+DTSTART:20140801T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T220000Z
+URL:http://www.lolesports.com/tourney/match/2612
+SUMMARY:LMQ vs Team SoloMid
+DESCRIPTION:LMQ (LMQ) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2612
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2611
+DTSTART:20140801T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T230000Z
+URL:http://www.lolesports.com/tourney/match/2611
+SUMMARY:compLexity  vs Cloud9 
+DESCRIPTION:compLexity Black (CLB) vs Cloud9  (C9)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2611
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2615
+DTSTART:20140801T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T000000Z
+URL:http://www.lolesports.com/tourney/match/2615
+SUMMARY:Counter Logic Gaming vs Team Dignitas
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
+ Tournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/2615
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2616
+DTSTART:20140802T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T200000Z
+URL:http://www.lolesports.com/tourney/match/2616
+SUMMARY:Team Dignitas vs Curse
+DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2616
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2621
+DTSTART:20140802T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T210000Z
+URL:http://www.lolesports.com/tourney/match/2621
+SUMMARY:Team SoloMid vs Cloud9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2621
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2617
+DTSTART:20140802T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T220000Z
+URL:http://www.lolesports.com/tourney/match/2617
+SUMMARY:Counter Logic Gaming vs Evil Geniuses
+DESCRIPTION:Counter Logic Gaming (CLG) vs Evil Geniuses (EG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/2617
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2619
+DTSTART:20140802T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T230000Z
+URL:http://www.lolesports.com/tourney/match/2619
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2619
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2618
+DTSTART:20140802T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T000000Z
+URL:http://www.lolesports.com/tourney/match/2618
+SUMMARY:Curse vs LMQ
+DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summe
+ r Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2618
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2620
+DTSTART:20140803T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T010000Z
+URL:http://www.lolesports.com/tourney/match/2620
+SUMMARY:Counter Logic Gaming vs compLexity 
+DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity Black (CLB)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/2620
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2625
+DTSTART:20140803T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T200000Z
+URL:http://www.lolesports.com/tourney/match/2625
+SUMMARY:Evil Geniuses vs compLexity 
+DESCRIPTION:Evil Geniuses (EG) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2625
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2624
+DTSTART:20140803T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T210000Z
+URL:http://www.lolesports.com/tourney/match/2624
+SUMMARY:Team Dignitas vs LMQ
+DESCRIPTION:Team Dignitas (DIG) vs LMQ (LMQ)\nType : BO1\nTournament : NA L
+ CS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2624
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2623
+DTSTART:20140803T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T220000Z
+URL:http://www.lolesports.com/tourney/match/2623
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2623
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2622
+DTSTART:20140803T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T230000Z
+URL:http://www.lolesports.com/tourney/match/2622
+SUMMARY:Evil Geniuses vs LMQ
+DESCRIPTION:Evil Geniuses (EG) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2622
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2626
+DTSTART:20140803T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140804T000000Z
+URL:http://www.lolesports.com/tourney/match/2626
+SUMMARY:Cloud9  vs Counter Logic Gaming
+DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
+ ent : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/2626
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152802Z
+END:VEVENT
+END:VCALENDAR

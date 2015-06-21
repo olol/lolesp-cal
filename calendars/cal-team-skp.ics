@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-skp
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1936
+DTSTART:20140117T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140117T010000Z
+URL:http://www.lolesports.com/tourney/match/1936
+SUMMARY:Gamers2 vs SK Gaming Prime
+DESCRIPTION:Gamers2 (defunct) (G2) vs SK Gaming Prime (SKP)\nType : BO1\nTo
+ urnament : EU Play in 6\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1936
+CATEGORIES:EU Play in 6
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1945
+DTSTART:20140123T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140123T230000Z
+URL:http://www.lolesports.com/tourney/match/1945
+SUMMARY:Ninjas in Pyjamas vs SK Gaming Prime
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming Prime (SKP)\nType : BO3\nT
+ ournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1945
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2086
+DTSTART:20140301T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140301T010000Z
+URL:http://www.lolesports.com/tourney/match/2086
+SUMMARY:SK Gaming Prime vs Departed
+DESCRIPTION:SK Gaming Prime (SKP) vs Denial eSports EU (DEFUNCT) (DNE)\nTyp
+ e : BO1\nTournament : EU CS 2 Play In 5\nWeek : 2\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/2086
+CATEGORIES:EU CS 2 Play In 5
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2653
+DTSTART:20140516T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140516T200000Z
+URL:http://www.lolesports.com/tourney/match/2653
+SUMMARY:Tricked vs SK Gaming Prime
+DESCRIPTION:Tricked (TRC) vs SK Gaming Prime (SKP)\nType : BO1\nTournament 
+ : EU CS Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2653
+CATEGORIES:EU CS Play In 4
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2668
+DTSTART:20140606T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140606T210000Z
+URL:http://www.lolesports.com/tourney/match/2668
+SUMMARY:H2k Gaming vs SK Gaming Prime
+DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO3\nTournament : EU
+  Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/2668
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2965
+DTSTART:20140627T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140627T210000Z
+URL:http://www.lolesports.com/tourney/match/2965
+SUMMARY:Invaders vs SK Gaming Prime
+DESCRIPTION:Invaders (INV) vs SK Gaming Prime (SKP)\nType : BO1\nTournament
+  : EU CS Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2965
+CATEGORIES:EU CS Play In 2
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2976
+DTSTART:20140717T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140717T210000Z
+URL:http://www.lolesports.com/tourney/match/2976
+SUMMARY:4everzenzyg vs SK Gaming Prime
+DESCRIPTION:4everzenzyg (4EZ) vs SK Gaming Prime (SKP)\nType : BO3\nTournam
+ ent : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2976
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2979
+DTSTART:20140724T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140724T210000Z
+URL:http://www.lolesports.com/tourney/match/2979
+SUMMARY:H2k Gaming vs SK Gaming Prime
+DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO3\nTournament : EU
+  Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/2979
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2981
+DTSTART:20140730T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140730T220000Z
+URL:http://www.lolesports.com/tourney/match/2981
+SUMMARY:SK Gaming Prime vs Ninjas in Pyjamas
+DESCRIPTION:SK Gaming Prime (SKP) vs Ninjas in Pyjamas (NIP)\nType : BO3\nT
+ ournament : EU Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2981
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2677
+DTSTART:20140805T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140805T160000Z
+URL:http://www.lolesports.com/tourney/match/2677
+SUMMARY:SK Gaming Prime vs Reason Gaming
+DESCRIPTION:SK Gaming Prime (SKP) vs Reason Gaming (RG)\nType : BO3\nTourna
+ ment : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2677
+CATEGORIES:EU CS Summer Playoffs
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2679
+DTSTART:20140806T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140806T160000Z
+URL:http://www.lolesports.com/tourney/match/2679
+SUMMARY:Ninjas in Pyjamas vs SK Gaming Prime
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming Prime (SKP)\nType : BO3\nT
+ ournament : EU CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/2679
+CATEGORIES:EU CS Summer Playoffs
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2681
+DTSTART:20140808T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140808T210000Z
+URL:http://www.lolesports.com/tourney/match/2681
+SUMMARY:H2k Gaming vs SK Gaming Prime
+DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO5\nTournament : EU
+  CS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2681
+CATEGORIES:EU CS Summer Playoffs
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3010
+DTSTART:20140910T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140910T180000Z
+URL:http://www.lolesports.com/tourney/match/3010
+SUMMARY:Gambit Gaming vs SK Gaming Prime
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming Prime (SKP)\nType : BO5\nTourn
+ ament : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/3010
+CATEGORIES:EU LCS Spring Promotion
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3179
+DTSTART:20141122T203000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141122T213000Z
+URL:http://www.lolesports.com/tourney/match/3179
+SUMMARY:Reason Gaming vs SK Gaming Prime
+DESCRIPTION:Reason Gaming (RG) vs SK Gaming Prime (SKP)\nType : BO3\nTourna
+ ment : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/3179
+CATEGORIES:Single Elimination Bracket
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4402
+DTSTART:20150120T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150120T190000Z
+URL:http://www.lolesports.com/tourney/match/4402
+SUMMARY:Annihilon Team vs SK Gaming Prime
+DESCRIPTION:Annihilon Team (AT) vs SK Gaming Prime (SKP)\nType : BO3\nTourn
+ ament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : 
+ http://www.lolesports.com/tourney/match/4402
+CATEGORIES:2015 EU Spring Challenger Qualifier
+DTSTAMP:20150621T152750Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4409
+DTSTART:20150203T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150203T180000Z
+URL:http://www.lolesports.com/tourney/match/4409
+SUMMARY:ThunderBot Sparta vs SK Gaming Prime
+DESCRIPTION:ThunderBot Sparta (TBS) vs SK Gaming Prime (SKP)\nType : BO3\nT
+ ournament : 2015 EU Spring Challenger Qualifier\nWeek : 2\nStream : No\nUr
+ l : http://www.lolesports.com/tourney/match/4409
+CATEGORIES:2015 EU Spring Challenger Qualifier
+DTSTAMP:20150621T152750Z
+END:VEVENT
+END:VCALENDAR

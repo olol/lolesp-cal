@@ -1,0 +1,453 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-cj
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2201
+DTSTART:20140312T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140312T120000Z
+URL:http://www.lolesports.com/tourney/match/2201
+SUMMARY:CJ Entus Frost vs Midas FIO
+DESCRIPTION:CJ ENTUS (CJ) vs Midas FIO ()\nType : BO2\nTournament : OGN Gro
+ up B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /2201
+CATEGORIES:OGN Group B
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2204
+DTSTART:20140326T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140326T120000Z
+URL:http://www.lolesports.com/tourney/match/2204
+SUMMARY:Samsung Galaxy Ozone vs CJ Entus Frost
+DESCRIPTION:Samsung White (SSW) vs CJ ENTUS (CJ)\nType : BO2\nTournament : 
+ OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2204
+CATEGORIES:OGN Group B
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2205
+DTSTART:20140329T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140329T120000Z
+URL:http://www.lolesports.com/tourney/match/2205
+SUMMARY:CJ Entus Frost vs Incredible Miracle 1
+DESCRIPTION:CJ ENTUS (CJ) vs Incredible Miracle 1 (IM1)\nType : BO2\nTourna
+ ment : OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2205
+CATEGORIES:OGN Group B
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2220
+DTSTART:20140418T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140418T110000Z
+URL:http://www.lolesports.com/tourney/match/2220
+SUMMARY:Samsung Blue vs CJ Entus Frost
+DESCRIPTION:Samsung Blue (SSB) vs CJ ENTUS (CJ)\nType : BO5\nTournament : O
+ GN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2220
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2955
+DTSTART:20140625T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140625T110000Z
+URL:http://www.lolesports.com/tourney/match/2955
+SUMMARY:CJ Entus Frost vs Bigfile Miracle
+DESCRIPTION:CJ ENTUS (CJ) vs Bigfile Miracle (BFM)\nType : BO2\nTournament 
+ : OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2955
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2956
+DTSTART:20140628T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T110000Z
+URL:http://www.lolesports.com/tourney/match/2956
+SUMMARY:Samsung White vs CJ Entus Frost
+DESCRIPTION:Samsung White (SSW) vs CJ ENTUS (CJ)\nType : BO2\nTournament : 
+ OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2956
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2959
+DTSTART:20140712T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T110000Z
+URL:http://www.lolesports.com/tourney/match/2959
+SUMMARY:CJ Entus Frost vs SK Telecom T1 S
+DESCRIPTION:CJ ENTUS (CJ) vs SK Telecom T1 S (SKS)\nType : BO2\nTournament 
+ : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2959
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3294
+DTSTART:20150110T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150110T100000Z
+URL:http://www.lolesports.com/tourney/match/3294
+SUMMARY:SKtelecom T1 vs CJ ENTUS
+DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 2
+ 015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3294
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3297
+DTSTART:20150116T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T100000Z
+URL:http://www.lolesports.com/tourney/match/3297
+SUMMARY:CJ ENTUS vs Najin e-mFire
+DESCRIPTION:CJ ENTUS (CJ) vs Najin e-mFire (NJE)\nType : BO3\nTournament : 
+ 2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/3297
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3300
+DTSTART:20150121T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150121T100000Z
+URL:http://www.lolesports.com/tourney/match/3300
+SUMMARY:KT Rolster vs CJ ENTUS
+DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 2015
+  LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3300
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3303
+DTSTART:20150124T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T090000Z
+URL:http://www.lolesports.com/tourney/match/3303
+SUMMARY:CJ ENTUS vs GE Tigers
+DESCRIPTION:CJ ENTUS (CJ) vs KOO Tigers (KOO)\nType : BO3\nTournament : 201
+ 5 LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3303
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3306
+DTSTART:20150130T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T090000Z
+URL:http://www.lolesports.com/tourney/match/3306
+SUMMARY:CJ ENTUS vs Samsung Galaxy
+DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
+  2015 LCK Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3306
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3312
+DTSTART:20150207T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T090000Z
+URL:http://www.lolesports.com/tourney/match/3312
+SUMMARY:Jin Air Green Wings vs CJ ENTUS
+DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO3\nTournam
+ ent : 2015 LCK Spring Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3312
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3314
+DTSTART:20150211T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150211T100000Z
+URL:http://www.lolesports.com/tourney/match/3314
+SUMMARY:Incredible Miracle vs CJ ENTUS
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs CJ ENTUS (CJ)\nType : BO3\nT
+ ournament : 2015 LCK Spring Split\nWeek : 6\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/3314
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3321
+DTSTART:20150228T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T090000Z
+URL:http://www.lolesports.com/tourney/match/3321
+SUMMARY:CJ ENTUS vs SK Telecom T1
+DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : 2
+ 015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3321
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3324
+DTSTART:20150306T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T090000Z
+URL:http://www.lolesports.com/tourney/match/3324
+SUMMARY:Najin e-mFire vs CJ ENTUS
+DESCRIPTION:Najin e-mFire (NJE) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 
+ 2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/3324
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3328
+DTSTART:20150318T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T100000Z
+URL:http://www.lolesports.com/tourney/match/3328
+SUMMARY:CJ ENTUS vs KT Rolster
+DESCRIPTION:CJ ENTUS (CJ) vs KT Rolster (KT)\nType : BO3\nTournament : 2015
+  LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3328
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3332
+DTSTART:20150321T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T110000Z
+URL:http://www.lolesports.com/tourney/match/3332
+SUMMARY:GE Tigers vs CJ ENTUS
+DESCRIPTION:KOO Tigers (KOO) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 201
+ 5 LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3332
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3335
+DTSTART:20150327T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150327T110000Z
+URL:http://www.lolesports.com/tourney/match/3335
+SUMMARY:Samsung Galaxy vs CJ ENTUS
+DESCRIPTION:Samsung Galaxy (SSG) vs CJ ENTUS (CJ)\nType : BO3\nTournament :
+  2015 LCK Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3335
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3341
+DTSTART:20150404T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150404T110000Z
+URL:http://www.lolesports.com/tourney/match/3341
+SUMMARY:CJ ENTUS vs Jin Air Green Wings
+DESCRIPTION:CJ ENTUS (CJ) vs Jin Air Green Wings (JAG)\nType : BO3\nTournam
+ ent : 2015 LCK Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3341
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3343
+DTSTART:20150410T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150410T100000Z
+URL:http://www.lolesports.com/tourney/match/3343
+SUMMARY:CJ ENTUS vs Incredible Miracle
+DESCRIPTION:CJ ENTUS (CJ) vs Longzhu Incredible Miracle (IM)\nType : BO3\nT
+ ournament : 2015 LCK Spring Split\nWeek : 12\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/3343
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4533
+DTSTART:20150417T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150417T100000Z
+URL:http://www.lolesports.com/tourney/match/4533
+SUMMARY:CJ ENTUS vs Jin Air Green Wings
+DESCRIPTION:CJ ENTUS (CJ) vs Jin Air Green Wings (JAG)\nType : BO5\nTournam
+ ent : 2015 LCK Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4533
+CATEGORIES:2015 LCK Spring Playoffs
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4534
+DTSTART:20150424T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150424T100000Z
+URL:http://www.lolesports.com/tourney/match/4534
+SUMMARY:CJ ENTUS vs SK Telecom T1
+DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO5\nTournament : 2
+ 015 LCK Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4534
+CATEGORIES:2015 LCK Spring Playoffs
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4936
+DTSTART:20150521T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150521T060000Z
+URL:http://www.lolesports.com/tourney/match/4936
+SUMMARY:CJ ENTUS vs Anarchy
+DESCRIPTION:CJ ENTUS (CJ) vs Anarchy (ANC)\nType : BO3\nTournament : 2015 L
+ CK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4936
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4942
+DTSTART:20150527T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T110000Z
+URL:http://www.lolesports.com/tourney/match/4942
+SUMMARY:KT Rolster vs CJ ENTUS
+DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 2015
+  LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4942
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4946
+DTSTART:20150530T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T090000Z
+URL:http://www.lolesports.com/tourney/match/4946
+SUMMARY:CJ ENTUS vs SBENU SONICBOOM
+DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournament 
+ : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4946
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4951
+DTSTART:20150605T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T090000Z
+URL:http://www.lolesports.com/tourney/match/4951
+SUMMARY:KOO Tigers vs CJ ENTUS
+DESCRIPTION:KOO Tigers (KOO) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 201
+ 5 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4951
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4959
+DTSTART:20150612T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T090000Z
+URL:http://www.lolesports.com/tourney/match/4959
+SUMMARY:CJ ENTUS vs SKTelecom T1
+DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : 2
+ 015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4959
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4963
+DTSTART:20150617T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T090000Z
+URL:http://www.lolesports.com/tourney/match/4963
+SUMMARY:Jin Air Green Wings vs CJ ENTUS
+DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO3\nTournam
+ ent : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4963
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4968
+DTSTART:20150619T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T110000Z
+URL:http://www.lolesports.com/tourney/match/4968
+SUMMARY:CJ ENTUS vs Najin e-mFire
+DESCRIPTION:CJ ENTUS (CJ) vs Najin e-mFire (NJE)\nType : BO3\nTournament : 
+ 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4968
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4971
+DTSTART:20150624T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T090000Z
+URL:http://www.lolesports.com/tourney/match/4971
+SUMMARY:Incredible Miracle vs CJ ENTUS
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs CJ ENTUS (CJ)\nType : BO3\nT
+ ournament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4971
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4975
+DTSTART:20150626T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T090000Z
+URL:http://www.lolesports.com/tourney/match/4975
+SUMMARY:CJ ENTUS vs Samsung Galaxy
+DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
+  2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4975
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152757Z
+END:VEVENT
+END:VCALENDAR

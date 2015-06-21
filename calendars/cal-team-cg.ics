@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-cg
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3150
+DTSTART:20141115T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141116T000000Z
+URL:http://www.lolesports.com/tourney/match/3150
+SUMMARY:Team Coast vs Call Gaming
+DESCRIPTION:Team Coast (CST) vs Call Gaming (CG)\nType : BO3\nTournament : 
+ Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/3150
+CATEGORIES:Single Elimination Bracket
+DTSTAMP:20150621T152805Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3181
+DTSTART:20141123T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141123T190000Z
+URL:http://www.lolesports.com/tourney/match/3181
+SUMMARY:Meloncats vs Cyber Gaming
+DESCRIPTION:Meloncats (MC) vs Cyber Gaming (CG)\nType : BO3\nTournament : S
+ ingle Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/3181
+CATEGORIES:Single Elimination Bracket
+DTSTAMP:20150621T152805Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4401
+DTSTART:20150120T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150120T180000Z
+URL:http://www.lolesports.com/tourney/match/4401
+SUMMARY:ThunderBot Sparta vs Cyber Gaming
+DESCRIPTION:ThunderBot Sparta (TBS) vs Cyber Gaming (CG)\nType : BO3\nTourn
+ ament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : 
+ http://www.lolesports.com/tourney/match/4401
+CATEGORIES:2015 EU Spring Challenger Qualifier
+DTSTAMP:20150621T152805Z
+END:VEVENT
+END:VCALENDAR

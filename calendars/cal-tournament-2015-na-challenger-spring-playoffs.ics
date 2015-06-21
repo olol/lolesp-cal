@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-na-challenger-spring-playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4527
+DTSTART:20150401T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150401T020000Z
+URL:http://www.lolesports.com/tourney/match/4527
+SUMMARY:TDK vs Team Fusion
+DESCRIPTION:Team Dragon Knights (TDK) vs Team Fusion (FSN)\nType : BO3\nTou
+ rnament : 2015 NA Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl :
+  http://www.lolesports.com/tourney/match/4527
+CATEGORIES:2015 NA Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4526
+DTSTART:20150402T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150402T020000Z
+URL:http://www.lolesports.com/tourney/match/4526
+SUMMARY:Enemy Esports vs Final Five
+DESCRIPTION:Enemy Esports (NME) vs Final Five (F5)\nType : BO3\nTournament 
+ : 2015 NA Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/4526
+CATEGORIES:2015 NA Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4529
+DTSTART:20150408T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150408T020000Z
+URL:http://www.lolesports.com/tourney/match/4529
+SUMMARY:Final Five vs Team Fusion
+DESCRIPTION:Final Five (F5) vs Team Fusion (FSN)\nType : BO3\nTournament : 
+ 2015 NA Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4529
+CATEGORIES:2015 NA Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4528
+DTSTART:20150409T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150409T020000Z
+URL:http://www.lolesports.com/tourney/match/4528
+SUMMARY:Enemy Esports vs TDK
+DESCRIPTION:Enemy Esports (NME) vs Team Dragon Knights (TDK)\nType : BO5\nT
+ ournament : 2015 NA Challenger Spring Playoffs\nWeek : 2\nStream : No\nUrl
+  : http://www.lolesports.com/tourney/match/4528
+CATEGORIES:2015 NA Challenger Spring Playoffs
+DTSTAMP:20150621T152817Z
+END:VEVENT
+END:VCALENDAR

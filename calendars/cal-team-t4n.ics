@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-t4n
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1914
+DTSTART:20140116T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140116T010000Z
+URL:http://www.lolesports.com/tourney/match/1914
+SUMMARY:Tick Trick and Duck vs Team For Nothing
+DESCRIPTION:Tick Trick and Duck (TTD) vs Team For Nothing (T4N)\nType : BO1
+ \nTournament : EU Play in 2\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1914
+CATEGORIES:EU Play in 2
+DTSTAMP:20150621T152749Z
+END:VEVENT
+END:VCALENDAR

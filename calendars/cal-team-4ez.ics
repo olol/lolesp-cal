@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-4ez
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2962
+DTSTART:20140627T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140627T200000Z
+URL:http://www.lolesports.com/tourney/match/2962
+SUMMARY:4everzenzyg vs Tricked
+DESCRIPTION:4everzenzyg (4EZ) vs Tricked (TRC)\nType : BO1\nTournament : EU
+  CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2962
+CATEGORIES:EU CS Play In 1
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2976
+DTSTART:20140717T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140717T210000Z
+URL:http://www.lolesports.com/tourney/match/2976
+SUMMARY:4everzenzyg vs SK Gaming Prime
+DESCRIPTION:4everzenzyg (4EZ) vs SK Gaming Prime (SKP)\nType : BO3\nTournam
+ ent : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2976
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152803Z
+END:VEVENT
+END:VCALENDAR

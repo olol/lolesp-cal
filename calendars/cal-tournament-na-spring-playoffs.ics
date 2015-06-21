@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-na-spring-playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-772
+DTSTART:20130426T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130426T230000Z
+URL:http://www.lolesports.com/tourney/match/772
+SUMMARY:Team Dignitas vs Team Coast
+DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO3\nTournament
+  : NA Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/772
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-771
+DTSTART:20130427T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130427T020000Z
+URL:http://www.lolesports.com/tourney/match/771
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO3\nTournament
+  : NA Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/771
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-773
+DTSTART:20130427T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130427T210000Z
+URL:http://www.lolesports.com/tourney/match/773
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO3\nTournament : NA Sp
+ ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/773
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-774
+DTSTART:20130427T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130428T000000Z
+URL:http://www.lolesports.com/tourney/match/774
+SUMMARY:Curse vs Team Coast
+DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO3\nTournament : NA Sp
+ ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/774
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-776
+DTSTART:20130428T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130428T210000Z
+URL:http://www.lolesports.com/tourney/match/776
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO3\nTournament : NA Spring Pl
+ ayoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/776
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152737Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-775
+DTSTART:20130428T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130429T000000Z
+URL:http://www.lolesports.com/tourney/match/775
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO5\nTournament 
+ : NA Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/775
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152737Z
+END:VEVENT
+END:VCALENDAR

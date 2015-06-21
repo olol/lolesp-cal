@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-sks
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2195
+DTSTART:20140312T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140312T110000Z
+URL:http://www.lolesports.com/tourney/match/2195
+SUMMARY:SK Telecom T1 K vs SK Telecom T1 S
+DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO2\nTourna
+ ment : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2195
+CATEGORIES:OGN Group A
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2198
+DTSTART:20140326T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140326T110000Z
+URL:http://www.lolesports.com/tourney/match/2198
+SUMMARY:SK Telecom T1 S vs KT Rolster Arrows
+DESCRIPTION:SK Telecom T1 S (SKS) vs KT Rolster Arrows (KTA)\nType : BO2\nT
+ ournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2198
+CATEGORIES:OGN Group A
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2200
+DTSTART:20140404T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140404T100000Z
+URL:http://www.lolesports.com/tourney/match/2200
+SUMMARY:Prime Optimus vs SK Telecom T1 S
+DESCRIPTION:Prime Optimus () vs SK Telecom T1 S (SKS)\nType : BO2\nTourname
+ nt : OGN Group A\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2200
+CATEGORIES:OGN Group A
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2227
+DTSTART:20140409T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140409T110000Z
+URL:http://www.lolesports.com/tourney/match/2227
+SUMMARY:SK Telecom T1 K vs SK Telecom T1 S
+DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO1\nTourna
+ ment : OGN Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2227
+CATEGORIES:OGN Group A
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2954
+DTSTART:20140620T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T110000Z
+URL:http://www.lolesports.com/tourney/match/2954
+SUMMARY:Samsung White vs SK Telecom T1 S
+DESCRIPTION:Samsung White (SSW) vs SK Telecom T1 S (SKS)\nType : BO2\nTourn
+ ament : OGN Group C\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2954
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2957
+DTSTART:20140704T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140704T110000Z
+URL:http://www.lolesports.com/tourney/match/2957
+SUMMARY:Bigfile Miracle vs SK Telecom T1 S
+DESCRIPTION:Bigfile Miracle (BFM) vs SK Telecom T1 S (SKS)\nType : BO2\nTou
+ rnament : OGN Group C\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2957
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2959
+DTSTART:20140712T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T110000Z
+URL:http://www.lolesports.com/tourney/match/2959
+SUMMARY:CJ Entus Frost vs SK Telecom T1 S
+DESCRIPTION:CJ ENTUS (CJ) vs SK Telecom T1 S (SKS)\nType : BO2\nTournament 
+ : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2959
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2947
+DTSTART:20140718T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140718T110000Z
+URL:http://www.lolesports.com/tourney/match/2947
+SUMMARY:NaJin Black Sword vs SK Telecom T1 S
+DESCRIPTION:NaJin Black Sword (NBS) vs SK Telecom T1 S (SKS)\nType : BO5\nT
+ ournament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2947
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2950
+DTSTART:20140730T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140730T110000Z
+URL:http://www.lolesports.com/tourney/match/2950
+SUMMARY:KT Rolster Arrows vs SK Telecom T1 S
+DESCRIPTION:KT Rolster Arrows (KTA) vs SK Telecom T1 S (SKS)\nType : BO5\nT
+ ournament : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2950
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2953
+DTSTART:20140806T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140806T110000Z
+URL:http://www.lolesports.com/tourney/match/2953
+SUMMARY:SK Telecom T1 S vs Samsung White
+DESCRIPTION:SK Telecom T1 S (SKS) vs Samsung White (SSW)\nType : BO5\nTourn
+ ament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2953
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-cog
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1654
+DTSTART:20131222T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20131222T230000Z
+URL:http://www.lolesports.com/tourney/match/1654
+SUMMARY:Curse vs COGnitive Gaming
+DESCRIPTION:Curse (CRS) vs COGnitive Gaming (COG)\nType : BO5\nTournament :
+  NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1654
+CATEGORIES:NA LCS Spring Promotion
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1940
+DTSTART:20140203T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140203T010000Z
+URL:http://www.lolesports.com/tourney/match/1940
+SUMMARY:COGnitive Gaming vs vVv Gaming
+DESCRIPTION:COGnitive Gaming (COG) vs vVv Gaming (vVv)\nType : BO3\nTournam
+ ent : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1940
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1942
+DTSTART:20140210T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140210T010000Z
+URL:http://www.lolesports.com/tourney/match/1942
+SUMMARY:compLexity.Black vs COGnitive Gaming
+DESCRIPTION:compLexity Black (CLB) vs COGnitive Gaming (COG)\nType : BO3\nT
+ ournament : NA Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1942
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1944
+DTSTART:20140216T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140216T010000Z
+URL:http://www.lolesports.com/tourney/match/1944
+SUMMARY:compLexity.Red vs COGnitive Gaming
+DESCRIPTION:compLexity.Red (CLR) vs COGnitive Gaming (COG)\nType : BO3\nTou
+ rnament : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1944
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3001
+DTSTART:20140720T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140721T000000Z
+URL:http://www.lolesports.com/tourney/match/3001
+SUMMARY:Team LolPro vs COGnitive Gaming
+DESCRIPTION:Team LolPro (PRO) vs COGnitive Gaming (COG)\nType : BO3\nTourna
+ ment : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3001
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152746Z
+END:VEVENT
+END:VCALENDAR

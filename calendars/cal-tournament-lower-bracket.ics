@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-lower-bracket
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3176
+DTSTART:20141213T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141213T230000Z
+URL:http://www.lolesports.com/tourney/match/3176
+SUMMARY:Final Five vs Team Coast
+DESCRIPTION:Final Five (F5) vs Team Coast (CST)\nType : BO5\nTournament : L
+ ower Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3176
+CATEGORIES:Lower Bracket
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3177
+DTSTART:20141214T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141214T200000Z
+URL:http://www.lolesports.com/tourney/match/3177
+SUMMARY:Team Fusion vs Team Coast
+DESCRIPTION:Team Fusion (FSN) vs Team Coast (CST)\nType : BO5\nTournament :
+  Lower Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3177
+CATEGORIES:Lower Bracket
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3194
+DTSTART:20141219T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141219T130000Z
+URL:http://www.lolesports.com/tourney/match/3194
+SUMMARY:n!faculty vs Reason Gaming
+DESCRIPTION:n!faculty (NF) vs Reason Gaming (RG)\nType : BO5\nTournament : 
+ Lower Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/3194
+CATEGORIES:Lower Bracket
+DTSTAMP:20150621T152806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3195
+DTSTART:20141221T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141221T130000Z
+URL:http://www.lolesports.com/tourney/match/3195
+SUMMARY:GIANTS vs Reason Gaming
+DESCRIPTION:Giants Gaming (GIA) vs Reason Gaming (RG)\nType : BO5\nTourname
+ nt : Lower Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3195
+CATEGORIES:Lower Bracket
+DTSTAMP:20150621T152806Z
+END:VEVENT
+END:VCALENDAR

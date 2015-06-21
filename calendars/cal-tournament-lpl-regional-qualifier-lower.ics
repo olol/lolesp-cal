@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-lpl-regional-qualifier-lower
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3038
+DTSTART:20140906T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140906T110000Z
+URL:http://www.lolesports.com/tourney/match/3038
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO3\nTournamen
+ t : LPL Regional Qualifier Lower\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/3038
+CATEGORIES:LPL Regional Qualifier Lower
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3039
+DTSTART:20140907T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140907T090000Z
+URL:http://www.lolesports.com/tourney/match/3039
+SUMMARY:LGD GAMING vs OMG
+DESCRIPTION:LGD GAMING (LGD) vs OMG (OMG)\nType : BO3\nTournament : LPL Reg
+ ional Qualifier Lower\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/3039
+CATEGORIES:LPL Regional Qualifier Lower
+DTSTAMP:20150621T152804Z
+END:VEVENT
+END:VCALENDAR

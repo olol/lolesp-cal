@@ -1,0 +1,775 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-clb
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1652
+DTSTART:20131220T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20131220T230000Z
+URL:http://www.lolesports.com/tourney/match/1652
+SUMMARY:Evil Geniuses vs compLexity.Black
+DESCRIPTION:Evil Geniuses (EG) vs compLexity Black (CLB)\nType : BO5\nTourn
+ ament : NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/1652
+CATEGORIES:NA LCS Spring Promotion
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1939
+DTSTART:20140202T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140202T010000Z
+URL:http://www.lolesports.com/tourney/match/1939
+SUMMARY:compLexity.Black vs Curse Academy
+DESCRIPTION:compLexity Black (CLB) vs Curse Academy (CA)\nType : BO3\nTourn
+ ament : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1939
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1942
+DTSTART:20140210T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140210T010000Z
+URL:http://www.lolesports.com/tourney/match/1942
+SUMMARY:compLexity.Black vs COGnitive Gaming
+DESCRIPTION:compLexity Black (CLB) vs COGnitive Gaming (COG)\nType : BO3\nT
+ ournament : NA Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1942
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1943
+DTSTART:20140217T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140217T010000Z
+URL:http://www.lolesports.com/tourney/match/1943
+SUMMARY:LMQ vs compLexity.Black
+DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO3\nTournament : N
+ A Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1943
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2098
+DTSTART:20140314T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140314T030000Z
+URL:http://www.lolesports.com/tourney/match/2098
+SUMMARY:compLexity  vs Cloud 9 HyperX Tempest
+DESCRIPTION:compLexity Black (CLB) vs Cloud9 Tempest (C9T)\nType : BO3\nTou
+ rnament : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2098
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2181
+DTSTART:20140405T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140405T010000Z
+URL:http://www.lolesports.com/tourney/match/2181
+SUMMARY:compLexity.Black vs compLexity.Red
+DESCRIPTION:compLexity Black (CLB) vs compLexity.Red (CLR)\nType : BO3\nTou
+ rnament : NA CS Spring Playoffs 2014\nWeek : 1\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/2181
+CATEGORIES:NA CS Spring Playoffs 2014
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2183
+DTSTART:20140412T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140412T200000Z
+URL:http://www.lolesports.com/tourney/match/2183
+SUMMARY:Cloud 9 HyperX Tempest vs compLexity.Black
+DESCRIPTION:Cloud9 Tempest (C9T) vs compLexity Black (CLB)\nType : BO3\nTou
+ rnament : NA CS Spring Playoffs 2014\nWeek : 2\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/2183
+CATEGORIES:NA CS Spring Playoffs 2014
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2185
+DTSTART:20140413T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140413T200000Z
+URL:http://www.lolesports.com/tourney/match/2185
+SUMMARY:Curse Academy vs compLexity.Black
+DESCRIPTION:Curse Academy (CA) vs compLexity Black (CLB)\nType : BO5\nTourn
+ ament : NA CS Spring Playoffs 2014\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/2185
+CATEGORIES:NA CS Spring Playoffs 2014
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2259
+DTSTART:20140427T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140427T230000Z
+URL:http://www.lolesports.com/tourney/match/2259
+SUMMARY:Team Coast vs compLexity Black
+DESCRIPTION:Team Coast (CST) vs compLexity Black (CLB)\nType : BO5\nTournam
+ ent : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/2259
+CATEGORIES:NA LCS Summer Promotion
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2518
+DTSTART:20140523T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140523T230000Z
+URL:http://www.lolesports.com/tourney/match/2518
+SUMMARY:compLexity  vs Team Dignitas
+DESCRIPTION:compLexity Black (CLB) vs Team Dignitas (DIG)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2518
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2521
+DTSTART:20140524T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T210000Z
+URL:http://www.lolesports.com/tourney/match/2521
+SUMMARY:compLexity  vs LMQ
+DESCRIPTION:compLexity Black (CLB) vs LMQ (LMQ)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2521
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2523
+DTSTART:20140524T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T230000Z
+URL:http://www.lolesports.com/tourney/match/2523
+SUMMARY:Team SoloMid vs compLexity 
+DESCRIPTION:Team SoloMid (TSM) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2523
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2527
+DTSTART:20140525T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T210000Z
+URL:http://www.lolesports.com/tourney/match/2527
+SUMMARY:Cloud9  vs compLexity 
+DESCRIPTION:Cloud9  (C9) vs compLexity Black (CLB)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2527
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2532
+DTSTART:20140531T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140531T210000Z
+URL:http://www.lolesports.com/tourney/match/2532
+SUMMARY:compLexity  vs Evil Geniuses
+DESCRIPTION:compLexity Black (CLB) vs Evil Geniuses (EG)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2532
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2537
+DTSTART:20140601T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140601T220000Z
+URL:http://www.lolesports.com/tourney/match/2537
+SUMMARY:compLexity  vs Counter Logic Gaming
+DESCRIPTION:compLexity Black (CLB) vs Counter Logic Gaming (CLG)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/2537
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2542
+DTSTART:20140607T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140607T230000Z
+URL:http://www.lolesports.com/tourney/match/2542
+SUMMARY:compLexity  vs Curse
+DESCRIPTION:compLexity Black (CLB) vs Curse (CRS)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2542
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2544
+DTSTART:20140608T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140608T210000Z
+URL:http://www.lolesports.com/tourney/match/2544
+SUMMARY:LMQ vs compLexity 
+DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2544
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2550
+DTSTART:20140614T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140614T230000Z
+URL:http://www.lolesports.com/tourney/match/2550
+SUMMARY:Counter Logic Gaming vs compLexity 
+DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity Black (CLB)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/2550
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2552
+DTSTART:20140615T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140615T210000Z
+URL:http://www.lolesports.com/tourney/match/2552
+SUMMARY:compLexity  vs Team SoloMid
+DESCRIPTION:compLexity Black (CLB) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2552
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2558
+DTSTART:20140619T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140619T230000Z
+URL:http://www.lolesports.com/tourney/match/2558
+SUMMARY:Evil Geniuses vs compLexity 
+DESCRIPTION:Evil Geniuses (EG) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2558
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2559
+DTSTART:20140620T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T200000Z
+URL:http://www.lolesports.com/tourney/match/2559
+SUMMARY:Team Dignitas vs compLexity 
+DESCRIPTION:Team Dignitas (DIG) vs compLexity Black (CLB)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2559
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2564
+DTSTART:20140628T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T210000Z
+URL:http://www.lolesports.com/tourney/match/2564
+SUMMARY:compLexity  vs Cloud9 
+DESCRIPTION:compLexity Black (CLB) vs Cloud9  (C9)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2564
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2570
+DTSTART:20140629T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140629T230000Z
+URL:http://www.lolesports.com/tourney/match/2570
+SUMMARY:Curse vs compLexity 
+DESCRIPTION:Curse (CRS) vs compLexity Black (CLB)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2570
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2572
+DTSTART:20140704T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140704T210000Z
+URL:http://www.lolesports.com/tourney/match/2572
+SUMMARY:compLexity  vs Counter Logic Gaming
+DESCRIPTION:compLexity Black (CLB) vs Counter Logic Gaming (CLG)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/2572
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2577
+DTSTART:20140705T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T210000Z
+URL:http://www.lolesports.com/tourney/match/2577
+SUMMARY:compLexity  vs Evil Geniuses
+DESCRIPTION:compLexity Black (CLB) vs Evil Geniuses (EG)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2577
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2583
+DTSTART:20140706T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T210000Z
+URL:http://www.lolesports.com/tourney/match/2583
+SUMMARY:compLexity  vs Team Dignitas
+DESCRIPTION:compLexity Black (CLB) vs Team Dignitas (DIG)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2583
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2585
+DTSTART:20140706T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T230000Z
+URL:http://www.lolesports.com/tourney/match/2585
+SUMMARY:Team SoloMid vs compLexity 
+DESCRIPTION:Team SoloMid (TSM) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2585
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2589
+DTSTART:20140712T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T200000Z
+URL:http://www.lolesports.com/tourney/match/2589
+SUMMARY:compLexity  vs Curse
+DESCRIPTION:compLexity Black (CLB) vs Curse (CRS)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2589
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2591
+DTSTART:20140713T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140713T230000Z
+URL:http://www.lolesports.com/tourney/match/2591
+SUMMARY:compLexity  vs LMQ
+DESCRIPTION:compLexity Black (CLB) vs LMQ (LMQ)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2591
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2596
+DTSTART:20140719T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T230000Z
+URL:http://www.lolesports.com/tourney/match/2596
+SUMMARY:Cloud9  vs compLexity 
+DESCRIPTION:Cloud9  (C9) vs compLexity Black (CLB)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2596
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152745Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2600
+DTSTART:20140720T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T210000Z
+URL:http://www.lolesports.com/tourney/match/2600
+SUMMARY:compLexity  vs Team SoloMid
+DESCRIPTION:compLexity Black (CLB) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2600
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2606
+DTSTART:20140726T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140726T200000Z
+URL:http://www.lolesports.com/tourney/match/2606
+SUMMARY:LMQ vs compLexity 
+DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO1\nTournament : N
+ A LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2606
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2610
+DTSTART:20140727T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140727T230000Z
+URL:http://www.lolesports.com/tourney/match/2610
+SUMMARY:Team Dignitas vs compLexity 
+DESCRIPTION:Team Dignitas (DIG) vs compLexity Black (CLB)\nType : BO1\nTour
+ nament : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/2610
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2613
+DTSTART:20140801T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T200000Z
+URL:http://www.lolesports.com/tourney/match/2613
+SUMMARY:Curse vs compLexity 
+DESCRIPTION:Curse (CRS) vs compLexity Black (CLB)\nType : BO1\nTournament :
+  NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2613
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2611
+DTSTART:20140801T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T230000Z
+URL:http://www.lolesports.com/tourney/match/2611
+SUMMARY:compLexity  vs Cloud9 
+DESCRIPTION:compLexity Black (CLB) vs Cloud9  (C9)\nType : BO1\nTournament 
+ : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2611
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2620
+DTSTART:20140803T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T010000Z
+URL:http://www.lolesports.com/tourney/match/2620
+SUMMARY:Counter Logic Gaming vs compLexity 
+DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity Black (CLB)\nType : BO
+ 1\nTournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/2620
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2625
+DTSTART:20140803T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T200000Z
+URL:http://www.lolesports.com/tourney/match/2625
+SUMMARY:Evil Geniuses vs compLexity 
+DESCRIPTION:Evil Geniuses (EG) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2625
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2707
+DTSTART:20140911T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140911T230000Z
+URL:http://www.lolesports.com/tourney/match/2707
+SUMMARY:compLexity  vs Team 8
+DESCRIPTION:compLexity Black (CLB) vs Team 8 (T8)\nType : BO5\nTournament :
+  NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2707
+CATEGORIES:NA LCS Spring Promotion
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3152
+DTSTART:20141122T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141122T220000Z
+URL:http://www.lolesports.com/tourney/match/3152
+SUMMARY:compLexity Black vs Final Five
+DESCRIPTION:compLexity Black (CLB) vs Final Five (F5)\nType : BO3\nTourname
+ nt : Single Elimination Bracket\nWeek : 2\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/3152
+CATEGORIES:Single Elimination Bracket
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4393
+DTSTART:20150128T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150128T040000Z
+URL:http://www.lolesports.com/tourney/match/4393
+SUMMARY:Rock Bottom Gorillas vs CLG Black
+DESCRIPTION:Rock Bottom Gorillas (RBG) vs CLG Black (CLB)\nType : BO3\nTour
+ nament : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl :
+  http://www.lolesports.com/tourney/match/4393
+CATEGORIES:2015 NA Spring Challenger Qualifier
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4397
+DTSTART:20150205T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150205T040000Z
+URL:http://www.lolesports.com/tourney/match/4397
+SUMMARY:Team Liquid Academy vs CLG Black
+DESCRIPTION:Team Liquid Academy (TLA) vs CLG Black (CLB)\nType : BO3\nTourn
+ ament : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : 
+ http://www.lolesports.com/tourney/match/4397
+CATEGORIES:2015 NA Spring Challenger Qualifier
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4478
+DTSTART:20150218T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150218T050000Z
+URL:http://www.lolesports.com/tourney/match/4478
+SUMMARY:CLG Black vs TSM Darkness
+DESCRIPTION:CLG Black (CLB) vs TSM Darkness (TSD)\nType : BO1\nTournament :
+  2015 NA CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4478
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4481
+DTSTART:20150219T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150219T050000Z
+URL:http://www.lolesports.com/tourney/match/4481
+SUMMARY:TSM Darkness vs CLG Black
+DESCRIPTION:TSM Darkness (TSD) vs CLG Black (CLB)\nType : BO1\nTournament :
+  2015 NA CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4481
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4484
+DTSTART:20150225T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150225T050000Z
+URL:http://www.lolesports.com/tourney/match/4484
+SUMMARY:CLG Black vs Final Five
+DESCRIPTION:CLG Black (CLB) vs Final Five (F5)\nType : BO1\nTournament : 20
+ 15 NA CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4484
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4487
+DTSTART:20150226T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T050000Z
+URL:http://www.lolesports.com/tourney/match/4487
+SUMMARY:Final Five vs CLG Black
+DESCRIPTION:Final Five (F5) vs CLG Black (CLB)\nType : BO1\nTournament : 20
+ 15 NA CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4487
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4488
+DTSTART:20150304T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150304T030000Z
+URL:http://www.lolesports.com/tourney/match/4488
+SUMMARY:Enemy Esports vs CLG Black
+DESCRIPTION:Enemy Esports (NME) vs CLG Black (CLB)\nType : BO1\nTournament 
+ : 2015 NA CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/4488
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4491
+DTSTART:20150305T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T030000Z
+URL:http://www.lolesports.com/tourney/match/4491
+SUMMARY:CLG Black vs Enemy Esports
+DESCRIPTION:CLG Black (CLB) vs Enemy Esports (NME)\nType : BO1\nTournament 
+ : 2015 NA CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/4491
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4494
+DTSTART:20150318T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T020000Z
+URL:http://www.lolesports.com/tourney/match/4494
+SUMMARY:Team Fusion vs CLG Black
+DESCRIPTION:Team Fusion (FSN) vs CLG Black (CLB)\nType : BO1\nTournament : 
+ 2015 NA CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4494
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4497
+DTSTART:20150319T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150319T020000Z
+URL:http://www.lolesports.com/tourney/match/4497
+SUMMARY:CLG Black vs Team Fusion
+DESCRIPTION:CLG Black (CLB) vs Team Fusion (FSN)\nType : BO1\nTournament : 
+ 2015 NA CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4497
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4501
+DTSTART:20150325T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150325T030000Z
+URL:http://www.lolesports.com/tourney/match/4501
+SUMMARY:TDK vs CLG Black
+DESCRIPTION:Team Dragon Knights (TDK) vs CLG Black (CLB)\nType : BO1\nTourn
+ ament : 2015 NA CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4501
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4504
+DTSTART:20150326T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150326T030000Z
+URL:http://www.lolesports.com/tourney/match/4504
+SUMMARY:CLG Black vs TDK
+DESCRIPTION:CLG Black (CLB) vs Team Dragon Knights (TDK)\nType : BO1\nTourn
+ ament : 2015 NA CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4504
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4525
+DTSTART:20150326T033000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150326T043000Z
+URL:http://www.lolesports.com/tourney/match/4525
+SUMMARY:CLG Black vs TSM Darkness
+DESCRIPTION:CLG Black (CLB) vs TSM Darkness (TSD)\nType : BO1\nTournament :
+  2015 NA CS Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4525
+CATEGORIES:2015 NA CS Spring
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5157
+DTSTART:20150604T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T020000Z
+URL:http://www.lolesports.com/tourney/match/5157
+SUMMARY:CLG Black vs Maelstrom Gaming
+DESCRIPTION:CLG Black (CLB) vs Maelstrom Gaming (MAG)\nType : BO3\nTourname
+ nt : 2015 NA Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/5157
+CATEGORIES:2015 NA Summer Challenger Qualifier
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5160
+DTSTART:20150611T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T040000Z
+URL:http://www.lolesports.com/tourney/match/5160
+SUMMARY:CLG Black vs Cloud9 Tempest
+DESCRIPTION:CLG Black (CLB) vs Cloud9 Tempest (C9T)\nType : BO3\nTournament
+  : 2015 NA Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/5160
+CATEGORIES:2015 NA Summer Challenger Qualifier
+DTSTAMP:20150621T152746Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5162
+DTSTART:20150617T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T020000Z
+URL:http://www.lolesports.com/tourney/match/5162
+SUMMARY:Magnetic vs CLG Black
+DESCRIPTION:Imagine (IMG) vs CLG Black (CLB)\nType : BO3\nTournament : 2015
+  NA Summer Challenger Qualifier\nWeek : 0\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/5162
+CATEGORIES:2015 NA Summer Challenger Qualifier
+DTSTAMP:20150621T152746Z
+END:VEVENT
+END:VCALENDAR

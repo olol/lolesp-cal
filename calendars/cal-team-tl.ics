@@ -1,0 +1,565 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-tl
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3511
+DTSTART:20150124T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150125T000000Z
+URL:http://www.lolesports.com/tourney/match/3511
+SUMMARY:Team Impulse vs Team Liquid
+DESCRIPTION:Team Impulse (TIP) vs Team Liquid (TL)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3511
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3515
+DTSTART:20150125T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150125T230000Z
+URL:http://www.lolesports.com/tourney/match/3515
+SUMMARY:Team Liquid vs Counter Logic Gaming
+DESCRIPTION:Team Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
+ rnament : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3515
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3520
+DTSTART:20150131T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150131T230000Z
+URL:http://www.lolesports.com/tourney/match/3520
+SUMMARY:Cloud9  vs Team Liquid
+DESCRIPTION:Cloud9  (C9) vs Team Liquid (TL)\nType : BO1\nTournament : NA L
+ CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3520
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3525
+DTSTART:20150201T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150201T230000Z
+URL:http://www.lolesports.com/tourney/match/3525
+SUMMARY:Team SoloMid vs Team Liquid
+DESCRIPTION:Team SoloMid (TSM) vs Team Liquid (TL)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3525
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3531
+DTSTART:20150207T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150208T000000Z
+URL:http://www.lolesports.com/tourney/match/3531
+SUMMARY:Team Liquid vs Team Coast
+DESCRIPTION:Team Liquid (TL) vs Team Coast (CST)\nType : BO1\nTournament : 
+ NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/3531
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3535
+DTSTART:20150208T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150208T230000Z
+URL:http://www.lolesports.com/tourney/match/3535
+SUMMARY:Team Liquid vs Team Dignitas
+DESCRIPTION:Team Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament
+  : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3535
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3541
+DTSTART:20150214T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T000000Z
+URL:http://www.lolesports.com/tourney/match/3541
+SUMMARY:Team 8 vs Team Liquid
+DESCRIPTION:Team 8 (T8) vs Team Liquid (TL)\nType : BO1\nTournament : NA LC
+ S Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/3541
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3546
+DTSTART:20150215T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150216T000000Z
+URL:http://www.lolesports.com/tourney/match/3546
+SUMMARY:Gravity vs Team Liquid
+DESCRIPTION:Gravity (GV) vs Team Liquid (TL)\nType : BO1\nTournament : NA L
+ CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3546
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3548
+DTSTART:20150221T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150221T210000Z
+URL:http://www.lolesports.com/tourney/match/3548
+SUMMARY:Team Liquid vs Winterfox
+DESCRIPTION:Team Liquid (TL) vs Winterfox (WFX)\nType : BO1\nTournament : N
+ A LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3548
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3554
+DTSTART:20150222T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150222T220000Z
+URL:http://www.lolesports.com/tourney/match/3554
+SUMMARY:Team Liquid vs Team SoloMid
+DESCRIPTION:Team Liquid (TL) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3554
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3560
+DTSTART:20150228T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T230000Z
+URL:http://www.lolesports.com/tourney/match/3560
+SUMMARY:Team Liquid vs Gravity
+DESCRIPTION:Team Liquid (TL) vs Gravity (GV)\nType : BO1\nTournament : NA L
+ CS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3560
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3566
+DTSTART:20150301T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150302T000000Z
+URL:http://www.lolesports.com/tourney/match/3566
+SUMMARY:Counter Logic Gaming vs Team Liquid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Liquid (TL)\nType : BO1\nTou
+ rnament : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3566
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3572
+DTSTART:20150308T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150308T010000Z
+URL:http://www.lolesports.com/tourney/match/3572
+SUMMARY:Team Liquid vs Team 8
+DESCRIPTION:Team Liquid (TL) vs Team 8 (T8)\nType : BO1\nTournament : NA LC
+ S Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/3572
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3575
+DTSTART:20150308T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150308T220000Z
+URL:http://www.lolesports.com/tourney/match/3575
+SUMMARY:Team Liquid vs Team Impulse
+DESCRIPTION:Team Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3575
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3580
+DTSTART:20150321T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T210000Z
+URL:http://www.lolesports.com/tourney/match/3580
+SUMMARY:Team Liquid vs Cloud9 
+DESCRIPTION:Team Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : NA L
+ CS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3580
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3584
+DTSTART:20150322T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150323T000000Z
+URL:http://www.lolesports.com/tourney/match/3584
+SUMMARY:Team Coast vs Team Liquid
+DESCRIPTION:Team Coast (CST) vs Team Liquid (TL)\nType : BO1\nTournament : 
+ NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/3584
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3590
+DTSTART:20150328T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150328T220000Z
+URL:http://www.lolesports.com/tourney/match/3590
+SUMMARY:Winterfox vs Team Liquid
+DESCRIPTION:Winterfox (WFX) vs Team Liquid (TL)\nType : BO1\nTournament : N
+ A LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3590
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3597
+DTSTART:20150329T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150329T220000Z
+URL:http://www.lolesports.com/tourney/match/3597
+SUMMARY:Team Dignitas vs Team Liquid
+DESCRIPTION:Team Dignitas (DIG) vs Team Liquid (TL)\nType : BO1\nTournament
+  : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3597
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4531
+DTSTART:20150330T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150330T010000Z
+URL:http://www.lolesports.com/tourney/match/4531
+SUMMARY:Team 8 vs Team Liquid
+DESCRIPTION:Team 8 (T8) vs Team Liquid (TL)\nType : BO1\nTournament : NA LC
+ S Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4531
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4513
+DTSTART:20150404T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150404T200000Z
+URL:http://www.lolesports.com/tourney/match/4513
+SUMMARY:Counter Logic Gaming vs Team Liquid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Liquid (TL)\nType : BO5\nTou
+ rnament : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4513
+CATEGORIES:NA LCS Spring Playoffs
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4515
+DTSTART:20150411T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150411T200000Z
+URL:http://www.lolesports.com/tourney/match/4515
+SUMMARY:Cloud9  vs Team Liquid
+DESCRIPTION:Cloud9  (C9) vs Team Liquid (TL)\nType : BO5\nTournament : NA L
+ CS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4515
+CATEGORIES:NA LCS Spring Playoffs
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4517
+DTSTART:20150418T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150418T200000Z
+URL:http://www.lolesports.com/tourney/match/4517
+SUMMARY:Team Impulse vs Team Liquid
+DESCRIPTION:Team Impulse (TIP) vs Team Liquid (TL)\nType : BO5\nTournament 
+ : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4517
+CATEGORIES:NA LCS Spring Playoffs
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4677
+DTSTART:20150530T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T210000Z
+URL:http://www.lolesports.com/tourney/match/4677
+SUMMARY:Team Dragon Knights vs Team Liquid
+DESCRIPTION:Team Dragon Knights (TDK) vs Team Liquid (TL)\nType : BO1\nTour
+ nament : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4677
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4681
+DTSTART:20150531T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T200000Z
+URL:http://www.lolesports.com/tourney/match/4681
+SUMMARY:Team Liquid vs Team 8
+DESCRIPTION:Team Liquid (TL) vs Team 8 (T8)\nType : BO1\nTournament : 2015 
+ NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4681
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4686
+DTSTART:20150606T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T200000Z
+URL:http://www.lolesports.com/tourney/match/4686
+SUMMARY:Enemy Esports vs Team Liquid
+DESCRIPTION:Enemy Esports (NME) vs Team Liquid (TL)\nType : BO1\nTournament
+  : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4686
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4692
+DTSTART:20150607T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T210000Z
+URL:http://www.lolesports.com/tourney/match/4692
+SUMMARY:Team Liquid vs Gravity
+DESCRIPTION:Team Liquid (TL) vs Gravity (GV)\nType : BO1\nTournament : 2015
+  NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4692
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4698
+DTSTART:20150613T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T220000Z
+URL:http://www.lolesports.com/tourney/match/4698
+SUMMARY:Team Liquid vs Cloud9 
+DESCRIPTION:Team Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : 2015
+  NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4698
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4703
+DTSTART:20150614T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T220000Z
+URL:http://www.lolesports.com/tourney/match/4703
+SUMMARY:Team Impulse vs Team Liquid
+DESCRIPTION:Team Impulse (TIP) vs Team Liquid (TL)\nType : BO1\nTournament 
+ : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4703
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4708
+DTSTART:20150620T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T220000Z
+URL:http://www.lolesports.com/tourney/match/4708
+SUMMARY:Team Liquid vs Team SoloMid
+DESCRIPTION:Team Liquid (TL) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4708
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4715
+DTSTART:20150621T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150622T000000Z
+URL:http://www.lolesports.com/tourney/match/4715
+SUMMARY:Team Liquid vs Team Dignitas
+DESCRIPTION:Team Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament
+  : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4715
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4717
+DTSTART:20150627T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T210000Z
+URL:http://www.lolesports.com/tourney/match/4717
+SUMMARY:Team Liquid vs Counter Logic Gaming
+DESCRIPTION:Team Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
+ rnament : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4717
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4721
+DTSTART:20150628T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T200000Z
+URL:http://www.lolesports.com/tourney/match/4721
+SUMMARY:Gravity vs Team Liquid
+DESCRIPTION:Gravity (GV) vs Team Liquid (TL)\nType : BO1\nTournament : 2015
+  NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4721
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4728
+DTSTART:20150704T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T220000Z
+URL:http://www.lolesports.com/tourney/match/4728
+SUMMARY:Cloud9  vs Team Liquid
+DESCRIPTION:Cloud9  (C9) vs Team Liquid (TL)\nType : BO1\nTournament : 2015
+  NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4728
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4731
+DTSTART:20150705T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T230000Z
+URL:http://www.lolesports.com/tourney/match/4731
+SUMMARY:Team Dignitas vs Team Liquid
+DESCRIPTION:Team Dignitas (DIG) vs Team Liquid (TL)\nType : BO1\nTournament
+  : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4731
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4736
+DTSTART:20150711T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T200000Z
+URL:http://www.lolesports.com/tourney/match/4736
+SUMMARY:Team Liquid vs Team Dragon Knights
+DESCRIPTION:Team Liquid (TL) vs Team Dragon Knights (TDK)\nType : BO1\nTour
+ nament : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4736
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4741
+DTSTART:20150712T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150712T200000Z
+URL:http://www.lolesports.com/tourney/match/4741
+SUMMARY:Team SoloMid vs Team Liquid
+DESCRIPTION:Team SoloMid (TSM) vs Team Liquid (TL)\nType : BO1\nTournament 
+ : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4741
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4749
+DTSTART:20150718T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T230000Z
+URL:http://www.lolesports.com/tourney/match/4749
+SUMMARY:Counter Logic Gaming vs Team Liquid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Liquid (TL)\nType : BO1\nTou
+ rnament : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4749
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4751
+DTSTART:20150719T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T200000Z
+URL:http://www.lolesports.com/tourney/match/4751
+SUMMARY:Team Liquid vs Enemy Esports
+DESCRIPTION:Team Liquid (TL) vs Enemy Esports (NME)\nType : BO1\nTournament
+  : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4751
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4760
+DTSTART:20150725T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T000000Z
+URL:http://www.lolesports.com/tourney/match/4760
+SUMMARY:Team 8 vs Team Liquid
+DESCRIPTION:Team 8 (T8) vs Team Liquid (TL)\nType : BO1\nTournament : 2015 
+ NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4760
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4765
+DTSTART:20150726T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150727T000000Z
+URL:http://www.lolesports.com/tourney/match/4765
+SUMMARY:Team Liquid vs Team Impulse
+DESCRIPTION:Team Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament 
+ : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4765
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152815Z
+END:VEVENT
+END:VCALENDAR

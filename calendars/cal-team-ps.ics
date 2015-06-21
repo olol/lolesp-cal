@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-ps
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1920
+DTSTART:20140116T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140117T000000Z
+URL:http://www.lolesports.com/tourney/match/1920
+SUMMARY:Pulse Esports vs Salade Tomate Oignon
+DESCRIPTION:Pulse Esports (PS) vs Salade Tomate Oignon ()\nType : BO1\nTour
+ nament : EU Play in 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1920
+CATEGORIES:EU Play in 4
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1948
+DTSTART:20140131T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140131T230000Z
+URL:http://www.lolesports.com/tourney/match/1948
+SUMMARY:Cloud9 HyperX Eclipse vs Pulse Esports
+DESCRIPTION:H2K (H2K) vs Pulse Esports (PS)\nType : BO3\nTournament : EU To
+ p 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 1948
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-ssb
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2208
+DTSTART:20140319T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140319T110000Z
+URL:http://www.lolesports.com/tourney/match/2208
+SUMMARY:Samsung Blue vs Jin Air Falcons
+DESCRIPTION:Samsung Blue (SSB) vs Jin Air Falcons (JAF)\nType : BO2\nTourna
+ ment : OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2208
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2209
+DTSTART:20140322T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140322T110000Z
+URL:http://www.lolesports.com/tourney/match/2209
+SUMMARY:KT Rolster Bullets vs Samsung Blue
+DESCRIPTION:KT Rolster (KT) vs Samsung Blue (SSB)\nType : BO2\nTournament :
+  OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/2209
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2212
+DTSTART:20140405T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140405T110000Z
+URL:http://www.lolesports.com/tourney/match/2212
+SUMMARY:Samsung Blue vs NaJin Black Sword
+DESCRIPTION:Samsung Blue (SSB) vs NaJin Black Sword (NBS)\nType : BO2\nTour
+ nament : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2212
+CATEGORIES:OGN Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2220
+DTSTART:20140418T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140418T110000Z
+URL:http://www.lolesports.com/tourney/match/2220
+SUMMARY:Samsung Blue vs CJ Entus Frost
+DESCRIPTION:Samsung Blue (SSB) vs CJ ENTUS (CJ)\nType : BO5\nTournament : O
+ GN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2220
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2223
+DTSTART:20140430T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140430T110000Z
+URL:http://www.lolesports.com/tourney/match/2223
+SUMMARY:Samsung Galaxy Ozone vs Samsung Blue
+DESCRIPTION:Samsung White (SSW) vs Samsung Blue (SSB)\nType : BO5\nTourname
+ nt : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2223
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2225
+DTSTART:20140524T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T090000Z
+URL:http://www.lolesports.com/tourney/match/2225
+SUMMARY:Samsung Blue vs NaJin White Shield 
+DESCRIPTION:Samsung Blue (SSB) vs Najin e-mFire (NJE)\nType : BO5\nTourname
+ nt : OGN Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2225
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2922
+DTSTART:20140618T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140618T110000Z
+URL:http://www.lolesports.com/tourney/match/2922
+SUMMARY:Samsung Blue vs Incredible Miracle 1
+DESCRIPTION:Samsung Blue (SSB) vs Incredible Miracle 1 (IM1)\nType : BO2\nT
+ ournament : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2922
+CATEGORIES:OGN Group A
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2924
+DTSTART:20140627T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140627T110000Z
+URL:http://www.lolesports.com/tourney/match/2924
+SUMMARY:Samsung Blue vs SK Telecom T1 K
+DESCRIPTION:Samsung Blue (SSB) vs SKTelecom T1 (SKT)\nType : BO2\nTournamen
+ t : OGN Group A\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2924
+CATEGORIES:OGN Group A
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2926
+DTSTART:20140705T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T110000Z
+URL:http://www.lolesports.com/tourney/match/2926
+SUMMARY:Samsung Blue vs Incredible Miracle 2
+DESCRIPTION:Samsung Blue (SSB) vs Longzhu Incredible Miracle (IM)\nType : B
+ O2\nTournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2926
+CATEGORIES:OGN Group A
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2949
+DTSTART:20140725T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140725T110000Z
+URL:http://www.lolesports.com/tourney/match/2949
+SUMMARY:Samsung Blue vs Jin Air Stealths
+DESCRIPTION:Samsung Blue (SSB) vs Jin Air Green Wings (JAG)\nType : BO5\nTo
+ urnament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2949
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2951
+DTSTART:20140801T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T110000Z
+URL:http://www.lolesports.com/tourney/match/2951
+SUMMARY:Samsung White vs Samsung Blue
+DESCRIPTION:Samsung White (SSW) vs Samsung Blue (SSB)\nType : BO5\nTourname
+ nt : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2951
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2952
+DTSTART:20140816T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140816T090000Z
+URL:http://www.lolesports.com/tourney/match/2952
+SUMMARY:KT Rolster Arrows vs Samsung Blue
+DESCRIPTION:KT Rolster Arrows (KTA) vs Samsung Blue (SSB)\nType : BO5\nTour
+ nament : OGN Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2952
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3109
+DTSTART:20140925T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140925T120000Z
+URL:http://www.lolesports.com/tourney/match/3109
+SUMMARY:Samsung Blue vs OMG
+DESCRIPTION:Samsung Blue (SSB) vs OMG (OMG)\nType : BO1\nTournament : Group
+  C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 109
+CATEGORIES:Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3111
+DTSTART:20140926T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140926T110000Z
+URL:http://www.lolesports.com/tourney/match/3111
+SUMMARY:Samsung Blue vs Fnatic
+DESCRIPTION:Samsung Blue (SSB) vs Fnatic (FNC)\nType : BO1\nTournament : Gr
+ oup C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/3111
+CATEGORIES:Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3113
+DTSTART:20140926T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140926T150000Z
+URL:http://www.lolesports.com/tourney/match/3113
+SUMMARY:Samsung Blue vs LMQ
+DESCRIPTION:Samsung Blue (SSB) vs LMQ (LMQ)\nType : BO1\nTournament : Group
+  C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 113
+CATEGORIES:Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3116
+DTSTART:20140927T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140927T110000Z
+URL:http://www.lolesports.com/tourney/match/3116
+SUMMARY:OMG vs Samsung Blue
+DESCRIPTION:OMG (OMG) vs Samsung Blue (SSB)\nType : BO1\nTournament : Group
+  C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 116
+CATEGORIES:Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3117
+DTSTART:20140928T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140928T080000Z
+URL:http://www.lolesports.com/tourney/match/3117
+SUMMARY:LMQ vs Samsung Blue
+DESCRIPTION:LMQ (LMQ) vs Samsung Blue (SSB)\nType : BO1\nTournament : Group
+  C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 117
+CATEGORIES:Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3118
+DTSTART:20140928T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140928T100000Z
+URL:http://www.lolesports.com/tourney/match/3118
+SUMMARY:Fnatic vs Samsung Blue
+DESCRIPTION:Fnatic (FNC) vs Samsung Blue (SSB)\nType : BO1\nTournament : Gr
+ oup C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/3118
+CATEGORIES:Group C
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3090
+DTSTART:20141004T051500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141004T061500Z
+URL:http://www.lolesports.com/tourney/match/3090
+SUMMARY:Samsung Blue vs Cloud9 
+DESCRIPTION:Samsung Blue (SSB) vs Cloud9  (C9)\nType : BO5\nTournament : Kn
+ ockout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3090
+CATEGORIES:Knockout Stage
+DTSTAMP:20150621T152758Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3093
+DTSTART:20141011T081500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141011T091500Z
+URL:http://www.lolesports.com/tourney/match/3093
+SUMMARY:Samsung Blue vs Samsung White
+DESCRIPTION:Samsung Blue (SSB) vs Samsung White (SSW)\nType : BO5\nTourname
+ nt : Knockout Stage\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3093
+CATEGORIES:Knockout Stage
+DTSTAMP:20150621T152758Z
+END:VEVENT
+END:VCALENDAR

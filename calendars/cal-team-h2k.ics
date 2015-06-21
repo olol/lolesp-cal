@@ -1,0 +1,831 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-h2k
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1799
+DTSTART:20140115T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140116T000000Z
+URL:http://www.lolesports.com/tourney/match/1799
+SUMMARY:Cloud9 HyperX Eclipse vs Heavybotlane
+DESCRIPTION:H2K (H2K) vs Heavy Botlane (HB)\nType : BO1\nTournament : EU Pl
+ ay in 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1799
+CATEGORIES:EU Play in 1
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1948
+DTSTART:20140131T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140131T230000Z
+URL:http://www.lolesports.com/tourney/match/1948
+SUMMARY:Cloud9 HyperX Eclipse vs Pulse Esports
+DESCRIPTION:H2K (H2K) vs Pulse Esports (PS)\nType : BO3\nTournament : EU To
+ p 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 1948
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1950
+DTSTART:20140207T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140207T230000Z
+URL:http://www.lolesports.com/tourney/match/1950
+SUMMARY:Meet Your Makers vs Cloud9 HyperX Eclipse
+DESCRIPTION:Mousesports (MOU) vs H2K (H2K)\nType : BO3\nTournament : EU Top
+  8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
+ 950
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1951
+DTSTART:20140214T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140214T230000Z
+URL:http://www.lolesports.com/tourney/match/1951
+SUMMARY:Ninjas in Pyjamas vs Cloud9 HyperX Eclipse
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs H2K (H2K)\nType : BO3\nTournament : 
+ EU Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/1951
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2087
+DTSTART:20140305T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140305T230000Z
+URL:http://www.lolesports.com/tourney/match/2087
+SUMMARY:Cloud9 HyperX Eclipse vs Departed
+DESCRIPTION:H2K (H2K) vs Denial eSports EU (DEFUNCT) (DNE)\nType : BO3\nTou
+ rnament : EU CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2087
+CATEGORIES:EU CS 2 Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2176
+DTSTART:20140410T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140410T170000Z
+URL:http://www.lolesports.com/tourney/match/2176
+SUMMARY:Cloud9 HyperX Eclipse vs Denial eSports
+DESCRIPTION:H2K (H2K) vs Denial eSports EU (DEFUNCT) (DNE)\nType : BO3\nTou
+ rnament : EU LCS Spring Playoffs \nWeek : 2\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/2176
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2178
+DTSTART:20140411T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140411T200000Z
+URL:http://www.lolesports.com/tourney/match/2178
+SUMMARY:Cloud9 HyperX Eclipse vs Ninjas in Pyjamas
+DESCRIPTION:H2K (H2K) vs Ninjas in Pyjamas (NIP)\nType : BO5\nTournament : 
+ EU LCS Spring Playoffs \nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2178
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2249
+DTSTART:20140425T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140425T160000Z
+URL:http://www.lolesports.com/tourney/match/2249
+SUMMARY:Supa Hot Crew vs Cloud9 HyperX Eclipse
+DESCRIPTION:Meet Your Makers (MYM) vs H2K (H2K)\nType : BO5\nTournament : E
+ U LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2249
+CATEGORIES:EU LCS Summer Promotion
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2668
+DTSTART:20140606T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140606T210000Z
+URL:http://www.lolesports.com/tourney/match/2668
+SUMMARY:H2k Gaming vs SK Gaming Prime
+DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO3\nTournament : EU
+  Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/2668
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2670
+DTSTART:20140613T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140613T210000Z
+URL:http://www.lolesports.com/tourney/match/2670
+SUMMARY:Lublin Shore vs H2k Gaming
+DESCRIPTION:Lublin Shore (LBS) vs H2K (H2K)\nType : BO3\nTournament : EU To
+ p 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 2670
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2671
+DTSTART:20140621T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140621T140000Z
+URL:http://www.lolesports.com/tourney/match/2671
+SUMMARY:Ninjas in Pyjamas vs H2k Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs H2K (H2K)\nType : BO3\nTournament : 
+ EU Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2671
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2975
+DTSTART:20140710T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140710T210000Z
+URL:http://www.lolesports.com/tourney/match/2975
+SUMMARY:H2k Gaming vs GG Call Nash
+DESCRIPTION:H2K (H2K) vs GG Call Nash (CN)\nType : BO3\nTournament : EU Top
+  8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/2
+ 975
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2979
+DTSTART:20140724T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140724T210000Z
+URL:http://www.lolesports.com/tourney/match/2979
+SUMMARY:H2k Gaming vs SK Gaming Prime
+DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO3\nTournament : EU
+  Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/2979
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2982
+DTSTART:20140729T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140729T210000Z
+URL:http://www.lolesports.com/tourney/match/2982
+SUMMARY:H2k Gaming vs Gamers2
+DESCRIPTION:H2K (H2K) vs Gamers2 (defunct) (G2)\nType : BO3\nTournament : E
+ U Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/2982
+CATEGORIES:EU Top 8
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2680
+DTSTART:20140806T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140806T190000Z
+URL:http://www.lolesports.com/tourney/match/2680
+SUMMARY:H2k Gaming vs Unicorns Of Love
+DESCRIPTION:H2K (H2K) vs Unicorns Of Love (UOL)\nType : BO3\nTournament : E
+ U CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2680
+CATEGORIES:EU CS Summer Playoffs
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2681
+DTSTART:20140808T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140808T210000Z
+URL:http://www.lolesports.com/tourney/match/2681
+SUMMARY:H2k Gaming vs SK Gaming Prime
+DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO5\nTournament : EU
+  CS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2681
+CATEGORIES:EU CS Summer Playoffs
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3009
+DTSTART:20140909T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140909T180000Z
+URL:http://www.lolesports.com/tourney/match/3009
+SUMMARY:Copenhagen Wolves vs H2k Gaming
+DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO5\nTournament : E
+ U LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/3009
+CATEGORIES:EU LCS Spring Promotion
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3186
+DTSTART:20141129T173000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141129T183000Z
+URL:http://www.lolesports.com/tourney/match/3186
+SUMMARY:H2k Gaming vs Meloncats
+DESCRIPTION:H2K (H2K) vs Meloncats (MC)\nType : BO3\nTournament : Single El
+ imination Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3186
+CATEGORIES:Single Elimination Bracket
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3192
+DTSTART:20141218T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141218T180000Z
+URL:http://www.lolesports.com/tourney/match/3192
+SUMMARY:H2k Gaming vs n!faculty
+DESCRIPTION:H2K (H2K) vs n!faculty (NF)\nType : BO5\nTournament : Upper Bra
+ cket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /3192
+CATEGORIES:Upper Bracket
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3193
+DTSTART:20141220T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141220T130000Z
+URL:http://www.lolesports.com/tourney/match/3193
+SUMMARY:GIANTS vs H2k Gaming
+DESCRIPTION:Giants Gaming (GIA) vs H2K (H2K)\nType : BO5\nTournament : Uppe
+ r Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3193
+CATEGORIES:Upper Bracket
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3348
+DTSTART:20150122T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150122T200000Z
+URL:http://www.lolesports.com/tourney/match/3348
+SUMMARY:Copenhagen Wolves vs H2k
+DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3348
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3354
+DTSTART:20150123T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T210000Z
+URL:http://www.lolesports.com/tourney/match/3354
+SUMMARY:Fnatic vs H2k
+DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Spri
+ ng\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 354
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3356
+DTSTART:20150129T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150129T180000Z
+URL:http://www.lolesports.com/tourney/match/3356
+SUMMARY:H2k vs Meet Your Makers
+DESCRIPTION:H2K (H2K) vs Meet Your Makers (MYM)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3356
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3362
+DTSTART:20150130T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T190000Z
+URL:http://www.lolesports.com/tourney/match/3362
+SUMMARY:GIANTS GAMING vs H2k
+DESCRIPTION:Giants Gaming (GIA) vs H2K (H2K)\nType : BO1\nTournament : EU L
+ CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3362
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3366
+DTSTART:20150205T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150205T180000Z
+URL:http://www.lolesports.com/tourney/match/3366
+SUMMARY:H2k vs SK Gaming
+DESCRIPTION:H2K (H2K) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS Sp
+ ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /3366
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3372
+DTSTART:20150206T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150206T190000Z
+URL:http://www.lolesports.com/tourney/match/3372
+SUMMARY:Gambit Gaming vs H2k
+DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : EU L
+ CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3372
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3377
+DTSTART:20150212T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T190000Z
+URL:http://www.lolesports.com/tourney/match/3377
+SUMMARY:H2k vs Elements
+DESCRIPTION:H2K (H2K) vs Elements (EL)\nType : BO1\nTournament : EU LCS Spr
+ ing\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 3377
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3381
+DTSTART:20150213T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T180000Z
+URL:http://www.lolesports.com/tourney/match/3381
+SUMMARY:H2k vs ROCCAT
+DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS Spri
+ ng\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 381
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3390
+DTSTART:20150219T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150219T220000Z
+URL:http://www.lolesports.com/tourney/match/3390
+SUMMARY:Unicorns Of Love vs H2k
+DESCRIPTION:Unicorns Of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3390
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3395
+DTSTART:20150220T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150220T220000Z
+URL:http://www.lolesports.com/tourney/match/3395
+SUMMARY:SK Gaming vs H2k
+DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Sp
+ ring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /3395
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3398
+DTSTART:20150226T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T200000Z
+URL:http://www.lolesports.com/tourney/match/3398
+SUMMARY:ROCCAT vs H2k
+DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Spri
+ ng\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 398
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3401
+DTSTART:20150227T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T180000Z
+URL:http://www.lolesports.com/tourney/match/3401
+SUMMARY:H2k vs GIANTS GAMING
+DESCRIPTION:H2K (H2K) vs Giants Gaming (GIA)\nType : BO1\nTournament : EU L
+ CS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3401
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3407
+DTSTART:20150305T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T190000Z
+URL:http://www.lolesports.com/tourney/match/3407
+SUMMARY:H2k vs Gambit Gaming
+DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU L
+ CS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/3407
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3414
+DTSTART:20150306T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T210000Z
+URL:http://www.lolesports.com/tourney/match/3414
+SUMMARY:H2k vs Copenhagen Wolves
+DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3414
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3416
+DTSTART:20150319T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150319T210000Z
+URL:http://www.lolesports.com/tourney/match/3416
+SUMMARY:Elements vs H2k
+DESCRIPTION:Elements (EL) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Spr
+ ing\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 3416
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3421
+DTSTART:20150320T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T180000Z
+URL:http://www.lolesports.com/tourney/match/3421
+SUMMARY:Meet Your Makers vs H2k
+DESCRIPTION:Meet Your Makers (MYM) vs H2K (H2K)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3421
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3426
+DTSTART:20150326T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150326T190000Z
+URL:http://www.lolesports.com/tourney/match/3426
+SUMMARY:H2k vs Fnatic
+DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS Spri
+ ng\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 426
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3434
+DTSTART:20150327T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150327T220000Z
+URL:http://www.lolesports.com/tourney/match/3434
+SUMMARY:H2k vs Unicorns Of Love
+DESCRIPTION:H2K (H2K) vs Unicorns Of Love (UOL)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3434
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4507
+DTSTART:20150404T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150404T160000Z
+URL:http://www.lolesports.com/tourney/match/4507
+SUMMARY:H2k vs Copenhagen Wolves
+DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO5\nTournament : E
+ U LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4507
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4509
+DTSTART:20150411T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150411T160000Z
+URL:http://www.lolesports.com/tourney/match/4509
+SUMMARY:Fnatic vs H2k
+DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO5\nTournament : EU LCS Spri
+ ng Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4509
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4511
+DTSTART:20150418T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150418T160000Z
+URL:http://www.lolesports.com/tourney/match/4511
+SUMMARY:SK Gaming vs H2k
+DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO5\nTournament : EU LCS Sp
+ ring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4511
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4590
+DTSTART:20150528T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T200000Z
+URL:http://www.lolesports.com/tourney/match/4590
+SUMMARY:H2K vs ROCCAT
+DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 EU LCS
+  Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4590
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4591
+DTSTART:20150529T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T170000Z
+URL:http://www.lolesports.com/tourney/match/4591
+SUMMARY:Origen vs H2K
+DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU LCS 
+ Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4591
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4598
+DTSTART:20150604T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T190000Z
+URL:http://www.lolesports.com/tourney/match/4598
+SUMMARY:H2K vs Gambit Gaming
+DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 2015
+  EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4598
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4604
+DTSTART:20150605T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T200000Z
+URL:http://www.lolesports.com/tourney/match/4604
+SUMMARY:H2K vs Elements
+DESCRIPTION:H2K (H2K) vs Elements (EL)\nType : BO1\nTournament : 2015 EU LC
+ S Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4604
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4608
+DTSTART:20150611T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T190000Z
+URL:http://www.lolesports.com/tourney/match/4608
+SUMMARY:SK Gaming vs H2K
+DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU L
+ CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4608
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4615
+DTSTART:20150612T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T210000Z
+URL:http://www.lolesports.com/tourney/match/4615
+SUMMARY:Unicorns Of Love vs H2K
+DESCRIPTION:Unicorns Of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4615
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4620
+DTSTART:20150618T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T210000Z
+URL:http://www.lolesports.com/tourney/match/4620
+SUMMARY:Copenhagen Wolves vs H2K
+DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4620
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4622
+DTSTART:20150619T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T180000Z
+URL:http://www.lolesports.com/tourney/match/4622
+SUMMARY:H2K vs Giants Gaming
+DESCRIPTION:H2K (H2K) vs Giants Gaming (GIA)\nType : BO1\nTournament : 2015
+  EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4622
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4629
+DTSTART:20150625T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T200000Z
+URL:http://www.lolesports.com/tourney/match/4629
+SUMMARY:Fnatic vs H2K
+DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU LCS
+  Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4629
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4635
+DTSTART:20150626T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T210000Z
+URL:http://www.lolesports.com/tourney/match/4635
+SUMMARY:H2K vs SK Gaming
+DESCRIPTION:H2K (H2K) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 EU L
+ CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4635
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4637
+DTSTART:20150702T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T210000Z
+URL:http://www.lolesports.com/tourney/match/4637
+SUMMARY:Elements vs H2K
+DESCRIPTION:Elements (EL) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU LC
+ S Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4637
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4643
+DTSTART:20150703T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T210000Z
+URL:http://www.lolesports.com/tourney/match/4643
+SUMMARY:H2K vs Unicorns Of Love
+DESCRIPTION:H2K (H2K) vs Unicorns Of Love (UOL)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4643
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4649
+DTSTART:20150709T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T200000Z
+URL:http://www.lolesports.com/tourney/match/4649
+SUMMARY:H2K vs Fnatic
+DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 EU LCS
+  Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4649
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4651
+DTSTART:20150710T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T170000Z
+URL:http://www.lolesports.com/tourney/match/4651
+SUMMARY:ROCCAT vs H2K
+DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU LCS
+  Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4651
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4660
+DTSTART:20150716T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T210000Z
+URL:http://www.lolesports.com/tourney/match/4660
+SUMMARY:GIANTS GAMING vs H2K
+DESCRIPTION:Giants Gaming (GIA) vs H2K (H2K)\nType : BO1\nTournament : 2015
+  EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4660
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4664
+DTSTART:20150717T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T200000Z
+URL:http://www.lolesports.com/tourney/match/4664
+SUMMARY:H2K vs Copenhagen Wolves
+DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4664
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4670
+DTSTART:20150723T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T210000Z
+URL:http://www.lolesports.com/tourney/match/4670
+SUMMARY:H2K vs ORIGEN
+DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : 2015 EU LCS 
+ Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4670
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4672
+DTSTART:20150724T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T180000Z
+URL:http://www.lolesports.com/tourney/match/4672
+SUMMARY:Gambit Gaming vs H2K
+DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : 2015
+  EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4672
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152749Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-cfe
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3148
+DTSTART:20141116T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141117T000000Z
+URL:http://www.lolesports.com/tourney/match/3148
+SUMMARY:Team Fusion vs Confusion Esports
+DESCRIPTION:Team Fusion (FSN) vs Confusion Esports (CFE)\nType : BO3\nTourn
+ ament : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/3148
+CATEGORIES:Single Elimination Bracket
+DTSTAMP:20150621T152805Z
+END:VEVENT
+END:VCALENDAR

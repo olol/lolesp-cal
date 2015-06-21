@@ -1,0 +1,495 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-hke
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3687
+DTSTART:20150109T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150109T140000Z
+URL:http://www.lolesports.com/tourney/match/3687
+SUMMARY:Midnight Sun e-Sports vs Hong Kong Esports
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3687
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3690
+DTSTART:20150111T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150111T130000Z
+URL:http://www.lolesports.com/tourney/match/3690
+SUMMARY:Hong Kong Esports vs Logitech Sniper
+DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3690
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3693
+DTSTART:20150115T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150115T130000Z
+URL:http://www.lolesports.com/tourney/match/3693
+SUMMARY:Hong Kong Esports vs Dream or Reality
+DESCRIPTION:Hong Kong Esports (HKE) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3693
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3694
+DTSTART:20150115T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150115T140000Z
+URL:http://www.lolesports.com/tourney/match/3694
+SUMMARY:Ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3694
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3699
+DTSTART:20150117T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150117T140000Z
+URL:http://www.lolesports.com/tourney/match/3699
+SUMMARY:Hong Kong Esports vs Taipei Assassins
+DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3699
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3705
+DTSTART:20150123T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T120000Z
+URL:http://www.lolesports.com/tourney/match/3705
+SUMMARY:Hong Kong Esports vs Never Give Up
+DESCRIPTION:Hong Kong Esports (HKE) vs Never Give Up (NGU)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3705
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3709
+DTSTART:20150124T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T140000Z
+URL:http://www.lolesports.com/tourney/match/3709
+SUMMARY:yoe Flash Wolves vs Hong Kong Esports
+DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3709
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3731
+DTSTART:20150208T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150208T140000Z
+URL:http://www.lolesports.com/tourney/match/3731
+SUMMARY:Hong Kong Esports vs Midnight Sun e-Sports
+DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3731
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3733
+DTSTART:20150211T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150211T140000Z
+URL:http://www.lolesports.com/tourney/match/3733
+SUMMARY:Dream or Reality vs Hong Kong Esports
+DESCRIPTION:Dream or Reality (DOR) vs Hong Kong Esports (HKE)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3733
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3712
+DTSTART:20150212T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T140000Z
+URL:http://www.lolesports.com/tourney/match/3712
+SUMMARY:Logitech Sniper vs Hong Kong Esports
+DESCRIPTION:Logitech G Sniper (LGS) vs Hong Kong Esports (HKE)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3712
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3735
+DTSTART:20150213T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T120000Z
+URL:http://www.lolesports.com/tourney/match/3735
+SUMMARY:Hong Kong Esports vs Ahq e-Sports Club
+DESCRIPTION:Hong Kong Esports (HKE) vs ahq e-Sports Club (AHQ)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3735
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3725
+DTSTART:20150226T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T130000Z
+URL:http://www.lolesports.com/tourney/match/3725
+SUMMARY:Hong Kong Esports vs yoe Flash Wolves
+DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (YFW)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3725
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3723
+DTSTART:20150226T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T140000Z
+URL:http://www.lolesports.com/tourney/match/3723
+SUMMARY:Taipei Assassins vs Hong Kong Esports
+DESCRIPTION:Taipei Assassins (TPA) vs Hong Kong Esports (HKE)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3723
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3719
+DTSTART:20150227T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T130000Z
+URL:http://www.lolesports.com/tourney/match/3719
+SUMMARY:Never Give Up vs Hong Kong Esports
+DESCRIPTION:Never Give Up (NGU) vs Hong Kong Esports (HKE)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3719
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3751
+DTSTART:20150304T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150304T130000Z
+URL:http://www.lolesports.com/tourney/match/3751
+SUMMARY:Hong Kong Esports vs Midnight Sun e-Sports
+DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3751
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3740
+DTSTART:20150305T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T120000Z
+URL:http://www.lolesports.com/tourney/match/3740
+SUMMARY:Hong Kong Esports vs Dream or Reality
+DESCRIPTION:Hong Kong Esports (HKE) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3740
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3754
+DTSTART:20150306T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T130000Z
+URL:http://www.lolesports.com/tourney/match/3754
+SUMMARY:Hong Kong Esports vs Logitech Sniper
+DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3754
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3741
+DTSTART:20150306T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T140000Z
+URL:http://www.lolesports.com/tourney/match/3741
+SUMMARY:Ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3741
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3765
+DTSTART:20150320T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T140000Z
+URL:http://www.lolesports.com/tourney/match/3765
+SUMMARY:yoe Flash Wolves vs Hong Kong Esports
+DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3765
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3759
+DTSTART:20150321T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T130000Z
+URL:http://www.lolesports.com/tourney/match/3759
+SUMMARY:Hong Kong Esports vs Never Give Up
+DESCRIPTION:Hong Kong Esports (HKE) vs Never Give Up (NGU)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3759
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3743
+DTSTART:20150322T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150322T140000Z
+URL:http://www.lolesports.com/tourney/match/3743
+SUMMARY:Hong Kong Esports vs Taipei Assassins
+DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3743
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4518
+DTSTART:20150410T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150410T120000Z
+URL:http://www.lolesports.com/tourney/match/4518
+SUMMARY:Ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO5\
+ nTournament : 2015 LMS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/4518
+CATEGORIES:2015 LMS Spring Playoffs
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4879
+DTSTART:20150520T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150520T133000Z
+URL:http://www.lolesports.com/tourney/match/4879
+SUMMARY:Assassin Sniper vs Hong Kong Esports
+DESCRIPTION:Assassin Sniper (AS) vs Hong Kong Esports (HKE)\nType : BO2\nTo
+ urnament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4879
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4885
+DTSTART:20150527T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T133000Z
+URL:http://www.lolesports.com/tourney/match/4885
+SUMMARY:ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4885
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4889
+DTSTART:20150529T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T133000Z
+URL:http://www.lolesports.com/tourney/match/4889
+SUMMARY:Machi vs Hong Kong Esports
+DESCRIPTION:Machi (MAC) vs Hong Kong Esports (HKE)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4889
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4890
+DTSTART:20150603T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T113000Z
+URL:http://www.lolesports.com/tourney/match/4890
+SUMMARY:yoe Flash Wolves vs Hong Kong Esports
+DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO2\nTour
+ nament : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4890
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4896
+DTSTART:20150610T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T113000Z
+URL:http://www.lolesports.com/tourney/match/4896
+SUMMARY:Taipei Assassins vs Hong Kong Esports
+DESCRIPTION:Taipei Assassins (TPA) vs Hong Kong Esports (HKE)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4896
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4899
+DTSTART:20150611T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T133000Z
+URL:http://www.lolesports.com/tourney/match/4899
+SUMMARY:Logitech G Sniper vs Hong Kong Esports
+DESCRIPTION:Logitech G Sniper (LGS) vs Hong Kong Esports (HKE)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4899
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4902
+DTSTART:20150617T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T120000Z
+URL:http://www.lolesports.com/tourney/match/4902
+SUMMARY:Midnight Sun e-Sports vs Hong Kong Esports
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4902
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4913
+DTSTART:20150626T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T140000Z
+URL:http://www.lolesports.com/tourney/match/4913
+SUMMARY:Hong Kong Esports vs ahq e-Sports Club
+DESCRIPTION:Hong Kong Esports (HKE) vs ahq e-Sports Club (AHQ)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4913
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4916
+DTSTART:20150702T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T120000Z
+URL:http://www.lolesports.com/tourney/match/4916
+SUMMARY:Hong Kong Esports vs Machi
+DESCRIPTION:Hong Kong Esports (HKE) vs Machi (MAC)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4916
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4921
+DTSTART:20150704T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T140000Z
+URL:http://www.lolesports.com/tourney/match/4921
+SUMMARY:Hong Kong Esports vs yoe Flash Wolves
+DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (YFW)\nType : BO2\nTour
+ nament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4921
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4925
+DTSTART:20150708T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T140000Z
+URL:http://www.lolesports.com/tourney/match/4925
+SUMMARY:Hong Kong Esports vs Taipei Assassins
+DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4925
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4926
+DTSTART:20150709T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T120000Z
+URL:http://www.lolesports.com/tourney/match/4926
+SUMMARY:Hong Kong Esports vs Logitech G Sniper
+DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4926
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4931
+DTSTART:20150711T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T140000Z
+URL:http://www.lolesports.com/tourney/match/4931
+SUMMARY:Hong Kong Esports vs Midnight Sun e-Sports
+DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4931
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+END:VCALENDAR

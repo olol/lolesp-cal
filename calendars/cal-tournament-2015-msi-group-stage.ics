@@ -1,0 +1,215 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-msi-group-stage
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4562
+DTSTART:20150507T203000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150507T213000Z
+URL:http://www.lolesports.com/tourney/match/4562
+SUMMARY:Fnatic vs Team SoloMid
+DESCRIPTION:Fnatic (FNC) vs Team SoloMid (TSM)\nType : BO1\nTournament : 20
+ 15 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4562
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4563
+DTSTART:20150507T213000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150507T223000Z
+URL:http://www.lolesports.com/tourney/match/4563
+SUMMARY:Besiktas e-Sports Club vs SK Telecom T1
+DESCRIPTION:Besiktas e-Sports Club (BJK) vs SKTelecom T1 (SKT)\nType : BO1\
+ nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4563
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4564
+DTSTART:20150507T223000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150507T233000Z
+URL:http://www.lolesports.com/tourney/match/4564
+SUMMARY:EDward Gaming vs Ahq e-Sports Club
+DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
+ rnament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4564
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4565
+DTSTART:20150507T233000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T003000Z
+URL:http://www.lolesports.com/tourney/match/4565
+SUMMARY:Besiktas e-Sports Club vs Team SoloMid
+DESCRIPTION:Besiktas e-Sports Club (BJK) vs Team SoloMid (TSM)\nType : BO1\
+ nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4565
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4566
+DTSTART:20150508T003000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T013000Z
+URL:http://www.lolesports.com/tourney/match/4566
+SUMMARY:Fnatic vs Ahq e-Sports Club
+DESCRIPTION:Fnatic (FNC) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
+  : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4566
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4567
+DTSTART:20150508T013000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T023000Z
+URL:http://www.lolesports.com/tourney/match/4567
+SUMMARY:SK Telecom T1 vs EDward Gaming
+DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO1\nTourname
+ nt : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4567
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4568
+DTSTART:20150508T023000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T033000Z
+URL:http://www.lolesports.com/tourney/match/4568
+SUMMARY:Ahq e-Sports Club vs Besiktas e-Sports Club
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Besiktas e-Sports Club (BJK)\nType :
+  BO1\nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/4568
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4569
+DTSTART:20150508T033000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T043000Z
+URL:http://www.lolesports.com/tourney/match/4569
+SUMMARY:SK Telecom T1 vs Team SoloMid
+DESCRIPTION:SKTelecom T1 (SKT) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4569
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4570
+DTSTART:20150508T201500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T211500Z
+URL:http://www.lolesports.com/tourney/match/4570
+SUMMARY:EDward Gaming vs Fnatic
+DESCRIPTION:Edward Gaming (EDG) vs Fnatic (FNC)\nType : BO1\nTournament : 2
+ 015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/4570
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4571
+DTSTART:20150508T211500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T221500Z
+URL:http://www.lolesports.com/tourney/match/4571
+SUMMARY:Team SoloMid vs Ahq e-Sports Club
+DESCRIPTION:Team SoloMid (TSM) vs ahq e-Sports Club (AHQ)\nType : BO1\nTour
+ nament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4571
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4572
+DTSTART:20150508T221500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T231500Z
+URL:http://www.lolesports.com/tourney/match/4572
+SUMMARY:EDward Gaming vs Besiktas e-Sports Club
+DESCRIPTION:Edward Gaming (EDG) vs Besiktas e-Sports Club (BJK)\nType : BO1
+ \nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/4572
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4573
+DTSTART:20150508T231500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150509T001500Z
+URL:http://www.lolesports.com/tourney/match/4573
+SUMMARY:SK Telecom T1 vs Fnatic
+DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO1\nTournament : 20
+ 15 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4573
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4574
+DTSTART:20150509T001500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150509T011500Z
+URL:http://www.lolesports.com/tourney/match/4574
+SUMMARY:Team SoloMid vs EDward Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Edward Gaming (EDG)\nType : BO1\nTourname
+ nt : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4574
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4575
+DTSTART:20150509T011500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150509T021500Z
+URL:http://www.lolesports.com/tourney/match/4575
+SUMMARY:Fnatic vs Besiktas e-Sports Club
+DESCRIPTION:Fnatic (FNC) vs Besiktas e-Sports Club (BJK)\nType : BO1\nTourn
+ ament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4575
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4576
+DTSTART:20150509T021500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150509T031500Z
+URL:http://www.lolesports.com/tourney/match/4576
+SUMMARY:Ahq e-Sports Club vs SK Telecom T1
+DESCRIPTION:ahq e-Sports Club (AHQ) vs SKTelecom T1 (SKT)\nType : BO1\nTour
+ nament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4576
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152817Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1391 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-roc
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1802
+DTSTART:20140114T193000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140114T203000Z
+URL:http://www.lolesports.com/tourney/match/1802
+SUMMARY:Supa Hot Crew vs ROCCAT
+DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1802
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1810
+DTSTART:20140115T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140115T230000Z
+URL:http://www.lolesports.com/tourney/match/1810
+SUMMARY:ROCCAT vs Millenium
+DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
+ S Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1810
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1813
+DTSTART:20140116T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140116T210000Z
+URL:http://www.lolesports.com/tourney/match/1813
+SUMMARY:ROCCAT vs Copenhagen Wolves
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1813
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1815
+DTSTART:20140116T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140116T230000Z
+URL:http://www.lolesports.com/tourney/match/1815
+SUMMARY:Alliance vs ROCCAT
+DESCRIPTION:Alliance (ALL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1815
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1817
+DTSTART:20140123T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140123T200000Z
+URL:http://www.lolesports.com/tourney/match/1817
+SUMMARY:ROCCAT vs Supa Hot Crew
+DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1817
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1821
+DTSTART:20140124T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140124T200000Z
+URL:http://www.lolesports.com/tourney/match/1821
+SUMMARY:ROCCAT vs Gambit Gaming
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
+ U LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1821
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1825
+DTSTART:20140130T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140130T200000Z
+URL:http://www.lolesports.com/tourney/match/1825
+SUMMARY:ROCCAT vs Fnatic
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
+ pring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/1825
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1830
+DTSTART:20140131T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140131T210000Z
+URL:http://www.lolesports.com/tourney/match/1830
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1830
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1833
+DTSTART:20140206T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140206T200000Z
+URL:http://www.lolesports.com/tourney/match/1833
+SUMMARY:Millenium vs ROCCAT
+DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
+ S Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1833
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1838
+DTSTART:20140207T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140207T210000Z
+URL:http://www.lolesports.com/tourney/match/1838
+SUMMARY:Fnatic vs ROCCAT
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
+ pring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/1838
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1842
+DTSTART:20140213T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140213T210000Z
+URL:http://www.lolesports.com/tourney/match/1842
+SUMMARY:ROCCAT vs Alliance
+DESCRIPTION:ROCCAT (ROC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1842
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1846
+DTSTART:20140214T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140214T190000Z
+URL:http://www.lolesports.com/tourney/match/1846
+SUMMARY:Copenhagen Wolves vs ROCCAT
+DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1846
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1849
+DTSTART:20140220T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140220T200000Z
+URL:http://www.lolesports.com/tourney/match/1849
+SUMMARY:Gambit Gaming vs ROCCAT
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1849
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1854
+DTSTART:20140221T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140221T210000Z
+URL:http://www.lolesports.com/tourney/match/1854
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1854
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1859
+DTSTART:20140227T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140227T220000Z
+URL:http://www.lolesports.com/tourney/match/1859
+SUMMARY:ROCCAT vs Copenhagen Wolves
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1859
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1863
+DTSTART:20140228T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140228T220000Z
+URL:http://www.lolesports.com/tourney/match/1863
+SUMMARY:Supa Hot Crew vs ROCCAT
+DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1863
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1865
+DTSTART:20140304T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140304T180000Z
+URL:http://www.lolesports.com/tourney/match/1865
+SUMMARY:ROCCAT vs Gambit Gaming
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
+ U LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1865
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1868
+DTSTART:20140304T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140304T210000Z
+URL:http://www.lolesports.com/tourney/match/1868
+SUMMARY:ROCCAT vs Millenium
+DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
+ S Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1868
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1873
+DTSTART:20140305T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140305T210000Z
+URL:http://www.lolesports.com/tourney/match/1873
+SUMMARY:Alliance vs ROCCAT
+DESCRIPTION:Alliance (ALL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1873
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1876
+DTSTART:20140306T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140306T180000Z
+URL:http://www.lolesports.com/tourney/match/1876
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1876
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1882
+DTSTART:20140320T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140320T210000Z
+URL:http://www.lolesports.com/tourney/match/1882
+SUMMARY:ROCCAT vs Fnatic
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
+ pring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/1882
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1885
+DTSTART:20140321T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140321T200000Z
+URL:http://www.lolesports.com/tourney/match/1885
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1885
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1890
+DTSTART:20140327T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140327T210000Z
+URL:http://www.lolesports.com/tourney/match/1890
+SUMMARY:ROCCAT vs Alliance
+DESCRIPTION:ROCCAT (ROC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
+  Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1890
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1895
+DTSTART:20140328T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140328T200000Z
+URL:http://www.lolesports.com/tourney/match/1895
+SUMMARY:Copenhagen Wolves vs ROCCAT
+DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1895
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1897
+DTSTART:20140401T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140401T170000Z
+URL:http://www.lolesports.com/tourney/match/1897
+SUMMARY:ROCCAT vs Supa Hot Crew
+DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
+ : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1897
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1902
+DTSTART:20140402T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T170000Z
+URL:http://www.lolesports.com/tourney/match/1902
+SUMMARY:Gambit Gaming vs ROCCAT
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1902
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1904
+DTSTART:20140402T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T190000Z
+URL:http://www.lolesports.com/tourney/match/1904
+SUMMARY:Millenium vs ROCCAT
+DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
+ S Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1904
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1910
+DTSTART:20140403T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140403T190000Z
+URL:http://www.lolesports.com/tourney/match/1910
+SUMMARY:Fnatic vs ROCCAT
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
+ pring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1910
+CATEGORIES:EU LCS Spring Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2162
+DTSTART:20140415T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140415T180000Z
+URL:http://www.lolesports.com/tourney/match/2162
+SUMMARY:ROCCAT vs Gambit Gaming
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO3\nTournament : E
+ U LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2162
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2164
+DTSTART:20140416T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140416T180000Z
+URL:http://www.lolesports.com/tourney/match/2164
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO3\nTournament : EU LCS
+  Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2164
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2167
+DTSTART:20140417T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140417T160000Z
+URL:http://www.lolesports.com/tourney/match/2167
+SUMMARY:Alliance vs ROCCAT
+DESCRIPTION:Alliance (ALL) vs ROCCAT (ROC)\nType : BO3\nTournament : EU LCS
+  Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2167
+CATEGORIES:EU LCS Spring Playoffs
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2292
+DTSTART:20140520T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140520T170000Z
+URL:http://www.lolesports.com/tourney/match/2292
+SUMMARY:ROCCAT vs Millenium
+DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
+ S Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2292
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2295
+DTSTART:20140520T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140520T200000Z
+URL:http://www.lolesports.com/tourney/match/2295
+SUMMARY:Gambit Gaming vs ROCCAT
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2295
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2300
+DTSTART:20140521T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140521T200000Z
+URL:http://www.lolesports.com/tourney/match/2300
+SUMMARY:Supa Hot Crew vs ROCCAT
+DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2300
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2305
+DTSTART:20140522T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140522T190000Z
+URL:http://www.lolesports.com/tourney/match/2305
+SUMMARY:ROCCAT vs Fnatic
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
+ ummer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2305
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2310
+DTSTART:20140529T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140529T200000Z
+URL:http://www.lolesports.com/tourney/match/2310
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2310
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2313
+DTSTART:20140530T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140530T190000Z
+URL:http://www.lolesports.com/tourney/match/2313
+SUMMARY:Copenhagen Wolves vs ROCCAT
+DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2313
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2315
+DTSTART:20140605T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140605T170000Z
+URL:http://www.lolesports.com/tourney/match/2315
+SUMMARY:Alliance vs ROCCAT
+DESCRIPTION:Alliance (ALL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2315
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2322
+DTSTART:20140606T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140606T200000Z
+URL:http://www.lolesports.com/tourney/match/2322
+SUMMARY:Fnatic vs ROCCAT
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
+ ummer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2322
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2324
+DTSTART:20140612T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140612T180000Z
+URL:http://www.lolesports.com/tourney/match/2324
+SUMMARY:ROCCAT vs Copenhagen Wolves
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2324
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2327
+DTSTART:20140613T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140613T170000Z
+URL:http://www.lolesports.com/tourney/match/2327
+SUMMARY:ROCCAT vs Supa Hot Crew
+DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2327
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2333
+DTSTART:20140621T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140621T190000Z
+URL:http://www.lolesports.com/tourney/match/2333
+SUMMARY:Millenium vs ROCCAT
+DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
+ S Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2333
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2335
+DTSTART:20140622T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140622T170000Z
+URL:http://www.lolesports.com/tourney/match/2335
+SUMMARY:ROCCAT vs Gambit Gaming
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
+ U LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2335
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2342
+DTSTART:20140626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140626T200000Z
+URL:http://www.lolesports.com/tourney/match/2342
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2342
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2343
+DTSTART:20140627T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140627T170000Z
+URL:http://www.lolesports.com/tourney/match/2343
+SUMMARY:ROCCAT vs Alliance
+DESCRIPTION:ROCCAT (ROC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2343
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2347
+DTSTART:20140701T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140701T160000Z
+URL:http://www.lolesports.com/tourney/match/2347
+SUMMARY:ROCCAT vs Fnatic
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
+ ummer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2347
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2349
+DTSTART:20140701T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140701T180000Z
+URL:http://www.lolesports.com/tourney/match/2349
+SUMMARY:Copenhagen Wolves vs ROCCAT
+DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2349
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2353
+DTSTART:20140702T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140702T170000Z
+URL:http://www.lolesports.com/tourney/match/2353
+SUMMARY:ROCCAT vs Millenium
+DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
+ S Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2353
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2362
+DTSTART:20140703T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140703T200000Z
+URL:http://www.lolesports.com/tourney/match/2362
+SUMMARY:Gambit Gaming vs ROCCAT
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2362
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2363
+DTSTART:20140710T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140710T170000Z
+URL:http://www.lolesports.com/tourney/match/2363
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2363
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2370
+DTSTART:20140711T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140711T170000Z
+URL:http://www.lolesports.com/tourney/match/2370
+SUMMARY:Alliance vs ROCCAT
+DESCRIPTION:Alliance (ALL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2370
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2371
+DTSTART:20140717T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140717T170000Z
+URL:http://www.lolesports.com/tourney/match/2371
+SUMMARY:Supa Hot Crew vs ROCCAT
+DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2371
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2377
+DTSTART:20140718T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140718T180000Z
+URL:http://www.lolesports.com/tourney/match/2377
+SUMMARY:Millenium vs ROCCAT
+DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
+ S Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2377
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2381
+DTSTART:20140724T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140724T170000Z
+URL:http://www.lolesports.com/tourney/match/2381
+SUMMARY:ROCCAT vs Gambit Gaming
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
+ U LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2381
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2383
+DTSTART:20140725T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140725T180000Z
+URL:http://www.lolesports.com/tourney/match/2383
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2383
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2391
+DTSTART:20140729T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140729T170000Z
+URL:http://www.lolesports.com/tourney/match/2391
+SUMMARY:ROCCAT vs Alliance
+DESCRIPTION:ROCCAT (ROC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
+  Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2391
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2393
+DTSTART:20140730T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140730T160000Z
+URL:http://www.lolesports.com/tourney/match/2393
+SUMMARY:ROCCAT vs Supa Hot Crew
+DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2393
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2396
+DTSTART:20140730T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140730T180000Z
+URL:http://www.lolesports.com/tourney/match/2396
+SUMMARY:ROCCAT vs Copenhagen Wolves
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2396
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2399
+DTSTART:20140731T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140731T180000Z
+URL:http://www.lolesports.com/tourney/match/2399
+SUMMARY:Fnatic vs ROCCAT
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
+ ummer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/2399
+CATEGORIES:EU LCS Summer Split
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3043
+DTSTART:20140807T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140807T160000Z
+URL:http://www.lolesports.com/tourney/match/3043
+SUMMARY:Supa Hot Crew vs ROCCAT
+DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO5\nTournament 
+ : EU LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3043
+CATEGORIES:EU LCS Summer Playoffs
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3045
+DTSTART:20140815T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140815T100000Z
+URL:http://www.lolesports.com/tourney/match/3045
+SUMMARY:Fnatic vs ROCCAT
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
+ ummer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3045
+CATEGORIES:EU LCS Summer Playoffs
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3047
+DTSTART:20140816T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140816T140000Z
+URL:http://www.lolesports.com/tourney/match/3047
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS
+  Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/3047
+CATEGORIES:EU LCS Summer Playoffs
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3349
+DTSTART:20150122T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150122T210000Z
+URL:http://www.lolesports.com/tourney/match/3349
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS
+  Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3349
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3353
+DTSTART:20150123T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T200000Z
+URL:http://www.lolesports.com/tourney/match/3353
+SUMMARY:ROCCAT vs Gambit Gaming
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3353
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3358
+DTSTART:20150129T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150129T200000Z
+URL:http://www.lolesports.com/tourney/match/3358
+SUMMARY:Fnatic vs ROCCAT
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
+ pring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/3358
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3363
+DTSTART:20150130T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T200000Z
+URL:http://www.lolesports.com/tourney/match/3363
+SUMMARY:Elements vs ROCCAT
+DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS 
+ Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/3363
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3369
+DTSTART:20150205T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150205T210000Z
+URL:http://www.lolesports.com/tourney/match/3369
+SUMMARY:ROCCAT vs GIANTS GAMING
+DESCRIPTION:ROCCAT (ROC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3369
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3373
+DTSTART:20150206T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150206T200000Z
+URL:http://www.lolesports.com/tourney/match/3373
+SUMMARY:ROCCAT vs Meet Your Makers
+DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
+ : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3373
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3379
+DTSTART:20150212T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T210000Z
+URL:http://www.lolesports.com/tourney/match/3379
+SUMMARY:Unicorns Of Love vs ROCCAT
+DESCRIPTION:Unicorns Of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3379
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3381
+DTSTART:20150213T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T180000Z
+URL:http://www.lolesports.com/tourney/match/3381
+SUMMARY:H2k vs ROCCAT
+DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS Spri
+ ng\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 381
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3386
+DTSTART:20150219T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150219T180000Z
+URL:http://www.lolesports.com/tourney/match/3386
+SUMMARY:ROCCAT vs Copenhagen Wolves
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3386
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3392
+DTSTART:20150220T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150220T190000Z
+URL:http://www.lolesports.com/tourney/match/3392
+SUMMARY:ROCCAT vs Elements
+DESCRIPTION:ROCCAT (ROC) vs Elements (EL)\nType : BO1\nTournament : EU LCS 
+ Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/3392
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3398
+DTSTART:20150226T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150226T200000Z
+URL:http://www.lolesports.com/tourney/match/3398
+SUMMARY:ROCCAT vs H2k
+DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Spri
+ ng\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
+ 398
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3404
+DTSTART:20150227T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T210000Z
+URL:http://www.lolesports.com/tourney/match/3404
+SUMMARY:Gambit Gaming vs ROCCAT
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3404
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3410
+DTSTART:20150305T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150305T220000Z
+URL:http://www.lolesports.com/tourney/match/3410
+SUMMARY:ROCCAT vs Unicorns Of Love
+DESCRIPTION:ROCCAT (ROC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament 
+ : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3410
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3411
+DTSTART:20150306T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T180000Z
+URL:http://www.lolesports.com/tourney/match/3411
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
+  Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3411
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3418
+DTSTART:20150319T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150319T190000Z
+URL:http://www.lolesports.com/tourney/match/3418
+SUMMARY:ROCCAT vs Fnatic
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
+ pring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/3418
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3422
+DTSTART:20150320T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T210000Z
+URL:http://www.lolesports.com/tourney/match/3422
+SUMMARY:GIANTS GAMING vs ROCCAT
+DESCRIPTION:Giants Gaming (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/3422
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3428
+DTSTART:20150326T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150326T180000Z
+URL:http://www.lolesports.com/tourney/match/3428
+SUMMARY:Copenhagen Wolves vs ROCCAT
+DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3428
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3435
+DTSTART:20150327T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150327T210000Z
+URL:http://www.lolesports.com/tourney/match/3435
+SUMMARY:Meet Your Makers vs ROCCAT
+DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3435
+CATEGORIES:EU LCS Spring
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4559
+DTSTART:20150425T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150425T160000Z
+URL:http://www.lolesports.com/tourney/match/4559
+SUMMARY:ROCCAT vs Copenhagen Wolves Academy
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves Academy (CWA)\nType : BO5\nTo
+ urnament : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4559
+CATEGORIES:EU LCS Summer Promotion
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4590
+DTSTART:20150528T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T200000Z
+URL:http://www.lolesports.com/tourney/match/4590
+SUMMARY:H2K vs ROCCAT
+DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 EU LCS
+  Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4590
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4593
+DTSTART:20150529T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T190000Z
+URL:http://www.lolesports.com/tourney/match/4593
+SUMMARY:ROCCAT vs Gambit Gaming
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4593
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4597
+DTSTART:20150604T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T180000Z
+URL:http://www.lolesports.com/tourney/match/4597
+SUMMARY:Fnatic vs ROCCAT
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 EU 
+ LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/4597
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4603
+DTSTART:20150605T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T190000Z
+URL:http://www.lolesports.com/tourney/match/4603
+SUMMARY:Unicorns Of Love vs ROCCAT
+DESCRIPTION:Unicorns Of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : 2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4603
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4607
+DTSTART:20150611T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T180000Z
+URL:http://www.lolesports.com/tourney/match/4607
+SUMMARY:ROCCAT vs Giants Gaming
+DESCRIPTION:ROCCAT (ROC) vs Giants Gaming (GIA)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4607
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4612
+DTSTART:20150612T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T180000Z
+URL:http://www.lolesports.com/tourney/match/4612
+SUMMARY:ROCCAT vs Origen
+DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO1\nTournament : 2015 EU L
+ CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4612
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4617
+DTSTART:20150618T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T180000Z
+URL:http://www.lolesports.com/tourney/match/4617
+SUMMARY:Elements vs ROCCAT
+DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4617
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4621
+DTSTART:20150619T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T170000Z
+URL:http://www.lolesports.com/tourney/match/4621
+SUMMARY:SK Gaming vs ROCCAT
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 E
+ U LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4621
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4626
+DTSTART:20150625T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T170000Z
+URL:http://www.lolesports.com/tourney/match/4626
+SUMMARY:ROCCAT vs Copenhagen Wolves
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4626
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4632
+DTSTART:20150626T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T180000Z
+URL:http://www.lolesports.com/tourney/match/4632
+SUMMARY:ROCCAT vs Unicorns Of Love
+DESCRIPTION:ROCCAT (ROC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament 
+ : 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4632
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4638
+DTSTART:20150702T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T180000Z
+URL:http://www.lolesports.com/tourney/match/4638
+SUMMARY:ROCCAT vs SK Gaming
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 E
+ U LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4638
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4644
+DTSTART:20150703T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T180000Z
+URL:http://www.lolesports.com/tourney/match/4644
+SUMMARY:Gambit Gaming vs ROCCAT
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4644
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4650
+DTSTART:20150709T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T210000Z
+URL:http://www.lolesports.com/tourney/match/4650
+SUMMARY:ROCCAT vs Elements
+DESCRIPTION:ROCCAT (ROC) vs Elements (EL)\nType : BO1\nTournament : 2015 EU
+  LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4650
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4651
+DTSTART:20150710T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T170000Z
+URL:http://www.lolesports.com/tourney/match/4651
+SUMMARY:ROCCAT vs H2K
+DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU LCS
+  Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4651
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4658
+DTSTART:20150716T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T190000Z
+URL:http://www.lolesports.com/tourney/match/4658
+SUMMARY:ROCCAT vs Fnatic
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 EU 
+ LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/4658
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4662
+DTSTART:20150717T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T180000Z
+URL:http://www.lolesports.com/tourney/match/4662
+SUMMARY:GIANTS GAMING vs ROCCAT
+DESCRIPTION:Giants Gaming (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : 2
+ 015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4662
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4668
+DTSTART:20150723T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T190000Z
+URL:http://www.lolesports.com/tourney/match/4668
+SUMMARY:Copenhagen Wolves vs ROCCAT
+DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4668
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4675
+DTSTART:20150724T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T210000Z
+URL:http://www.lolesports.com/tourney/match/4675
+SUMMARY:ORIGEN vs ROCCAT
+DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 EU L
+ CS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4675
+CATEGORIES:2015 EU LCS Summer
+DTSTAMP:20150621T152748Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1559 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-na-season-3-spring-split
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-540
+DTSTART:20130207T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130207T210000Z
+URL:http://www.lolesports.com/tourney/match/540
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/540
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-541
+DTSTART:20130207T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130207T220000Z
+URL:http://www.lolesports.com/tourney/match/541
+SUMMARY:Curse vs Team Dignitas
+DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/541
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-542
+DTSTART:20130207T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130207T230000Z
+URL:http://www.lolesports.com/tourney/match/542
+SUMMARY:Counter Logic Gaming vs Team Coast
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
+ rnament : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/542
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-543
+DTSTART:20130207T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130208T000000Z
+URL:http://www.lolesports.com/tourney/match/543
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/543
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-544
+DTSTART:20130209T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T010000Z
+URL:http://www.lolesports.com/tourney/match/544
+SUMMARY:Curse vs Counter Logic Gaming
+DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/544
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-545
+DTSTART:20130209T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T020000Z
+URL:http://www.lolesports.com/tourney/match/545
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/545
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-546
+DTSTART:20130209T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T030000Z
+URL:http://www.lolesports.com/tourney/match/546
+SUMMARY:Team Coast vs Curse
+DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/546
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-547
+DTSTART:20130209T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T040000Z
+URL:http://www.lolesports.com/tourney/match/547
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/547
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-548
+DTSTART:20130214T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130214T210000Z
+URL:http://www.lolesports.com/tourney/match/548
+SUMMARY:Team Dignitas vs Team MRN
+DESCRIPTION:Team Dignitas (DIG) vs Team MRN ()\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/548
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-549
+DTSTART:20130214T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130214T220000Z
+URL:http://www.lolesports.com/tourney/match/549
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/549
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-550
+DTSTART:20130214T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130214T230000Z
+URL:http://www.lolesports.com/tourney/match/550
+SUMMARY:compLexity vs Curse
+DESCRIPTION:compLexity White (COW) vs Curse (CRS)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/550
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-551
+DTSTART:20130214T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130215T000000Z
+URL:http://www.lolesports.com/tourney/match/551
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/551
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-552
+DTSTART:20130216T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T010000Z
+URL:http://www.lolesports.com/tourney/match/552
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/552
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-553
+DTSTART:20130216T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T020000Z
+URL:http://www.lolesports.com/tourney/match/553
+SUMMARY:Team Dignitas vs Team Coast
+DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/553
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-554
+DTSTART:20130216T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T030000Z
+URL:http://www.lolesports.com/tourney/match/554
+SUMMARY:Team SoloMid vs Team MRN
+DESCRIPTION:Team SoloMid (TSM) vs Team MRN ()\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/554
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-555
+DTSTART:20130216T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T040000Z
+URL:http://www.lolesports.com/tourney/match/555
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/555
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-556
+DTSTART:20130221T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130221T210000Z
+URL:http://www.lolesports.com/tourney/match/556
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/556
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-557
+DTSTART:20130221T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130221T220000Z
+URL:http://www.lolesports.com/tourney/match/557
+SUMMARY:Curse vs Team Coast
+DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/557
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-558
+DTSTART:20130221T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130221T230000Z
+URL:http://www.lolesports.com/tourney/match/558
+SUMMARY:Team Dignitas vs Counter Logic Gaming
+DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
+ Tournament : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/558
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-559
+DTSTART:20130221T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130222T000000Z
+URL:http://www.lolesports.com/tourney/match/559
+SUMMARY:compLexity vs XDG
+DESCRIPTION:compLexity White (COW) vs XDG (XDG)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/559
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-560
+DTSTART:20130223T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T010000Z
+URL:http://www.lolesports.com/tourney/match/560
+SUMMARY:Team MRN vs Team Coast
+DESCRIPTION:Team MRN () vs Team Coast (CST)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/560
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-561
+DTSTART:20130223T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T020000Z
+URL:http://www.lolesports.com/tourney/match/561
+SUMMARY:Counter Logic Gaming vs compLexity
+DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity White (COW)\nType : BO
+ 1\nTournament : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/561
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-562
+DTSTART:20130223T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T030000Z
+URL:http://www.lolesports.com/tourney/match/562
+SUMMARY:Team MRN vs XDG
+DESCRIPTION:Team MRN () vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/562
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-563
+DTSTART:20130223T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T040000Z
+URL:http://www.lolesports.com/tourney/match/563
+SUMMARY:Team Coast vs compLexity
+DESCRIPTION:Team Coast (CST) vs compLexity White (COW)\nType : BO1\nTournam
+ ent : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/563
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-564
+DTSTART:20130227T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T190000Z
+URL:http://www.lolesports.com/tourney/match/564
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/564
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-565
+DTSTART:20130227T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T200000Z
+URL:http://www.lolesports.com/tourney/match/565
+SUMMARY:Curse vs Team MRN
+DESCRIPTION:Curse (CRS) vs Team MRN ()\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/565
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-566
+DTSTART:20130227T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T210000Z
+URL:http://www.lolesports.com/tourney/match/566
+SUMMARY:Team SoloMid vs compLexity
+DESCRIPTION:Team SoloMid (TSM) vs compLexity White (COW)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/566
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-567
+DTSTART:20130227T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T220000Z
+URL:http://www.lolesports.com/tourney/match/567
+SUMMARY:Team Coast vs Counter Logic Gaming
+DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
+ rnament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/567
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-568
+DTSTART:20130227T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T230000Z
+URL:http://www.lolesports.com/tourney/match/568
+SUMMARY:Curse vs compLexity
+DESCRIPTION:Curse (CRS) vs compLexity White (COW)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/568
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-569
+DTSTART:20130227T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T000000Z
+URL:http://www.lolesports.com/tourney/match/569
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/569
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-570
+DTSTART:20130228T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T010000Z
+URL:http://www.lolesports.com/tourney/match/570
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/570
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-571
+DTSTART:20130228T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T020000Z
+URL:http://www.lolesports.com/tourney/match/571
+SUMMARY:Counter Logic Gaming vs Team MRN
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team MRN ()\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/571
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-572
+DTSTART:20130228T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T030000Z
+URL:http://www.lolesports.com/tourney/match/572
+SUMMARY:Team Dignitas vs Curse
+DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/572
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-573
+DTSTART:20130228T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T040000Z
+URL:http://www.lolesports.com/tourney/match/573
+SUMMARY:XDG vs compLexity
+DESCRIPTION:XDG (XDG) vs compLexity White (COW)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/573
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-574
+DTSTART:20130228T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T050000Z
+URL:http://www.lolesports.com/tourney/match/574
+SUMMARY:Team Coast vs Team Dignitas
+DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/574
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-575
+DTSTART:20130228T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T060000Z
+URL:http://www.lolesports.com/tourney/match/575
+SUMMARY:Team MRN vs Team SoloMid
+DESCRIPTION:Team MRN () vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/575
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-576
+DTSTART:20130228T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T210000Z
+URL:http://www.lolesports.com/tourney/match/576
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/576
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-577
+DTSTART:20130228T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T220000Z
+URL:http://www.lolesports.com/tourney/match/577
+SUMMARY:Team Dignitas vs compLexity
+DESCRIPTION:Team Dignitas (DIG) vs compLexity White (COW)\nType : BO1\nTour
+ nament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/577
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-578
+DTSTART:20130228T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T230000Z
+URL:http://www.lolesports.com/tourney/match/578
+SUMMARY:Team Coast vs Team MRN
+DESCRIPTION:Team Coast (CST) vs Team MRN ()\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/578
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-579
+DTSTART:20130228T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130301T000000Z
+URL:http://www.lolesports.com/tourney/match/579
+SUMMARY:Counter Logic Gaming vs Curse
+DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/579
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-580
+DTSTART:20130302T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T010000Z
+URL:http://www.lolesports.com/tourney/match/580
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/580
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-581
+DTSTART:20130302T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T020000Z
+URL:http://www.lolesports.com/tourney/match/581
+SUMMARY:compLexity vs Counter Logic Gaming
+DESCRIPTION:compLexity White (COW) vs Counter Logic Gaming (CLG)\nType : BO
+ 1\nTournament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/581
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-582
+DTSTART:20130302T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T030000Z
+URL:http://www.lolesports.com/tourney/match/582
+SUMMARY:Team MRN vs Team Dignitas
+DESCRIPTION:Team MRN () vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/582
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152722Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-583
+DTSTART:20130302T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T040000Z
+URL:http://www.lolesports.com/tourney/match/583
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/583
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-584
+DTSTART:20130315T223000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130315T233000Z
+URL:http://www.lolesports.com/tourney/match/584
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/584
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-585
+DTSTART:20130315T233000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T003000Z
+URL:http://www.lolesports.com/tourney/match/585
+SUMMARY:compLexity vs Team Dignitas
+DESCRIPTION:compLexity White (COW) vs Team Dignitas (DIG)\nType : BO1\nTour
+ nament : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/585
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-586
+DTSTART:20130316T003000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T013000Z
+URL:http://www.lolesports.com/tourney/match/586
+SUMMARY:Curse vs Counter Logic Gaming
+DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/586
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-587
+DTSTART:20130316T013000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T023000Z
+URL:http://www.lolesports.com/tourney/match/587
+SUMMARY:XDG vs Team MRN
+DESCRIPTION:XDG (XDG) vs Team MRN ()\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/587
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-588
+DTSTART:20130316T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T220000Z
+URL:http://www.lolesports.com/tourney/match/588
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/588
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-590
+DTSTART:20130316T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T000000Z
+URL:http://www.lolesports.com/tourney/match/590
+SUMMARY:compLexity vs XDG
+DESCRIPTION:compLexity White (COW) vs XDG (XDG)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/590
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-591
+DTSTART:20130317T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T010000Z
+URL:http://www.lolesports.com/tourney/match/591
+SUMMARY:Team MRN vs Counter Logic Gaming
+DESCRIPTION:Team MRN () vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/591
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-592
+DTSTART:20130317T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T190000Z
+URL:http://www.lolesports.com/tourney/match/592
+SUMMARY:compLexity vs Team SoloMid
+DESCRIPTION:compLexity White (COW) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/592
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-593
+DTSTART:20130317T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T200000Z
+URL:http://www.lolesports.com/tourney/match/593
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/593
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-594
+DTSTART:20130317T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T210000Z
+URL:http://www.lolesports.com/tourney/match/594
+SUMMARY:Counter Logic Gaming vs Team Coast
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
+ rnament : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/594
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-595
+DTSTART:20130317T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T220000Z
+URL:http://www.lolesports.com/tourney/match/595
+SUMMARY:Team MRN vs Curse
+DESCRIPTION:Team MRN () vs Curse (CRS)\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/595
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-596
+DTSTART:20130321T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130321T210000Z
+URL:http://www.lolesports.com/tourney/match/596
+SUMMARY:Team Dignitas vs Team MRN
+DESCRIPTION:Team Dignitas (DIG) vs Team MRN ()\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/596
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-597
+DTSTART:20130321T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130321T220000Z
+URL:http://www.lolesports.com/tourney/match/597
+SUMMARY:Team SoloMid vs compLexity
+DESCRIPTION:Team SoloMid (TSM) vs compLexity White (COW)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/597
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-598
+DTSTART:20130321T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130321T230000Z
+URL:http://www.lolesports.com/tourney/match/598
+SUMMARY:Counter Logic Gaming vs Team Dignitas
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
+ Tournament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/598
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-599
+DTSTART:20130321T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130322T000000Z
+URL:http://www.lolesports.com/tourney/match/599
+SUMMARY:Team SoloMid vs Team MRN
+DESCRIPTION:Team SoloMid (TSM) vs Team MRN ()\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/599
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-600
+DTSTART:20130322T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130322T230000Z
+URL:http://www.lolesports.com/tourney/match/600
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/600
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-601
+DTSTART:20130322T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T000000Z
+URL:http://www.lolesports.com/tourney/match/601
+SUMMARY:Team MRN vs compLexity
+DESCRIPTION:Team MRN () vs compLexity White (COW)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/601
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-602
+DTSTART:20130323T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T010000Z
+URL:http://www.lolesports.com/tourney/match/602
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/602
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-603
+DTSTART:20130323T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T020000Z
+URL:http://www.lolesports.com/tourney/match/603
+SUMMARY:Team Dignitas vs compLexity
+DESCRIPTION:Team Dignitas (DIG) vs compLexity White (COW)\nType : BO1\nTour
+ nament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/603
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-604
+DTSTART:20130330T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T210000Z
+URL:http://www.lolesports.com/tourney/match/604
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/604
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-605
+DTSTART:20130330T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T220000Z
+URL:http://www.lolesports.com/tourney/match/605
+SUMMARY:Curse vs Team Dignitas
+DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/605
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-606
+DTSTART:20130330T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T230000Z
+URL:http://www.lolesports.com/tourney/match/606
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/606
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-607
+DTSTART:20130330T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T000000Z
+URL:http://www.lolesports.com/tourney/match/607
+SUMMARY:compLexity vs Team MRN
+DESCRIPTION:compLexity White (COW) vs Team MRN ()\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/607
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-608
+DTSTART:20130331T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T010000Z
+URL:http://www.lolesports.com/tourney/match/608
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/608
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-609
+DTSTART:20130331T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T020000Z
+URL:http://www.lolesports.com/tourney/match/609
+SUMMARY:Counter Logic Gaming vs Curse
+DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/609
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-610
+DTSTART:20130331T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T210000Z
+URL:http://www.lolesports.com/tourney/match/610
+SUMMARY:Team MRN vs XDG
+DESCRIPTION:Team MRN () vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/610
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-611
+DTSTART:20130331T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T220000Z
+URL:http://www.lolesports.com/tourney/match/611
+SUMMARY:compLexity vs Team Coast
+DESCRIPTION:compLexity White (COW) vs Team Coast (CST)\nType : BO1\nTournam
+ ent : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/611
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-612
+DTSTART:20130331T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T230000Z
+URL:http://www.lolesports.com/tourney/match/612
+SUMMARY:Team MRN vs Team Dignitas
+DESCRIPTION:Team MRN () vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/612
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-613
+DTSTART:20130331T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130401T000000Z
+URL:http://www.lolesports.com/tourney/match/613
+SUMMARY:Counter Logic Gaming vs compLexity
+DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity White (COW)\nType : BO
+ 1\nTournament : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/613
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-614
+DTSTART:20130401T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130401T010000Z
+URL:http://www.lolesports.com/tourney/match/614
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/614
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-615
+DTSTART:20130401T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130401T020000Z
+URL:http://www.lolesports.com/tourney/match/615
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/615
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-616
+DTSTART:20130404T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130404T210000Z
+URL:http://www.lolesports.com/tourney/match/616
+SUMMARY:compLexity vs Counter Logic Gaming
+DESCRIPTION:compLexity White (COW) vs Counter Logic Gaming (CLG)\nType : BO
+ 1\nTournament : NA Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : htt
+ p://www.lolesports.com/tourney/match/616
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-617
+DTSTART:20130404T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130404T220000Z
+URL:http://www.lolesports.com/tourney/match/617
+SUMMARY:Team Coast vs Curse
+DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/617
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-618
+DTSTART:20130404T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130404T230000Z
+URL:http://www.lolesports.com/tourney/match/618
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/618
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-619
+DTSTART:20130404T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130405T000000Z
+URL:http://www.lolesports.com/tourney/match/619
+SUMMARY:Team MRN vs compLexity
+DESCRIPTION:Team MRN () vs compLexity White (COW)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/619
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-620
+DTSTART:20130405T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130405T230000Z
+URL:http://www.lolesports.com/tourney/match/620
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/620
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-621
+DTSTART:20130405T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T000000Z
+URL:http://www.lolesports.com/tourney/match/621
+SUMMARY:XDG vs compLexity
+DESCRIPTION:XDG (XDG) vs compLexity White (COW)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/621
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-622
+DTSTART:20130406T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T010000Z
+URL:http://www.lolesports.com/tourney/match/622
+SUMMARY:Team MRN vs Team Coast
+DESCRIPTION:Team MRN () vs Team Coast (CST)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/622
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-623
+DTSTART:20130406T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T020000Z
+URL:http://www.lolesports.com/tourney/match/623
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/623
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-624
+DTSTART:20130411T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130411T210000Z
+URL:http://www.lolesports.com/tourney/match/624
+SUMMARY:Curse vs Team MRN
+DESCRIPTION:Curse (CRS) vs Team MRN ()\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/624
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-625
+DTSTART:20130411T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130411T220000Z
+URL:http://www.lolesports.com/tourney/match/625
+SUMMARY:Team Dignitas vs Counter Logic Gaming
+DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
+ Tournament : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/625
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-626
+DTSTART:20130411T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130411T230000Z
+URL:http://www.lolesports.com/tourney/match/626
+SUMMARY:compLexity vs Curse
+DESCRIPTION:compLexity White (COW) vs Curse (CRS)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/626
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-627
+DTSTART:20130411T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130412T000000Z
+URL:http://www.lolesports.com/tourney/match/627
+SUMMARY:Team Coast vs Team MRN
+DESCRIPTION:Team Coast (CST) vs Team MRN ()\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/627
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-628
+DTSTART:20130412T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130412T230000Z
+URL:http://www.lolesports.com/tourney/match/628
+SUMMARY:Team Coast vs Team Dignitas
+DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/628
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-629
+DTSTART:20130412T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T000000Z
+URL:http://www.lolesports.com/tourney/match/629
+SUMMARY:Counter Logic Gaming vs Team MRN
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team MRN ()\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/629
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-630
+DTSTART:20130413T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T010000Z
+URL:http://www.lolesports.com/tourney/match/630
+SUMMARY:Team Coast vs compLexity
+DESCRIPTION:Team Coast (CST) vs compLexity White (COW)\nType : BO1\nTournam
+ ent : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/630
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-631
+DTSTART:20130413T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T020000Z
+URL:http://www.lolesports.com/tourney/match/631
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/631
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-632
+DTSTART:20130417T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130417T210000Z
+URL:http://www.lolesports.com/tourney/match/632
+SUMMARY:compLexity vs Team Dignitas
+DESCRIPTION:compLexity White (COW) vs Team Dignitas (DIG)\nType : BO1\nTour
+ nament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/632
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-633
+DTSTART:20130417T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130417T220000Z
+URL:http://www.lolesports.com/tourney/match/633
+SUMMARY:Team MRN vs Team SoloMid
+DESCRIPTION:Team MRN () vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/633
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-634
+DTSTART:20130417T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130417T230000Z
+URL:http://www.lolesports.com/tourney/match/634
+SUMMARY:compLexity vs Team Coast
+DESCRIPTION:compLexity White (COW) vs Team Coast (CST)\nType : BO1\nTournam
+ ent : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/634
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-635
+DTSTART:20130417T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T000000Z
+URL:http://www.lolesports.com/tourney/match/635
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/635
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-636
+DTSTART:20130418T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T010000Z
+URL:http://www.lolesports.com/tourney/match/636
+SUMMARY:Curse vs Team Coast
+DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/636
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-637
+DTSTART:20130418T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T020000Z
+URL:http://www.lolesports.com/tourney/match/637
+SUMMARY:Counter Logic Gaming vs Team Dignitas
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
+ Tournament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/637
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-638
+DTSTART:20130418T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T210000Z
+URL:http://www.lolesports.com/tourney/match/638
+SUMMARY:XDG vs Team MRN
+DESCRIPTION:XDG (XDG) vs Team MRN ()\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/638
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-639
+DTSTART:20130418T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T220000Z
+URL:http://www.lolesports.com/tourney/match/639
+SUMMARY:compLexity vs Team SoloMid
+DESCRIPTION:compLexity White (COW) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/639
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-640
+DTSTART:20130418T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T230000Z
+URL:http://www.lolesports.com/tourney/match/640
+SUMMARY:Team MRN vs Curse
+DESCRIPTION:Team MRN () vs Curse (CRS)\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/640
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-641
+DTSTART:20130418T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T000000Z
+URL:http://www.lolesports.com/tourney/match/641
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/641
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-642
+DTSTART:20130419T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T010000Z
+URL:http://www.lolesports.com/tourney/match/642
+SUMMARY:Team Dignitas vs Curse
+DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/642
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-643
+DTSTART:20130419T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T020000Z
+URL:http://www.lolesports.com/tourney/match/643
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/643
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-644
+DTSTART:20130419T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T210000Z
+URL:http://www.lolesports.com/tourney/match/644
+SUMMARY:Team MRN vs Counter Logic Gaming
+DESCRIPTION:Team MRN () vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/644
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-645
+DTSTART:20130419T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T220000Z
+URL:http://www.lolesports.com/tourney/match/645
+SUMMARY:Curse vs compLexity
+DESCRIPTION:Curse (CRS) vs compLexity White (COW)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/645
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-646
+DTSTART:20130419T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T230000Z
+URL:http://www.lolesports.com/tourney/match/646
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/646
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-647
+DTSTART:20130419T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T000000Z
+URL:http://www.lolesports.com/tourney/match/647
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/647
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-648
+DTSTART:20130420T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T010000Z
+URL:http://www.lolesports.com/tourney/match/648
+SUMMARY:Team Coast vs Counter Logic Gaming
+DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
+ rnament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/648
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-649
+DTSTART:20130420T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T020000Z
+URL:http://www.lolesports.com/tourney/match/649
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/649
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-650
+DTSTART:20130420T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T030000Z
+URL:http://www.lolesports.com/tourney/match/650
+SUMMARY:compLexity vs Team MRN
+DESCRIPTION:compLexity White (COW) vs Team MRN ()\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/650
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-651
+DTSTART:20130420T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T040000Z
+URL:http://www.lolesports.com/tourney/match/651
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/651
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152723Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-jag
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2934
+DTSTART:20140620T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T120000Z
+URL:http://www.lolesports.com/tourney/match/2934
+SUMMARY:KT Rolster Arrows vs Jin Air Stealths
+DESCRIPTION:KT Rolster Arrows (KTA) vs Jin Air Green Wings (JAG)\nType : BO
+ 2\nTournament : OGN Group D\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2934
+CATEGORIES:OGN Group D
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2936
+DTSTART:20140628T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T120000Z
+URL:http://www.lolesports.com/tourney/match/2936
+SUMMARY:Jin Air Stealths vs MKZ
+DESCRIPTION:Jin Air Green Wings (JAG) vs MKZ (MKZ)\nType : BO2\nTournament 
+ : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2936
+CATEGORIES:OGN Group D
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2939
+DTSTART:20140712T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T120000Z
+URL:http://www.lolesports.com/tourney/match/2939
+SUMMARY:CJ Entus Blaze vs Jin Air Stealths
+DESCRIPTION:CJ Entus Blaze (CJB) vs Jin Air Green Wings (JAG)\nType : BO2\n
+ Tournament : OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2939
+CATEGORIES:OGN Group D
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2949
+DTSTART:20140725T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140725T110000Z
+URL:http://www.lolesports.com/tourney/match/2949
+SUMMARY:Samsung Blue vs Jin Air Stealths
+DESCRIPTION:Samsung Blue (SSB) vs Jin Air Green Wings (JAG)\nType : BO5\nTo
+ urnament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2949
+CATEGORIES:OGN Top 8
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3292
+DTSTART:20150109T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150109T100000Z
+URL:http://www.lolesports.com/tourney/match/3292
+SUMMARY:Samsung Galaxy vs Jin Air Green Wings
+DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
+ Tournament : 2015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/3292
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3299
+DTSTART:20150117T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150117T100000Z
+URL:http://www.lolesports.com/tourney/match/3299
+SUMMARY:GE Tigers vs Jin Air Green Wings
+DESCRIPTION:KOO Tigers (KOO) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
+ nament : 2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/3299
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3302
+DTSTART:20150123T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T100000Z
+URL:http://www.lolesports.com/tourney/match/3302
+SUMMARY:Jin Air Green Wings vs Najin e-mFire
+DESCRIPTION:Jin Air Green Wings (JAG) vs Najin e-mFire (NJE)\nType : BO3\nT
+ ournament : 2015 LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/3302
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3305
+DTSTART:20150128T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150128T100000Z
+URL:http://www.lolesports.com/tourney/match/3305
+SUMMARY:Incredible Miracle vs Jin Air Green Wings
+DESCRIPTION:Longzhu Incredible Miracle (IM) vs Jin Air Green Wings (JAG)\nT
+ ype : BO3\nTournament : 2015 LCK Spring Split\nWeek : 4\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/3305
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3308
+DTSTART:20150131T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150131T090000Z
+URL:http://www.lolesports.com/tourney/match/3308
+SUMMARY:Jin Air Green Wings vs SKtelecom T1
+DESCRIPTION:Jin Air Green Wings (JAG) vs SKTelecom T1 (SKT)\nType : BO3\nTo
+ urnament : 2015 LCK Spring Split\nWeek : 4\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/3308
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3312
+DTSTART:20150207T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T090000Z
+URL:http://www.lolesports.com/tourney/match/3312
+SUMMARY:Jin Air Green Wings vs CJ ENTUS
+DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO3\nTournam
+ ent : 2015 LCK Spring Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3312
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3315
+DTSTART:20150213T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T100000Z
+URL:http://www.lolesports.com/tourney/match/3315
+SUMMARY:KT Rolster vs Jin Air Green Wings
+DESCRIPTION:KT Rolster (KT) vs Jin Air Green Wings (JAG)\nType : BO3\nTourn
+ ament : 2015 LCK Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/3315
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3319
+DTSTART:20150227T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T090000Z
+URL:http://www.lolesports.com/tourney/match/3319
+SUMMARY:Jin Air Green Wings vs Samsung Galaxy
+DESCRIPTION:Jin Air Green Wings (JAG) vs Samsung Galaxy (SSG)\nType : BO3\n
+ Tournament : 2015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/3319
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3326
+DTSTART:20150307T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150307T090000Z
+URL:http://www.lolesports.com/tourney/match/3326
+SUMMARY:Jin Air Green Wings vs GE Tigers
+DESCRIPTION:Jin Air Green Wings (JAG) vs KOO Tigers (KOO)\nType : BO3\nTour
+ nament : 2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/3326
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3329
+DTSTART:20150320T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T090000Z
+URL:http://www.lolesports.com/tourney/match/3329
+SUMMARY:Najin e-mFire vs Jin Air Green Wings
+DESCRIPTION:Najin e-mFire (NJE) vs Jin Air Green Wings (JAG)\nType : BO3\nT
+ ournament : 2015 LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/3329
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3333
+DTSTART:20150325T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150325T100000Z
+URL:http://www.lolesports.com/tourney/match/3333
+SUMMARY:Jin Air Green Wings vs Incredible Miracle
+DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Incredible Miracle (IM)\nT
+ ype : BO3\nTournament : 2015 LCK Spring Split\nWeek : 10\nStream : No\nUrl
+  : http://www.lolesports.com/tourney/match/3333
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3337
+DTSTART:20150328T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150328T110000Z
+URL:http://www.lolesports.com/tourney/match/3337
+SUMMARY:SK Telecom T1 vs Jin Air Green Wings
+DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO3\nTo
+ urnament : 2015 LCK Spring Split\nWeek : 10\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/3337
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3341
+DTSTART:20150404T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150404T110000Z
+URL:http://www.lolesports.com/tourney/match/3341
+SUMMARY:CJ ENTUS vs Jin Air Green Wings
+DESCRIPTION:CJ ENTUS (CJ) vs Jin Air Green Wings (JAG)\nType : BO3\nTournam
+ ent : 2015 LCK Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3341
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3342
+DTSTART:20150408T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150408T100000Z
+URL:http://www.lolesports.com/tourney/match/3342
+SUMMARY:Jin Air Green Wings vs KT Rolster
+DESCRIPTION:Jin Air Green Wings (JAG) vs KT Rolster (KT)\nType : BO3\nTourn
+ ament : 2015 LCK Spring Split\nWeek : 12\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/3342
+CATEGORIES:2015 LCK Spring Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4533
+DTSTART:20150417T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150417T100000Z
+URL:http://www.lolesports.com/tourney/match/4533
+SUMMARY:CJ ENTUS vs Jin Air Green Wings
+DESCRIPTION:CJ ENTUS (CJ) vs Jin Air Green Wings (JAG)\nType : BO5\nTournam
+ ent : 2015 LCK Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4533
+CATEGORIES:2015 LCK Spring Playoffs
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4938
+DTSTART:20150522T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T110000Z
+URL:http://www.lolesports.com/tourney/match/4938
+SUMMARY:Jin Air Green Wings vs Incredible Miracle
+DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Incredible Miracle (IM)\nT
+ ype : BO3\nTournament : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/4938
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4941
+DTSTART:20150527T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T090000Z
+URL:http://www.lolesports.com/tourney/match/4941
+SUMMARY:Jin Air Green Wings vs Anarchy
+DESCRIPTION:Jin Air Green Wings (JAG) vs Anarchy (ANC)\nType : BO3\nTournam
+ ent : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4941
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4947
+DTSTART:20150530T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T110000Z
+URL:http://www.lolesports.com/tourney/match/4947
+SUMMARY:Jin Air Green Wings vs KT Rolster
+DESCRIPTION:Jin Air Green Wings (JAG) vs KT Rolster (KT)\nType : BO3\nTourn
+ ament : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4947
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4949
+DTSTART:20150603T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T110000Z
+URL:http://www.lolesports.com/tourney/match/4949
+SUMMARY:Samsung Galaxy vs Jin Air Green Wings
+DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
+ Tournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4949
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4952
+DTSTART:20150605T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T110000Z
+URL:http://www.lolesports.com/tourney/match/4952
+SUMMARY:SBENU SONICBOOM vs Jin Air Green Wings
+DESCRIPTION:SBENU SONICBOOM (SBE) vs Jin Air Green Wings (JAG)\nType : BO3\
+ nTournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/4952
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4961
+DTSTART:20150613T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T090000Z
+URL:http://www.lolesports.com/tourney/match/4961
+SUMMARY:KOO Tigers vs Jin Air Green Wings
+DESCRIPTION:KOO Tigers (KOO) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
+ nament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4961
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4963
+DTSTART:20150617T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T090000Z
+URL:http://www.lolesports.com/tourney/match/4963
+SUMMARY:Jin Air Green Wings vs CJ ENTUS
+DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO3\nTournam
+ ent : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4963
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4974
+DTSTART:20150625T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T060000Z
+URL:http://www.lolesports.com/tourney/match/4974
+SUMMARY:Jin Air Green Wings vs Najin e-mFire
+DESCRIPTION:Jin Air Green Wings (JAG) vs Najin e-mFire (NJE)\nType : BO3\nT
+ ournament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4974
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4978
+DTSTART:20150627T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T110000Z
+URL:http://www.lolesports.com/tourney/match/4978
+SUMMARY:SKTelecom T1 vs Jin Air Green Wings
+DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO3\nTo
+ urnament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4978
+CATEGORIES:2015 LCK Summer Split
+DTSTAMP:20150621T152803Z
+END:VEVENT
+END:VCALENDAR

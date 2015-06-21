@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-summer-promotion
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-778
+DTSTART:20130503T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130503T100000Z
+URL:http://www.lolesports.com/tourney/match/778
+SUMMARY:Meet Your Makers vs Dexterisactuallyevil
+DESCRIPTION:Mousesports (MOU) vs Dexterisactuallyevil ()\nType : BO3\nTourn
+ ament : EU Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/778
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-780
+DTSTART:20130505T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T100000Z
+URL:http://www.lolesports.com/tourney/match/780
+SUMMARY:Millenium vs Wizards Club
+DESCRIPTION: () vs Wizards Club ()\nType : BO3\nTournament : EU Summer Prom
+ otion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/780
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-779
+DTSTART:20130505T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T110000Z
+URL:http://www.lolesports.com/tourney/match/779
+SUMMARY:Lemondogs vs TCM Gaming
+DESCRIPTION:Lemondogs (LD) vs TCM Gaming ()\nType : BO3\nTournament : EU Su
+ mmer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/779
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-777
+DTSTART:20130505T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T140000Z
+URL:http://www.lolesports.com/tourney/match/777
+SUMMARY:Samurai in Jeans vs Anexis eSports
+DESCRIPTION:Samurai in Jeans () vs Anexis eSports ()\nType : BO3\nTournamen
+ t : EU Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/777
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-784
+DTSTART:20130505T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T170000Z
+URL:http://www.lolesports.com/tourney/match/784
+SUMMARY:Ozone GIANTS vs Millenium
+DESCRIPTION:Giants Gaming (GIA) vs  ()\nType : BO5\nTournament : EU Summer 
+ Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/784
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-783
+DTSTART:20130506T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130506T130000Z
+URL:http://www.lolesports.com/tourney/match/783
+SUMMARY:Against All Authority vs Lemondogs
+DESCRIPTION:Against All Authority () vs Lemondogs (LD)\nType : BO5\nTournam
+ ent : EU Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/783
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-781
+DTSTART:20130506T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130506T140000Z
+URL:http://www.lolesports.com/tourney/match/781
+SUMMARY:Ninjas in Pyjamas vs Samurai in Jeans
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Samurai in Jeans ()\nType : BO5\nTou
+ rnament : EU Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/781
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-782
+DTSTART:20130506T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130506T180000Z
+URL:http://www.lolesports.com/tourney/match/782
+SUMMARY:Dragonborns vs Meet Your Makers
+DESCRIPTION:Dragonborns () vs Mousesports (MOU)\nType : BO5\nTournament : E
+ U Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/782
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150621T152738Z
+END:VEVENT
+END:VCALENDAR

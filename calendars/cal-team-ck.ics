@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-ck
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5116
+DTSTART:20150527T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T170000Z
+URL:http://www.lolesports.com/tourney/match/5116
+SUMMARY:Biskvitki Zakuska vs Caseking Gaming
+DESCRIPTION:Biskvitki Zakuska (BZ) vs Caseking Gaming (CK)\nType : BO3\nTou
+ rnament : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/5116
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5119
+DTSTART:20150603T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T170000Z
+URL:http://www.lolesports.com/tourney/match/5119
+SUMMARY:Ex Nihilo vs Caseking Gaming
+DESCRIPTION:Ex Nihilo (EXN) vs Caseking Gaming (CK)\nType : BO3\nTournament
+  : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/5119
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+END:VCALENDAR

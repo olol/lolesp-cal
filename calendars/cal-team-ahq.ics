@@ -1,0 +1,705 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-ahq
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3078
+DTSTART:20140918T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140918T120000Z
+URL:http://www.lolesports.com/tourney/match/3078
+SUMMARY:Dark Passage vs Ahq e-Sports Club
+DESCRIPTION:Dark Passage (DP) vs ahq e-Sports Club (AHQ)\nType : BO1\nTourn
+ ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3078
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3079
+DTSTART:20140918T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140918T140000Z
+URL:http://www.lolesports.com/tourney/match/3079
+SUMMARY:Samsung White vs Ahq e-Sports Club
+DESCRIPTION:Samsung White (SSW) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
+ rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3079
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3082
+DTSTART:20140919T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T150000Z
+URL:http://www.lolesports.com/tourney/match/3082
+SUMMARY:Edward Gaming vs Ahq e-Sports Club
+DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
+ rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3082
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3084
+DTSTART:20140920T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T120000Z
+URL:http://www.lolesports.com/tourney/match/3084
+SUMMARY:Ahq e-Sports Club vs Samsung White
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Samsung White (SSW)\nType : BO1\nTou
+ rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3084
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3086
+DTSTART:20140921T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T110000Z
+URL:http://www.lolesports.com/tourney/match/3086
+SUMMARY:Ahq e-Sports Club vs Dark Passage
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Dark Passage (DP)\nType : BO1\nTourn
+ ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3086
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3087
+DTSTART:20140921T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T130000Z
+URL:http://www.lolesports.com/tourney/match/3087
+SUMMARY:Ahq e-Sports Club vs Edward Gaming
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Edward Gaming (EDG)\nType : BO1\nTou
+ rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3087
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3132
+DTSTART:20140921T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T160000Z
+URL:http://www.lolesports.com/tourney/match/3132
+SUMMARY:Edward Gaming vs Ahq e-Sports Club
+DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
+ rnament : Group A\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3132
+CATEGORIES:Group A
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3682
+DTSTART:20150108T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150108T120000Z
+URL:http://www.lolesports.com/tourney/match/3682
+SUMMARY:Ahq e-Sports Club vs Dream or Reality
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3682
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3684
+DTSTART:20150108T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150108T140000Z
+URL:http://www.lolesports.com/tourney/match/3684
+SUMMARY:Taipei Assassins vs Ahq e-Sports Club
+DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3684
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3686
+DTSTART:20150109T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150109T130000Z
+URL:http://www.lolesports.com/tourney/match/3686
+SUMMARY:Never Give Up vs Ahq e-Sports Club
+DESCRIPTION:Never Give Up (NGU) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3686
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3694
+DTSTART:20150115T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150115T140000Z
+URL:http://www.lolesports.com/tourney/match/3694
+SUMMARY:Ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3694
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3700
+DTSTART:20150118T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150118T130000Z
+URL:http://www.lolesports.com/tourney/match/3700
+SUMMARY:Ahq e-Sports Club vs Midnight Sun e-Sports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3700
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3701
+DTSTART:20150118T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150118T140000Z
+URL:http://www.lolesports.com/tourney/match/3701
+SUMMARY:Logitech Sniper vs Ahq e-Sports Club
+DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3701
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3704
+DTSTART:20150122T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150122T140000Z
+URL:http://www.lolesports.com/tourney/match/3704
+SUMMARY:Ahq e-Sports Club vs yoe Flash Wolves
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3704
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3716
+DTSTART:20150125T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150125T130000Z
+URL:http://www.lolesports.com/tourney/match/3716
+SUMMARY:Ahq e-Sports Club vs Dream or Reality
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Dream or Reality (DOR)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3716
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3728
+DTSTART:20150207T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T140000Z
+URL:http://www.lolesports.com/tourney/match/3728
+SUMMARY:Ahq e-Sports Club vs Taipei Assassins
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3728
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3730
+DTSTART:20150208T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150208T130000Z
+URL:http://www.lolesports.com/tourney/match/3730
+SUMMARY:Ahq e-Sports Club vs Never Give Up
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Never Give Up (NGU)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3730
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3735
+DTSTART:20150213T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T120000Z
+URL:http://www.lolesports.com/tourney/match/3735
+SUMMARY:Hong Kong Esports vs Ahq e-Sports Club
+DESCRIPTION:Hong Kong Esports (HKE) vs ahq e-Sports Club (AHQ)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3735
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3710
+DTSTART:20150214T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150214T140000Z
+URL:http://www.lolesports.com/tourney/match/3710
+SUMMARY:Midnight Sun e-Sports vs Ahq e-Sports Club
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3710
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3711
+DTSTART:20150225T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150225T120000Z
+URL:http://www.lolesports.com/tourney/match/3711
+SUMMARY:Ahq e-Sports Club vs Logitech Sniper
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Logitech G Sniper (LGS)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3711
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3724
+DTSTART:20150227T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T120000Z
+URL:http://www.lolesports.com/tourney/match/3724
+SUMMARY:yoe Flash Wolves vs Ahq e-Sports Club
+DESCRIPTION:Flash Wolves (YFW) vs ahq e-Sports Club (AHQ)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3724
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3726
+DTSTART:20150228T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T130000Z
+URL:http://www.lolesports.com/tourney/match/3726
+SUMMARY:Dream or Reality vs Ahq e-Sports Club
+DESCRIPTION:Dream or Reality (DOR) vs ahq e-Sports Club (AHQ)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3726
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3750
+DTSTART:20150304T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150304T120000Z
+URL:http://www.lolesports.com/tourney/match/3750
+SUMMARY:Ahq e-Sports Club vs Never Give Up
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Never Give Up (NGU)\nType : BO1\nTou
+ rnament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3750
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3741
+DTSTART:20150306T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T140000Z
+URL:http://www.lolesports.com/tourney/match/3741
+SUMMARY:Ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3741
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3762
+DTSTART:20150318T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T140000Z
+URL:http://www.lolesports.com/tourney/match/3762
+SUMMARY:Ahq e-Sports Club vs Midnight Sun e-Sports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3762
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3763
+DTSTART:20150319T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150319T130000Z
+URL:http://www.lolesports.com/tourney/match/3763
+SUMMARY:Logitech Sniper vs Ahq e-Sports Club
+DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3763
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3758
+DTSTART:20150322T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150322T130000Z
+URL:http://www.lolesports.com/tourney/match/3758
+SUMMARY:Ahq e-Sports Club vs yoe Flash Wolves
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO1\nTour
+ nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3758
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4518
+DTSTART:20150410T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150410T120000Z
+URL:http://www.lolesports.com/tourney/match/4518
+SUMMARY:Ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO5\
+ nTournament : 2015 LMS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/4518
+CATEGORIES:2015 LMS Spring Playoffs
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4519
+DTSTART:20150411T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150411T120000Z
+URL:http://www.lolesports.com/tourney/match/4519
+SUMMARY:Ahq e-Sports Club vs Taipei Assassins
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO5\n
+ Tournament : 2015 LMS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/4519
+CATEGORIES:2015 LMS Spring Playoffs
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4520
+DTSTART:20150412T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150412T120000Z
+URL:http://www.lolesports.com/tourney/match/4520
+SUMMARY:Ahq e-Sports Club vs yoe Flash Wolves
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO5\nTour
+ nament : 2015 LMS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4520
+CATEGORIES:2015 LMS Spring Playoffs
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4564
+DTSTART:20150507T223000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150507T233000Z
+URL:http://www.lolesports.com/tourney/match/4564
+SUMMARY:EDward Gaming vs Ahq e-Sports Club
+DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
+ rnament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4564
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4566
+DTSTART:20150508T003000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T013000Z
+URL:http://www.lolesports.com/tourney/match/4566
+SUMMARY:Fnatic vs Ahq e-Sports Club
+DESCRIPTION:Fnatic (FNC) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
+  : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4566
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4568
+DTSTART:20150508T023000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T033000Z
+URL:http://www.lolesports.com/tourney/match/4568
+SUMMARY:Ahq e-Sports Club vs Besiktas e-Sports Club
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Besiktas e-Sports Club (BJK)\nType :
+  BO1\nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/4568
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4571
+DTSTART:20150508T211500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T221500Z
+URL:http://www.lolesports.com/tourney/match/4571
+SUMMARY:Team SoloMid vs Ahq e-Sports Club
+DESCRIPTION:Team SoloMid (TSM) vs ahq e-Sports Club (AHQ)\nType : BO1\nTour
+ nament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4571
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4576
+DTSTART:20150509T021500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150509T031500Z
+URL:http://www.lolesports.com/tourney/match/4576
+SUMMARY:Ahq e-Sports Club vs SK Telecom T1
+DESCRIPTION:ahq e-Sports Club (AHQ) vs SKTelecom T1 (SKT)\nType : BO1\nTour
+ nament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4576
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4578
+DTSTART:20150509T221500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150509T231500Z
+URL:http://www.lolesports.com/tourney/match/4578
+SUMMARY:Edward Gaming vs ahq e-Sports Club
+DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO5\nTou
+ rnament : 2015 MSI Knockout\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4578
+CATEGORIES:2015 MSI Knockout
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4881
+DTSTART:20150521T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150521T133000Z
+URL:http://www.lolesports.com/tourney/match/4881
+SUMMARY:Machi vs ahq e-Sports Club
+DESCRIPTION:Machi (MAC) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4881
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4885
+DTSTART:20150527T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T133000Z
+URL:http://www.lolesports.com/tourney/match/4885
+SUMMARY:ahq e-Sports Club vs Hong Kong Esports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4885
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4888
+DTSTART:20150529T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T113000Z
+URL:http://www.lolesports.com/tourney/match/4888
+SUMMARY:ahq e-Sports Club vs Assassin Sniper
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Assassin Sniper (AS)\nType : BO2\nTo
+ urnament : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4888
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4891
+DTSTART:20150603T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T133000Z
+URL:http://www.lolesports.com/tourney/match/4891
+SUMMARY:Logitech G Sniper vs ahq e-Sports Club
+DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4891
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4894
+DTSTART:20150605T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T113000Z
+URL:http://www.lolesports.com/tourney/match/4894
+SUMMARY:Midnight Sun e-Sports vs ahq e-Sports Club
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4894
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4901
+DTSTART:20150612T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T133000Z
+URL:http://www.lolesports.com/tourney/match/4901
+SUMMARY:Flash Wolves vs ahq e-Sports Club
+DESCRIPTION:Flash Wolves (YFW) vs ahq e-Sports Club (AHQ)\nType : BO2\nTour
+ nament : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4901
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4903
+DTSTART:20150617T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T140000Z
+URL:http://www.lolesports.com/tourney/match/4903
+SUMMARY:Taipei Assassins vs ahq e-Sports Club
+DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4903
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4908
+DTSTART:20150624T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T120000Z
+URL:http://www.lolesports.com/tourney/match/4908
+SUMMARY:ahq e-Sports Club vs Machi
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (MAC)\nType : BO2\nTournament 
+ : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4908
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4913
+DTSTART:20150626T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T140000Z
+URL:http://www.lolesports.com/tourney/match/4913
+SUMMARY:Hong Kong Esports vs ahq e-Sports Club
+DESCRIPTION:Hong Kong Esports (HKE) vs ahq e-Sports Club (AHQ)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4913
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4917
+DTSTART:20150702T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T140000Z
+URL:http://www.lolesports.com/tourney/match/4917
+SUMMARY:Assassin Sniper vs ahq e-Sports Club
+DESCRIPTION:Assassin Sniper (AS) vs ahq e-Sports Club (AHQ)\nType : BO2\nTo
+ urnament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4917
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4918
+DTSTART:20150703T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T120000Z
+URL:http://www.lolesports.com/tourney/match/4918
+SUMMARY:ahq e-Sports Club vs Midnight Sun e-Sports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4918
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4922
+DTSTART:20150705T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T120000Z
+URL:http://www.lolesports.com/tourney/match/4922
+SUMMARY:ahq e-Sports Club vs Logitech G Sniper
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Logitech G Sniper (LGS)\nType : BO2\
+ nTournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4922
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4929
+DTSTART:20150710T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T140000Z
+URL:http://www.lolesports.com/tourney/match/4929
+SUMMARY:ahq e-Sports Club vs yoe Flash Wolves
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO2\nTour
+ nament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4929
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4933
+DTSTART:20150712T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150712T140000Z
+URL:http://www.lolesports.com/tourney/match/4933
+SUMMARY:ahq e-Sports Club vs Taipei Assassins
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4933
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152804Z
+END:VEVENT
+END:VCALENDAR

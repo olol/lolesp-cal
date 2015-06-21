@@ -1,0 +1,1429 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-xdg
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-543
+DTSTART:20130207T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130208T000000Z
+URL:http://www.lolesports.com/tourney/match/543
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/543
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-547
+DTSTART:20130209T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T040000Z
+URL:http://www.lolesports.com/tourney/match/547
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/547
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-549
+DTSTART:20130214T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130214T220000Z
+URL:http://www.lolesports.com/tourney/match/549
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/549
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-552
+DTSTART:20130216T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T010000Z
+URL:http://www.lolesports.com/tourney/match/552
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/552
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-555
+DTSTART:20130216T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T040000Z
+URL:http://www.lolesports.com/tourney/match/555
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/555
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-556
+DTSTART:20130221T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130221T210000Z
+URL:http://www.lolesports.com/tourney/match/556
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/556
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-559
+DTSTART:20130221T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130222T000000Z
+URL:http://www.lolesports.com/tourney/match/559
+SUMMARY:compLexity vs XDG
+DESCRIPTION:compLexity White (COW) vs XDG (XDG)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/559
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-562
+DTSTART:20130223T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T030000Z
+URL:http://www.lolesports.com/tourney/match/562
+SUMMARY:Team MRN vs XDG
+DESCRIPTION:Team MRN () vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/562
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-564
+DTSTART:20130227T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T190000Z
+URL:http://www.lolesports.com/tourney/match/564
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/564
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-570
+DTSTART:20130228T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T010000Z
+URL:http://www.lolesports.com/tourney/match/570
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/570
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-573
+DTSTART:20130228T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T040000Z
+URL:http://www.lolesports.com/tourney/match/573
+SUMMARY:XDG vs compLexity
+DESCRIPTION:XDG (XDG) vs compLexity White (COW)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/573
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-576
+DTSTART:20130228T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T210000Z
+URL:http://www.lolesports.com/tourney/match/576
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/576
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-583
+DTSTART:20130302T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T040000Z
+URL:http://www.lolesports.com/tourney/match/583
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/583
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-587
+DTSTART:20130316T013000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T023000Z
+URL:http://www.lolesports.com/tourney/match/587
+SUMMARY:XDG vs Team MRN
+DESCRIPTION:XDG (XDG) vs Team MRN ()\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/587
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-590
+DTSTART:20130316T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T000000Z
+URL:http://www.lolesports.com/tourney/match/590
+SUMMARY:compLexity vs XDG
+DESCRIPTION:compLexity White (COW) vs XDG (XDG)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/590
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-593
+DTSTART:20130317T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T200000Z
+URL:http://www.lolesports.com/tourney/match/593
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/593
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-602
+DTSTART:20130323T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T010000Z
+URL:http://www.lolesports.com/tourney/match/602
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/602
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-606
+DTSTART:20130330T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T230000Z
+URL:http://www.lolesports.com/tourney/match/606
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/606
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-610
+DTSTART:20130331T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T210000Z
+URL:http://www.lolesports.com/tourney/match/610
+SUMMARY:Team MRN vs XDG
+DESCRIPTION:Team MRN () vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/610
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-615
+DTSTART:20130401T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130401T020000Z
+URL:http://www.lolesports.com/tourney/match/615
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/615
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-618
+DTSTART:20130404T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130404T230000Z
+URL:http://www.lolesports.com/tourney/match/618
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/618
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-621
+DTSTART:20130405T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T000000Z
+URL:http://www.lolesports.com/tourney/match/621
+SUMMARY:XDG vs compLexity
+DESCRIPTION:XDG (XDG) vs compLexity White (COW)\nType : BO1\nTournament : N
+ A Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/621
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-623
+DTSTART:20130406T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T020000Z
+URL:http://www.lolesports.com/tourney/match/623
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/623
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-638
+DTSTART:20130418T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T210000Z
+URL:http://www.lolesports.com/tourney/match/638
+SUMMARY:XDG vs Team MRN
+DESCRIPTION:XDG (XDG) vs Team MRN ()\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/638
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-641
+DTSTART:20130418T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T000000Z
+URL:http://www.lolesports.com/tourney/match/641
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
+ on 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/641
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-643
+DTSTART:20130419T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T020000Z
+URL:http://www.lolesports.com/tourney/match/643
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/643
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-647
+DTSTART:20130419T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T000000Z
+URL:http://www.lolesports.com/tourney/match/647
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/647
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-651
+DTSTART:20130420T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T040000Z
+URL:http://www.lolesports.com/tourney/match/651
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/651
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-771
+DTSTART:20130427T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130427T020000Z
+URL:http://www.lolesports.com/tourney/match/771
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO3\nTournament
+  : NA Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/771
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-773
+DTSTART:20130427T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130427T210000Z
+URL:http://www.lolesports.com/tourney/match/773
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO3\nTournament : NA Sp
+ ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/773
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-776
+DTSTART:20130428T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130428T210000Z
+URL:http://www.lolesports.com/tourney/match/776
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO3\nTournament : NA Spring Pl
+ ayoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/776
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1254
+DTSTART:20130612T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130612T220000Z
+URL:http://www.lolesports.com/tourney/match/1254
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1254
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1258
+DTSTART:20130613T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130613T020000Z
+URL:http://www.lolesports.com/tourney/match/1258
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
+ on 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1258
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1263
+DTSTART:20130614T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130614T010000Z
+URL:http://www.lolesports.com/tourney/match/1263
+SUMMARY:XDG vs Velocity Esports
+DESCRIPTION:XDG (XDG) vs Velocity Esports ()\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1263
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1267
+DTSTART:20130614T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130614T230000Z
+URL:http://www.lolesports.com/tourney/match/1267
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1267
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1270
+DTSTART:20130615T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T020000Z
+URL:http://www.lolesports.com/tourney/match/1270
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1270
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1275
+DTSTART:20130620T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130620T230000Z
+URL:http://www.lolesports.com/tourney/match/1275
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3 
+ Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1275
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1277
+DTSTART:20130621T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130621T230000Z
+URL:http://www.lolesports.com/tourney/match/1277
+SUMMARY:Cloud 9  vs XDG
+DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
+  Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1277
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1283
+DTSTART:20130629T023000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T033000Z
+URL:http://www.lolesports.com/tourney/match/1283
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1283
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1285
+DTSTART:20130629T223000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T233000Z
+URL:http://www.lolesports.com/tourney/match/1285
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1285
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1289
+DTSTART:20130630T223000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T233000Z
+URL:http://www.lolesports.com/tourney/match/1289
+SUMMARY:XDG vs Cloud 9 
+DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season 3
+  Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1289
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1293
+DTSTART:20130704T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130704T190000Z
+URL:http://www.lolesports.com/tourney/match/1293
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1293
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1300
+DTSTART:20130705T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130705T020000Z
+URL:http://www.lolesports.com/tourney/match/1300
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1300
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1301
+DTSTART:20130711T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130711T210000Z
+URL:http://www.lolesports.com/tourney/match/1301
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1301
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1306
+DTSTART:20130712T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130712T020000Z
+URL:http://www.lolesports.com/tourney/match/1306
+SUMMARY:Cloud 9  vs XDG
+DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
+  Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1306
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1311
+DTSTART:20130713T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T010000Z
+URL:http://www.lolesports.com/tourney/match/1311
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
+ on 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1311
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1315
+DTSTART:20130718T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T230000Z
+URL:http://www.lolesports.com/tourney/match/1315
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1315
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1320
+DTSTART:20130720T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T020000Z
+URL:http://www.lolesports.com/tourney/match/1320
+SUMMARY:Velocity Esports vs XDG
+DESCRIPTION:Velocity Esports () vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1320
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1323
+DTSTART:20130725T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130725T230000Z
+URL:http://www.lolesports.com/tourney/match/1323
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
+ on 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1323
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1325
+DTSTART:20130726T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130726T010000Z
+URL:http://www.lolesports.com/tourney/match/1325
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1325
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1332
+DTSTART:20130727T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T020000Z
+URL:http://www.lolesports.com/tourney/match/1332
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1332
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1335
+DTSTART:20130801T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130801T230000Z
+URL:http://www.lolesports.com/tourney/match/1335
+SUMMARY:XDG vs Velocity Esports
+DESCRIPTION:XDG (XDG) vs Velocity Esports ()\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1335
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1337
+DTSTART:20130802T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130802T010000Z
+URL:http://www.lolesports.com/tourney/match/1337
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1337
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1341
+DTSTART:20130802T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130802T230000Z
+URL:http://www.lolesports.com/tourney/match/1341
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3 
+ Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1341
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1348
+DTSTART:20130814T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T000000Z
+URL:http://www.lolesports.com/tourney/match/1348
+SUMMARY:XDG vs Cloud 9 
+DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season 3
+  Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1348
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1350
+DTSTART:20130815T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T020000Z
+URL:http://www.lolesports.com/tourney/match/1350
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1350
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1353
+DTSTART:20130815T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T230000Z
+URL:http://www.lolesports.com/tourney/match/1353
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
+ on 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1353
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1359
+DTSTART:20130816T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T230000Z
+URL:http://www.lolesports.com/tourney/match/1359
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1359
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1361
+DTSTART:20130817T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T010000Z
+URL:http://www.lolesports.com/tourney/match/1361
+SUMMARY:Velocity Esports vs XDG
+DESCRIPTION:Velocity Esports () vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1361
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1598
+DTSTART:20130831T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130901T000000Z
+URL:http://www.lolesports.com/tourney/match/1598
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO3\nTournament : NA Re
+ gionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1598
+CATEGORIES:NA Regionals 2013
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1600
+DTSTART:20130901T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130901T210000Z
+URL:http://www.lolesports.com/tourney/match/1600
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO3\nTournament : NA R
+ egionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1600
+CATEGORIES:NA Regionals 2013
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1621
+DTSTART:20130916T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130916T010000Z
+URL:http://www.lolesports.com/tourney/match/1621
+SUMMARY:XDG vs Fnatic
+DESCRIPTION:XDG (XDG) vs Fnatic (FNC)\nType : BO1\nTournament : Group B\nWe
+ ek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1621
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1623
+DTSTART:20130916T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130916T030000Z
+URL:http://www.lolesports.com/tourney/match/1623
+SUMMARY:Samsung Galaxy Ozone vs XDG
+DESCRIPTION:Samsung White (SSW) vs XDG (XDG)\nType : BO1\nTournament : Grou
+ p B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 1623
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1627
+DTSTART:20130917T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130917T040000Z
+URL:http://www.lolesports.com/tourney/match/1627
+SUMMARY:XDG vs Gambit Gaming
+DESCRIPTION:XDG (XDG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Grou
+ p B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 1627
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1629
+DTSTART:20130917T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130917T060000Z
+URL:http://www.lolesports.com/tourney/match/1629
+SUMMARY:Team Mineski vs XDG
+DESCRIPTION:Team Mineski () vs XDG (XDG)\nType : BO1\nTournament : Group B\
+ nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1629
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1632
+DTSTART:20130920T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130920T040000Z
+URL:http://www.lolesports.com/tourney/match/1632
+SUMMARY:Fnatic vs XDG
+DESCRIPTION:Fnatic (FNC) vs XDG (XDG)\nType : BO1\nTournament : Group B\nWe
+ ek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1632
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1635
+DTSTART:20130920T060000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130920T070000Z
+URL:http://www.lolesports.com/tourney/match/1635
+SUMMARY:XDG vs Team Mineski
+DESCRIPTION:XDG (XDG) vs Team Mineski ()\nType : BO1\nTournament : Group B\
+ nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1635
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1637
+DTSTART:20130921T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130921T210000Z
+URL:http://www.lolesports.com/tourney/match/1637
+SUMMARY:XDG vs Samsung Galaxy Ozone
+DESCRIPTION:XDG (XDG) vs Samsung White (SSW)\nType : BO1\nTournament : Grou
+ p B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 1637
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1639
+DTSTART:20130921T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130921T230000Z
+URL:http://www.lolesports.com/tourney/match/1639
+SUMMARY:Gambit Gaming vs XDG
+DESCRIPTION:Gambit Gaming (GMB) vs XDG (XDG)\nType : BO1\nTournament : Grou
+ p B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 1639
+CATEGORIES:Group B
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1670
+DTSTART:20140117T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140117T220000Z
+URL:http://www.lolesports.com/tourney/match/1670
+SUMMARY:Evil Geniuses vs XDG
+DESCRIPTION:Evil Geniuses (EG) vs XDG (XDG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1670
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1672
+DTSTART:20140117T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140118T000000Z
+URL:http://www.lolesports.com/tourney/match/1672
+SUMMARY:XDG vs Cloud 9 
+DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Spri
+ ng Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/1672
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1675
+DTSTART:20140118T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140118T210000Z
+URL:http://www.lolesports.com/tourney/match/1675
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Sprin
+ g Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1675
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1684
+DTSTART:20140120T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140120T010000Z
+URL:http://www.lolesports.com/tourney/match/1684
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA LCS 
+ Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1684
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1685
+DTSTART:20140125T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140125T210000Z
+URL:http://www.lolesports.com/tourney/match/1685
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA L
+ CS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1685
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1689
+DTSTART:20140126T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140126T210000Z
+URL:http://www.lolesports.com/tourney/match/1689
+SUMMARY:XDG vs Evil Geniuses
+DESCRIPTION:XDG (XDG) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1689
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1693
+DTSTART:20140201T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140201T210000Z
+URL:http://www.lolesports.com/tourney/match/1693
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1693
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1697
+DTSTART:20140202T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140202T210000Z
+URL:http://www.lolesports.com/tourney/match/1697
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1697
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1701
+DTSTART:20140208T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140208T210000Z
+URL:http://www.lolesports.com/tourney/match/1701
+SUMMARY:Cloud 9  vs XDG
+DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Spri
+ ng Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/1701
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1708
+DTSTART:20140209T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140210T000000Z
+URL:http://www.lolesports.com/tourney/match/1708
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
+ CS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1708
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1711
+DTSTART:20140215T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140215T230000Z
+URL:http://www.lolesports.com/tourney/match/1711
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA LCS 
+ Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1711
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1713
+DTSTART:20140216T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140216T210000Z
+URL:http://www.lolesports.com/tourney/match/1713
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sprin
+ g Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1713
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1720
+DTSTART:20140222T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140223T000000Z
+URL:http://www.lolesports.com/tourney/match/1720
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1720
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1724
+DTSTART:20140223T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140224T000000Z
+URL:http://www.lolesports.com/tourney/match/1724
+SUMMARY:Team Dignitas vs XDG
+DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA L
+ CS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1724
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1725
+DTSTART:20140301T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140301T210000Z
+URL:http://www.lolesports.com/tourney/match/1725
+SUMMARY:XDG vs Cloud 9 
+DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Spri
+ ng Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/1725
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1731
+DTSTART:20140302T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140302T230000Z
+URL:http://www.lolesports.com/tourney/match/1731
+SUMMARY:XDG vs Counter Logic Gaming
+DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1731
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1736
+DTSTART:20140307T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140308T000000Z
+URL:http://www.lolesports.com/tourney/match/1736
+SUMMARY:Curse vs XDG
+DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Sprin
+ g Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1736
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1739
+DTSTART:20140308T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140308T220000Z
+URL:http://www.lolesports.com/tourney/match/1739
+SUMMARY:Evil Geniuses vs XDG
+DESCRIPTION:Evil Geniuses (EG) vs XDG (XDG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1739
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1742
+DTSTART:20140309T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140309T010000Z
+URL:http://www.lolesports.com/tourney/match/1742
+SUMMARY:XDG vs Team Coast
+DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA LCS 
+ Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1742
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1744
+DTSTART:20140309T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140309T200000Z
+URL:http://www.lolesports.com/tourney/match/1744
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1744
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1749
+DTSTART:20140322T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140322T200000Z
+URL:http://www.lolesports.com/tourney/match/1749
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1749
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1755
+DTSTART:20140323T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140323T220000Z
+URL:http://www.lolesports.com/tourney/match/1755
+SUMMARY:XDG vs Curse
+DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sprin
+ g Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1755
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1759
+DTSTART:20140329T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140329T220000Z
+URL:http://www.lolesports.com/tourney/match/1759
+SUMMARY:Team Coast vs XDG
+DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA LCS 
+ Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/1759
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1761
+DTSTART:20140330T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140330T200000Z
+URL:http://www.lolesports.com/tourney/match/1761
+SUMMARY:Counter Logic Gaming vs XDG
+DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
+  : NA LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1761
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1765
+DTSTART:20140404T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140404T200000Z
+URL:http://www.lolesports.com/tourney/match/1765
+SUMMARY:Cloud 9  vs XDG
+DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Spri
+ ng Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1765
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1770
+DTSTART:20140405T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140405T200000Z
+URL:http://www.lolesports.com/tourney/match/1770
+SUMMARY:XDG vs Team Dignitas
+DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
+ CS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1770
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1778
+DTSTART:20140406T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140406T220000Z
+URL:http://www.lolesports.com/tourney/match/1778
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1778
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1780
+DTSTART:20140406T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140407T000000Z
+URL:http://www.lolesports.com/tourney/match/1780
+SUMMARY:XDG vs Evil Geniuses
+DESCRIPTION:XDG (XDG) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1780
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2257
+DTSTART:20140426T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140426T200000Z
+URL:http://www.lolesports.com/tourney/match/2257
+SUMMARY:XDG vs LMQ
+DESCRIPTION:XDG (XDG) vs LMQ (LMQ)\nType : BO5\nTournament : NA LCS Summer 
+ Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/2257
+CATEGORIES:NA LCS Summer Promotion
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2657
+DTSTART:20140531T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140601T000000Z
+URL:http://www.lolesports.com/tourney/match/2657
+SUMMARY:XDG vs Frank Fang Gaming
+DESCRIPTION:XDG (XDG) vs Frank Fang Gaming (FFG)\nType : BO3\nTournament : 
+ NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2657
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2991
+DTSTART:20140630T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140630T020000Z
+URL:http://www.lolesports.com/tourney/match/2991
+SUMMARY:Wazabi Gaming vs To Be Decided
+DESCRIPTION:XDG (XDG) vs To Be Decided (TBD)\nType : BO1\nTournament : NA C
+ S Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2991
+CATEGORIES:NA CS Play In 3
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3000
+DTSTART:20140719T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T000000Z
+URL:http://www.lolesports.com/tourney/match/3000
+SUMMARY:Curse Academy vs Wazabi Gaming
+DESCRIPTION:Curse Academy (CA) vs XDG (XDG)\nType : BO3\nTournament : NA To
+ p 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 3000
+CATEGORIES:NA Top 8
+DTSTAMP:20150621T152727Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2683
+DTSTART:20140821T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140821T230000Z
+URL:http://www.lolesports.com/tourney/match/2683
+SUMMARY:Team 8 vs XDG
+DESCRIPTION:Team 8 (T8) vs XDG (XDG)\nType : BO3\nTournament : NA CS Summer
+  Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/2683
+CATEGORIES:NA CS Summer Playoffs
+DTSTAMP:20150621T152727Z
+END:VEVENT
+END:VCALENDAR

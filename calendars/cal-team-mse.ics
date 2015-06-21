@@ -1,0 +1,495 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-mse
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3687
+DTSTART:20150109T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150109T140000Z
+URL:http://www.lolesports.com/tourney/match/3687
+SUMMARY:Midnight Sun e-Sports vs Hong Kong Esports
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3687
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3688
+DTSTART:20150110T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150110T130000Z
+URL:http://www.lolesports.com/tourney/match/3688
+SUMMARY:Midnight Sun e-Sports vs yoe Flash Wolves
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3688
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3691
+DTSTART:20150111T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150111T140000Z
+URL:http://www.lolesports.com/tourney/match/3691
+SUMMARY:Midnight Sun e-Sports vs Taipei Assassins
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3691
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3698
+DTSTART:20150117T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150117T130000Z
+URL:http://www.lolesports.com/tourney/match/3698
+SUMMARY:Logitech Sniper vs Midnight Sun e-Sports
+DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3698
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3700
+DTSTART:20150118T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150118T130000Z
+URL:http://www.lolesports.com/tourney/match/3700
+SUMMARY:Ahq e-Sports Club vs Midnight Sun e-Sports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3700
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3702
+DTSTART:20150122T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150122T120000Z
+URL:http://www.lolesports.com/tourney/match/3702
+SUMMARY:Midnight Sun e-Sports vs Dream or Reality
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3702
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3706
+DTSTART:20150123T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T130000Z
+URL:http://www.lolesports.com/tourney/match/3706
+SUMMARY:Never Give Up vs Midnight Sun e-Sports
+DESCRIPTION:Never Give Up (NGU) vs Midnight Sun e-Sports (MSE)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3706
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3731
+DTSTART:20150208T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150208T140000Z
+URL:http://www.lolesports.com/tourney/match/3731
+SUMMARY:Hong Kong Esports vs Midnight Sun e-Sports
+DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3731
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3713
+DTSTART:20150212T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150212T120000Z
+URL:http://www.lolesports.com/tourney/match/3713
+SUMMARY:Taipei Assassins vs Midnight Sun e-Sports
+DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3713
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3710
+DTSTART:20150214T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150214T140000Z
+URL:http://www.lolesports.com/tourney/match/3710
+SUMMARY:Midnight Sun e-Sports vs Ahq e-Sports Club
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3710
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3756
+DTSTART:20150215T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T130000Z
+URL:http://www.lolesports.com/tourney/match/3756
+SUMMARY:Midnight Sun e-Sports vs Dream or Reality
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3756
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3722
+DTSTART:20150215T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T140000Z
+URL:http://www.lolesports.com/tourney/match/3722
+SUMMARY:Midnight Sun e-Sports vs Logitech Sniper
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Logitech G Sniper (LGS)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3722
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3714
+DTSTART:20150225T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150225T140000Z
+URL:http://www.lolesports.com/tourney/match/3714
+SUMMARY:yoe Flash Wolves vs Midnight Sun e-Sports
+DESCRIPTION:Flash Wolves (YFW) vs Midnight Sun e-Sports (MSE)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3714
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3720
+DTSTART:20150227T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T140000Z
+URL:http://www.lolesports.com/tourney/match/3720
+SUMMARY:Midnight Sun e-Sports vs Never Give Up
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Never Give Up (NGU)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3720
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3751
+DTSTART:20150304T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150304T130000Z
+URL:http://www.lolesports.com/tourney/match/3751
+SUMMARY:Hong Kong Esports vs Midnight Sun e-Sports
+DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3751
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3742
+DTSTART:20150306T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T120000Z
+URL:http://www.lolesports.com/tourney/match/3742
+SUMMARY:Logitech Sniper vs Midnight Sun e-Sports
+DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3742
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3755
+DTSTART:20150308T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150308T140000Z
+URL:http://www.lolesports.com/tourney/match/3755
+SUMMARY:Midnight Sun e-Sports vs Taipei Assassins
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3755
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3752
+DTSTART:20150318T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T130000Z
+URL:http://www.lolesports.com/tourney/match/3752
+SUMMARY:Midnight Sun e-Sports vs yoe Flash Wolves
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO1\n
+ Tournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/3752
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3762
+DTSTART:20150318T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150318T140000Z
+URL:http://www.lolesports.com/tourney/match/3762
+SUMMARY:Ahq e-Sports Club vs Midnight Sun e-Sports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO1\nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/3762
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3746
+DTSTART:20150320T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150320T120000Z
+URL:http://www.lolesports.com/tourney/match/3746
+SUMMARY:Midnight Sun e-Sports vs Dream or Reality
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
+ O1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3746
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3738
+DTSTART:20150321T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T140000Z
+URL:http://www.lolesports.com/tourney/match/3738
+SUMMARY:Midnight Sun e-Sports vs Never Give Up
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Never Give Up (NGU)\nType : BO1\
+ nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/3738
+CATEGORIES:LMS Spring
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4878
+DTSTART:20150520T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150520T113000Z
+URL:http://www.lolesports.com/tourney/match/4878
+SUMMARY:Midnight Sun e-Sports vs Logitech G Sniper
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Logitech G Sniper (LGS)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4878
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4882
+DTSTART:20150522T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T113000Z
+URL:http://www.lolesports.com/tourney/match/4882
+SUMMARY:Midnight Sun e-Sports vs Taipei Assassins
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
+ O2\nTournament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4882
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4887
+DTSTART:20150528T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T133000Z
+URL:http://www.lolesports.com/tourney/match/4887
+SUMMARY:Midnight Sun e-Sports vs yoe Flash Wolves
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4887
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4893
+DTSTART:20150604T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T133000Z
+URL:http://www.lolesports.com/tourney/match/4893
+SUMMARY:Midnight Sun e-Sports vs Machi
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (MAC)\nType : BO2\nTournam
+ ent : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4893
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4894
+DTSTART:20150605T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T113000Z
+URL:http://www.lolesports.com/tourney/match/4894
+SUMMARY:Midnight Sun e-Sports vs ahq e-Sports Club
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4894
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4898
+DTSTART:20150611T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T113000Z
+URL:http://www.lolesports.com/tourney/match/4898
+SUMMARY:Midnight Sun e-Sports vs Assassin Sniper
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Assassin Sniper (AS)\nType : BO2
+ \nTournament : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4898
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4902
+DTSTART:20150617T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T120000Z
+URL:http://www.lolesports.com/tourney/match/4902
+SUMMARY:Midnight Sun e-Sports vs Hong Kong Esports
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4902
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4906
+DTSTART:20150619T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T120000Z
+URL:http://www.lolesports.com/tourney/match/4906
+SUMMARY:Logitech G Sniper vs Midnight Sun e-Sports
+DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4906
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4910
+DTSTART:20150625T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T120000Z
+URL:http://www.lolesports.com/tourney/match/4910
+SUMMARY:Taipei Assassins vs Midnight Sun e-Sports
+DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
+ O2\nTournament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/4910
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4914
+DTSTART:20150701T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T120000Z
+URL:http://www.lolesports.com/tourney/match/4914
+SUMMARY:yoe Flash Wolves vs Midnight Sun e-Sports
+DESCRIPTION:Flash Wolves (YFW) vs Midnight Sun e-Sports (MSE)\nType : BO2\n
+ Tournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4914
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4918
+DTSTART:20150703T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T120000Z
+URL:http://www.lolesports.com/tourney/match/4918
+SUMMARY:ahq e-Sports Club vs Midnight Sun e-Sports
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4918
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4923
+DTSTART:20150705T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T140000Z
+URL:http://www.lolesports.com/tourney/match/4923
+SUMMARY:Machi vs Midnight Sun e-Sports
+DESCRIPTION:Machi (MAC) vs Midnight Sun e-Sports (MSE)\nType : BO2\nTournam
+ ent : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/4923
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4927
+DTSTART:20150709T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T140000Z
+URL:http://www.lolesports.com/tourney/match/4927
+SUMMARY:Assassin Sniper vs Midnight Sun e-Sports
+DESCRIPTION:Assassin Sniper (AS) vs Midnight Sun e-Sports (MSE)\nType : BO2
+ \nTournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4927
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4931
+DTSTART:20150711T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T140000Z
+URL:http://www.lolesports.com/tourney/match/4931
+SUMMARY:Hong Kong Esports vs Midnight Sun e-Sports
+DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO2\nTournament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4931
+CATEGORIES:2015 LMS Summer
+DTSTAMP:20150621T152808Z
+END:VEVENT
+END:VCALENDAR

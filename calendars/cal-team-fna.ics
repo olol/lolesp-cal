@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-fna
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4406
+DTSTART:20150121T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150121T190000Z
+URL:http://www.lolesports.com/tourney/match/4406
+SUMMARY:Fnatic Academy vs Different Dimension
+DESCRIPTION:Fnatic Academy (FNA) vs Different Dimension (DD)\nType : BO3\nT
+ ournament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUr
+ l : http://www.lolesports.com/tourney/match/4406
+CATEGORIES:2015 EU Spring Challenger Qualifier
+DTSTAMP:20150621T152812Z
+END:VEVENT
+END:VCALENDAR

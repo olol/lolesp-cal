@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-na-cs-2-top-8
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2095
+DTSTART:20140309T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140309T030000Z
+URL:http://www.lolesports.com/tourney/match/2095
+SUMMARY:LMQ vs Team 8
+DESCRIPTION:LMQ (LMQ) vs Team 8 (T8)\nType : BO3\nTournament : NA CS 2 Top 
+ 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/20
+ 95
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2096
+DTSTART:20140310T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140310T010000Z
+URL:http://www.lolesports.com/tourney/match/2096
+SUMMARY:LoLPro vs vVv Gaming
+DESCRIPTION:Team LolPro (PRO) vs vVv Gaming (vVv)\nType : BO3\nTournament :
+  NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2096
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2097
+DTSTART:20140314T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140314T020000Z
+URL:http://www.lolesports.com/tourney/match/2097
+SUMMARY:compLexity.Red vs Curse Academy
+DESCRIPTION:compLexity.Red (CLR) vs Curse Academy (CA)\nType : BO3\nTournam
+ ent : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2097
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2098
+DTSTART:20140314T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140314T030000Z
+URL:http://www.lolesports.com/tourney/match/2098
+SUMMARY:compLexity  vs Cloud 9 HyperX Tempest
+DESCRIPTION:compLexity Black (CLB) vs Cloud9 Tempest (C9T)\nType : BO3\nTou
+ rnament : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2098
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2099
+DTSTART:20140322T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140323T000000Z
+URL:http://www.lolesports.com/tourney/match/2099
+SUMMARY:LMQ vs vVv Gaming
+DESCRIPTION:LMQ (LMQ) vs vVv Gaming (vVv)\nType : BO3\nTournament : NA CS 2
+  Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/2099
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2100
+DTSTART:20140323T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140324T000000Z
+URL:http://www.lolesports.com/tourney/match/2100
+SUMMARY:Curse Academy vs Cloud 9 HyperX Tempest
+DESCRIPTION:Curse Academy (CA) vs Cloud9 Tempest (C9T)\nType : BO3\nTournam
+ ent : NA CS 2 Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2100
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2102
+DTSTART:20140329T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140330T000000Z
+URL:http://www.lolesports.com/tourney/match/2102
+SUMMARY:vVv Gaming vs Curse Academy
+DESCRIPTION:vVv Gaming (vVv) vs Curse Academy (CA)\nType : BO3\nTournament 
+ : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2102
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2101
+DTSTART:20140330T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140331T000000Z
+URL:http://www.lolesports.com/tourney/match/2101
+SUMMARY:LMQ vs Cloud 9 HyperX Tempest
+DESCRIPTION:LMQ (LMQ) vs Cloud9 Tempest (C9T)\nType : BO3\nTournament : NA 
+ CS 2 Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2101
+CATEGORIES:NA CS 2 Top 8
+DTSTAMP:20150621T152757Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-lp
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5111
+DTSTART:20150526T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150526T170000Z
+URL:http://www.lolesports.com/tourney/match/5111
+SUMMARY:Virtual Gaming vs LOW PRIORITY
+DESCRIPTION:Virtual Gaming (VG) vs LOW PRIORITY (LP)\nType : BO3\nTournamen
+ t : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5111
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5117
+DTSTART:20150603T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T170000Z
+URL:http://www.lolesports.com/tourney/match/5117
+SUMMARY:LOW PRIORITY vs Mousesports
+DESCRIPTION:LOW PRIORITY (LP) vs Mousesports (MOU)\nType : BO3\nTournament 
+ : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/5117
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+END:VCALENDAR

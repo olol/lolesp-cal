@@ -1,0 +1,2525 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-tsm
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-540
+DTSTART:20130207T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130207T210000Z
+URL:http://www.lolesports.com/tourney/match/540
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/540
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-543
+DTSTART:20130207T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130208T000000Z
+URL:http://www.lolesports.com/tourney/match/543
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/543
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-545
+DTSTART:20130209T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130209T020000Z
+URL:http://www.lolesports.com/tourney/match/545
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/545
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-549
+DTSTART:20130214T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130214T220000Z
+URL:http://www.lolesports.com/tourney/match/549
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/549
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-551
+DTSTART:20130214T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130215T000000Z
+URL:http://www.lolesports.com/tourney/match/551
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/551
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-554
+DTSTART:20130216T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T030000Z
+URL:http://www.lolesports.com/tourney/match/554
+SUMMARY:Team SoloMid vs Team MRN
+DESCRIPTION:Team SoloMid (TSM) vs Team MRN ()\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/554
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-566
+DTSTART:20130227T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T210000Z
+URL:http://www.lolesports.com/tourney/match/566
+SUMMARY:Team SoloMid vs compLexity
+DESCRIPTION:Team SoloMid (TSM) vs compLexity White (COW)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/566
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-569
+DTSTART:20130227T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T000000Z
+URL:http://www.lolesports.com/tourney/match/569
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/569
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-575
+DTSTART:20130228T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T060000Z
+URL:http://www.lolesports.com/tourney/match/575
+SUMMARY:Team MRN vs Team SoloMid
+DESCRIPTION:Team MRN () vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/575
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-576
+DTSTART:20130228T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T210000Z
+URL:http://www.lolesports.com/tourney/match/576
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/576
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-580
+DTSTART:20130302T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T010000Z
+URL:http://www.lolesports.com/tourney/match/580
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/580
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-584
+DTSTART:20130315T223000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130315T233000Z
+URL:http://www.lolesports.com/tourney/match/584
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/584
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-588
+DTSTART:20130316T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T220000Z
+URL:http://www.lolesports.com/tourney/match/588
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/588
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-592
+DTSTART:20130317T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T190000Z
+URL:http://www.lolesports.com/tourney/match/592
+SUMMARY:compLexity vs Team SoloMid
+DESCRIPTION:compLexity White (COW) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/592
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-597
+DTSTART:20130321T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130321T220000Z
+URL:http://www.lolesports.com/tourney/match/597
+SUMMARY:Team SoloMid vs compLexity
+DESCRIPTION:Team SoloMid (TSM) vs compLexity White (COW)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/597
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-599
+DTSTART:20130321T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130322T000000Z
+URL:http://www.lolesports.com/tourney/match/599
+SUMMARY:Team SoloMid vs Team MRN
+DESCRIPTION:Team SoloMid (TSM) vs Team MRN ()\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/599
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-600
+DTSTART:20130322T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130322T230000Z
+URL:http://www.lolesports.com/tourney/match/600
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/600
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-604
+DTSTART:20130330T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T210000Z
+URL:http://www.lolesports.com/tourney/match/604
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/604
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-608
+DTSTART:20130331T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T010000Z
+URL:http://www.lolesports.com/tourney/match/608
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/608
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-614
+DTSTART:20130401T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130401T010000Z
+URL:http://www.lolesports.com/tourney/match/614
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/614
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-618
+DTSTART:20130404T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130404T230000Z
+URL:http://www.lolesports.com/tourney/match/618
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/618
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-620
+DTSTART:20130405T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130405T230000Z
+URL:http://www.lolesports.com/tourney/match/620
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/620
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-631
+DTSTART:20130413T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T020000Z
+URL:http://www.lolesports.com/tourney/match/631
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/631
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-633
+DTSTART:20130417T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130417T220000Z
+URL:http://www.lolesports.com/tourney/match/633
+SUMMARY:Team MRN vs Team SoloMid
+DESCRIPTION:Team MRN () vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/633
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-635
+DTSTART:20130417T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T000000Z
+URL:http://www.lolesports.com/tourney/match/635
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/635
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-639
+DTSTART:20130418T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T220000Z
+URL:http://www.lolesports.com/tourney/match/639
+SUMMARY:compLexity vs Team SoloMid
+DESCRIPTION:compLexity White (COW) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/639
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-646
+DTSTART:20130419T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T230000Z
+URL:http://www.lolesports.com/tourney/match/646
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/646
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-649
+DTSTART:20130420T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T020000Z
+URL:http://www.lolesports.com/tourney/match/649
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/649
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-773
+DTSTART:20130427T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130427T210000Z
+URL:http://www.lolesports.com/tourney/match/773
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO3\nTournament : NA Sp
+ ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/773
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-775
+DTSTART:20130428T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130429T000000Z
+URL:http://www.lolesports.com/tourney/match/775
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO5\nTournament 
+ : NA Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/775
+CATEGORIES:NA Spring Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1253
+DTSTART:20130612T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130612T210000Z
+URL:http://www.lolesports.com/tourney/match/1253
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/1253
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1257
+DTSTART:20130613T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130613T010000Z
+URL:http://www.lolesports.com/tourney/match/1257
+SUMMARY:Team SoloMid vs Cloud 9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1257
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1262
+DTSTART:20130613T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130614T000000Z
+URL:http://www.lolesports.com/tourney/match/1262
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1262
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1267
+DTSTART:20130614T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130614T230000Z
+URL:http://www.lolesports.com/tourney/match/1267
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1267
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1271
+DTSTART:20130615T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T030000Z
+URL:http://www.lolesports.com/tourney/match/1271
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1271
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1274
+DTSTART:20130620T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130620T220000Z
+URL:http://www.lolesports.com/tourney/match/1274
+SUMMARY:Team SoloMid vs Velocity Esports
+DESCRIPTION:Team SoloMid (TSM) vs Velocity Esports ()\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1274
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1278
+DTSTART:20130621T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T000000Z
+URL:http://www.lolesports.com/tourney/match/1278
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/1278
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1281
+DTSTART:20130629T003000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T013000Z
+URL:http://www.lolesports.com/tourney/match/1281
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1281
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1287
+DTSTART:20130630T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T050000Z
+URL:http://www.lolesports.com/tourney/match/1287
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1287
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1291
+DTSTART:20130701T003000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130701T013000Z
+URL:http://www.lolesports.com/tourney/match/1291
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/1291
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1294
+DTSTART:20130704T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130704T200000Z
+URL:http://www.lolesports.com/tourney/match/1294
+SUMMARY:Velocity Esports vs Team SoloMid
+DESCRIPTION:Velocity Esports () vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1294
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1298
+DTSTART:20130704T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130705T000000Z
+URL:http://www.lolesports.com/tourney/match/1298
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/1298
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1301
+DTSTART:20130711T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130711T210000Z
+URL:http://www.lolesports.com/tourney/match/1301
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1301
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1305
+DTSTART:20130712T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130712T010000Z
+URL:http://www.lolesports.com/tourney/match/1305
+SUMMARY:Team SoloMid vs Velocity Esports
+DESCRIPTION:Team SoloMid (TSM) vs Velocity Esports ()\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1305
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1310
+DTSTART:20130712T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T000000Z
+URL:http://www.lolesports.com/tourney/match/1310
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/1310
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1313
+DTSTART:20130718T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T210000Z
+URL:http://www.lolesports.com/tourney/match/1313
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1313
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1317
+DTSTART:20130719T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T230000Z
+URL:http://www.lolesports.com/tourney/match/1317
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/1317
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1322
+DTSTART:20130725T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130725T220000Z
+URL:http://www.lolesports.com/tourney/match/1322
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1322
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1325
+DTSTART:20130726T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130726T010000Z
+URL:http://www.lolesports.com/tourney/match/1325
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1325
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1329
+DTSTART:20130726T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130726T230000Z
+URL:http://www.lolesports.com/tourney/match/1329
+SUMMARY:Team SoloMid vs Cloud 9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1329
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1336
+DTSTART:20130801T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130802T000000Z
+URL:http://www.lolesports.com/tourney/match/1336
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1336
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1340
+DTSTART:20130802T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130802T220000Z
+URL:http://www.lolesports.com/tourney/match/1340
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1340
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1343
+DTSTART:20130803T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T010000Z
+URL:http://www.lolesports.com/tourney/match/1343
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/1343
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1347
+DTSTART:20130814T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130814T230000Z
+URL:http://www.lolesports.com/tourney/match/1347
+SUMMARY:Velocity Esports vs Team SoloMid
+DESCRIPTION:Velocity Esports () vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1347
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1349
+DTSTART:20130815T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T010000Z
+URL:http://www.lolesports.com/tourney/match/1349
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/1349
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1356
+DTSTART:20130816T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T020000Z
+URL:http://www.lolesports.com/tourney/match/1356
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1356
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1359
+DTSTART:20130816T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T230000Z
+URL:http://www.lolesports.com/tourney/match/1359
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
+ ason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/1359
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1364
+DTSTART:20130817T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T040000Z
+URL:http://www.lolesports.com/tourney/match/1364
+SUMMARY:Cloud 9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1364
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1596
+DTSTART:20130830T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130830T210000Z
+URL:http://www.lolesports.com/tourney/match/1596
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nT
+ ournament : NA Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1596
+CATEGORIES:NA Regionals 2013
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1598
+DTSTART:20130831T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130901T000000Z
+URL:http://www.lolesports.com/tourney/match/1598
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO3\nTournament : NA Re
+ gionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1598
+CATEGORIES:NA Regionals 2013
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1599
+DTSTART:20130901T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130902T000000Z
+URL:http://www.lolesports.com/tourney/match/1599
+SUMMARY:Team SoloMid vs Cloud 9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO5\nTournament : NA
+  Regionals 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1599
+CATEGORIES:NA Regionals 2013
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1601
+DTSTART:20130915T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130915T200000Z
+URL:http://www.lolesports.com/tourney/match/1601
+SUMMARY:GamingGear.eu vs Team SoloMid
+DESCRIPTION:GamingGear.eu () vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1601
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1603
+DTSTART:20130915T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130915T220000Z
+URL:http://www.lolesports.com/tourney/match/1603
+SUMMARY:Team SoloMid vs OMG
+DESCRIPTION:Team SoloMid (TSM) vs OMG (OMG)\nType : BO1\nTournament : Group
+  A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
+ 603
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1608
+DTSTART:20130918T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130918T050000Z
+URL:http://www.lolesports.com/tourney/match/1608
+SUMMARY:Team SoloMid vs Lemondogs
+DESCRIPTION:Team SoloMid (TSM) vs Lemondogs (LD)\nType : BO1\nTournament : 
+ Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1608
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1610
+DTSTART:20130918T060000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130918T070000Z
+URL:http://www.lolesports.com/tourney/match/1610
+SUMMARY:SK Telecom T1 K vs Team SoloMid
+DESCRIPTION:SKTelecom T1 (SKT) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/1610
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1613
+DTSTART:20130921T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130921T050000Z
+URL:http://www.lolesports.com/tourney/match/1613
+SUMMARY:Team SoloMid vs SK Telecom T1 K
+DESCRIPTION:Team SoloMid (TSM) vs SKTelecom T1 (SKT)\nType : BO1\nTournamen
+ t : Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/1613
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1615
+DTSTART:20130921T060000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130921T070000Z
+URL:http://www.lolesports.com/tourney/match/1615
+SUMMARY:OMG vs Team SoloMid
+DESCRIPTION:OMG (OMG) vs Team SoloMid (TSM)\nType : BO1\nTournament : Group
+  A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
+ 615
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1616
+DTSTART:20130922T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130922T010000Z
+URL:http://www.lolesports.com/tourney/match/1616
+SUMMARY:Lemondogs vs Team SoloMid
+DESCRIPTION:Lemondogs (LD) vs Team SoloMid (TSM)\nType : BO1\nTournament : 
+ Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1616
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1619
+DTSTART:20130922T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130922T040000Z
+URL:http://www.lolesports.com/tourney/match/1619
+SUMMARY:Team SoloMid vs GamingGear.eu
+DESCRIPTION:Team SoloMid (TSM) vs GamingGear.eu ()\nType : BO1\nTournament 
+ : Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1619
+CATEGORIES:Group A
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1669
+DTSTART:20140117T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140117T210000Z
+URL:http://www.lolesports.com/tourney/match/1669
+SUMMARY:Cloud 9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1669
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1673
+DTSTART:20140118T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140118T010000Z
+URL:http://www.lolesports.com/tourney/match/1673
+SUMMARY:Team SoloMid vs Evil Geniuses
+DESCRIPTION:Team SoloMid (TSM) vs Evil Geniuses (EG)\nType : BO1\nTournamen
+ t : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1673
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1677
+DTSTART:20140118T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140118T230000Z
+URL:http://www.lolesports.com/tourney/match/1677
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1677
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1683
+DTSTART:20140119T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140120T000000Z
+URL:http://www.lolesports.com/tourney/match/1683
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1683
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1688
+DTSTART:20140125T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140126T000000Z
+URL:http://www.lolesports.com/tourney/match/1688
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/1688
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1690
+DTSTART:20140126T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140126T220000Z
+URL:http://www.lolesports.com/tourney/match/1690
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1690
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1693
+DTSTART:20140201T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140201T210000Z
+URL:http://www.lolesports.com/tourney/match/1693
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1693
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1700
+DTSTART:20140202T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140203T000000Z
+URL:http://www.lolesports.com/tourney/match/1700
+SUMMARY:Team SoloMid vs Cloud 9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1700
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1703
+DTSTART:20140208T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140208T230000Z
+URL:http://www.lolesports.com/tourney/match/1703
+SUMMARY:Evil Geniuses vs Team SoloMid
+DESCRIPTION:Evil Geniuses (EG) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : NA LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1703
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1706
+DTSTART:20140209T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140209T220000Z
+URL:http://www.lolesports.com/tourney/match/1706
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1706
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1712
+DTSTART:20140215T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140216T000000Z
+URL:http://www.lolesports.com/tourney/match/1712
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1712
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1716
+DTSTART:20140216T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140217T000000Z
+URL:http://www.lolesports.com/tourney/match/1716
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/1716
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1718
+DTSTART:20140222T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140222T220000Z
+URL:http://www.lolesports.com/tourney/match/1718
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1718
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1722
+DTSTART:20140223T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140223T220000Z
+URL:http://www.lolesports.com/tourney/match/1722
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1722
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1727
+DTSTART:20140301T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140301T230000Z
+URL:http://www.lolesports.com/tourney/match/1727
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1727
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1729
+DTSTART:20140302T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140302T210000Z
+URL:http://www.lolesports.com/tourney/match/1729
+SUMMARY:Cloud 9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1729
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1734
+DTSTART:20140307T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140307T220000Z
+URL:http://www.lolesports.com/tourney/match/1734
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1734
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1738
+DTSTART:20140308T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140308T210000Z
+URL:http://www.lolesports.com/tourney/match/1738
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/1738
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1741
+DTSTART:20140308T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140309T000000Z
+URL:http://www.lolesports.com/tourney/match/1741
+SUMMARY:Team SoloMid vs Evil Geniuses
+DESCRIPTION:Team SoloMid (TSM) vs Evil Geniuses (EG)\nType : BO1\nTournamen
+ t : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1741
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1744
+DTSTART:20140309T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140309T200000Z
+URL:http://www.lolesports.com/tourney/match/1744
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1744
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1749
+DTSTART:20140322T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140322T200000Z
+URL:http://www.lolesports.com/tourney/match/1749
+SUMMARY:Team SoloMid vs XDG
+DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1749
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1753
+DTSTART:20140323T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140323T200000Z
+URL:http://www.lolesports.com/tourney/match/1753
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1753
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1758
+DTSTART:20140329T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140329T210000Z
+URL:http://www.lolesports.com/tourney/match/1758
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/1758
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1762
+DTSTART:20140330T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140330T210000Z
+URL:http://www.lolesports.com/tourney/match/1762
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/1762
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1769
+DTSTART:20140404T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140405T000000Z
+URL:http://www.lolesports.com/tourney/match/1769
+SUMMARY:Evil Geniuses vs Team SoloMid
+DESCRIPTION:Evil Geniuses (EG) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/1769
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1771
+DTSTART:20140405T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140405T210000Z
+URL:http://www.lolesports.com/tourney/match/1771
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1771
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1775
+DTSTART:20140406T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140406T010000Z
+URL:http://www.lolesports.com/tourney/match/1775
+SUMMARY:Team SoloMid vs Cloud 9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1775
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1778
+DTSTART:20140406T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140406T220000Z
+URL:http://www.lolesports.com/tourney/match/1778
+SUMMARY:XDG vs Team SoloMid
+DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/1778
+CATEGORIES:NA LCS Spring Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2190
+DTSTART:20140419T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140419T200000Z
+URL:http://www.lolesports.com/tourney/match/2190
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nT
+ ournament : NA LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/2190
+CATEGORIES:NA LCS Spring Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2191
+DTSTART:20140420T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140420T220000Z
+URL:http://www.lolesports.com/tourney/match/2191
+SUMMARY:Cloud 9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO5\nTournament : NA
+  LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2191
+CATEGORIES:NA LCS Spring Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2515
+DTSTART:20140523T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140523T200000Z
+URL:http://www.lolesports.com/tourney/match/2515
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2515
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2520
+DTSTART:20140524T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T200000Z
+URL:http://www.lolesports.com/tourney/match/2520
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2520
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2523
+DTSTART:20140524T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140524T230000Z
+URL:http://www.lolesports.com/tourney/match/2523
+SUMMARY:Team SoloMid vs compLexity 
+DESCRIPTION:Team SoloMid (TSM) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2523
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2528
+DTSTART:20140525T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140525T220000Z
+URL:http://www.lolesports.com/tourney/match/2528
+SUMMARY:Evil Geniuses vs Team SoloMid
+DESCRIPTION:Evil Geniuses (EG) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2528
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2531
+DTSTART:20140531T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140531T200000Z
+URL:http://www.lolesports.com/tourney/match/2531
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2531
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2538
+DTSTART:20140601T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140601T230000Z
+URL:http://www.lolesports.com/tourney/match/2538
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2538
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2539
+DTSTART:20140607T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140607T200000Z
+URL:http://www.lolesports.com/tourney/match/2539
+SUMMARY:Team SoloMid vs LMQ
+DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2539
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2546
+DTSTART:20140608T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140608T230000Z
+URL:http://www.lolesports.com/tourney/match/2546
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2546
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2547
+DTSTART:20140614T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140614T200000Z
+URL:http://www.lolesports.com/tourney/match/2547
+SUMMARY:Team SoloMid vs Cloud9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2547
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2552
+DTSTART:20140615T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140615T210000Z
+URL:http://www.lolesports.com/tourney/match/2552
+SUMMARY:compLexity  vs Team SoloMid
+DESCRIPTION:compLexity Black (CLB) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2552
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2556
+DTSTART:20140619T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140619T210000Z
+URL:http://www.lolesports.com/tourney/match/2556
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2556
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2560
+DTSTART:20140620T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T210000Z
+URL:http://www.lolesports.com/tourney/match/2560
+SUMMARY:Team SoloMid vs Evil Geniuses
+DESCRIPTION:Team SoloMid (TSM) vs Evil Geniuses (EG)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2560
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2563
+DTSTART:20140628T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T200000Z
+URL:http://www.lolesports.com/tourney/match/2563
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2563
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2568
+DTSTART:20140629T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140629T210000Z
+URL:http://www.lolesports.com/tourney/match/2568
+SUMMARY:LMQ vs Team SoloMid
+DESCRIPTION:LMQ (LMQ) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2568
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2575
+DTSTART:20140704T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T000000Z
+URL:http://www.lolesports.com/tourney/match/2575
+SUMMARY:Team SoloMid vs Curse
+DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2575
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2576
+DTSTART:20140705T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T200000Z
+URL:http://www.lolesports.com/tourney/match/2576
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2576
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2579
+DTSTART:20140705T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T230000Z
+URL:http://www.lolesports.com/tourney/match/2579
+SUMMARY:Evil Geniuses vs Team SoloMid
+DESCRIPTION:Evil Geniuses (EG) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2579
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2585
+DTSTART:20140706T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T230000Z
+URL:http://www.lolesports.com/tourney/match/2585
+SUMMARY:Team SoloMid vs compLexity 
+DESCRIPTION:Team SoloMid (TSM) vs compLexity Black (CLB)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2585
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2587
+DTSTART:20140712T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T220000Z
+URL:http://www.lolesports.com/tourney/match/2587
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/2587
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2594
+DTSTART:20140713T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140713T220000Z
+URL:http://www.lolesports.com/tourney/match/2594
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2594
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2595
+DTSTART:20140719T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T220000Z
+URL:http://www.lolesports.com/tourney/match/2595
+SUMMARY:Team SoloMid vs LMQ
+DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2595
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2600
+DTSTART:20140720T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T210000Z
+URL:http://www.lolesports.com/tourney/match/2600
+SUMMARY:compLexity  vs Team SoloMid
+DESCRIPTION:compLexity Black (CLB) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2600
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2604
+DTSTART:20140726T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140726T210000Z
+URL:http://www.lolesports.com/tourney/match/2604
+SUMMARY:Team SoloMid vs Evil Geniuses
+DESCRIPTION:Team SoloMid (TSM) vs Evil Geniuses (EG)\nType : BO1\nTournamen
+ t : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/2604
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2608
+DTSTART:20140727T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140727T220000Z
+URL:http://www.lolesports.com/tourney/match/2608
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/2608
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2612
+DTSTART:20140801T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T220000Z
+URL:http://www.lolesports.com/tourney/match/2612
+SUMMARY:LMQ vs Team SoloMid
+DESCRIPTION:LMQ (LMQ) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
+ S Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/2612
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2621
+DTSTART:20140802T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T210000Z
+URL:http://www.lolesports.com/tourney/match/2621
+SUMMARY:Team SoloMid vs Cloud9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2621
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2619
+DTSTART:20140802T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T230000Z
+URL:http://www.lolesports.com/tourney/match/2619
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2619
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2623
+DTSTART:20140803T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140803T220000Z
+URL:http://www.lolesports.com/tourney/match/2623
+SUMMARY:Curse vs Team SoloMid
+DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2623
+CATEGORIES:NA LCS Summer Split
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3050
+DTSTART:20140823T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140823T200000Z
+URL:http://www.lolesports.com/tourney/match/3050
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO5\nTourname
+ nt : NA LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/3050
+CATEGORIES:NA LCS Summer Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3052
+DTSTART:20140830T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140830T200000Z
+URL:http://www.lolesports.com/tourney/match/3052
+SUMMARY:Team SoloMid vs LMQ
+DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO5\nTournament : NA LC
+ S Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3052
+CATEGORIES:NA LCS Summer Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3053
+DTSTART:20140901T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140901T200000Z
+URL:http://www.lolesports.com/tourney/match/3053
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO5\nTournament : NA
+  LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/3053
+CATEGORIES:NA LCS Summer Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3096
+DTSTART:20140918T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140918T110000Z
+URL:http://www.lolesports.com/tourney/match/3096
+SUMMARY:Team SoloMid vs SK Gaming
+DESCRIPTION:Team SoloMid (TSM) vs SK Gaming (SK)\nType : BO1\nTournament : 
+ Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3096
+CATEGORIES:Group B
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3098
+DTSTART:20140918T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140918T150000Z
+URL:http://www.lolesports.com/tourney/match/3098
+SUMMARY:Star Horn Royal Club vs Team SoloMid
+DESCRIPTION:Star Horn Royal Club (SHR) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3098
+CATEGORIES:Group B
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3101
+DTSTART:20140919T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140919T140000Z
+URL:http://www.lolesports.com/tourney/match/3101
+SUMMARY:Team SoloMid vs Taipei Assassins
+DESCRIPTION:Team SoloMid (TSM) vs Taipei Assassins (TPA)\nType : BO1\nTourn
+ ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3101
+CATEGORIES:Group B
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3103
+DTSTART:20140920T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140920T130000Z
+URL:http://www.lolesports.com/tourney/match/3103
+SUMMARY:Taipei Assassins vs Team SoloMid
+DESCRIPTION:Taipei Assassins (TPA) vs Team SoloMid (TSM)\nType : BO1\nTourn
+ ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3103
+CATEGORIES:Group B
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3105
+DTSTART:20140921T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T100000Z
+URL:http://www.lolesports.com/tourney/match/3105
+SUMMARY:Team SoloMid vs Star Horn Royal Club
+DESCRIPTION:Team SoloMid (TSM) vs Star Horn Royal Club (SHR)\nType : BO1\nT
+ ournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3105
+CATEGORIES:Group B
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3107
+DTSTART:20140921T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140921T140000Z
+URL:http://www.lolesports.com/tourney/match/3107
+SUMMARY:SK Gaming vs Team SoloMid
+DESCRIPTION:SK Gaming (SK) vs Team SoloMid (TSM)\nType : BO1\nTournament : 
+ Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/3107
+CATEGORIES:Group B
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3089
+DTSTART:20141003T081500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20141003T091500Z
+URL:http://www.lolesports.com/tourney/match/3089
+SUMMARY:Samsung White vs Team SoloMid
+DESCRIPTION:Samsung White (SSW) vs Team SoloMid (TSM)\nType : BO5\nTourname
+ nt : Knockout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3089
+CATEGORIES:Knockout Stage
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3508
+DTSTART:20150124T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T210000Z
+URL:http://www.lolesports.com/tourney/match/3508
+SUMMARY:Team SoloMid vs Cloud9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3508
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3517
+DTSTART:20150126T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150126T010000Z
+URL:http://www.lolesports.com/tourney/match/3517
+SUMMARY:Team 8 vs Team SoloMid
+DESCRIPTION:Team 8 (T8) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/3517
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3522
+DTSTART:20150201T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150201T010000Z
+URL:http://www.lolesports.com/tourney/match/3522
+SUMMARY:Team SoloMid vs Winterfox
+DESCRIPTION:Team SoloMid (TSM) vs Winterfox (WFX)\nType : BO1\nTournament :
+  NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3522
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3525
+DTSTART:20150201T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150201T230000Z
+URL:http://www.lolesports.com/tourney/match/3525
+SUMMARY:Team SoloMid vs Team Liquid
+DESCRIPTION:Team SoloMid (TSM) vs Team Liquid (TL)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3525
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3530
+DTSTART:20150207T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T230000Z
+URL:http://www.lolesports.com/tourney/match/3530
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3530
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3537
+DTSTART:20150209T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150209T010000Z
+URL:http://www.lolesports.com/tourney/match/3537
+SUMMARY:Team SoloMid vs Team Impulse
+DESCRIPTION:Team SoloMid (TSM) vs Team Impulse (TIP)\nType : BO1\nTournamen
+ t : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3537
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3542
+DTSTART:20150215T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T010000Z
+URL:http://www.lolesports.com/tourney/match/3542
+SUMMARY:Gravity vs Team SoloMid
+DESCRIPTION:Gravity (GV) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3542
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3545
+DTSTART:20150215T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T230000Z
+URL:http://www.lolesports.com/tourney/match/3545
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : NA LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/3545
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3552
+DTSTART:20150222T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150222T010000Z
+URL:http://www.lolesports.com/tourney/match/3552
+SUMMARY:Team SoloMid vs Team Coast
+DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3552
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3554
+DTSTART:20150222T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150222T220000Z
+URL:http://www.lolesports.com/tourney/match/3554
+SUMMARY:Team Liquid vs Team SoloMid
+DESCRIPTION:Team Liquid (TL) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3554
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3561
+DTSTART:20150228T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T000000Z
+URL:http://www.lolesports.com/tourney/match/3561
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/3561
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3565
+DTSTART:20150301T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T230000Z
+URL:http://www.lolesports.com/tourney/match/3565
+SUMMARY:Team Impulse vs Team SoloMid
+DESCRIPTION:Team Impulse (TIP) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/3565
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3570
+DTSTART:20150307T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150307T230000Z
+URL:http://www.lolesports.com/tourney/match/3570
+SUMMARY:Winterfox vs Team SoloMid
+DESCRIPTION:Winterfox (WFX) vs Team SoloMid (TSM)\nType : BO1\nTournament :
+  NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/3570
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3574
+DTSTART:20150308T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150308T210000Z
+URL:http://www.lolesports.com/tourney/match/3574
+SUMMARY:Team SoloMid vs Team 8
+DESCRIPTION:Team SoloMid (TSM) vs Team 8 (T8)\nType : BO1\nTournament : NA 
+ LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/3574
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3578
+DTSTART:20150321T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T220000Z
+URL:http://www.lolesports.com/tourney/match/3578
+SUMMARY:Team SoloMid vs Gravity
+DESCRIPTION:Team SoloMid (TSM) vs Gravity (GV)\nType : BO1\nTournament : NA
+  LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3578
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3585
+DTSTART:20150322T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150322T210000Z
+URL:http://www.lolesports.com/tourney/match/3585
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/3585
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3589
+DTSTART:20150328T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150328T230000Z
+URL:http://www.lolesports.com/tourney/match/3589
+SUMMARY:Team Coast vs Team SoloMid
+DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/3589
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3595
+DTSTART:20150329T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150329T210000Z
+URL:http://www.lolesports.com/tourney/match/3595
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
+  LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/3595
+CATEGORIES:NA LCS Spring
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4514
+DTSTART:20150412T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150412T200000Z
+URL:http://www.lolesports.com/tourney/match/4514
+SUMMARY:Team SoloMid vs Team Impulse
+DESCRIPTION:Team SoloMid (TSM) vs Team Impulse (TIP)\nType : BO5\nTournamen
+ t : NA LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/4514
+CATEGORIES:NA LCS Spring Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4516
+DTSTART:20150419T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150419T200000Z
+URL:http://www.lolesports.com/tourney/match/4516
+SUMMARY:Team SoloMid vs Cloud9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO5\nTournament : NA
+  LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4516
+CATEGORIES:NA LCS Spring Playoffs
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4562
+DTSTART:20150507T203000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150507T213000Z
+URL:http://www.lolesports.com/tourney/match/4562
+SUMMARY:Fnatic vs Team SoloMid
+DESCRIPTION:Fnatic (FNC) vs Team SoloMid (TSM)\nType : BO1\nTournament : 20
+ 15 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4562
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4565
+DTSTART:20150507T233000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T003000Z
+URL:http://www.lolesports.com/tourney/match/4565
+SUMMARY:Besiktas e-Sports Club vs Team SoloMid
+DESCRIPTION:Besiktas e-Sports Club (BJK) vs Team SoloMid (TSM)\nType : BO1\
+ nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://ww
+ w.lolesports.com/tourney/match/4565
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4569
+DTSTART:20150508T033000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T043000Z
+URL:http://www.lolesports.com/tourney/match/4569
+SUMMARY:SK Telecom T1 vs Team SoloMid
+DESCRIPTION:SKTelecom T1 (SKT) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4569
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4571
+DTSTART:20150508T211500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150508T221500Z
+URL:http://www.lolesports.com/tourney/match/4571
+SUMMARY:Team SoloMid vs Ahq e-Sports Club
+DESCRIPTION:Team SoloMid (TSM) vs ahq e-Sports Club (AHQ)\nType : BO1\nTour
+ nament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4571
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4574
+DTSTART:20150509T001500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150509T011500Z
+URL:http://www.lolesports.com/tourney/match/4574
+SUMMARY:Team SoloMid vs EDward Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Edward Gaming (EDG)\nType : BO1\nTourname
+ nt : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/4574
+CATEGORIES:2015 MSI Group Stage
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4676
+DTSTART:20150530T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T200000Z
+URL:http://www.lolesports.com/tourney/match/4676
+SUMMARY:Cloud9  vs Team SoloMid
+DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : 20
+ 15 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4676
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4684
+DTSTART:20150531T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T230000Z
+URL:http://www.lolesports.com/tourney/match/4684
+SUMMARY:Team SoloMid vs Enemy Esports
+DESCRIPTION:Team SoloMid (TSM) vs Enemy Esports (NME)\nType : BO1\nTourname
+ nt : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4684
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4688
+DTSTART:20150606T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T220000Z
+URL:http://www.lolesports.com/tourney/match/4688
+SUMMARY:Team SoloMid vs Team Impulse
+DESCRIPTION:Team SoloMid (TSM) vs Team Impulse (TIP)\nType : BO1\nTournamen
+ t : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4688
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4693
+DTSTART:20150607T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T220000Z
+URL:http://www.lolesports.com/tourney/match/4693
+SUMMARY:Counter Logic Gaming vs Team SoloMid
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
+ ournament : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4693
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4697
+DTSTART:20150613T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T210000Z
+URL:http://www.lolesports.com/tourney/match/4697
+SUMMARY:Team SoloMid vs Team Dignitas
+DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4697
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4702
+DTSTART:20150614T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T210000Z
+URL:http://www.lolesports.com/tourney/match/4702
+SUMMARY:Team SoloMid vs Team Dragon Knights
+DESCRIPTION:Team SoloMid (TSM) vs Team Dragon Knights (TDK)\nType : BO1\nTo
+ urnament : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4702
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4708
+DTSTART:20150620T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T220000Z
+URL:http://www.lolesports.com/tourney/match/4708
+SUMMARY:Team Liquid vs Team SoloMid
+DESCRIPTION:Team Liquid (TL) vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4708
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4712
+DTSTART:20150621T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T210000Z
+URL:http://www.lolesports.com/tourney/match/4712
+SUMMARY:Gravity vs Team SoloMid
+DESCRIPTION:Gravity (GV) vs Team SoloMid (TSM)\nType : BO1\nTournament : 20
+ 15 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4712
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4718
+DTSTART:20150627T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T220000Z
+URL:http://www.lolesports.com/tourney/match/4718
+SUMMARY:Team SoloMid vs Team 8
+DESCRIPTION:Team SoloMid (TSM) vs Team 8 (T8)\nType : BO1\nTournament : 201
+ 5 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4718
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4723
+DTSTART:20150628T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T220000Z
+URL:http://www.lolesports.com/tourney/match/4723
+SUMMARY:Team SoloMid vs Counter Logic Gaming
+DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
+ ournament : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4723
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4730
+DTSTART:20150704T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T210000Z
+URL:http://www.lolesports.com/tourney/match/4730
+SUMMARY:Team Dragon Knights vs Team SoloMid
+DESCRIPTION:Team Dragon Knights (TDK) vs Team SoloMid (TSM)\nType : BO1\nTo
+ urnament : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/4730
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4733
+DTSTART:20150705T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T220000Z
+URL:http://www.lolesports.com/tourney/match/4733
+SUMMARY:Team SoloMid vs Gravity
+DESCRIPTION:Team SoloMid (TSM) vs Gravity (GV)\nType : BO1\nTournament : 20
+ 15 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4733
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4739
+DTSTART:20150711T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T230000Z
+URL:http://www.lolesports.com/tourney/match/4739
+SUMMARY:Team 8 vs Team SoloMid
+DESCRIPTION:Team 8 (T8) vs Team SoloMid (TSM)\nType : BO1\nTournament : 201
+ 5 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4739
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4741
+DTSTART:20150712T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150712T200000Z
+URL:http://www.lolesports.com/tourney/match/4741
+SUMMARY:Team SoloMid vs Team Liquid
+DESCRIPTION:Team SoloMid (TSM) vs Team Liquid (TL)\nType : BO1\nTournament 
+ : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4741
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4748
+DTSTART:20150718T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T220000Z
+URL:http://www.lolesports.com/tourney/match/4748
+SUMMARY:Team Impulse vs Team SoloMid
+DESCRIPTION:Team Impulse (TIP) vs Team SoloMid (TSM)\nType : BO1\nTournamen
+ t : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/4748
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4755
+DTSTART:20150719T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150720T000000Z
+URL:http://www.lolesports.com/tourney/match/4755
+SUMMARY:Team Dignitas vs Team SoloMid
+DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4755
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4756
+DTSTART:20150725T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T200000Z
+URL:http://www.lolesports.com/tourney/match/4756
+SUMMARY:Enemy Esports vs Team SoloMid
+DESCRIPTION:Enemy Esports (NME) vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4756
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4763
+DTSTART:20150726T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T220000Z
+URL:http://www.lolesports.com/tourney/match/4763
+SUMMARY:Team SoloMid vs Cloud9 
+DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : 20
+ 15 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4763
+CATEGORIES:2015 NA LCS Summer
+DTSTAMP:20150621T152720Z
+END:VEVENT
+END:VCALENDAR

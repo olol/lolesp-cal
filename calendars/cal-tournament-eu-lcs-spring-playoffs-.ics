@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-lcs-spring-playoffs-
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2174
+DTSTART:20140401T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140401T220000Z
+URL:http://www.lolesports.com/tourney/match/2174
+SUMMARY:Denial eSports vs Team Coast Gold
+DESCRIPTION:Denial eSports EU (DEFUNCT) (DNE) vs Team Coast Gold (CSG)\nTyp
+ e : BO3\nTournament : EU LCS Spring Playoffs \nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/2174
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2175
+DTSTART:20140402T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T220000Z
+URL:http://www.lolesports.com/tourney/match/2175
+SUMMARY:Reason Gaming vs Mousesports
+DESCRIPTION:Reason Gaming (RG) vs Mousesports (MOU)\nType : BO3\nTournament
+  : EU LCS Spring Playoffs \nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/2175
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2176
+DTSTART:20140410T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140410T170000Z
+URL:http://www.lolesports.com/tourney/match/2176
+SUMMARY:Cloud9 HyperX Eclipse vs Denial eSports
+DESCRIPTION:H2K (H2K) vs Denial eSports EU (DEFUNCT) (DNE)\nType : BO3\nTou
+ rnament : EU LCS Spring Playoffs \nWeek : 2\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/2176
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2177
+DTSTART:20140410T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140410T190000Z
+URL:http://www.lolesports.com/tourney/match/2177
+SUMMARY:Ninjas in Pyjamas vs Reason Gaming
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Reason Gaming (RG)\nType : BO3\nTour
+ nament : EU LCS Spring Playoffs \nWeek : 2\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/2177
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2179
+DTSTART:20140411T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140411T170000Z
+URL:http://www.lolesports.com/tourney/match/2179
+SUMMARY:Denial eSports vs Reason Gaming
+DESCRIPTION:Denial eSports EU (DEFUNCT) (DNE) vs Reason Gaming (RG)\nType :
+  BO5\nTournament : EU LCS Spring Playoffs \nWeek : 1\nStream : No\nUrl : h
+ ttp://www.lolesports.com/tourney/match/2179
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152759Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2178
+DTSTART:20140411T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140411T200000Z
+URL:http://www.lolesports.com/tourney/match/2178
+SUMMARY:Cloud9 HyperX Eclipse vs Ninjas in Pyjamas
+DESCRIPTION:H2K (H2K) vs Ninjas in Pyjamas (NIP)\nType : BO5\nTournament : 
+ EU LCS Spring Playoffs \nWeek : 3\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2178
+CATEGORIES:EU LCS Spring Playoffs 
+DTSTAMP:20150621T152759Z
+END:VEVENT
+END:VCALENDAR

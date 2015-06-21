@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-eu-summer-challenger-qualifie
+ r
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5111
+DTSTART:20150526T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150526T170000Z
+URL:http://www.lolesports.com/tourney/match/5111
+SUMMARY:Virtual Gaming vs LOW PRIORITY
+DESCRIPTION:Virtual Gaming (VG) vs LOW PRIORITY (LP)\nType : BO3\nTournamen
+ t : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5111
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5112
+DTSTART:20150526T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150526T170000Z
+URL:http://www.lolesports.com/tourney/match/5112
+SUMMARY:Mousesports vs Epic Avalanche
+DESCRIPTION:Mousesports (MOU) vs Epic Avalanche (EA)\nType : BO3\nTournamen
+ t : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5112
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5113
+DTSTART:20150526T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150526T170000Z
+URL:http://www.lolesports.com/tourney/match/5113
+SUMMARY:Black Ravens vs Les Touristes
+DESCRIPTION:Black Ravens (BR) vs Les Touristes (LT)\nType : BO3\nTournament
+  : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/5113
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5114
+DTSTART:20150527T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T170000Z
+URL:http://www.lolesports.com/tourney/match/5114
+SUMMARY:Team Gravy vs Wortex-Gaming
+DESCRIPTION:Denial eSports (DNE) vs Wortex-Gaming (WG)\nType : BO3\nTournam
+ ent : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : ht
+ tp://www.lolesports.com/tourney/match/5114
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5115
+DTSTART:20150527T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T170000Z
+URL:http://www.lolesports.com/tourney/match/5115
+SUMMARY:Ex Nihilo vs Phoenix Reborn
+DESCRIPTION:Ex Nihilo (EXN) vs Phoenix Reborn (PHX)\nType : BO3\nTournament
+  : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/5115
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5116
+DTSTART:20150527T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T170000Z
+URL:http://www.lolesports.com/tourney/match/5116
+SUMMARY:Biskvitki Zakuska vs Caseking Gaming
+DESCRIPTION:Biskvitki Zakuska (BZ) vs Caseking Gaming (CK)\nType : BO3\nTou
+ rnament : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl 
+ : http://www.lolesports.com/tourney/match/5116
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5117
+DTSTART:20150603T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T170000Z
+URL:http://www.lolesports.com/tourney/match/5117
+SUMMARY:LOW PRIORITY vs Mousesports
+DESCRIPTION:LOW PRIORITY (LP) vs Mousesports (MOU)\nType : BO3\nTournament 
+ : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/5117
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5118
+DTSTART:20150603T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T170000Z
+URL:http://www.lolesports.com/tourney/match/5118
+SUMMARY:Les Touristes vs Denial eSports EU
+DESCRIPTION:Les Touristes (LT) vs Denial eSports (DNE)\nType : BO3\nTournam
+ ent : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : ht
+ tp://www.lolesports.com/tourney/match/5118
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5119
+DTSTART:20150603T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T170000Z
+URL:http://www.lolesports.com/tourney/match/5119
+SUMMARY:Ex Nihilo vs Caseking Gaming
+DESCRIPTION:Ex Nihilo (EXN) vs Caseking Gaming (CK)\nType : BO3\nTournament
+  : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/5119
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5120
+DTSTART:20150609T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150609T170000Z
+URL:http://www.lolesports.com/tourney/match/5120
+SUMMARY:Team Dignitas EU vs Mousesports
+DESCRIPTION:Team Dignitas EU (DEU) vs Mousesports (MOU)\nType : BO3\nTourna
+ ment : 2015 EU Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : h
+ ttp://www.lolesports.com/tourney/match/5120
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5121
+DTSTART:20150609T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150609T190000Z
+URL:http://www.lolesports.com/tourney/match/5121
+SUMMARY:Denial eSports EU vs Ex Nihilo
+DESCRIPTION:Denial eSports (DNE) vs Ex Nihilo (EXN)\nType : BO3\nTournament
+  : 2015 EU Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/5121
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5122
+DTSTART:20150610T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T170000Z
+URL:http://www.lolesports.com/tourney/match/5122
+SUMMARY:Mousesports vs Ex Nihilo
+DESCRIPTION:Mousesports (MOU) vs Ex Nihilo (EXN)\nType : BO3\nTournament : 
+ 2015 EU Summer Challenger Qualifier\nWeek : 4\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/5122
+CATEGORIES:2015 EU Summer Challenger Qualifier
+DTSTAMP:20150621T152821Z
+END:VEVENT
+END:VCALENDAR

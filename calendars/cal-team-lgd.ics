@@ -1,0 +1,1125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-lgd
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-2108
+DTSTART:20140223T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140223T090000Z
+URL:http://www.lolesports.com/tourney/match/2108
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2108
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2110
+DTSTART:20140228T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140228T090000Z
+URL:http://www.lolesports.com/tourney/match/2110
+SUMMARY:EDward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2110
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2115
+DTSTART:20140302T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140302T120000Z
+URL:http://www.lolesports.com/tourney/match/2115
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
+ t : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2115
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2118
+DTSTART:20140308T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140308T090000Z
+URL:http://www.lolesports.com/tourney/match/2118
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL 
+ Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2118
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2124
+DTSTART:20140315T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140315T090000Z
+URL:http://www.lolesports.com/tourney/match/2124
+SUMMARY:Royal Club vs LGD GAMING
+DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
+ rnament : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2124
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2127
+DTSTART:20140316T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140316T120000Z
+URL:http://www.lolesports.com/tourney/match/2127
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
+ nd Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2127
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2130
+DTSTART:20140322T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140322T090000Z
+URL:http://www.lolesports.com/tourney/match/2130
+SUMMARY:Positive Energy vs LGD GAMING
+DESCRIPTION:Positive Energy () vs LGD GAMING (LGD)\nType : BO2\nTournament 
+ : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2130
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2136
+DTSTART:20140329T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140329T090000Z
+URL:http://www.lolesports.com/tourney/match/2136
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2136
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2138
+DTSTART:20140330T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140330T090000Z
+URL:http://www.lolesports.com/tourney/match/2138
+SUMMARY:EDward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2138
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2143
+DTSTART:20140405T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140405T120000Z
+URL:http://www.lolesports.com/tourney/match/2143
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
+ t : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2143
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2148
+DTSTART:20140412T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140412T090000Z
+URL:http://www.lolesports.com/tourney/match/2148
+SUMMARY:Royal Club vs LGD GAMING
+DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
+ rnament : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2148
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2153
+DTSTART:20140418T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140418T120000Z
+URL:http://www.lolesports.com/tourney/match/2153
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL 
+ Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2153
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2155
+DTSTART:20140419T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140419T120000Z
+URL:http://www.lolesports.com/tourney/match/2155
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
+ nd Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2155
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2158
+DTSTART:20140425T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140425T090000Z
+URL:http://www.lolesports.com/tourney/match/2158
+SUMMARY:Positive Energy vs LGD GAMING
+DESCRIPTION:Positive Energy () vs LGD GAMING (LGD)\nType : BO2\nTournament 
+ : LPL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2158
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2848
+DTSTART:20140615T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140615T090000Z
+URL:http://www.lolesports.com/tourney/match/2848
+SUMMARY:LGD GAMING vs Royal Club
+DESCRIPTION:LGD GAMING (LGD) vs Star Horn Royal Club (SHR)\nType : BO2\nTou
+ rnament : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2848
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2852
+DTSTART:20140621T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140621T090000Z
+URL:http://www.lolesports.com/tourney/match/2852
+SUMMARY:LGD GAMING vs Team WE Academy
+DESCRIPTION:LGD GAMING (LGD) vs Team WE Academy (WEA)\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2852
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2859
+DTSTART:20140628T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140628T120000Z
+URL:http://www.lolesports.com/tourney/match/2859
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
+ nd Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2859
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2860
+DTSTART:20140629T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140629T090000Z
+URL:http://www.lolesports.com/tourney/match/2860
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
+ t : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2860
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2866
+DTSTART:20140706T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T090000Z
+URL:http://www.lolesports.com/tourney/match/2866
+SUMMARY:LGD GAMING vs Young Glory
+DESCRIPTION:LGD GAMING (LGD) vs Young Glory ()\nType : BO2\nTournament : LP
+ L Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2866
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2869
+DTSTART:20140711T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140711T120000Z
+URL:http://www.lolesports.com/tourney/match/2869
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL 
+ Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2869
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2871
+DTSTART:20140712T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140712T120000Z
+URL:http://www.lolesports.com/tourney/match/2871
+SUMMARY:EDward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2871
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2876
+DTSTART:20140719T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T120000Z
+URL:http://www.lolesports.com/tourney/match/2876
+SUMMARY:LGD GAMING vs Royal Club
+DESCRIPTION:LGD GAMING (LGD) vs Star Horn Royal Club (SHR)\nType : BO2\nTou
+ rnament : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2876
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2880
+DTSTART:20140725T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140725T090000Z
+URL:http://www.lolesports.com/tourney/match/2880
+SUMMARY:LGD GAMING vs Team WE Academy
+DESCRIPTION:LGD GAMING (LGD) vs Team WE Academy (WEA)\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2880
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2887
+DTSTART:20140801T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140801T120000Z
+URL:http://www.lolesports.com/tourney/match/2887
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
+ nd Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/2887
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2888
+DTSTART:20140802T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140802T090000Z
+URL:http://www.lolesports.com/tourney/match/2888
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
+ t : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2888
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2894
+DTSTART:20140809T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140809T090000Z
+URL:http://www.lolesports.com/tourney/match/2894
+SUMMARY:LGD GAMING vs Young Glory
+DESCRIPTION:LGD GAMING (LGD) vs Young Glory ()\nType : BO2\nTournament : LP
+ L Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2894
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2897
+DTSTART:20140810T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140810T120000Z
+URL:http://www.lolesports.com/tourney/match/2897
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL 
+ Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2897
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2899
+DTSTART:20140815T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140815T120000Z
+URL:http://www.lolesports.com/tourney/match/2899
+SUMMARY:EDward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/2899
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3069
+DTSTART:20140819T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140819T090000Z
+URL:http://www.lolesports.com/tourney/match/3069
+SUMMARY:LGD GAMING vs EDward Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Edward Gaming (EDG)\nType : BO5\nTournament
+  : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/3069
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3072
+DTSTART:20140822T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140822T090000Z
+URL:http://www.lolesports.com/tourney/match/3072
+SUMMARY:Royal Club vs LGD GAMING
+DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO5\nTou
+ rnament : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/3072
+CATEGORIES:LPL Summer Top 4
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3036
+DTSTART:20140906T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140906T090000Z
+URL:http://www.lolesports.com/tourney/match/3036
+SUMMARY:Royal Club vs LGD GAMING
+DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO3\nTou
+ rnament : LPL Regional Qualifier Upper\nWeek : 1\nStream : No\nUrl : http:
+ //www.lolesports.com/tourney/match/3036
+CATEGORIES:LPL Regional Qualifier Upper
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3038
+DTSTART:20140906T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140906T110000Z
+URL:http://www.lolesports.com/tourney/match/3038
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO3\nTournamen
+ t : LPL Regional Qualifier Lower\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/3038
+CATEGORIES:LPL Regional Qualifier Lower
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3039
+DTSTART:20140907T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140907T090000Z
+URL:http://www.lolesports.com/tourney/match/3039
+SUMMARY:LGD GAMING vs OMG
+DESCRIPTION:LGD GAMING (LGD) vs OMG (OMG)\nType : BO3\nTournament : LPL Reg
+ ional Qualifier Lower\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/3039
+CATEGORIES:LPL Regional Qualifier Lower
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4256
+DTSTART:20150116T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T100000Z
+URL:http://www.lolesports.com/tourney/match/4256
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4256
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4264
+DTSTART:20150118T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150118T100000Z
+URL:http://www.lolesports.com/tourney/match/4264
+SUMMARY:Star Horn Royal Club vs LGD GAMING
+DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
+ rnament : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4264
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4273
+DTSTART:20150124T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T120000Z
+URL:http://www.lolesports.com/tourney/match/4273
+SUMMARY:Edward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4273
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4277
+DTSTART:20150125T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150125T120000Z
+URL:http://www.lolesports.com/tourney/match/4277
+SUMMARY:LGD GAMING vs Master3
+DESCRIPTION:LGD GAMING (LGD) vs Master3 (M3)\nType : BO2\nTournament : LPL 
+ Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4277
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4280
+DTSTART:20150130T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150130T100000Z
+URL:http://www.lolesports.com/tourney/match/4280
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL 
+ Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4280
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4283
+DTSTART:20150131T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150131T080000Z
+URL:http://www.lolesports.com/tourney/match/4283
+SUMMARY:LGD GAMING vs Snake
+DESCRIPTION:LGD GAMING (LGD) vs Snake (SS)\nType : BO2\nTournament : LPL Sp
+ ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /4283
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4292
+DTSTART:20150206T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150206T100000Z
+URL:http://www.lolesports.com/tourney/match/4292
+SUMMARY:LGD GAMING vs Invictus Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
+ t : LPL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/4292
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4298
+DTSTART:20150208T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150208T060000Z
+URL:http://www.lolesports.com/tourney/match/4298
+SUMMARY:King vs LGD GAMING
+DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Sp
+ ring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /4298
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4304
+DTSTART:20150213T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T100000Z
+URL:http://www.lolesports.com/tourney/match/4304
+SUMMARY:Vici Gaming vs LGD GAMING
+DESCRIPTION:Vici Gaming (VG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 
+ LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/4304
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4308
+DTSTART:20150214T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150214T100000Z
+URL:http://www.lolesports.com/tourney/match/4308
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Spr
+ ing\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 4308
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4315
+DTSTART:20150227T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T080000Z
+URL:http://www.lolesports.com/tourney/match/4315
+SUMMARY:LGD GAMING vs Gamtee
+DESCRIPTION:LGD GAMING (LGD) vs Gamtee (GT)\nType : BO2\nTournament : LPL S
+ pring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/4315
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4322
+DTSTART:20150301T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T060000Z
+URL:http://www.lolesports.com/tourney/match/4322
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4322
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4327
+DTSTART:20150306T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150306T080000Z
+URL:http://www.lolesports.com/tourney/match/4327
+SUMMARY:Star Horn Royal Club vs LGD GAMING
+DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
+ rnament : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4327
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4340
+DTSTART:20150313T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150313T100000Z
+URL:http://www.lolesports.com/tourney/match/4340
+SUMMARY:Edward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4340
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4342
+DTSTART:20150314T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150314T060000Z
+URL:http://www.lolesports.com/tourney/match/4342
+SUMMARY:LGD GAMING vs Snake
+DESCRIPTION:LGD GAMING (LGD) vs Snake (SS)\nType : BO2\nTournament : LPL Sp
+ ring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /4342
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4349
+DTSTART:20150315T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150315T120000Z
+URL:http://www.lolesports.com/tourney/match/4349
+SUMMARY:LGD GAMING vs Master3
+DESCRIPTION:LGD GAMING (LGD) vs Master3 (M3)\nType : BO2\nTournament : LPL 
+ Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4349
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4357
+DTSTART:20150321T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150321T120000Z
+URL:http://www.lolesports.com/tourney/match/4357
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL 
+ Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4357
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4363
+DTSTART:20150403T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150403T080000Z
+URL:http://www.lolesports.com/tourney/match/4363
+SUMMARY:King vs LGD GAMING
+DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Sp
+ ring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/4363
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4373
+DTSTART:20150405T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150405T120000Z
+URL:http://www.lolesports.com/tourney/match/4373
+SUMMARY:Vici Gaming vs LGD GAMING
+DESCRIPTION:Vici Gaming (VG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 
+ LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4373
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4374
+DTSTART:20150410T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150410T060000Z
+URL:http://www.lolesports.com/tourney/match/4374
+SUMMARY:LGD GAMING vs Gamtee
+DESCRIPTION:LGD GAMING (LGD) vs Gamtee (GT)\nType : BO2\nTournament : LPL S
+ pring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4374
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152754Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4380
+DTSTART:20150411T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150411T100000Z
+URL:http://www.lolesports.com/tourney/match/4380
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Spr
+ ing\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /4380
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4382
+DTSTART:20150412T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150412T060000Z
+URL:http://www.lolesports.com/tourney/match/4382
+SUMMARY:LGD GAMING vs Invictus Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
+ t : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4382
+CATEGORIES:LPL Spring
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4546
+DTSTART:20150417T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150417T100000Z
+URL:http://www.lolesports.com/tourney/match/4546
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO5\nTournament : 2015 LP
+ L Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4546
+CATEGORIES:2015 LPL Spring Playoffs
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4548
+DTSTART:20150419T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150419T100000Z
+URL:http://www.lolesports.com/tourney/match/4548
+SUMMARY:Snake vs LGD GAMING
+DESCRIPTION:Snake (SS) vs LGD GAMING (LGD)\nType : BO5\nTournament : 2015 L
+ PL Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4548
+CATEGORIES:2015 LPL Spring Playoffs
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4549
+DTSTART:20150426T060000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150426T070000Z
+URL:http://www.lolesports.com/tourney/match/4549
+SUMMARY:Edward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO5\nTournament
+  : 2015 LPL Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/4549
+CATEGORIES:2015 LPL Spring Playoffs
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4981
+DTSTART:20150522T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T100000Z
+URL:http://www.lolesports.com/tourney/match/4981
+SUMMARY:Qiao Gu vs LGD GAMING
+DESCRIPTION:Qiao Gu (QG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4981
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4989
+DTSTART:20150524T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150524T100000Z
+URL:http://www.lolesports.com/tourney/match/4989
+SUMMARY:Royal Never Give Up vs LGD GAMING
+DESCRIPTION:Royal Never Give Up (RNG) vs LGD GAMING (LGD)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4989
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4997
+DTSTART:20150530T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T100000Z
+URL:http://www.lolesports.com/tourney/match/4997
+SUMMARY:LGD GAMING vs Unlimited Potential
+DESCRIPTION:LGD GAMING (LGD) vs Unlimited Potential (UPG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4997
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5001
+DTSTART:20150531T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T100000Z
+URL:http://www.lolesports.com/tourney/match/5001
+SUMMARY:LGD GAMING vs Master3
+DESCRIPTION:LGD GAMING (LGD) vs Master3 (M3)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5001
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5006
+DTSTART:20150605T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T120000Z
+URL:http://www.lolesports.com/tourney/match/5006
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5006
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5008
+DTSTART:20150606T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T080000Z
+URL:http://www.lolesports.com/tourney/match/5008
+SUMMARY:LGD GAMING vs Snake
+DESCRIPTION:LGD GAMING (LGD) vs Snake (SS)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5008
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5018
+DTSTART:20150612T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T120000Z
+URL:http://www.lolesports.com/tourney/match/5018
+SUMMARY:LGD GAMING vs Invictus Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
+ t : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5018
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5023
+DTSTART:20150614T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T060000Z
+URL:http://www.lolesports.com/tourney/match/5023
+SUMMARY:King vs LGD GAMING
+DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5023
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5029
+DTSTART:20150619T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T100000Z
+URL:http://www.lolesports.com/tourney/match/5029
+SUMMARY:Vici Gaming vs LGD GAMING
+DESCRIPTION:Vici Gaming (VG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5029
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5032
+DTSTART:20150620T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T080000Z
+URL:http://www.lolesports.com/tourney/match/5032
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 LP
+ L Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5032
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5042
+DTSTART:20150626T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T120000Z
+URL:http://www.lolesports.com/tourney/match/5042
+SUMMARY:Edward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5042
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5045
+DTSTART:20150627T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T100000Z
+URL:http://www.lolesports.com/tourney/match/5045
+SUMMARY:Unlimited Potential vs LGD GAMING
+DESCRIPTION:Unlimited Potential (UPG) vs LGD GAMING (LGD)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5045
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5047
+DTSTART:20150628T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T060000Z
+URL:http://www.lolesports.com/tourney/match/5047
+SUMMARY:LGD GAMING vs Qiao Gu
+DESCRIPTION:LGD GAMING (LGD) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5047
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5052
+DTSTART:20150703T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T080000Z
+URL:http://www.lolesports.com/tourney/match/5052
+SUMMARY:LGD GAMING vs Royal Never Give Up
+DESCRIPTION:LGD GAMING (LGD) vs Royal Never Give Up (RNG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5052
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5066
+DTSTART:20150717T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T120000Z
+URL:http://www.lolesports.com/tourney/match/5066
+SUMMARY:LGD GAMING vs Edward Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Edward Gaming (EDG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5066
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5069
+DTSTART:20150718T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T100000Z
+URL:http://www.lolesports.com/tourney/match/5069
+SUMMARY:Snake vs LGD GAMING
+DESCRIPTION:Snake (SS) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5069
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5073
+DTSTART:20150719T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T100000Z
+URL:http://www.lolesports.com/tourney/match/5073
+SUMMARY:Master3 vs LGD GAMING
+DESCRIPTION:Master3 (M3) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5073
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5082
+DTSTART:20150725T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T120000Z
+URL:http://www.lolesports.com/tourney/match/5082
+SUMMARY:LGD GAMING vs Team WE
+DESCRIPTION:LGD GAMING (LGD) vs Team WE (WE)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5082
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5088
+DTSTART:20150731T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T080000Z
+URL:http://www.lolesports.com/tourney/match/5088
+SUMMARY:LGD GAMING vs King
+DESCRIPTION:LGD GAMING (LGD) vs King (KNG)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/5088
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5102
+DTSTART:20150807T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T120000Z
+URL:http://www.lolesports.com/tourney/match/5102
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
+ t : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5102
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5105
+DTSTART:20150808T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T100000Z
+URL:http://www.lolesports.com/tourney/match/5105
+SUMMARY:LGD GAMING vs OMG
+DESCRIPTION:LGD GAMING (LGD) vs OMG (OMG)\nType : BO2\nTournament : 2015 LP
+ L Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5105
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5108
+DTSTART:20150809T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T080000Z
+URL:http://www.lolesports.com/tourney/match/5108
+SUMMARY:LGD GAMING vs Vici Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Vici Gaming (VG)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/5108
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152755Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-lpl-summer-promotion
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4551
+DTSTART:20150414T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150414T050000Z
+URL:http://www.lolesports.com/tourney/match/4551
+SUMMARY:Master3 vs Kx.Happy
+DESCRIPTION:Master3 (M3) vs Kx.Happy (KX)\nType : BO5\nTournament : 2015 LP
+ L Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4551
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4552
+DTSTART:20150415T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150415T050000Z
+URL:http://www.lolesports.com/tourney/match/4552
+SUMMARY:Energy PACEMAKER vs AD Gaming
+DESCRIPTION:Energy PACEMAKER () vs AD Gaming ()\nType : BO5\nTournament : 2
+ 015 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4552
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4553
+DTSTART:20150416T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150416T050000Z
+URL:http://www.lolesports.com/tourney/match/4553
+SUMMARY:Star Horn Royal Club vs Young Glory
+DESCRIPTION:Star Horn Royal Club (SHR) vs Young Glory ()\nType : BO5\nTourn
+ ament : 2015 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4553
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4554
+DTSTART:20150417T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150417T050000Z
+URL:http://www.lolesports.com/tourney/match/4554
+SUMMARY:Gamtee vs Legend Dragons
+DESCRIPTION:Gamtee (GT) vs Legend Dragons (LD)\nType : BO5\nTournament : 20
+ 15 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4554
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4555
+DTSTART:20150418T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150418T050000Z
+URL:http://www.lolesports.com/tourney/match/4555
+SUMMARY:Master3 vs Energy PACEMAKER
+DESCRIPTION:Master3 (M3) vs Energy PACEMAKER ()\nType : BO5\nTournament : 2
+ 015 LPL Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4555
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150621T152817Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4556
+DTSTART:20150419T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150419T050000Z
+URL:http://www.lolesports.com/tourney/match/4556
+SUMMARY:Star Horn Royal Club vs Gamtee
+DESCRIPTION:Star Horn Royal Club (SHR) vs Gamtee (GT)\nType : BO5\nTourname
+ nt : 2015 LPL Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/4556
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150621T152817Z
+END:VEVENT
+END:VCALENDAR

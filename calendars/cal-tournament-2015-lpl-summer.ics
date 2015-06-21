@@ -1,0 +1,1853 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-lpl-summer
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4979
+DTSTART:20150522T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T060000Z
+URL:http://www.lolesports.com/tourney/match/4979
+SUMMARY:Team WE vs Invictus Gaming
+DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4979
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4980
+DTSTART:20150522T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T080000Z
+URL:http://www.lolesports.com/tourney/match/4980
+SUMMARY:Snake vs Unlimited Potential
+DESCRIPTION:Snake (SS) vs Unlimited Potential (UPG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4980
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4981
+DTSTART:20150522T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T100000Z
+URL:http://www.lolesports.com/tourney/match/4981
+SUMMARY:Qiao Gu vs LGD GAMING
+DESCRIPTION:Qiao Gu (QG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/4981
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4982
+DTSTART:20150522T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T120000Z
+URL:http://www.lolesports.com/tourney/match/4982
+SUMMARY:OMG vs Vici Gaming
+DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015 LP
+ L Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4982
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4983
+DTSTART:20150523T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T060000Z
+URL:http://www.lolesports.com/tourney/match/4983
+SUMMARY:Vici Gaming vs Unlimited Potential
+DESCRIPTION:Vici Gaming (VG) vs Unlimited Potential (UPG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4983
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4984
+DTSTART:20150523T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T080000Z
+URL:http://www.lolesports.com/tourney/match/4984
+SUMMARY:Team WE vs Snake
+DESCRIPTION:Team WE (WE) vs Snake (SS)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/4984
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4985
+DTSTART:20150523T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T100000Z
+URL:http://www.lolesports.com/tourney/match/4985
+SUMMARY:Royal Never Give Up vs Master3
+DESCRIPTION:Royal Never Give Up (RNG) vs Master3 (M3)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/4985
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4986
+DTSTART:20150523T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T120000Z
+URL:http://www.lolesports.com/tourney/match/4986
+SUMMARY:Edward Gaming vs King
+DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : 201
+ 5 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4986
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4987
+DTSTART:20150524T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150524T060000Z
+URL:http://www.lolesports.com/tourney/match/4987
+SUMMARY:Master3 vs King
+DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/4987
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4988
+DTSTART:20150524T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150524T080000Z
+URL:http://www.lolesports.com/tourney/match/4988
+SUMMARY:OMG vs Qiao Gu
+DESCRIPTION:OMG (OMG) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015 LPL Su
+ mmer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /4988
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4989
+DTSTART:20150524T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150524T100000Z
+URL:http://www.lolesports.com/tourney/match/4989
+SUMMARY:Royal Never Give Up vs LGD GAMING
+DESCRIPTION:Royal Never Give Up (RNG) vs LGD GAMING (LGD)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4989
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4990
+DTSTART:20150524T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150524T120000Z
+URL:http://www.lolesports.com/tourney/match/4990
+SUMMARY:Edward Gaming vs Vici Gaming
+DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4990
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4991
+DTSTART:20150529T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T060000Z
+URL:http://www.lolesports.com/tourney/match/4991
+SUMMARY:Invictus Gaming vs Unlimited Potential
+DESCRIPTION:Invictus Gaming (iG) vs Unlimited Potential (UPG)\nType : BO2\n
+ Tournament : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/4991
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4992
+DTSTART:20150529T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T080000Z
+URL:http://www.lolesports.com/tourney/match/4992
+SUMMARY:Edward Gaming vs Snake
+DESCRIPTION:Edward Gaming (EDG) vs Snake (SS)\nType : BO2\nTournament : 201
+ 5 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/4992
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4993
+DTSTART:20150529T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T100000Z
+URL:http://www.lolesports.com/tourney/match/4993
+SUMMARY:Team WE vs Master3
+DESCRIPTION:Team WE (WE) vs Master3 (M3)\nType : BO2\nTournament : 2015 LPL
+  Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4993
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4994
+DTSTART:20150529T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T120000Z
+URL:http://www.lolesports.com/tourney/match/4994
+SUMMARY:OMG vs Royal Never Give Up
+DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament 
+ : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4994
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4995
+DTSTART:20150530T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T060000Z
+URL:http://www.lolesports.com/tourney/match/4995
+SUMMARY:Royal Never Give Up vs King
+DESCRIPTION:Royal Never Give Up (RNG) vs King (KNG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/4995
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4996
+DTSTART:20150530T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T080000Z
+URL:http://www.lolesports.com/tourney/match/4996
+SUMMARY:Invictus Gaming vs Qiao Gu
+DESCRIPTION:Invictus Gaming (iG) vs Qiao Gu (QG)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/4996
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4997
+DTSTART:20150530T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T100000Z
+URL:http://www.lolesports.com/tourney/match/4997
+SUMMARY:LGD GAMING vs Unlimited Potential
+DESCRIPTION:LGD GAMING (LGD) vs Unlimited Potential (UPG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4997
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4998
+DTSTART:20150530T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T120000Z
+URL:http://www.lolesports.com/tourney/match/4998
+SUMMARY:Team WE vs OMG
+DESCRIPTION:Team WE (WE) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Su
+ mmer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /4998
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4999
+DTSTART:20150531T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T060000Z
+URL:http://www.lolesports.com/tourney/match/4999
+SUMMARY:King vs Snake
+DESCRIPTION:King (KNG) vs Snake (SS)\nType : BO2\nTournament : 2015 LPL Sum
+ mer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 4999
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5000
+DTSTART:20150531T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T080000Z
+URL:http://www.lolesports.com/tourney/match/5000
+SUMMARY:Royal Never Give Up vs Unlimited Potential
+DESCRIPTION:Royal Never Give Up (RNG) vs Unlimited Potential (UPG)\nType : 
+ BO2\nTournament : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/5000
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5001
+DTSTART:20150531T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T100000Z
+URL:http://www.lolesports.com/tourney/match/5001
+SUMMARY:LGD GAMING vs Master3
+DESCRIPTION:LGD GAMING (LGD) vs Master3 (M3)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5001
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5002
+DTSTART:20150531T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T120000Z
+URL:http://www.lolesports.com/tourney/match/5002
+SUMMARY:Invictus Gaming vs Vici Gaming
+DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO2\nTournamen
+ t : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5002
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5003
+DTSTART:20150605T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T060000Z
+URL:http://www.lolesports.com/tourney/match/5003
+SUMMARY:OMG vs Snake
+DESCRIPTION:OMG (OMG) vs Snake (SS)\nType : BO2\nTournament : 2015 LPL Summ
+ er\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5
+ 003
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5004
+DTSTART:20150605T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T080000Z
+URL:http://www.lolesports.com/tourney/match/5004
+SUMMARY:King vs Qiao Gu
+DESCRIPTION:King (KNG) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5004
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5005
+DTSTART:20150605T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T100000Z
+URL:http://www.lolesports.com/tourney/match/5005
+SUMMARY:Edward Gaming vs Invictus Gaming
+DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
+ ment : 2015 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5005
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5006
+DTSTART:20150605T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T120000Z
+URL:http://www.lolesports.com/tourney/match/5006
+SUMMARY:Team WE vs LGD GAMING
+DESCRIPTION:Team WE (WE) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5006
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5007
+DTSTART:20150606T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T060000Z
+URL:http://www.lolesports.com/tourney/match/5007
+SUMMARY:Qiao Gu vs Unlimited Potential
+DESCRIPTION:Qiao Gu (QG) vs Unlimited Potential (UPG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5007
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5008
+DTSTART:20150606T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T080000Z
+URL:http://www.lolesports.com/tourney/match/5008
+SUMMARY:LGD GAMING vs Snake
+DESCRIPTION:LGD GAMING (LGD) vs Snake (SS)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5008
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5009
+DTSTART:20150606T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T100000Z
+URL:http://www.lolesports.com/tourney/match/5009
+SUMMARY:Master3 vs OMG
+DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Su
+ mmer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5009
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5010
+DTSTART:20150606T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T120000Z
+URL:http://www.lolesports.com/tourney/match/5010
+SUMMARY:Team WE vs Vici Gaming
+DESCRIPTION:Team WE (WE) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5010
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5011
+DTSTART:20150607T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T060000Z
+URL:http://www.lolesports.com/tourney/match/5011
+SUMMARY:Master3 vs Unlimited Potential
+DESCRIPTION:Master3 (M3) vs Unlimited Potential (UPG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5011
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5012
+DTSTART:20150607T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T080000Z
+URL:http://www.lolesports.com/tourney/match/5012
+SUMMARY:Vici Gaming vs King
+DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5012
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5013
+DTSTART:20150607T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T100000Z
+URL:http://www.lolesports.com/tourney/match/5013
+SUMMARY:Invictus Gaming vs Snake
+DESCRIPTION:Invictus Gaming (iG) vs Snake (SS)\nType : BO2\nTournament : 20
+ 15 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5013
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5014
+DTSTART:20150607T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T120000Z
+URL:http://www.lolesports.com/tourney/match/5014
+SUMMARY:Edward Gaming vs Royal Never Give Up
+DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO2\nT
+ ournament : 2015 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5014
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5015
+DTSTART:20150612T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T060000Z
+URL:http://www.lolesports.com/tourney/match/5015
+SUMMARY:Edward Gaming vs Master3
+DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : 2
+ 015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5015
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5016
+DTSTART:20150612T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T080000Z
+URL:http://www.lolesports.com/tourney/match/5016
+SUMMARY:Team WE vs Qiao Gu
+DESCRIPTION:Team WE (WE) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015 LPL
+  Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/5016
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5017
+DTSTART:20150612T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T100000Z
+URL:http://www.lolesports.com/tourney/match/5017
+SUMMARY:Royal Never Give Up vs Vici Gaming
+DESCRIPTION:Royal Never Give Up (RNG) vs Vici Gaming (VG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5017
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5018
+DTSTART:20150612T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T120000Z
+URL:http://www.lolesports.com/tourney/match/5018
+SUMMARY:LGD GAMING vs Invictus Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
+ t : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5018
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5019
+DTSTART:20150613T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T060000Z
+URL:http://www.lolesports.com/tourney/match/5019
+SUMMARY:Snake vs Qiao Gu
+DESCRIPTION:Snake (SS) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5019
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5020
+DTSTART:20150613T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T080000Z
+URL:http://www.lolesports.com/tourney/match/5020
+SUMMARY:OMG vs Invictus Gaming
+DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : 201
+ 5 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/5020
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5021
+DTSTART:20150613T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T100000Z
+URL:http://www.lolesports.com/tourney/match/5021
+SUMMARY:Royal Never Give Up vs Team WE
+DESCRIPTION:Royal Never Give Up (RNG) vs Team WE (WE)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5021
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5022
+DTSTART:20150613T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T120000Z
+URL:http://www.lolesports.com/tourney/match/5022
+SUMMARY:Edward Gaming vs Unlimited Potential
+DESCRIPTION:Edward Gaming (EDG) vs Unlimited Potential (UPG)\nType : BO2\nT
+ ournament : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5022
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5023
+DTSTART:20150614T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T060000Z
+URL:http://www.lolesports.com/tourney/match/5023
+SUMMARY:King vs LGD GAMING
+DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5023
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5024
+DTSTART:20150614T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T080000Z
+URL:http://www.lolesports.com/tourney/match/5024
+SUMMARY:Royal Never Give Up vs Invictus Gaming
+DESCRIPTION:Royal Never Give Up (RNG) vs Invictus Gaming (iG)\nType : BO2\n
+ Tournament : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/5024
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5025
+DTSTART:20150614T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T100000Z
+URL:http://www.lolesports.com/tourney/match/5025
+SUMMARY:Vici Gaming vs Snake
+DESCRIPTION:Vici Gaming (VG) vs Snake (SS)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5025
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5026
+DTSTART:20150614T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T120000Z
+URL:http://www.lolesports.com/tourney/match/5026
+SUMMARY:Team WE vs Unlimited Potential
+DESCRIPTION:Team WE (WE) vs Unlimited Potential (UPG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5026
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5027
+DTSTART:20150619T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T060000Z
+URL:http://www.lolesports.com/tourney/match/5027
+SUMMARY:Edward Gaming vs Qiao Gu
+DESCRIPTION:Edward Gaming (EDG) vs Qiao Gu (QG)\nType : BO2\nTournament : 2
+ 015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5027
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5028
+DTSTART:20150619T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T080000Z
+URL:http://www.lolesports.com/tourney/match/5028
+SUMMARY:Master3 vs Invictus Gaming
+DESCRIPTION:Master3 (M3) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5028
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5029
+DTSTART:20150619T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T100000Z
+URL:http://www.lolesports.com/tourney/match/5029
+SUMMARY:Vici Gaming vs LGD GAMING
+DESCRIPTION:Vici Gaming (VG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5029
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5030
+DTSTART:20150619T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T120000Z
+URL:http://www.lolesports.com/tourney/match/5030
+SUMMARY:OMG vs King
+DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : 2015 LPL Summ
+ er\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5
+ 030
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5031
+DTSTART:20150620T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T060000Z
+URL:http://www.lolesports.com/tourney/match/5031
+SUMMARY:Vici Gaming vs Master3
+DESCRIPTION:Vici Gaming (VG) vs Master3 (M3)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5031
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5032
+DTSTART:20150620T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T080000Z
+URL:http://www.lolesports.com/tourney/match/5032
+SUMMARY:OMG vs LGD GAMING
+DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 LP
+ L Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5032
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5033
+DTSTART:20150620T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T100000Z
+URL:http://www.lolesports.com/tourney/match/5033
+SUMMARY:King vs Unlimited Potential
+DESCRIPTION:King (KNG) vs Unlimited Potential (UPG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5033
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5034
+DTSTART:20150620T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T120000Z
+URL:http://www.lolesports.com/tourney/match/5034
+SUMMARY:Edward Gaming vs Team WE
+DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : 2
+ 015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5034
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5035
+DTSTART:20150621T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T060000Z
+URL:http://www.lolesports.com/tourney/match/5035
+SUMMARY:Royal Never Give Up vs Snake
+DESCRIPTION:Royal Never Give Up (RNG) vs Snake (SS)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5035
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5036
+DTSTART:20150621T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T080000Z
+URL:http://www.lolesports.com/tourney/match/5036
+SUMMARY:Master3 vs Qiao Gu
+DESCRIPTION:Master3 (M3) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015 LPL
+  Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/5036
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5037
+DTSTART:20150621T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T100000Z
+URL:http://www.lolesports.com/tourney/match/5037
+SUMMARY:Edward Gaming vs OMG
+DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5037
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5038
+DTSTART:20150621T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T120000Z
+URL:http://www.lolesports.com/tourney/match/5038
+SUMMARY:Invictus Gaming vs King
+DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : 20
+ 15 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5038
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5039
+DTSTART:20150626T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T060000Z
+URL:http://www.lolesports.com/tourney/match/5039
+SUMMARY:Vici Gaming vs Qiao Gu
+DESCRIPTION:Vici Gaming (VG) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5039
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5040
+DTSTART:20150626T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T080000Z
+URL:http://www.lolesports.com/tourney/match/5040
+SUMMARY:OMG vs Unlimited Potential
+DESCRIPTION:OMG (OMG) vs Unlimited Potential (UPG)\nType : BO2\nTournament 
+ : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5040
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5041
+DTSTART:20150626T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T100000Z
+URL:http://www.lolesports.com/tourney/match/5041
+SUMMARY:Team WE vs King
+DESCRIPTION:Team WE (WE) vs King (KNG)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5041
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5042
+DTSTART:20150626T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T120000Z
+URL:http://www.lolesports.com/tourney/match/5042
+SUMMARY:Edward Gaming vs LGD GAMING
+DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5042
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5043
+DTSTART:20150627T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T060000Z
+URL:http://www.lolesports.com/tourney/match/5043
+SUMMARY:Royal Never Give Up vs Qiao Gu
+DESCRIPTION:Royal Never Give Up (RNG) vs Qiao Gu (QG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5043
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5044
+DTSTART:20150627T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T080000Z
+URL:http://www.lolesports.com/tourney/match/5044
+SUMMARY:Master3 vs Snake
+DESCRIPTION:Master3 (M3) vs Snake (SS)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5044
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5045
+DTSTART:20150627T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T100000Z
+URL:http://www.lolesports.com/tourney/match/5045
+SUMMARY:Unlimited Potential vs LGD GAMING
+DESCRIPTION:Unlimited Potential (UPG) vs LGD GAMING (LGD)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5045
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5046
+DTSTART:20150627T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T120000Z
+URL:http://www.lolesports.com/tourney/match/5046
+SUMMARY:Vici Gaming vs Edward Gaming
+DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5046
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5047
+DTSTART:20150628T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T060000Z
+URL:http://www.lolesports.com/tourney/match/5047
+SUMMARY:LGD GAMING vs Qiao Gu
+DESCRIPTION:LGD GAMING (LGD) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5047
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5048
+DTSTART:20150628T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T080000Z
+URL:http://www.lolesports.com/tourney/match/5048
+SUMMARY:King vs Edward Gaming
+DESCRIPTION:King (KNG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 201
+ 5 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/5048
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5049
+DTSTART:20150628T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T100000Z
+URL:http://www.lolesports.com/tourney/match/5049
+SUMMARY:Master3 vs Royal Never Give Up
+DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5049
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5050
+DTSTART:20150628T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T120000Z
+URL:http://www.lolesports.com/tourney/match/5050
+SUMMARY:Vici Gaming vs Team WE
+DESCRIPTION:Vici Gaming (VG) vs Team WE (WE)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5050
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5051
+DTSTART:20150703T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T060000Z
+URL:http://www.lolesports.com/tourney/match/5051
+SUMMARY:King vs Master3
+DESCRIPTION:King (KNG) vs Master3 (M3)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5051
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5052
+DTSTART:20150703T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T080000Z
+URL:http://www.lolesports.com/tourney/match/5052
+SUMMARY:LGD GAMING vs Royal Never Give Up
+DESCRIPTION:LGD GAMING (LGD) vs Royal Never Give Up (RNG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/5052
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5053
+DTSTART:20150703T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T100000Z
+URL:http://www.lolesports.com/tourney/match/5053
+SUMMARY:Snake vs Team WE
+DESCRIPTION:Snake (SS) vs Team WE (WE)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5053
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5054
+DTSTART:20150703T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T120000Z
+URL:http://www.lolesports.com/tourney/match/5054
+SUMMARY:Vici Gaming vs OMG
+DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO2\nTournament : 2015 LP
+ L Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5054
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5055
+DTSTART:20150704T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T060000Z
+URL:http://www.lolesports.com/tourney/match/5055
+SUMMARY:Snake vs King
+DESCRIPTION:Snake (SS) vs King (KNG)\nType : BO2\nTournament : 2015 LPL Sum
+ mer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 5055
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5056
+DTSTART:20150704T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T080000Z
+URL:http://www.lolesports.com/tourney/match/5056
+SUMMARY:Unlimited Potential vs OMG
+DESCRIPTION:Unlimited Potential (UPG) vs OMG (OMG)\nType : BO2\nTournament 
+ : 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5056
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5057
+DTSTART:20150704T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T100000Z
+URL:http://www.lolesports.com/tourney/match/5057
+SUMMARY:Invictus Gaming vs Qiao Gu
+DESCRIPTION:Invictus Gaming (iG) vs Qiao Gu (QG)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5057
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5058
+DTSTART:20150704T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T120000Z
+URL:http://www.lolesports.com/tourney/match/5058
+SUMMARY:Master3 vs Team WE
+DESCRIPTION:Master3 (M3) vs Team WE (WE)\nType : BO2\nTournament : 2015 LPL
+  Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/5058
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5059
+DTSTART:20150705T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T060000Z
+URL:http://www.lolesports.com/tourney/match/5059
+SUMMARY:Royal Never Give Up vs OMG
+DESCRIPTION:Royal Never Give Up (RNG) vs OMG (OMG)\nType : BO2\nTournament 
+ : 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/5059
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5060
+DTSTART:20150705T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T080000Z
+URL:http://www.lolesports.com/tourney/match/5060
+SUMMARY:Unlimited Potential vs Master3
+DESCRIPTION:Unlimited Potential (UPG) vs Master3 (M3)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5060
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5061
+DTSTART:20150705T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T100000Z
+URL:http://www.lolesports.com/tourney/match/5061
+SUMMARY:Snake vs Edward Gaming
+DESCRIPTION:Snake (SS) vs Edward Gaming (EDG)\nType : BO2\nTournament : 201
+ 5 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/5061
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5062
+DTSTART:20150705T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T120000Z
+URL:http://www.lolesports.com/tourney/match/5062
+SUMMARY:Qiao Gu vs Vici Gaming
+DESCRIPTION:Qiao Gu (QG) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5062
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5063
+DTSTART:20150717T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T060000Z
+URL:http://www.lolesports.com/tourney/match/5063
+SUMMARY:Unlimited Potential vs Royal Never Give Up
+DESCRIPTION:Unlimited Potential (UPG) vs Royal Never Give Up (RNG)\nType : 
+ BO2\nTournament : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/5063
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5064
+DTSTART:20150717T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T080000Z
+URL:http://www.lolesports.com/tourney/match/5064
+SUMMARY:Vici Gaming vs Invictus Gaming
+DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (iG)\nType : BO2\nTournamen
+ t : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5064
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5065
+DTSTART:20150717T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T100000Z
+URL:http://www.lolesports.com/tourney/match/5065
+SUMMARY:Qiao Gu vs King
+DESCRIPTION:Qiao Gu (QG) vs King (KNG)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5065
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5066
+DTSTART:20150717T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T120000Z
+URL:http://www.lolesports.com/tourney/match/5066
+SUMMARY:LGD GAMING vs Edward Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Edward Gaming (EDG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5066
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5067
+DTSTART:20150718T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T060000Z
+URL:http://www.lolesports.com/tourney/match/5067
+SUMMARY:Unlimited Potential vs Qiao Gu
+DESCRIPTION:Unlimited Potential (UPG) vs Qiao Gu (QG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5067
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5068
+DTSTART:20150718T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T080000Z
+URL:http://www.lolesports.com/tourney/match/5068
+SUMMARY:OMG vs Master3
+DESCRIPTION:OMG (OMG) vs Master3 (M3)\nType : BO2\nTournament : 2015 LPL Su
+ mmer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5068
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5069
+DTSTART:20150718T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T100000Z
+URL:http://www.lolesports.com/tourney/match/5069
+SUMMARY:Snake vs LGD GAMING
+DESCRIPTION:Snake (SS) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5069
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5070
+DTSTART:20150718T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T120000Z
+URL:http://www.lolesports.com/tourney/match/5070
+SUMMARY:Invictus Gaming vs Edward Gaming
+DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO2\nTourna
+ ment : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5070
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5071
+DTSTART:20150719T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T060000Z
+URL:http://www.lolesports.com/tourney/match/5071
+SUMMARY:King vs Royal Never Give Up
+DESCRIPTION:King (KNG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5071
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5072
+DTSTART:20150719T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T080000Z
+URL:http://www.lolesports.com/tourney/match/5072
+SUMMARY:Unlimited Potential vs Invictus Gaming
+DESCRIPTION:Unlimited Potential (UPG) vs Invictus Gaming (iG)\nType : BO2\n
+ Tournament : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/5072
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5073
+DTSTART:20150719T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T100000Z
+URL:http://www.lolesports.com/tourney/match/5073
+SUMMARY:Master3 vs LGD GAMING
+DESCRIPTION:Master3 (M3) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5073
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5074
+DTSTART:20150719T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T120000Z
+URL:http://www.lolesports.com/tourney/match/5074
+SUMMARY:Snake vs OMG
+DESCRIPTION:Snake (SS) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Summ
+ er\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5
+ 074
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5075
+DTSTART:20150724T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T060000Z
+URL:http://www.lolesports.com/tourney/match/5075
+SUMMARY:Qiao Gu vs Master3
+DESCRIPTION:Qiao Gu (QG) vs Master3 (M3)\nType : BO2\nTournament : 2015 LPL
+  Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/5075
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5076
+DTSTART:20150724T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T080000Z
+URL:http://www.lolesports.com/tourney/match/5076
+SUMMARY:King vs Vici Gaming
+DESCRIPTION:King (KNG) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5076
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5077
+DTSTART:20150724T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T100000Z
+URL:http://www.lolesports.com/tourney/match/5077
+SUMMARY:Royal Never Give Up vs Edward Gaming
+DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO2\nT
+ ournament : 2015 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5077
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5078
+DTSTART:20150724T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T120000Z
+URL:http://www.lolesports.com/tourney/match/5078
+SUMMARY:OMG vs Team WE
+DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO2\nTournament : 2015 LPL Su
+ mmer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5078
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5079
+DTSTART:20150725T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T060000Z
+URL:http://www.lolesports.com/tourney/match/5079
+SUMMARY:Snake vs Vici Gaming
+DESCRIPTION:Snake (SS) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5079
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5080
+DTSTART:20150725T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T080000Z
+URL:http://www.lolesports.com/tourney/match/5080
+SUMMARY:King vs Invictus Gaming
+DESCRIPTION:King (KNG) vs Invictus Gaming (iG)\nType : BO2\nTournament : 20
+ 15 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5080
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5081
+DTSTART:20150725T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T100000Z
+URL:http://www.lolesports.com/tourney/match/5081
+SUMMARY:Qiao Gu vs Edward Gaming
+DESCRIPTION:Qiao Gu (QG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2
+ 015 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5081
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5082
+DTSTART:20150725T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T120000Z
+URL:http://www.lolesports.com/tourney/match/5082
+SUMMARY:LGD GAMING vs Team WE
+DESCRIPTION:LGD GAMING (LGD) vs Team WE (WE)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5082
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5083
+DTSTART:20150726T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T060000Z
+URL:http://www.lolesports.com/tourney/match/5083
+SUMMARY:Qiao Gu vs Snake
+DESCRIPTION:Qiao Gu (QG) vs Snake (SS)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5083
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5084
+DTSTART:20150726T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T080000Z
+URL:http://www.lolesports.com/tourney/match/5084
+SUMMARY:Master3 vs Vici Gaming
+DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/5084
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5085
+DTSTART:20150726T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T100000Z
+URL:http://www.lolesports.com/tourney/match/5085
+SUMMARY:Team WE vs Royal Never Give Up
+DESCRIPTION:Team WE (WE) vs Royal Never Give Up (RNG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5085
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5086
+DTSTART:20150726T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T120000Z
+URL:http://www.lolesports.com/tourney/match/5086
+SUMMARY:Invictus Gaming vs OMG
+DESCRIPTION:Invictus Gaming (iG) vs OMG (OMG)\nType : BO2\nTournament : 201
+ 5 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/5086
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5087
+DTSTART:20150731T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T060000Z
+URL:http://www.lolesports.com/tourney/match/5087
+SUMMARY:Unlimited Potential vs Vici Gaming
+DESCRIPTION:Unlimited Potential (UPG) vs Vici Gaming (VG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/5087
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5088
+DTSTART:20150731T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T080000Z
+URL:http://www.lolesports.com/tourney/match/5088
+SUMMARY:LGD GAMING vs King
+DESCRIPTION:LGD GAMING (LGD) vs King (KNG)\nType : BO2\nTournament : 2015 L
+ PL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/5088
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5089
+DTSTART:20150731T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T100000Z
+URL:http://www.lolesports.com/tourney/match/5089
+SUMMARY:Snake vs Royal Never Give Up
+DESCRIPTION:Snake (SS) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5089
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5090
+DTSTART:20150731T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T120000Z
+URL:http://www.lolesports.com/tourney/match/5090
+SUMMARY:Team WE vs Edward Gaming
+DESCRIPTION:Team WE (WE) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2
+ 015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5090
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5091
+DTSTART:20150801T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T060000Z
+URL:http://www.lolesports.com/tourney/match/5091
+SUMMARY:Qiao Gu vs Royal Never Give Up
+DESCRIPTION:Qiao Gu (QG) vs Royal Never Give Up (RNG)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/5091
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5092
+DTSTART:20150801T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T080000Z
+URL:http://www.lolesports.com/tourney/match/5092
+SUMMARY:Unlimited Potential vs Snake
+DESCRIPTION:Unlimited Potential (UPG) vs Snake (SS)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5092
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5093
+DTSTART:20150801T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T100000Z
+URL:http://www.lolesports.com/tourney/match/5093
+SUMMARY:Invictus Gaming vs Master3
+DESCRIPTION:Invictus Gaming (iG) vs Master3 (M3)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/5093
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5094
+DTSTART:20150801T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T120000Z
+URL:http://www.lolesports.com/tourney/match/5094
+SUMMARY:King vs Team WE
+DESCRIPTION:King (KNG) vs Team WE (WE)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/5094
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5095
+DTSTART:20150802T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150802T060000Z
+URL:http://www.lolesports.com/tourney/match/5095
+SUMMARY:Snake vs Master3
+DESCRIPTION:Snake (SS) vs Master3 (M3)\nType : BO2\nTournament : 2015 LPL S
+ ummer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/5095
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5096
+DTSTART:20150802T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150802T080000Z
+URL:http://www.lolesports.com/tourney/match/5096
+SUMMARY:Qiao Gu vs Team WE
+DESCRIPTION:Qiao Gu (QG) vs Team WE (WE)\nType : BO2\nTournament : 2015 LPL
+  Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5096
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5097
+DTSTART:20150802T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150802T100000Z
+URL:http://www.lolesports.com/tourney/match/5097
+SUMMARY:Invictus Gaming vs Royal Never Give Up
+DESCRIPTION:Invictus Gaming (iG) vs Royal Never Give Up (RNG)\nType : BO2\n
+ Tournament : 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/5097
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5098
+DTSTART:20150802T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150802T120000Z
+URL:http://www.lolesports.com/tourney/match/5098
+SUMMARY:King vs OMG
+DESCRIPTION:King (KNG) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Summ
+ er\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
+ 5098
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5099
+DTSTART:20150807T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T060000Z
+URL:http://www.lolesports.com/tourney/match/5099
+SUMMARY:Qiao Gu vs OMG
+DESCRIPTION:Qiao Gu (QG) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Su
+ mmer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/5099
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5100
+DTSTART:20150807T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T080000Z
+URL:http://www.lolesports.com/tourney/match/5100
+SUMMARY:Vici Gaming vs Royal Never Give Up
+DESCRIPTION:Vici Gaming (VG) vs Royal Never Give Up (RNG)\nType : BO2\nTour
+ nament : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/5100
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5101
+DTSTART:20150807T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T100000Z
+URL:http://www.lolesports.com/tourney/match/5101
+SUMMARY:Unlimited Potential vs Edward Gaming
+DESCRIPTION:Unlimited Potential (UPG) vs Edward Gaming (EDG)\nType : BO2\nT
+ ournament : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/5101
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5102
+DTSTART:20150807T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T120000Z
+URL:http://www.lolesports.com/tourney/match/5102
+SUMMARY:Invictus Gaming vs LGD GAMING
+DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
+ t : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/5102
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5103
+DTSTART:20150808T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T060000Z
+URL:http://www.lolesports.com/tourney/match/5103
+SUMMARY:Unlimited Potential vs King
+DESCRIPTION:Unlimited Potential (UPG) vs King (KNG)\nType : BO2\nTournament
+  : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/5103
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5104
+DTSTART:20150808T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T080000Z
+URL:http://www.lolesports.com/tourney/match/5104
+SUMMARY:Master3 vs Edward Gaming
+DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2
+ 015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5104
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5105
+DTSTART:20150808T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T100000Z
+URL:http://www.lolesports.com/tourney/match/5105
+SUMMARY:LGD GAMING vs OMG
+DESCRIPTION:LGD GAMING (LGD) vs OMG (OMG)\nType : BO2\nTournament : 2015 LP
+ L Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5105
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5106
+DTSTART:20150808T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T120000Z
+URL:http://www.lolesports.com/tourney/match/5106
+SUMMARY:Invictus Gaming vs Team WE
+DESCRIPTION:Invictus Gaming (iG) vs Team WE (WE)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/5106
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5107
+DTSTART:20150809T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T060000Z
+URL:http://www.lolesports.com/tourney/match/5107
+SUMMARY:Snake vs Invictus Gaming
+DESCRIPTION:Snake (SS) vs Invictus Gaming (iG)\nType : BO2\nTournament : 20
+ 15 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/5107
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5108
+DTSTART:20150809T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T080000Z
+URL:http://www.lolesports.com/tourney/match/5108
+SUMMARY:LGD GAMING vs Vici Gaming
+DESCRIPTION:LGD GAMING (LGD) vs Vici Gaming (VG)\nType : BO2\nTournament : 
+ 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/5108
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5109
+DTSTART:20150809T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T100000Z
+URL:http://www.lolesports.com/tourney/match/5109
+SUMMARY:Unlimited Potential vs Team WE
+DESCRIPTION:Unlimited Potential (UPG) vs Team WE (WE)\nType : BO2\nTourname
+ nt : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/5109
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5110
+DTSTART:20150809T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T120000Z
+URL:http://www.lolesports.com/tourney/match/5110
+SUMMARY:OMG vs Edward Gaming
+DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2015
+  LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/5110
+CATEGORIES:2015 LPL Summer
+DTSTAMP:20150621T152819Z
+END:VEVENT
+END:VCALENDAR

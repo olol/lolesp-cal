@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-play-in-4
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1920
+DTSTART:20140116T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140117T000000Z
+URL:http://www.lolesports.com/tourney/match/1920
+SUMMARY:Pulse Esports vs Salade Tomate Oignon
+DESCRIPTION:Pulse Esports (PS) vs Salade Tomate Oignon ()\nType : BO1\nTour
+ nament : EU Play in 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1920
+CATEGORIES:EU Play in 4
+DTSTAMP:20150621T152749Z
+END:VEVENT
+END:VCALENDAR

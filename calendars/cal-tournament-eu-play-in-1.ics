@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-eu-play-in-1
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1799
+DTSTART:20140115T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140116T000000Z
+URL:http://www.lolesports.com/tourney/match/1799
+SUMMARY:Cloud9 HyperX Eclipse vs Heavybotlane
+DESCRIPTION:H2K (H2K) vs Heavy Botlane (HB)\nType : BO1\nTournament : EU Pl
+ ay in 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1799
+CATEGORIES:EU Play in 1
+DTSTAMP:20150621T152749Z
+END:VEVENT
+END:VCALENDAR
