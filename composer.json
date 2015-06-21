@@ -1,0 +1,25 @@
+{
+    "name": "olol/lolesp-cal",
+    "description": "Generates iCal files with eSport League of Legends matches for your agenda.",
+    "keywords": ["lol", "league of legends", "esport", "match", "calendar", "agenda", "ical"],
+    "license": "MIT",
+    "authors": [ {
+        "name": "Jérémy Huet",
+        "email": "jeremy.huet+github@gmail.com"
+    } ],
+    "type": "library",
+    "require": {
+        "php": ">=5.5",
+        "eluceo/ical": "~0.7",
+        "league/event": "~2.1",
+        "phpcollection/phpcollection": "~0.4",
+        "mnapoli/silly": "~1.1"
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "LolEspCal\\": "src/"
+        }
+    }
+}

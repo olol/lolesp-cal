@@ -1,0 +1,33 @@
+#!/usr/bin/env php
+<?php
+
+require_once realpath(__DIR__) . '/../vendor/autoload.php';
+
+use LolEspCal\Exec;
+use Symfony\Component\Console\Output\OutputInterface;
+
+$app = new Silly\Application();
+
+$app->command('export [--ical] [--web]', function ($ical, $web, OutputInterface $output) {
+
+    $cal = new Exec();
+
+    $output->writeln('Generating calendars...');
+    $cal->generate();
+
+    $output->writeln('Exporting calendars...');
+    $cal->export();
+
+    $output->writeln([
+        'Done !',
+        'Memory usage : ' . memory_get_usage(),
+        'Memory peak : ' . memory_get_peak_usage(),
+    ]);
+});
+
+$app->run();
+
+
+
+echo "\n Memory : " . memory_get_usage() . "\n";
+echo "\n Peak : " . memory_get_peak_usage() . "\n";
