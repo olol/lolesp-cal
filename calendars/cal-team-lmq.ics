@@ -15,7 +15,7 @@ DESCRIPTION:LMQ (LMQ) vs vVv Gaming Red (VVV)\nType : BO1\nTournament : NA
  Play in 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1668
 CATEGORIES:NA Play in 2
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1938
@@ -29,7 +29,7 @@ DESCRIPTION:y so E-Sports (YSO) vs LMQ (LMQ)\nType : BO3\nTournament : NA T
  op 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /1938
 CATEGORIES:NA Top 8
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1941
@@ -43,7 +43,7 @@ DESCRIPTION:compLexity.Red (CLR) vs LMQ (LMQ)\nType : BO3\nTournament : NA
  Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/1941
 CATEGORIES:NA Top 8
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1943
@@ -57,7 +57,7 @@ DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO3\nTournament : N
  A Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1943
 CATEGORIES:NA Top 8
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2095
@@ -71,7 +71,7 @@ DESCRIPTION:LMQ (LMQ) vs Team 8 (T8)\nType : BO3\nTournament : NA CS 2 Top
  8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/20
  95
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2099
@@ -85,7 +85,7 @@ DESCRIPTION:LMQ (LMQ) vs vVv Gaming (vVv)\nType : BO3\nTournament : NA CS 2
   Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/2099
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2101
@@ -99,7 +99,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9 Tempest (C9T)\nType : BO3\nTournament : NA
  CS 2 Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2101
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2182
@@ -113,7 +113,7 @@ DESCRIPTION:LMQ (LMQ) vs Curse Academy (CA)\nType : BO3\nTournament : NA CS
   Spring Playoffs 2014\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2182
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2184
@@ -127,7 +127,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9 Tempest (C9T)\nType : BO5\nTournament : NA
  CS Spring Playoffs 2014\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2184
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2257
@@ -141,7 +141,7 @@ DESCRIPTION:XDG (XDG) vs LMQ (LMQ)\nType : BO5\nTournament : NA LCS Summer
  Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/2257
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2517
@@ -155,7 +155,7 @@ DESCRIPTION:LMQ (LMQ) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2517
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2519
@@ -169,7 +169,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs LMQ (LMQ)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2519
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2521
@@ -183,7 +183,7 @@ DESCRIPTION:compLexity Black (CLB) vs LMQ (LMQ)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2521
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2526
@@ -197,7 +197,7 @@ DESCRIPTION:LMQ (LMQ) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2526
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2533
@@ -211,7 +211,7 @@ DESCRIPTION:LMQ (LMQ) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
  CS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2533
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2535
@@ -225,7 +225,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2535
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2539
@@ -239,7 +239,7 @@ DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2539
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2544
@@ -253,7 +253,7 @@ DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2544
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2548
@@ -267,7 +267,7 @@ DESCRIPTION:Evil Geniuses (EG) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2548
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2551
@@ -281,7 +281,7 @@ DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2551
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2557
@@ -295,7 +295,7 @@ DESCRIPTION:LMQ (LMQ) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2557
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2562
@@ -309,7 +309,7 @@ DESCRIPTION:Cloud9  (C9) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2562
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2566
@@ -323,7 +323,7 @@ DESCRIPTION:Team Dignitas (DIG) vs LMQ (LMQ)\nType : BO1\nTournament : NA L
  CS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2566
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2568
@@ -337,7 +337,7 @@ DESCRIPTION:LMQ (LMQ) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2568
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2571
@@ -351,7 +351,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2571
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2578
@@ -365,7 +365,7 @@ DESCRIPTION:LMQ (LMQ) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2578
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2581
@@ -379,7 +379,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs LMQ (LMQ)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2581
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2584
@@ -393,7 +393,7 @@ DESCRIPTION:LMQ (LMQ) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2584
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2590
@@ -407,7 +407,7 @@ DESCRIPTION:LMQ (LMQ) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
  CS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2590
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2591
@@ -421,7 +421,7 @@ DESCRIPTION:compLexity Black (CLB) vs LMQ (LMQ)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2591
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2595
@@ -435,7 +435,7 @@ DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2595
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2601
@@ -449,7 +449,7 @@ DESCRIPTION:LMQ (LMQ) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2601
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2606
@@ -463,7 +463,7 @@ DESCRIPTION:LMQ (LMQ) vs compLexity Black (CLB)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2606
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2607
@@ -477,7 +477,7 @@ DESCRIPTION:Cloud9  (C9) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/2607
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2612
@@ -491,7 +491,7 @@ DESCRIPTION:LMQ (LMQ) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2612
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2618
@@ -505,7 +505,7 @@ DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2618
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2624
@@ -519,7 +519,7 @@ DESCRIPTION:Team Dignitas (DIG) vs LMQ (LMQ)\nType : BO1\nTournament : NA L
  CS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2624
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2622
@@ -533,7 +533,7 @@ DESCRIPTION:Evil Geniuses (EG) vs LMQ (LMQ)\nType : BO1\nTournament : NA LC
  S Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2622
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3052
@@ -547,7 +547,7 @@ DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO5\nTournament : NA LC
  S Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3052
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3054
@@ -561,7 +561,7 @@ DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO5\nTournament : NA LCS Summe
  r Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3054
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3108
@@ -574,7 +574,7 @@ SUMMARY:LMQ vs OMG
 DESCRIPTION:LMQ (LMQ) vs OMG (OMG)\nType : BO1\nTournament : Group C\nWeek 
  : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3108
 CATEGORIES:Group C
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3110
@@ -587,7 +587,7 @@ SUMMARY:Fnatic vs LMQ
 DESCRIPTION:Fnatic (FNC) vs LMQ (LMQ)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3110
 CATEGORIES:Group C
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3113
@@ -601,7 +601,7 @@ DESCRIPTION:Samsung Blue (SSB) vs LMQ (LMQ)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  113
 CATEGORIES:Group C
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3115
@@ -614,7 +614,7 @@ SUMMARY:LMQ vs Fnatic
 DESCRIPTION:LMQ (LMQ) vs Fnatic (FNC)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3115
 CATEGORIES:Group C
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3117
@@ -628,7 +628,7 @@ DESCRIPTION:LMQ (LMQ) vs Samsung Blue (SSB)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  117
 CATEGORIES:Group C
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3119
@@ -641,6 +641,6 @@ SUMMARY:OMG vs LMQ
 DESCRIPTION:OMG (OMG) vs LMQ (LMQ)\nType : BO1\nTournament : Group C\nWeek 
  : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3119
 CATEGORIES:Group C
-DTSTAMP:20150621T164251Z
+DTSTAMP:20150623T180437Z
 END:VEVENT
 END:VCALENDAR

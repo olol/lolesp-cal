@@ -15,7 +15,7 @@ DESCRIPTION:Alliance (ALL) vs Copenhagen Wolves (CW)\nType : BO3\nTournamen
  t : EU LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/2163
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2162
@@ -29,7 +29,7 @@ DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO3\nTournament : E
  U LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2162
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2165
@@ -43,7 +43,7 @@ DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO3\nTournament : EU LCS
   Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2165
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2164
@@ -57,7 +57,7 @@ DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO3\nTournament : EU LCS
   Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2164
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2186
@@ -71,7 +71,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO3\nTour
  nament : EU LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2186
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2167
@@ -85,7 +85,7 @@ DESCRIPTION:Alliance (ALL) vs ROCCAT (ROC)\nType : BO3\nTournament : EU LCS
   Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2167
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2166
@@ -99,7 +99,7 @@ DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO5\nTournament : EU LCS
   Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2166
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4507
@@ -113,7 +113,7 @@ DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO5\nTournament : E
  U LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4507
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4506
@@ -127,7 +127,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Unicorns Of Love (UOL)\nType : BO5\nTour
  nament : EU LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4506
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4509
@@ -141,7 +141,7 @@ DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO5\nTournament : EU LCS Spri
  ng Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/4509
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4508
@@ -155,7 +155,7 @@ DESCRIPTION:SK Gaming (SK) vs Unicorns Of Love (UOL)\nType : BO5\nTournamen
  t : EU LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4508
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4511
@@ -169,7 +169,7 @@ DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO5\nTournament : EU LCS Sp
  ring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4511
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4510
@@ -183,6 +183,6 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Fnatic (FNC)\nType : BO5\nTournament
  : EU LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4510
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 END:VCALENDAR

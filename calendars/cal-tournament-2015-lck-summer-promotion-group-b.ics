@@ -15,7 +15,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SBE)\nType : BO3\nTour
  nament : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : h
  ttp://www.lolesports.com/tourney/match/4583
 CATEGORIES:2015 LCK Summer Promotion Group B
-DTSTAMP:20150621T164320Z
+DTSTAMP:20150623T180451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4584
@@ -29,7 +29,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Xenics Storm ()\nType : BO3\nTournament
   : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/4584
 CATEGORIES:2015 LCK Summer Promotion Group B
-DTSTAMP:20150621T164320Z
+DTSTAMP:20150623T180451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4585
@@ -43,6 +43,6 @@ DESCRIPTION:SBENU SONICBOOM (SBE) vs Xenics Storm ()\nType : BO3\nTournamen
  t : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/4585
 CATEGORIES:2015 LCK Summer Promotion Group B
-DTSTAMP:20150621T164320Z
+DTSTAMP:20150623T180451Z
 END:VEVENT
 END:VCALENDAR

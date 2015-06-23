@@ -15,7 +15,7 @@ DESCRIPTION:GamingGear.eu () vs Team SoloMid (TSM)\nType : BO1\nTournament
  : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1601
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1602
@@ -29,7 +29,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Lemondogs (LD)\nType : BO1\nTournament :
  Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1602
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1603
@@ -43,7 +43,7 @@ DESCRIPTION:Team SoloMid (TSM) vs OMG (OMG)\nType : BO1\nTournament : Group
   A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  603
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1604
@@ -57,7 +57,7 @@ DESCRIPTION:Lemondogs (LD) vs GamingGear.eu ()\nType : BO1\nTournament : Gr
  oup A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/1604
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1605
@@ -71,7 +71,7 @@ DESCRIPTION:OMG (OMG) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : Group
   A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  605
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1606
@@ -84,7 +84,7 @@ SUMMARY:Lemondogs vs OMG
 DESCRIPTION:Lemondogs (LD) vs OMG (OMG)\nType : BO1\nTournament : Group A\n
  Week : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1606
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1607
@@ -98,7 +98,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs GamingGear.eu ()\nType : BO1\nTournament
  : Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1607
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1608
@@ -112,7 +112,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Lemondogs (LD)\nType : BO1\nTournament :
  Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1608
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1609
@@ -126,7 +126,7 @@ DESCRIPTION:GamingGear.eu () vs OMG (OMG)\nType : BO1\nTournament : Group A
  \nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/160
  9
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1610
@@ -140,7 +140,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Team SoloMid (TSM)\nType : BO1\nTournamen
  t : Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1610
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1611
@@ -154,7 +154,7 @@ DESCRIPTION:Lemondogs (LD) vs SKTelecom T1 (SKT)\nType : BO1\nTournament :
  Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1611
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1612
@@ -168,7 +168,7 @@ DESCRIPTION:OMG (OMG) vs GamingGear.eu ()\nType : BO1\nTournament : Group A
  \nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/161
  2
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1613
@@ -182,7 +182,7 @@ DESCRIPTION:Team SoloMid (TSM) vs SKTelecom T1 (SKT)\nType : BO1\nTournamen
  t : Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1613
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1614
@@ -196,7 +196,7 @@ DESCRIPTION:GamingGear.eu () vs Lemondogs (LD)\nType : BO1\nTournament : Gr
  oup A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/1614
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1615
@@ -210,7 +210,7 @@ DESCRIPTION:OMG (OMG) vs Team SoloMid (TSM)\nType : BO1\nTournament : Group
   A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  615
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1616
@@ -224,7 +224,7 @@ DESCRIPTION:Lemondogs (LD) vs Team SoloMid (TSM)\nType : BO1\nTournament :
  Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1616
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1617
@@ -238,7 +238,7 @@ DESCRIPTION:GamingGear.eu () vs SKTelecom T1 (SKT)\nType : BO1\nTournament
  : Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1617
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1618
@@ -251,7 +251,7 @@ SUMMARY:OMG vs Lemondogs
 DESCRIPTION:OMG (OMG) vs Lemondogs (LD)\nType : BO1\nTournament : Group A\n
  Week : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1618
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1619
@@ -265,7 +265,7 @@ DESCRIPTION:Team SoloMid (TSM) vs GamingGear.eu ()\nType : BO1\nTournament
  : Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1619
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1620
@@ -279,7 +279,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO1\nTournament : Group
   A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  620
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3077
@@ -293,7 +293,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Samsung White (SSW)\nType : BO1\nTournam
  ent : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3077
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3078
@@ -307,7 +307,7 @@ DESCRIPTION:Dark Passage (DP) vs ahq e-Sports Club (AHQ)\nType : BO1\nTourn
  ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3078
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3079
@@ -321,7 +321,7 @@ DESCRIPTION:Samsung White (SSW) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3079
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3080
@@ -335,7 +335,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3080
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3081
@@ -349,7 +349,7 @@ DESCRIPTION:Dark Passage (DP) vs Samsung White (SSW)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3081
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3082
@@ -363,7 +363,7 @@ DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3082
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3083
@@ -377,7 +377,7 @@ DESCRIPTION:Samsung White (SSW) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3083
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3084
@@ -391,7 +391,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Samsung White (SSW)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3084
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3085
@@ -405,7 +405,7 @@ DESCRIPTION:Dark Passage (DP) vs Edward Gaming (EDG)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3085
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3086
@@ -419,7 +419,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Dark Passage (DP)\nType : BO1\nTourn
  ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3086
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3087
@@ -433,7 +433,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Edward Gaming (EDG)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3087
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3088
@@ -447,7 +447,7 @@ DESCRIPTION:Samsung White (SSW) vs Edward Gaming (EDG)\nType : BO1\nTournam
  ent : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3088
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3132
@@ -461,6 +461,6 @@ DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : Group A\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3132
 CATEGORIES:Group A
-DTSTAMP:20150621T164239Z
+DTSTAMP:20150623T180433Z
 END:VEVENT
 END:VCALENDAR

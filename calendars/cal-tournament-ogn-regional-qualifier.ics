@@ -15,7 +15,7 @@ DESCRIPTION:KT Rolster (KT) vs Najin e-mFire (NJE)\nType : BO5\nTournament
  : OGN Regional Qualifier\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3032
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150621T164306Z
+DTSTAMP:20150623T180444Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3033
@@ -29,7 +29,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster Arrows (KTA)\nType : BO5\nTou
  rnament : OGN Regional Qualifier\nWeek : 2\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/3033
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150621T164306Z
+DTSTAMP:20150623T180444Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3034
@@ -43,6 +43,6 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO5\nTourname
  nt : OGN Regional Qualifier\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3034
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150621T164306Z
+DTSTAMP:20150623T180444Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:Pulse Esports (PS) vs Salade Tomate Oignon ()\nType : BO1\nTour
  nament : EU Play in 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1920
 CATEGORIES:EU Play in 4
-DTSTAMP:20150621T164249Z
+DTSTAMP:20150623T180436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1948
@@ -29,6 +29,6 @@ DESCRIPTION:H2K (H2K) vs Pulse Esports (PS)\nType : BO3\nTournament : EU To
  p 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  1948
 CATEGORIES:EU Top 8
-DTSTAMP:20150621T164249Z
+DTSTAMP:20150623T180436Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:Overclockers UK (OC) vs Gamers2 (G2)\nType : BO1\nTournament :
  2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5253
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5256
@@ -29,7 +29,7 @@ DESCRIPTION:Gamers2 (G2) vs Overclockers UK (OC)\nType : BO1\nTournament :
  2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5256
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5260
@@ -43,7 +43,7 @@ DESCRIPTION:Overclockers UK (OC) vs Team Dignitas EU (DEU)\nType : BO1\nTou
  rnament : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5260
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5263
@@ -57,7 +57,7 @@ DESCRIPTION:Team Dignitas EU (DEU) vs Overclockers UK (OC)\nType : BO1\nTou
  rnament : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5263
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5267
@@ -71,7 +71,7 @@ DESCRIPTION:Denial eSports (DNE) vs Overclockers UK (OC)\nType : BO1\nTourn
  ament : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/5267
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5270
@@ -85,7 +85,7 @@ DESCRIPTION:Overclockers UK (OC) vs Denial eSports (DNE)\nType : BO1\nTourn
  ament : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/5270
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5271
@@ -99,7 +99,7 @@ DESCRIPTION:Overclockers UK (OC) vs Mousesports (MOU)\nType : BO1\nTourname
  nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5271
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5274
@@ -113,7 +113,7 @@ DESCRIPTION:Mousesports (MOU) vs Overclockers UK (OC)\nType : BO1\nTourname
  nt : 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5274
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5279
@@ -127,7 +127,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Overclockers UK (OC)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5279
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5282
@@ -141,6 +141,6 @@ DESCRIPTION:Overclockers UK (OC) vs Ex Nihilo (EXN)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5282
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20150621T164325Z
+DTSTAMP:20150623T180454Z
 END:VEVENT
 END:VCALENDAR

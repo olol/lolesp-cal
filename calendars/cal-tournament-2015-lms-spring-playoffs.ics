@@ -15,7 +15,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO5\
  nTournament : 2015 LMS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/4518
 CATEGORIES:2015 LMS Spring Playoffs
-DTSTAMP:20150621T164320Z
+DTSTAMP:20150623T180451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4519
@@ -29,7 +29,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO5\n
  Tournament : 2015 LMS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/4519
 CATEGORIES:2015 LMS Spring Playoffs
-DTSTAMP:20150621T164320Z
+DTSTAMP:20150623T180451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4520
@@ -43,6 +43,6 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO5\nTour
  nament : 2015 LMS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/4520
 CATEGORIES:2015 LMS Spring Playoffs
-DTSTAMP:20150621T164320Z
+DTSTAMP:20150623T180451Z
 END:VEVENT
 END:VCALENDAR

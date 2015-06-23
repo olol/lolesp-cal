@@ -15,7 +15,7 @@ DESCRIPTION:compLexity Black (CLB) vs compLexity.Red (CLR)\nType : BO3\nTou
  rnament : NA CS Spring Playoffs 2014\nWeek : 1\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/2181
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2180
@@ -29,7 +29,7 @@ DESCRIPTION:Curse Academy (CA) vs vVv Gaming (vVv)\nType : BO3\nTournament
  : NA CS Spring Playoffs 2014\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2180
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2183
@@ -43,7 +43,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs compLexity Black (CLB)\nType : BO3\nTou
  rnament : NA CS Spring Playoffs 2014\nWeek : 2\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/2183
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2182
@@ -57,7 +57,7 @@ DESCRIPTION:LMQ (LMQ) vs Curse Academy (CA)\nType : BO3\nTournament : NA CS
   Spring Playoffs 2014\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2182
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2185
@@ -71,7 +71,7 @@ DESCRIPTION:Curse Academy (CA) vs compLexity Black (CLB)\nType : BO5\nTourn
  ament : NA CS Spring Playoffs 2014\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/2185
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2184
@@ -85,6 +85,6 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9 Tempest (C9T)\nType : BO5\nTournament : NA
  CS Spring Playoffs 2014\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2184
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150621T164301Z
+DTSTAMP:20150623T180441Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:Winterfox (WFX) vs Gravity (GV)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3510
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3516
@@ -29,7 +29,7 @@ DESCRIPTION:Cloud9  (C9) vs Gravity (GV)\nType : BO1\nTournament : NA LCS S
  pring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/3516
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3518
@@ -43,7 +43,7 @@ DESCRIPTION:Gravity (GV) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3518
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3527
@@ -57,7 +57,7 @@ DESCRIPTION:Team Coast (CST) vs Gravity (GV)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3527
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3528
@@ -71,7 +71,7 @@ DESCRIPTION:Gravity (GV) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3528
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3534
@@ -85,7 +85,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Gravity (GV)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3534
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3542
@@ -99,7 +99,7 @@ DESCRIPTION:Gravity (GV) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3542
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3546
@@ -113,7 +113,7 @@ DESCRIPTION:Gravity (GV) vs Team Liquid (TL)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3546
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3549
@@ -127,7 +127,7 @@ DESCRIPTION:Team 8 (T8) vs Gravity (GV)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3549
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3557
@@ -141,7 +141,7 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3557
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3560
@@ -155,7 +155,7 @@ DESCRIPTION:Team Liquid (TL) vs Gravity (GV)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3560
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3563
@@ -169,7 +169,7 @@ DESCRIPTION:Gravity (GV) vs Team Coast (CST)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3563
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3569
@@ -183,7 +183,7 @@ DESCRIPTION:Gravity (GV) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3569
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3576
@@ -197,7 +197,7 @@ DESCRIPTION:Gravity (GV) vs Winterfox (WFX)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3576
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3578
@@ -211,7 +211,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Gravity (GV)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3578
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3583
@@ -225,7 +225,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Gravity (GV)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3583
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3588
@@ -239,7 +239,7 @@ DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS S
  pring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/3588
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3596
@@ -253,7 +253,7 @@ DESCRIPTION:Gravity (GV) vs Team 8 (T8)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3596
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4512
@@ -267,7 +267,7 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO5\nTournament : NA
   LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4512
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4680
@@ -281,7 +281,7 @@ DESCRIPTION:Gravity (GV) vs Enemy Esports (NME)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4680
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4685
@@ -295,7 +295,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Gravity (GV)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4685
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4687
@@ -309,7 +309,7 @@ DESCRIPTION:Cloud9  (C9) vs Gravity (GV)\nType : BO1\nTournament : 2015 NA
  LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4687
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4692
@@ -323,7 +323,7 @@ DESCRIPTION:Team Liquid (TL) vs Gravity (GV)\nType : BO1\nTournament : 2015
   NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4692
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4700
@@ -337,7 +337,7 @@ DESCRIPTION:Gravity (GV) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4700
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4704
@@ -351,7 +351,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Gravity (GV)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4704
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4709
@@ -365,7 +365,7 @@ DESCRIPTION:Gravity (GV) vs Team 8 (T8)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4709
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4712
@@ -379,7 +379,7 @@ DESCRIPTION:Gravity (GV) vs Team SoloMid (TSM)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4712
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4716
@@ -393,7 +393,7 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4716
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4721
@@ -407,7 +407,7 @@ DESCRIPTION:Gravity (GV) vs Team Liquid (TL)\nType : BO1\nTournament : 2015
   NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4721
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4727
@@ -421,7 +421,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Gravity (GV)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4727
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4733
@@ -435,7 +435,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Gravity (GV)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4733
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4738
@@ -449,7 +449,7 @@ DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO1\nTournament : 2015 NA
  LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4738
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4744
@@ -463,7 +463,7 @@ DESCRIPTION:Enemy Esports (NME) vs Gravity (GV)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4744
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4747
@@ -477,7 +477,7 @@ DESCRIPTION:Gravity (GV) vs Team Dignitas (DIG)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4747
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4754
@@ -491,7 +491,7 @@ DESCRIPTION:Team 8 (T8) vs Gravity (GV)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4754
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4758
@@ -505,7 +505,7 @@ DESCRIPTION:Gravity (GV) vs Team Impulse (TIP)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4758
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4761
@@ -519,6 +519,6 @@ DESCRIPTION:Gravity (GV) vs Team Dragon Knights (TDK)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4761
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150621T164317Z
+DTSTAMP:20150623T180450Z
 END:VEVENT
 END:VCALENDAR
