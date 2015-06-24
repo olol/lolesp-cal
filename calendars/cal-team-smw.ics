@@ -15,7 +15,7 @@ DESCRIPTION:noMERCY (nM) vs Shantao macht Wau (SMW)\nType : BO1\nTournament
   : EU CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2644
 CATEGORIES:EU CS Play In 1
-DTSTAMP:20150623T180442Z
+DTSTAMP:20150624T160308Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2666
@@ -29,6 +29,6 @@ DESCRIPTION:Shantao macht Wau (SMW) vs Gamers2 (defunct) (G2)\nType : BO3\n
  Tournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2666
 CATEGORIES:EU Top 8
-DTSTAMP:20150623T180442Z
+DTSTAMP:20150624T160308Z
 END:VEVENT
 END:VCALENDAR

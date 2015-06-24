@@ -15,7 +15,7 @@ DESCRIPTION:LMQ (LMQ) vs vVv Gaming Red (VVV)\nType : BO1\nTournament : NA
  Play in 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1668
 CATEGORIES:NA Play in 2
-DTSTAMP:20150623T180437Z
+DTSTAMP:20150624T160304Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1940
@@ -29,7 +29,7 @@ DESCRIPTION:COGnitive Gaming (COG) vs vVv Gaming (vVv)\nType : BO3\nTournam
  ent : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1940
 CATEGORIES:NA Top 8
-DTSTAMP:20150623T180437Z
+DTSTAMP:20150624T160304Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2061
@@ -43,7 +43,7 @@ DESCRIPTION:vVv Gaming (vVv) vs Super Team NA (STN)\nType : BO1\nTournament
   : NA CS 2 Play In 2\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2061
 CATEGORIES:NA CS 2 Play In 2
-DTSTAMP:20150623T180437Z
+DTSTAMP:20150624T160304Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2096
@@ -57,7 +57,7 @@ DESCRIPTION:Team LolPro (PRO) vs vVv Gaming (vVv)\nType : BO3\nTournament :
   NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2096
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150623T180437Z
+DTSTAMP:20150624T160304Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2099
@@ -71,7 +71,7 @@ DESCRIPTION:LMQ (LMQ) vs vVv Gaming (vVv)\nType : BO3\nTournament : NA CS 2
   Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/2099
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150623T180437Z
+DTSTAMP:20150624T160304Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2102
@@ -85,7 +85,7 @@ DESCRIPTION:vVv Gaming (vVv) vs Curse Academy (CA)\nType : BO3\nTournament
  : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2102
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150623T180437Z
+DTSTAMP:20150624T160304Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2180
@@ -99,6 +99,6 @@ DESCRIPTION:Curse Academy (CA) vs vVv Gaming (vVv)\nType : BO3\nTournament
  : NA CS Spring Playoffs 2014\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2180
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150623T180437Z
+DTSTAMP:20150624T160304Z
 END:VEVENT
 END:VCALENDAR

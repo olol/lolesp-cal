@@ -15,7 +15,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Astral Poke ()\nType : BO3\nTournament : N
  A Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/789
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-791
@@ -29,7 +29,7 @@ DESCRIPTION:Velocity Esports () vs The Salad Bar ()\nType : BO3\nTournament
   : NA Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/791
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-790
@@ -43,7 +43,7 @@ DESCRIPTION:Team Summon () vs Fidelis ()\nType : BO3\nTournament : NA Summe
  r Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/790
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-788
@@ -57,7 +57,7 @@ DESCRIPTION:DoubleBuff () vs Azure Cats ()\nType : BO3\nTournament : NA Sum
  mer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/788
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-793
@@ -71,7 +71,7 @@ DESCRIPTION:compLexity White (COW) vs Cloud9  (C9)\nType : BO5\nTournament
  : NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/793
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-795
@@ -85,7 +85,7 @@ DESCRIPTION:Team MRN () vs Velocity Esports ()\nType : BO5\nTournament : NA
   Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/795
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-794
@@ -99,7 +99,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Summon ()\nType : BO5\nTournament :
   NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/794
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-792
@@ -113,6 +113,6 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Azure Cats ()\nType : BO5\nTourna
  ment : NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/792
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150623T180432Z
+DTSTAMP:20150624T160259Z
 END:VEVENT
 END:VCALENDAR

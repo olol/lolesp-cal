@@ -15,7 +15,7 @@ DESCRIPTION:Dark Passage (DP) vs ahq e-Sports Club (AHQ)\nType : BO1\nTourn
  ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3078
 CATEGORIES:Group A
-DTSTAMP:20150623T180445Z
+DTSTAMP:20150624T160310Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3080
@@ -29,7 +29,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3080
 CATEGORIES:Group A
-DTSTAMP:20150623T180445Z
+DTSTAMP:20150624T160310Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3081
@@ -43,7 +43,7 @@ DESCRIPTION:Dark Passage (DP) vs Samsung White (SSW)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3081
 CATEGORIES:Group A
-DTSTAMP:20150623T180445Z
+DTSTAMP:20150624T160310Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3083
@@ -57,7 +57,7 @@ DESCRIPTION:Samsung White (SSW) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3083
 CATEGORIES:Group A
-DTSTAMP:20150623T180445Z
+DTSTAMP:20150624T160310Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3085
@@ -71,7 +71,7 @@ DESCRIPTION:Dark Passage (DP) vs Edward Gaming (EDG)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3085
 CATEGORIES:Group A
-DTSTAMP:20150623T180445Z
+DTSTAMP:20150624T160310Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3086
@@ -85,6 +85,6 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Dark Passage (DP)\nType : BO1\nTourn
  ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3086
 CATEGORIES:Group A
-DTSTAMP:20150623T180445Z
+DTSTAMP:20150624T160310Z
 END:VEVENT
 END:VCALENDAR

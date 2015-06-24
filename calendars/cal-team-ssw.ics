@@ -15,7 +15,7 @@ DESCRIPTION:Samsung White (SSW) vs XDG (XDG)\nType : BO1\nTournament : Grou
  p B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  1623
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1625
@@ -29,7 +29,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Samsung White (SSW)\nType : BO1\nTournam
  ent : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1625
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1626
@@ -43,7 +43,7 @@ DESCRIPTION:Team Mineski () vs Samsung White (SSW)\nType : BO1\nTournament
  : Group B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1626
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1628
@@ -57,7 +57,7 @@ DESCRIPTION:Samsung White (SSW) vs Fnatic (FNC)\nType : BO1\nTournament : G
  roup B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1628
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1631
@@ -71,7 +71,7 @@ DESCRIPTION:Samsung White (SSW) vs Gambit Gaming (GMB)\nType : BO1\nTournam
  ent : Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1631
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1634
@@ -85,7 +85,7 @@ DESCRIPTION:Fnatic (FNC) vs Samsung White (SSW)\nType : BO1\nTournament : G
  roup B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1634
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1637
@@ -99,7 +99,7 @@ DESCRIPTION:XDG (XDG) vs Samsung White (SSW)\nType : BO1\nTournament : Grou
  p B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  1637
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1640
@@ -113,7 +113,7 @@ DESCRIPTION:Samsung White (SSW) vs Team Mineski ()\nType : BO1\nTournament
  : Group B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1640
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1651
@@ -127,7 +127,7 @@ DESCRIPTION:Samsung White (SSW) vs Gambit Gaming (GMB)\nType : BO1\nTournam
  ent : Group B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1651
 CATEGORIES:Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2202
@@ -141,7 +141,7 @@ DESCRIPTION:Samsung White (SSW) vs Incredible Miracle 1 (IM1)\nType : BO2\n
  Tournament : OGN Group B\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2202
 CATEGORIES:OGN Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2204
@@ -155,7 +155,7 @@ DESCRIPTION:Samsung White (SSW) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2204
 CATEGORIES:OGN Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2206
@@ -169,7 +169,7 @@ DESCRIPTION:Midas FIO () vs Samsung White (SSW)\nType : BO2\nTournament : O
  GN Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2206
 CATEGORIES:OGN Group B
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2219
@@ -183,7 +183,7 @@ DESCRIPTION:Samsung White (SSW) vs SKTelecom T1 (SKT)\nType : BO5\nTourname
  nt : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2219
 CATEGORIES:OGN Top 8
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2223
@@ -197,7 +197,7 @@ DESCRIPTION:Samsung White (SSW) vs Samsung Blue (SSB)\nType : BO5\nTourname
  nt : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2223
 CATEGORIES:OGN Top 8
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2226
@@ -211,7 +211,7 @@ DESCRIPTION:Samsung White (SSW) vs CJ Entus Blaze (CJB)\nType : BO5\nTourna
  ment : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2226
 CATEGORIES:OGN Top 8
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2954
@@ -225,7 +225,7 @@ DESCRIPTION:Samsung White (SSW) vs SK Telecom T1 S (SKS)\nType : BO2\nTourn
  ament : OGN Group C\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2954
 CATEGORIES:OGN Group C
-DTSTAMP:20150623T180433Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2956
@@ -239,7 +239,7 @@ DESCRIPTION:Samsung White (SSW) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2956
 CATEGORIES:OGN Group C
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2958
@@ -253,7 +253,7 @@ DESCRIPTION:Samsung White (SSW) vs Bigfile Miracle (BFM)\nType : BO2\nTourn
  ament : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2958
 CATEGORIES:OGN Group C
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2948
@@ -267,7 +267,7 @@ DESCRIPTION:Samsung White (SSW) vs SKTelecom T1 (SKT)\nType : BO5\nTourname
  nt : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2948
 CATEGORIES:OGN Top 8
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2951
@@ -281,7 +281,7 @@ DESCRIPTION:Samsung White (SSW) vs Samsung Blue (SSB)\nType : BO5\nTourname
  nt : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2951
 CATEGORIES:OGN Top 8
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2953
@@ -295,7 +295,7 @@ DESCRIPTION:SK Telecom T1 S (SKS) vs Samsung White (SSW)\nType : BO5\nTourn
  ament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2953
 CATEGORIES:OGN Top 8
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3076
@@ -309,7 +309,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Samsung White (SSW)\nType : BO5\nTourname
  nt : Circuit Points Tiebreaker\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/3076
 CATEGORIES:Circuit Points Tiebreaker
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3077
@@ -323,7 +323,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Samsung White (SSW)\nType : BO1\nTournam
  ent : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3077
 CATEGORIES:Group A
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3079
@@ -337,7 +337,7 @@ DESCRIPTION:Samsung White (SSW) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3079
 CATEGORIES:Group A
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3081
@@ -351,7 +351,7 @@ DESCRIPTION:Dark Passage (DP) vs Samsung White (SSW)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3081
 CATEGORIES:Group A
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3083
@@ -365,7 +365,7 @@ DESCRIPTION:Samsung White (SSW) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3083
 CATEGORIES:Group A
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3084
@@ -379,7 +379,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Samsung White (SSW)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3084
 CATEGORIES:Group A
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3088
@@ -393,7 +393,7 @@ DESCRIPTION:Samsung White (SSW) vs Edward Gaming (EDG)\nType : BO1\nTournam
  ent : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3088
 CATEGORIES:Group A
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3089
@@ -407,7 +407,7 @@ DESCRIPTION:Samsung White (SSW) vs Team SoloMid (TSM)\nType : BO5\nTourname
  nt : Knockout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3089
 CATEGORIES:Knockout Stage
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3093
@@ -421,7 +421,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Samsung White (SSW)\nType : BO5\nTourname
  nt : Knockout Stage\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3093
 CATEGORIES:Knockout Stage
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3095
@@ -435,6 +435,6 @@ DESCRIPTION:Samsung White (SSW) vs Star Horn Royal Club (SHR)\nType : BO5\n
  Tournament : Knockout Stage\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3095
 CATEGORIES:Knockout Stage
-DTSTAMP:20150623T180434Z
+DTSTAMP:20150624T160301Z
 END:VEVENT
 END:VCALENDAR
