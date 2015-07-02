@@ -15,7 +15,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1802
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1806
@@ -29,7 +29,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1806
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1811
@@ -43,7 +43,7 @@ DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1811
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1814
@@ -57,7 +57,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/1814
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1817
@@ -71,7 +71,7 @@ DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1817
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1822
@@ -85,7 +85,7 @@ DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1822
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1826
@@ -99,7 +99,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1826
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1829
@@ -113,7 +113,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1829
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1835
@@ -127,7 +127,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1835
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1837
@@ -141,7 +141,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/1837
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1841
@@ -155,7 +155,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1841
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1844
@@ -169,7 +169,7 @@ DESCRIPTION:Alliance (ALL) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1844
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1850
@@ -183,7 +183,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1850
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1853
@@ -197,7 +197,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/1853
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1857
@@ -211,7 +211,7 @@ DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1857
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1863
@@ -225,7 +225,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1863
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1867
@@ -239,7 +239,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1867
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1871
@@ -253,7 +253,7 @@ DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1871
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1877
@@ -267,7 +267,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1877
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1879
@@ -281,7 +281,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1879
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1881
@@ -295,7 +295,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1881
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1886
@@ -309,7 +309,7 @@ DESCRIPTION:Alliance (ALL) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1886
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1891
@@ -323,7 +323,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1891
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1893
@@ -337,7 +337,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1893
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1897
@@ -351,7 +351,7 @@ DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1897
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1899
@@ -365,7 +365,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1899
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1903
@@ -379,7 +379,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1903
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1908
@@ -393,7 +393,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/1908
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2249
@@ -407,7 +407,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs H2K (H2K)\nType : BO5\nTournament : E
  U LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2249
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2294
@@ -421,7 +421,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2294
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2298
@@ -435,7 +435,7 @@ DESCRIPTION:Alliance (ALL) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2298
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2300
@@ -449,7 +449,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2300
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2306
@@ -463,7 +463,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2306
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2308
@@ -477,7 +477,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2308
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2314
@@ -491,7 +491,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2314
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2317
@@ -505,7 +505,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2317
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2321
@@ -519,7 +519,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2321
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2325
@@ -533,7 +533,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2325
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2327
@@ -547,7 +547,7 @@ DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2327
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2332
@@ -561,7 +561,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2332
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2336
@@ -575,7 +575,7 @@ DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2336
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2341
@@ -589,7 +589,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2341
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2345
@@ -603,7 +603,7 @@ DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2345
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2351
@@ -617,7 +617,7 @@ DESCRIPTION:Alliance (ALL) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2351
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2354
@@ -631,7 +631,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2354
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2356
@@ -645,7 +645,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2356
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2359
@@ -659,7 +659,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2359
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2364
@@ -673,7 +673,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2364
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2367
@@ -687,7 +687,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2367
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2371
@@ -701,7 +701,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2371
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2378
@@ -715,7 +715,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2378
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2380
@@ -729,7 +729,7 @@ DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2380
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2385
@@ -743,7 +743,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2385
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2388
@@ -757,7 +757,7 @@ DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2388
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2393
@@ -771,7 +771,7 @@ DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2393
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2398
@@ -785,7 +785,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2398
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2400
@@ -799,7 +799,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2400
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3043
@@ -813,7 +813,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO5\nTournament
  : EU LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3043
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3048
@@ -827,7 +827,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO5\nTourname
  nt : EU LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3048
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3347
@@ -841,7 +841,7 @@ DESCRIPTION:Giants Gaming (GIA) vs Meet Your Makers (MYM)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3347
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3351
@@ -855,7 +855,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3351
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3356
@@ -869,7 +869,7 @@ DESCRIPTION:H2K (H2K) vs Meet Your Makers (MYM)\nType : BO1\nTournament : E
  U LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3356
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3365
@@ -883,7 +883,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3365
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3368
@@ -897,7 +897,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Elements (EL)\nType : BO1\nTournament
   : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3368
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3373
@@ -911,7 +911,7 @@ DESCRIPTION:ROCCAT (ROC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3373
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3378
@@ -925,7 +925,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3378
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3385
@@ -939,7 +939,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Unicorns Of Love (UOL)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3385
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3389
@@ -953,7 +953,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3389
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3393
@@ -967,7 +967,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3393
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3399
@@ -981,7 +981,7 @@ DESCRIPTION:Elements (EL) vs Meet Your Makers (MYM)\nType : BO1\nTournament
   : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3399
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3405
@@ -995,7 +995,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3405
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3406
@@ -1009,7 +1009,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Giants Gaming (GIA)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3406
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3413
@@ -1023,7 +1023,7 @@ DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3413
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3421
@@ -1037,7 +1037,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs H2K (H2K)\nType : BO1\nTournament : E
  U LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3421
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3430
@@ -1051,7 +1051,7 @@ DESCRIPTION:SK Gaming (SK) vs Meet Your Makers (MYM)\nType : BO1\nTournamen
  t : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3430
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3435
@@ -1065,7 +1065,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3435
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4530
@@ -1079,6 +1079,6 @@ DESCRIPTION:Meet Your Makers (MYM) vs Giants Gaming (GIA)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4530
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160302Z
+DTSTAMP:20150702T200429Z
 END:VEVENT
 END:VCALENDAR

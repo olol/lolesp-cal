@@ -15,7 +15,7 @@ DESCRIPTION:Storm (STR) vs Zenith eSports (ZEN)\nType : BO3\nTournament : 2
  015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/4391
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150624T160315Z
+DTSTAMP:20150702T200438Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4396
@@ -29,6 +29,6 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Storm (STR)\nType : BO3\nTournamen
  t : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/4396
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150624T160315Z
+DTSTAMP:20150702T200438Z
 END:VEVENT
 END:VCALENDAR

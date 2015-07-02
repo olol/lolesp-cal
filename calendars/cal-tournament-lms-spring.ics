@@ -15,7 +15,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Dream or Reality (DOR)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3682
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3683
@@ -29,7 +29,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3683
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3684
@@ -43,7 +43,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3684
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3685
@@ -57,7 +57,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3685
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3686
@@ -71,7 +71,7 @@ DESCRIPTION:Never Give Up (NGU) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3686
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3687
@@ -85,7 +85,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType :
  BO1\nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3687
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3688
@@ -99,7 +99,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3688
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3689
@@ -113,7 +113,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO1\nTourn
  ament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3689
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3690
@@ -127,7 +127,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO1\
  nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3690
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3691
@@ -141,7 +141,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
  O1\nTournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3691
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3692
@@ -155,7 +155,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Flash Wolves (YFW)\nType : BO1\nTourn
  ament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3692
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3693
@@ -169,7 +169,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Dream or Reality (DOR)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3693
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3694
@@ -183,7 +183,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO1\
  nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3694
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3695
@@ -197,7 +197,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Dream or Reality (DOR)\nType : BO1\nT
  ournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3695
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3696
@@ -211,7 +211,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Never Give Up (NGU)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3696
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3697
@@ -225,7 +225,7 @@ DESCRIPTION:Never Give Up (NGU) vs Taipei Assassins (TPA)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3697
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3698
@@ -239,7 +239,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType :
  BO1\nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3698
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3699
@@ -253,7 +253,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3699
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3700
@@ -267,7 +267,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType :
  BO1\nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3700
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3701
@@ -281,7 +281,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO1\
  nTournament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3701
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3702
@@ -295,7 +295,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
  O1\nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3702
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3703
@@ -309,7 +309,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Never Give Up (NGU)\nType : BO1\nTourname
  nt : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3703
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3704
@@ -323,7 +323,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3704
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3705
@@ -337,7 +337,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3705
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3706
@@ -351,7 +351,7 @@ DESCRIPTION:Never Give Up (NGU) vs Midnight Sun e-Sports (MSE)\nType : BO1\
  nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3706
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3707
@@ -365,7 +365,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3707
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3708
@@ -379,7 +379,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3708
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3709
@@ -393,7 +393,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3709
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3716
@@ -407,7 +407,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Dream or Reality (DOR)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3716
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3727
@@ -421,7 +421,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3727
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3729
@@ -435,7 +435,7 @@ DESCRIPTION:Never Give Up (NGU) vs Logitech G Sniper (LGS)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3729
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3728
@@ -449,7 +449,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3728
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3730
@@ -463,7 +463,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3730
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3731
@@ -477,7 +477,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType :
  BO1\nTournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3731
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3717
@@ -491,7 +491,7 @@ DESCRIPTION:Never Give Up (NGU) vs Flash Wolves (YFW)\nType : BO1\nTourname
  nt : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3717
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3732
@@ -505,7 +505,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Dream or Reality (DOR)\nType : BO1\nTourn
  ament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3732
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3733
@@ -519,7 +519,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Hong Kong Esports (HKE)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3733
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3713
@@ -533,7 +533,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
  O1\nTournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3713
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3715
@@ -547,7 +547,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (YFW)\nType : BO1\nTourn
  ament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3715
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3712
@@ -561,7 +561,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Hong Kong Esports (HKE)\nType : BO1\
  nTournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3712
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3735
@@ -575,7 +575,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs ahq e-Sports Club (AHQ)\nType : BO1\
  nTournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3735
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3736
@@ -589,7 +589,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Taipei Assassins (TPA)\nType : BO1\nT
  ournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3736
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3734
@@ -603,7 +603,7 @@ DESCRIPTION:Never Give Up (NGU) vs Dream or Reality (DOR)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3734
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3737
@@ -617,7 +617,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Never Give Up (NGU)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3737
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3710
@@ -631,7 +631,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType :
  BO1\nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3710
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3756
@@ -645,7 +645,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
  O1\nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3756
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3722
@@ -659,7 +659,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Logitech G Sniper (LGS)\nType :
  BO1\nTournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3722
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3711
@@ -673,7 +673,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Logitech G Sniper (LGS)\nType : BO1\
  nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3711
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3749
@@ -687,7 +687,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3749
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3714
@@ -701,7 +701,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Midnight Sun e-Sports (MSE)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3714
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3718
@@ -715,7 +715,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Logitech G Sniper (LGS)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3718
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3725
@@ -729,7 +729,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (YFW)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3725
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3723
@@ -743,7 +743,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Hong Kong Esports (HKE)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3723
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3724
@@ -757,7 +757,7 @@ DESCRIPTION:Flash Wolves (YFW) vs ahq e-Sports Club (AHQ)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3724
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3719
@@ -771,7 +771,7 @@ DESCRIPTION:Never Give Up (NGU) vs Hong Kong Esports (HKE)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3719
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3720
@@ -785,7 +785,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Never Give Up (NGU)\nType : BO1\
  nTournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3720
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3726
@@ -799,7 +799,7 @@ DESCRIPTION:Dream or Reality (DOR) vs ahq e-Sports Club (AHQ)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3726
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3747
@@ -813,7 +813,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Logitech G Sniper (LGS)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3747
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3721
@@ -827,7 +827,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3721
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3745
@@ -841,7 +841,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Dream or Reality (DOR)\nType : BO1\nT
  ournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3745
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3750
@@ -855,7 +855,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3750
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3751
@@ -869,7 +869,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType :
  BO1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3751
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3757
@@ -883,7 +883,7 @@ DESCRIPTION:Never Give Up (NGU) vs Flash Wolves (YFW)\nType : BO1\nTourname
  nt : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3757
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3740
@@ -897,7 +897,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Dream or Reality (DOR)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3740
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3739
@@ -911,7 +911,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Dream or Reality (DOR)\nType : BO1\nTourn
  ament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3739
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3753
@@ -925,7 +925,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO1\nTourn
  ament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3753
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3742
@@ -939,7 +939,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType :
  BO1\nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3742
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3754
@@ -953,7 +953,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO1\
  nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3754
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3741
@@ -967,7 +967,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO1\
  nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3741
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3744
@@ -981,7 +981,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Never Give Up (NGU)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3744
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3760
@@ -995,7 +995,7 @@ DESCRIPTION:Never Give Up (NGU) vs Taipei Assassins (TPA)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3760
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3755
@@ -1009,7 +1009,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
  O1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3755
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3752
@@ -1023,7 +1023,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3752
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3762
@@ -1037,7 +1037,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType :
  BO1\nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3762
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3763
@@ -1051,7 +1051,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO1\
  nTournament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3763
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3746
@@ -1065,7 +1065,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Dream or Reality (DOR)\nType : B
  O1\nTournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3746
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3764
@@ -1079,7 +1079,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3764
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3765
@@ -1093,7 +1093,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3765
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3759
@@ -1107,7 +1107,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3759
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3738
@@ -1121,7 +1121,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Never Give Up (NGU)\nType : BO1\
  nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3738
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3758
@@ -1135,7 +1135,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3758
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3743
@@ -1149,6 +1149,6 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO1\n
  Tournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3743
 CATEGORIES:LMS Spring
-DTSTAMP:20150624T160313Z
+DTSTAMP:20150702T200436Z
 END:VEVENT
 END:VCALENDAR

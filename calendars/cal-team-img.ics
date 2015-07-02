@@ -15,7 +15,7 @@ DESCRIPTION:Imagine (IMG) vs Renegades (RNG)\nType : BO3\nTournament : 2015
   NA Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/5159
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5162
@@ -29,7 +29,7 @@ DESCRIPTION:Imagine (IMG) vs CLG Black (CLB)\nType : BO3\nTournament : 2015
   NA Summer Challenger Qualifier\nWeek : 0\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/5162
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5164
@@ -43,7 +43,7 @@ DESCRIPTION:Imagine (IMG) vs Final Five (F5)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5164
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5167
@@ -57,7 +57,7 @@ DESCRIPTION:Final Five (F5) vs Imagine (IMG)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5167
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5170
@@ -71,7 +71,7 @@ DESCRIPTION:Team Coast (CST) vs Imagine (IMG)\nType : BO1\nTournament : 201
  5 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/5170
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5173
@@ -85,7 +85,7 @@ DESCRIPTION:Imagine (IMG) vs Team Coast (CST)\nType : BO1\nTournament : 201
  5 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/5173
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5175
@@ -99,7 +99,7 @@ DESCRIPTION:Imagine (IMG) vs Renegades (RNG)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5175
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5178
@@ -113,7 +113,7 @@ DESCRIPTION:Renegades (RNG) vs Imagine (IMG)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5178
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5183
@@ -127,7 +127,7 @@ DESCRIPTION:Imagine (IMG) vs Cloud9 Tempest (C9T)\nType : BO1\nTournament :
   2015 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5183
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5186
@@ -141,7 +141,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Imagine (IMG)\nType : BO1\nTournament :
   2015 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5186
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5187
@@ -155,7 +155,7 @@ DESCRIPTION:Winterfox (WFX) vs Imagine (IMG)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5187
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5190
@@ -169,6 +169,6 @@ DESCRIPTION:Imagine (IMG) vs Winterfox (WFX)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5190
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150624T160320Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 END:VCALENDAR

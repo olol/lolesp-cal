@@ -15,7 +15,7 @@ DESCRIPTION:SPARTA (SPA) vs Different Dimension (DD)\nType : BO3\nTournamen
  t : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/3180
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150624T160312Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3185
@@ -29,7 +29,7 @@ DESCRIPTION:Reason Gaming (RG) vs Different Dimension (DD)\nType : BO3\nTou
  rnament : Single Elimination Bracket\nWeek : 2\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/3185
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150624T160312Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4406
@@ -43,7 +43,7 @@ DESCRIPTION:Fnatic Academy (FNA) vs Different Dimension (DD)\nType : BO3\nT
  ournament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUr
  l : http://www.lolesports.com/tourney/match/4406
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150624T160312Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4411
@@ -57,6 +57,6 @@ DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Different Dimension (DD)\nTy
  pe : BO3\nTournament : 2015 EU Spring Challenger Qualifier\nWeek : 2\nStre
  am : No\nUrl : http://www.lolesports.com/tourney/match/4411
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150624T160312Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:Enemy Esports (NME) vs Noble Truth (NT)\nType : BO3\nTournament
   : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/3147
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3153
@@ -29,7 +29,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Fusion (FSN)\nType : BO3\nTournamen
  t : Single Elimination Bracket\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/3153
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4386
@@ -43,7 +43,7 @@ DESCRIPTION:Enemy Esports (NME) vs The Arbiters (ARB)\nType : BO3\nTourname
  nt : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/4386
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4477
@@ -57,7 +57,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Dragon Knights (TDK)\nType : BO1\nT
  ournament : 2015 NA CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/4477
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4480
@@ -71,7 +71,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Enemy Esports (NME)\nType : BO1\nT
  ournament : 2015 NA CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/4480
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4483
@@ -85,7 +85,7 @@ DESCRIPTION:Team Fusion (FSN) vs Enemy Esports (NME)\nType : BO1\nTournamen
  t : 2015 NA CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4483
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4486
@@ -99,7 +99,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Fusion (FSN)\nType : BO1\nTournamen
  t : 2015 NA CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4486
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4488
@@ -113,7 +113,7 @@ DESCRIPTION:Enemy Esports (NME) vs CLG Black (CLB)\nType : BO1\nTournament
  : 2015 NA CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4488
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4491
@@ -127,7 +127,7 @@ DESCRIPTION:CLG Black (CLB) vs Enemy Esports (NME)\nType : BO1\nTournament
  : 2015 NA CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4491
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4496
@@ -141,7 +141,7 @@ DESCRIPTION:Enemy Esports (NME) vs TSM Darkness (TSD)\nType : BO1\nTourname
  nt : 2015 NA CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4496
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4499
@@ -155,7 +155,7 @@ DESCRIPTION:TSM Darkness (TSD) vs Enemy Esports (NME)\nType : BO1\nTourname
  nt : 2015 NA CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4499
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4500
@@ -169,7 +169,7 @@ DESCRIPTION:Final Five (F5) vs Enemy Esports (NME)\nType : BO1\nTournament
  : 2015 NA CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4500
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4503
@@ -183,7 +183,7 @@ DESCRIPTION:Enemy Esports (NME) vs Final Five (F5)\nType : BO1\nTournament
  : 2015 NA CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4503
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4526
@@ -197,7 +197,7 @@ DESCRIPTION:Enemy Esports (NME) vs Final Five (F5)\nType : BO3\nTournament
  : 2015 NA Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/4526
 CATEGORIES:2015 NA Challenger Spring Playoffs
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4528
@@ -211,7 +211,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Dragon Knights (TDK)\nType : BO5\nT
  ournament : 2015 NA Challenger Spring Playoffs\nWeek : 2\nStream : No\nUrl
   : http://www.lolesports.com/tourney/match/4528
 CATEGORIES:2015 NA Challenger Spring Playoffs
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4680
@@ -225,7 +225,7 @@ DESCRIPTION:Gravity (GV) vs Enemy Esports (NME)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4680
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4684
@@ -239,7 +239,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Enemy Esports (NME)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4684
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4686
@@ -253,7 +253,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Liquid (TL)\nType : BO1\nTournament
   : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4686
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4694
@@ -267,7 +267,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Enemy Esports (NME)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4694
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4696
@@ -281,7 +281,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team 8 (T8)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4696
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4705
@@ -295,7 +295,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Enemy Esports (NME)\nType : BO1\n
  Tournament : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4705
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4710
@@ -309,7 +309,7 @@ DESCRIPTION:Enemy Esports (NME) vs Cloud9  (C9)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4710
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4714
@@ -323,7 +323,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Impulse (TIP)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4714
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4720
@@ -337,7 +337,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Enemy Esports (NME)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4720
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4725
@@ -351,7 +351,7 @@ DESCRIPTION:Team 8 (T8) vs Enemy Esports (NME)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4725
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4729
@@ -365,7 +365,7 @@ DESCRIPTION:Team Impulse (TIP) vs Enemy Esports (NME)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4729
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4735
@@ -379,7 +379,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Dragon Knights (TDK)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4735
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4737
@@ -393,7 +393,7 @@ DESCRIPTION:Enemy Esports (NME) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4737
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4744
@@ -407,7 +407,7 @@ DESCRIPTION:Enemy Esports (NME) vs Gravity (GV)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4744
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4746
@@ -421,7 +421,7 @@ DESCRIPTION:Cloud9  (C9) vs Enemy Esports (NME)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4746
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4751
@@ -435,7 +435,7 @@ DESCRIPTION:Team Liquid (TL) vs Enemy Esports (NME)\nType : BO1\nTournament
   : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4751
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4756
@@ -449,7 +449,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team SoloMid (TSM)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4756
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4764
@@ -463,6 +463,6 @@ DESCRIPTION:Enemy Esports (NME) vs Team Dignitas (DIG)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4764
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150624T160311Z
+DTSTAMP:20150702T200435Z
 END:VEVENT
 END:VCALENDAR

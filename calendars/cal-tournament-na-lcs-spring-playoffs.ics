@@ -15,7 +15,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO3\nTou
  rnament : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2188
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2187
@@ -29,7 +29,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO3\nTournament : NA
   LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2187
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2190
@@ -43,7 +43,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nT
  ournament : NA LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/2190
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2189
@@ -57,7 +57,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO3\nTournament : NA LCS Sp
  ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2189
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2193
@@ -71,7 +71,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO3\nTournament
   : NA LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2193
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2192
@@ -85,7 +85,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO3\nTourname
  nt : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2192
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2191
@@ -99,7 +99,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO5\nTournament : NA
   LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2191
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4513
@@ -113,7 +113,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Liquid (TL)\nType : BO5\nTou
  rnament : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/4513
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4512
@@ -127,7 +127,7 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO5\nTournament : NA
   LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4512
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4515
@@ -141,7 +141,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Liquid (TL)\nType : BO5\nTournament : NA L
  CS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4515
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4514
@@ -155,7 +155,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Impulse (TIP)\nType : BO5\nTournamen
  t : NA LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4514
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4517
@@ -169,7 +169,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Liquid (TL)\nType : BO5\nTournament
  : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4517
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4516
@@ -183,6 +183,6 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO5\nTournament : NA
   LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4516
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200433Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:Tick Trick and Duck (TTD) vs Storm Games Clan (SGC)\nType : BO3
  \nTournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1946
 CATEGORIES:EU Top 8
-DTSTAMP:20150624T160304Z
+DTSTAMP:20150702T200430Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2083
@@ -29,6 +29,6 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Storm Games Clan (SGC)\nType : BO1\nT
  ournament : EU CS 2 Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2083
 CATEGORIES:EU CS 2 Play In 4
-DTSTAMP:20150624T160304Z
+DTSTAMP:20150702T200430Z
 END:VEVENT
 END:VCALENDAR

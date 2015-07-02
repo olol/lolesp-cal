@@ -15,7 +15,7 @@ DESCRIPTION:Kappa Team (KP) vs Unicorns Of Love (UOL)\nType : BO1\nTourname
  nt : EU CS Play In 5\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2656
 CATEGORIES:EU CS Play In 5
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2665
@@ -29,7 +29,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Unicorns Of Love (UOL)\nType : BO3\n
  Tournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2665
 CATEGORIES:EU Top 8
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2978
@@ -43,7 +43,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Unicorns Of Love (UOL)\nType : BO3\n
  Tournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2978
 CATEGORIES:EU Top 8
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2678
@@ -57,7 +57,7 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Unicorns Of Love (UOL)\nType : BO3\nT
  ournament : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/2678
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2680
@@ -71,7 +71,7 @@ DESCRIPTION:H2K (H2K) vs Unicorns Of Love (UOL)\nType : BO3\nTournament : E
  U CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2680
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2682
@@ -85,7 +85,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Unicorns Of Love (UOL)\nType : BO5\n
  Tournament : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/2682
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3011
@@ -99,7 +99,7 @@ DESCRIPTION:Millenium (MIL) vs Unicorns Of Love (UOL)\nType : BO5\nTourname
  nt : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3011
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3350
@@ -113,7 +113,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Unicorns Of Love (UOL)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3350
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3355
@@ -127,7 +127,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Elements (EL)\nType : BO1\nTournament
   : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3355
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3357
@@ -141,7 +141,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Giants Gaming (GIA)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3357
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3364
@@ -155,7 +155,7 @@ DESCRIPTION:SK Gaming (SK) vs Unicorns Of Love (UOL)\nType : BO1\nTournamen
  t : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3364
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3367
@@ -169,7 +169,7 @@ DESCRIPTION:Fnatic (FNC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3367
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3374
@@ -183,7 +183,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3374
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3379
@@ -197,7 +197,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3379
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3385
@@ -211,7 +211,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Unicorns Of Love (UOL)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3385
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3390
@@ -225,7 +225,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : E
  U LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3390
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3394
@@ -239,7 +239,7 @@ DESCRIPTION:Giants Gaming (GIA) vs Unicorns Of Love (UOL)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3394
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3397
@@ -253,7 +253,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3397
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3405
@@ -267,7 +267,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3405
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3410
@@ -281,7 +281,7 @@ DESCRIPTION:ROCCAT (ROC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3410
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3412
@@ -295,7 +295,7 @@ DESCRIPTION:Elements (EL) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
   : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3412
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3417
@@ -309,7 +309,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Unicorns Of Love (UOL)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3417
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3425
@@ -323,7 +323,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3425
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3429
@@ -337,7 +337,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3429
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3434
@@ -351,7 +351,7 @@ DESCRIPTION:H2K (H2K) vs Unicorns Of Love (UOL)\nType : BO1\nTournament : E
  U LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3434
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4506
@@ -365,7 +365,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Unicorns Of Love (UOL)\nType : BO5\nTour
  nament : EU LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4506
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4508
@@ -379,7 +379,7 @@ DESCRIPTION:SK Gaming (SK) vs Unicorns Of Love (UOL)\nType : BO5\nTournamen
  t : EU LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4508
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4510
@@ -393,7 +393,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Fnatic (FNC)\nType : BO5\nTournament
  : EU LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4510
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4586
@@ -407,7 +407,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4586
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4595
@@ -421,7 +421,7 @@ DESCRIPTION:Elements (EL) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
   : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4595
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160308Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4600
@@ -435,7 +435,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : 2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4600
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4603
@@ -449,7 +449,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4603
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4606
@@ -463,7 +463,7 @@ DESCRIPTION:Origen (OG) vs Unicorns Of Love (UOL)\nType : BO1\nTournament :
   2015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4606
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4615
@@ -477,7 +477,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : 2
  015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4615
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4619
@@ -491,7 +491,7 @@ DESCRIPTION:SK Gaming (SK) vs Unicorns Of Love (UOL)\nType : BO1\nTournamen
  t : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4619
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4624
@@ -505,7 +505,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Unicorns Of Love (UOL)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4624
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4627
@@ -519,7 +519,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Giants Gaming (GIA)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4627
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4632
@@ -533,7 +533,7 @@ DESCRIPTION:ROCCAT (ROC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4632
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4639
@@ -547,7 +547,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Origen (OG)\nType : BO1\nTournament :
   2015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4639
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4643
@@ -561,7 +561,7 @@ DESCRIPTION:H2K (H2K) vs Unicorns Of Love (UOL)\nType : BO1\nTournament : 2
  015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4643
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4648
@@ -575,7 +575,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Unicorns Of Love (UOL)\nType : BO1\nT
  ournament : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4648
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4652
@@ -589,7 +589,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Elements (EL)\nType : BO1\nTournament
   : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4652
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4656
@@ -603,7 +603,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : 2015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4656
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4663
@@ -617,7 +617,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4663
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4667
@@ -631,7 +631,7 @@ DESCRIPTION:Giants Gaming (GIA) vs Unicorns Of Love (UOL)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4667
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4673
@@ -645,6 +645,6 @@ DESCRIPTION:Fnatic (FNC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4673
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150624T160309Z
+DTSTAMP:20150702T200434Z
 END:VEVENT
 END:VCALENDAR

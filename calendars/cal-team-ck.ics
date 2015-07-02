@@ -15,7 +15,7 @@ DESCRIPTION:Biskvitki Zakuska (BZ) vs Caseking Gaming (CK)\nType : BO3\nTou
  rnament : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl 
  : http://www.lolesports.com/tourney/match/5116
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150624T160319Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5119
@@ -29,6 +29,6 @@ DESCRIPTION:Ex Nihilo (EXN) vs Caseking Gaming (CK)\nType : BO3\nTournament
   : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5119
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150624T160319Z
+DTSTAMP:20150702T200441Z
 END:VEVENT
 END:VCALENDAR

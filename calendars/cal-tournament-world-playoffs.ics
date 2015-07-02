@@ -15,7 +15,7 @@ DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO3\nTournament : World Pl
  ayoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1644
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200428Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1642
@@ -29,7 +29,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs NaJin Black Sword (NBS)\nType : BO3\nTou
  rnament : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1642
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200428Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1641
@@ -43,7 +43,7 @@ DESCRIPTION:Gamania Bears () vs SKTelecom T1 (SKT)\nType : BO3\nTournament
  : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1641
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200428Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1643
@@ -57,7 +57,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs OMG (OMG)\nType : BO3\nTournament
   : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1643
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200428Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1645
@@ -71,7 +71,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs NaJin Black Sword (NBS)\nType : BO5\nTour
  nament : World Playoffs\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1645
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200428Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1646
@@ -85,7 +85,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Fnatic (FNC)\nType : BO5\nTournam
  ent : World Playoffs\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1646
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200428Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1647
@@ -99,6 +99,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Star Horn Royal Club (SHR)\nType : BO5\nT
  ournament : World Playoffs\nWeek : 9\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1647
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200428Z
 END:VEVENT
 END:VCALENDAR

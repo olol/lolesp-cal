@@ -15,7 +15,7 @@ DESCRIPTION:Cognitive Forge (CFG) vs y so E-Sports (YSO)\nType : BO1\nTourn
  ament : NA Play in 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1665
 CATEGORIES:NA Play in 1
-DTSTAMP:20150624T160304Z
+DTSTAMP:20150702T200430Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1938
@@ -29,6 +29,6 @@ DESCRIPTION:y so E-Sports (YSO) vs LMQ (LMQ)\nType : BO3\nTournament : NA T
  op 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /1938
 CATEGORIES:NA Top 8
-DTSTAMP:20150624T160304Z
+DTSTAMP:20150702T200430Z
 END:VEVENT
 END:VCALENDAR

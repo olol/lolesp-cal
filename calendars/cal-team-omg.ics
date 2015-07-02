@@ -15,7 +15,7 @@ DESCRIPTION:Team SoloMid (TSM) vs OMG (OMG)\nType : BO1\nTournament : Group
   A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  603
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1605
@@ -29,7 +29,7 @@ DESCRIPTION:OMG (OMG) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : Group
   A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  605
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1606
@@ -42,7 +42,7 @@ SUMMARY:Lemondogs vs OMG
 DESCRIPTION:Lemondogs (LD) vs OMG (OMG)\nType : BO1\nTournament : Group A\n
  Week : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1606
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1609
@@ -56,7 +56,7 @@ DESCRIPTION:GamingGear.eu () vs OMG (OMG)\nType : BO1\nTournament : Group A
  \nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/160
  9
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1612
@@ -70,7 +70,7 @@ DESCRIPTION:OMG (OMG) vs GamingGear.eu ()\nType : BO1\nTournament : Group A
  \nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/161
  2
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1615
@@ -84,7 +84,7 @@ DESCRIPTION:OMG (OMG) vs Team SoloMid (TSM)\nType : BO1\nTournament : Group
   A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  615
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1618
@@ -97,7 +97,7 @@ SUMMARY:OMG vs Lemondogs
 DESCRIPTION:OMG (OMG) vs Lemondogs (LD)\nType : BO1\nTournament : Group A\n
  Week : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1618
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1620
@@ -111,7 +111,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO1\nTournament : Group
   A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  620
 CATEGORIES:Group A
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1643
@@ -125,7 +125,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs OMG (OMG)\nType : BO3\nTournament
   : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1643
 CATEGORIES:World Playoffs
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2107
@@ -139,7 +139,7 @@ DESCRIPTION:Positive Energy () vs OMG (OMG)\nType : BO2\nTournament : LPL R
  ound Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2107
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2113
@@ -153,7 +153,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2113
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2117
@@ -167,7 +167,7 @@ DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO2\nTournament : LPL Round R
  obin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /2117
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2123
@@ -181,7 +181,7 @@ DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2123
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2125
@@ -195,7 +195,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2125
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2127
@@ -209,7 +209,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
  nd Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2127
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2131
@@ -223,7 +223,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/2131
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2135
@@ -237,7 +237,7 @@ DESCRIPTION:Positive Energy () vs OMG (OMG)\nType : BO2\nTournament : LPL R
  ound Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2135
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2141
@@ -251,7 +251,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2141
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2145
@@ -265,7 +265,7 @@ DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO2\nTournament : LPL Round R
  obin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /2145
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2146
@@ -279,7 +279,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2146
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2151
@@ -293,7 +293,7 @@ DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2151
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2155
@@ -307,7 +307,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
  nd Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2155
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2159
@@ -321,7 +321,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2159
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2278
@@ -335,7 +335,7 @@ DESCRIPTION:OMG (OMG) vs Fnatic (FNC)\nType : BO1\nTournament : All-Star 20
  14 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2278
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2281
@@ -349,7 +349,7 @@ DESCRIPTION:OMG (OMG) vs Taipei Assassins (TPA)\nType : BO1\nTournament : A
  ll-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2281
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2283
@@ -363,7 +363,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO1\nTournament : All-S
  tar 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2283
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2286
@@ -377,7 +377,7 @@ DESCRIPTION:Cloud9  (C9) vs OMG (OMG)\nType : BO1\nTournament : All-Star 20
  14 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2286
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2288
@@ -391,7 +391,7 @@ DESCRIPTION:Cloud9  (C9) vs OMG (OMG)\nType : BO3\nTournament : All-Star 20
  14 Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2288
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2290
@@ -405,7 +405,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs OMG (OMG)\nType : BO5\nTournament : All-S
  tar 2014 Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2290
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2673
@@ -419,7 +419,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO3\nTournament : LPL
   Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/2673
 CATEGORIES:LPL Top 4
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2676
@@ -432,7 +432,7 @@ SUMMARY:OMG vs Team WE
 DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO3\nTournament : LPL Top 4\n
  Week : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/2676
 CATEGORIES:LPL Top 4
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2847
@@ -446,7 +446,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2847
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2851
@@ -460,7 +460,7 @@ DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO2\nTournament : LPL Round R
  obin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /2851
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2855
@@ -474,7 +474,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/2855
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2859
@@ -488,7 +488,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
  nd Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2859
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2862
@@ -502,7 +502,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2862
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2867
@@ -516,7 +516,7 @@ DESCRIPTION:OMG (OMG) vs Team WE Academy (WEA)\nType : BO2\nTournament : LP
  L Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2867
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2872
@@ -530,7 +530,7 @@ DESCRIPTION:OMG (OMG) vs Young Glory ()\nType : BO2\nTournament : LPL Round
   Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/2872
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2875
@@ -544,7 +544,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2875
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2879
@@ -558,7 +558,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/2879
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2881
@@ -572,7 +572,7 @@ DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO2\nTournament : LPL Round R
  obin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /2881
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2887
@@ -586,7 +586,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Rou
  nd Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2887
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2890
@@ -600,7 +600,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2890
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2895
@@ -614,7 +614,7 @@ DESCRIPTION:OMG (OMG) vs Team WE Academy (WEA)\nType : BO2\nTournament : LP
  L Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2895
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2900
@@ -628,7 +628,7 @@ DESCRIPTION:OMG (OMG) vs Young Glory ()\nType : BO2\nTournament : LPL Round
   Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2900
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3070
@@ -642,7 +642,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO5\nTournament
   : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3070
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3071
@@ -656,7 +656,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO5\nTournament : LPL
  Summer Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3071
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3073
@@ -670,7 +670,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO5\nTournament
   : LPL Summer Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3073
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3074
@@ -684,7 +684,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO5\nTournament : LPL
  Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3074
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3035
@@ -698,7 +698,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO3\nTournament : LPL
   Regional Qualifier Upper\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3035
 CATEGORIES:LPL Regional Qualifier Upper
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3037
@@ -712,7 +712,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO3\nTournament
   : LPL Regional Qualifier Upper\nWeek : 2\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/3037
 CATEGORIES:LPL Regional Qualifier Upper
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3039
@@ -726,7 +726,7 @@ DESCRIPTION:LGD GAMING (LGD) vs OMG (OMG)\nType : BO3\nTournament : LPL Reg
  ional Qualifier Lower\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/3039
 CATEGORIES:LPL Regional Qualifier Lower
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3108
@@ -739,7 +739,7 @@ SUMMARY:LMQ vs OMG
 DESCRIPTION:LMQ (LMQ) vs OMG (OMG)\nType : BO1\nTournament : Group C\nWeek 
  : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3108
 CATEGORIES:Group C
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3109
@@ -753,7 +753,7 @@ DESCRIPTION:Samsung Blue (SSB) vs OMG (OMG)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  109
 CATEGORIES:Group C
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3112
@@ -766,7 +766,7 @@ SUMMARY:OMG vs Fnatic
 DESCRIPTION:OMG (OMG) vs Fnatic (FNC)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3112
 CATEGORIES:Group C
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3114
@@ -779,7 +779,7 @@ SUMMARY:Fnatic vs OMG
 DESCRIPTION:Fnatic (FNC) vs OMG (OMG)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3114
 CATEGORIES:Group C
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3116
@@ -793,7 +793,7 @@ DESCRIPTION:OMG (OMG) vs Samsung Blue (SSB)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  116
 CATEGORIES:Group C
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3119
@@ -806,7 +806,7 @@ SUMMARY:OMG vs LMQ
 DESCRIPTION:OMG (OMG) vs LMQ (LMQ)\nType : BO1\nTournament : Group C\nWeek 
  : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3119
 CATEGORIES:Group C
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3092
@@ -820,7 +820,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs OMG (OMG)\nType : BO5\nTournament : Knoc
  kout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3092
 CATEGORIES:Knockout Stage
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3094
@@ -834,7 +834,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs OMG (OMG)\nType : BO5\nTournament
   : Knockout Stage\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3094
 CATEGORIES:Knockout Stage
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4261
@@ -848,7 +848,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  4261
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4263
@@ -862,7 +862,7 @@ DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
  Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4263
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4267
@@ -876,7 +876,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4267
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4272
@@ -889,7 +889,7 @@ SUMMARY:Team WE vs OMG
 DESCRIPTION:Team WE (WE) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4272
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4278
@@ -902,7 +902,7 @@ SUMMARY:OMG vs Snake
 DESCRIPTION:OMG (OMG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\nW
  eek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4278
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4285
@@ -915,7 +915,7 @@ SUMMARY:Master3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4285
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4296
@@ -929,7 +929,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4296
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4300
@@ -942,7 +942,7 @@ SUMMARY:OMG vs Gamtee
 DESCRIPTION:OMG (OMG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\n
  Week : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4300
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4305
@@ -955,7 +955,7 @@ SUMMARY:OMG vs King
 DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : LPL Spring\nW
  eek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4305
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4308
@@ -969,7 +969,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  4308
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4317
@@ -983,7 +983,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4317
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4329
@@ -997,7 +997,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  4329
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4333
@@ -1010,7 +1010,7 @@ SUMMARY:OMG vs Gamtee
 DESCRIPTION:OMG (OMG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\n
  Week : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4333
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4337
@@ -1024,7 +1024,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4337
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4345
@@ -1037,7 +1037,7 @@ SUMMARY:Master3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4345
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4348
@@ -1050,7 +1050,7 @@ SUMMARY:OMG vs Snake
 DESCRIPTION:OMG (OMG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\nW
  eek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4348
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4352
@@ -1063,7 +1063,7 @@ SUMMARY:Team WE vs OMG
 DESCRIPTION:Team WE (WE) vs OMG (OMG)\nType : BO2\nTournament : LPL Spring\
  nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4352
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4355
@@ -1076,7 +1076,7 @@ SUMMARY:OMG vs King
 DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : LPL Spring\nW
  eek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4355
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4361
@@ -1090,7 +1090,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4361
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4362
@@ -1104,7 +1104,7 @@ DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
  Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4362
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4380
@@ -1118,7 +1118,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Spr
  ing\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4380
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4384
@@ -1132,7 +1132,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4384
 CATEGORIES:LPL Spring
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4546
@@ -1146,7 +1146,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO5\nTournament : 2015 LP
  L Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4546
 CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4982
@@ -1160,7 +1160,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015 LP
  L Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4982
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4988
@@ -1174,7 +1174,7 @@ DESCRIPTION:OMG (OMG) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015 LPL Su
  mmer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4988
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4994
@@ -1188,7 +1188,7 @@ DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
  : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4994
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4998
@@ -1202,7 +1202,7 @@ DESCRIPTION:Team WE (WE) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Su
  mmer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /4998
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5003
@@ -1216,7 +1216,7 @@ DESCRIPTION:OMG (OMG) vs Snake (SS)\nType : BO2\nTournament : 2015 LPL Summ
  er\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5
  003
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5009
@@ -1230,7 +1230,7 @@ DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Su
  mmer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /5009
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5020
@@ -1244,7 +1244,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : 201
  5 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5020
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5030
@@ -1258,7 +1258,7 @@ DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : 2015 LPL Summ
  er\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5
  030
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5032
@@ -1272,7 +1272,7 @@ DESCRIPTION:OMG (OMG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 LP
  L Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/5032
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5037
@@ -1286,7 +1286,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : 2015
   LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/5037
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5040
@@ -1300,7 +1300,7 @@ DESCRIPTION:OMG (OMG) vs Unlimited Potential (UPG)\nType : BO2\nTournament
  : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5040
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5054
@@ -1314,7 +1314,7 @@ DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO2\nTournament : 2015 LP
  L Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/5054
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5056
@@ -1328,7 +1328,7 @@ DESCRIPTION:Unlimited Potential (UPG) vs OMG (OMG)\nType : BO2\nTournament
  : 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5056
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5059
@@ -1342,7 +1342,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs OMG (OMG)\nType : BO2\nTournament
  : 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5059
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5068
@@ -1356,7 +1356,7 @@ DESCRIPTION:OMG (OMG) vs Master3 (M3)\nType : BO2\nTournament : 2015 LPL Su
  mmer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /5068
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5074
@@ -1370,7 +1370,7 @@ DESCRIPTION:Snake (SS) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Summ
  er\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5
  074
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5078
@@ -1384,7 +1384,7 @@ DESCRIPTION:OMG (OMG) vs Team WE (WE)\nType : BO2\nTournament : 2015 LPL Su
  mmer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /5078
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5086
@@ -1398,7 +1398,7 @@ DESCRIPTION:Invictus Gaming (iG) vs OMG (OMG)\nType : BO2\nTournament : 201
  5 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5086
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5098
@@ -1412,7 +1412,7 @@ DESCRIPTION:King (KNG) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Summ
  er\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  5098
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5099
@@ -1426,7 +1426,7 @@ DESCRIPTION:Qiao Gu (QG) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Su
  mmer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/5099
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5105
@@ -1440,7 +1440,7 @@ DESCRIPTION:LGD GAMING (LGD) vs OMG (OMG)\nType : BO2\nTournament : 2015 LP
  L Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/5105
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160300Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5110
@@ -1454,6 +1454,6 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2015
   LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5110
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150624T160301Z
+DTSTAMP:20150702T200427Z
 END:VEVENT
 END:VCALENDAR

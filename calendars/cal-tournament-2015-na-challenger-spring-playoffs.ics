@@ -15,7 +15,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Team Fusion (FSN)\nType : BO3\nTou
  rnament : 2015 NA Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl :
   http://www.lolesports.com/tourney/match/4527
 CATEGORIES:2015 NA Challenger Spring Playoffs
-DTSTAMP:20150624T160317Z
+DTSTAMP:20150702T200439Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4526
@@ -29,7 +29,7 @@ DESCRIPTION:Enemy Esports (NME) vs Final Five (F5)\nType : BO3\nTournament
  : 2015 NA Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/4526
 CATEGORIES:2015 NA Challenger Spring Playoffs
-DTSTAMP:20150624T160317Z
+DTSTAMP:20150702T200439Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4529
@@ -43,7 +43,7 @@ DESCRIPTION:Final Five (F5) vs Team Fusion (FSN)\nType : BO3\nTournament :
  2015 NA Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/4529
 CATEGORIES:2015 NA Challenger Spring Playoffs
-DTSTAMP:20150624T160317Z
+DTSTAMP:20150702T200439Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4528
@@ -57,6 +57,6 @@ DESCRIPTION:Enemy Esports (NME) vs Team Dragon Knights (TDK)\nType : BO5\nT
  ournament : 2015 NA Challenger Spring Playoffs\nWeek : 2\nStream : No\nUrl
   : http://www.lolesports.com/tourney/match/4528
 CATEGORIES:2015 NA Challenger Spring Playoffs
-DTSTAMP:20150624T160317Z
+DTSTAMP:20150702T200439Z
 END:VEVENT
 END:VCALENDAR
