@@ -15,7 +15,7 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs SK Gaming Prime (SKP)\nType : BO1\nTo
  urnament : EU Play in 6\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1936
 CATEGORIES:EU Play in 6
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1945
@@ -29,7 +29,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming Prime (SKP)\nType : BO3\nT
  ournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1945
 CATEGORIES:EU Top 8
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2086
@@ -43,7 +43,7 @@ DESCRIPTION:SK Gaming Prime (SKP) vs Denial eSports EU (DEFUNCT) (DNE)\nTyp
  e : BO1\nTournament : EU CS 2 Play In 5\nWeek : 2\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/2086
 CATEGORIES:EU CS 2 Play In 5
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2653
@@ -57,7 +57,7 @@ DESCRIPTION:Tricked (TRC) vs SK Gaming Prime (SKP)\nType : BO1\nTournament
  : EU CS Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2653
 CATEGORIES:EU CS Play In 4
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2668
@@ -71,7 +71,7 @@ DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO3\nTournament : EU
   Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/2668
 CATEGORIES:EU Top 8
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2965
@@ -85,7 +85,7 @@ DESCRIPTION:Invaders (INV) vs SK Gaming Prime (SKP)\nType : BO1\nTournament
   : EU CS Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2965
 CATEGORIES:EU CS Play In 2
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2976
@@ -99,7 +99,7 @@ DESCRIPTION:4everzenzyg (4EZ) vs SK Gaming Prime (SKP)\nType : BO3\nTournam
  ent : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2976
 CATEGORIES:EU Top 8
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2979
@@ -113,7 +113,7 @@ DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO3\nTournament : EU
   Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/2979
 CATEGORIES:EU Top 8
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2981
@@ -127,7 +127,7 @@ DESCRIPTION:SK Gaming Prime (SKP) vs Ninjas in Pyjamas (NIP)\nType : BO3\nT
  ournament : EU Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2981
 CATEGORIES:EU Top 8
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2677
@@ -141,7 +141,7 @@ DESCRIPTION:SK Gaming Prime (SKP) vs Reason Gaming (RG)\nType : BO3\nTourna
  ment : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2677
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2679
@@ -155,7 +155,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming Prime (SKP)\nType : BO3\nT
  ournament : EU CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/2679
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2681
@@ -169,7 +169,7 @@ DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO5\nTournament : EU
   CS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2681
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3010
@@ -183,7 +183,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming Prime (SKP)\nType : BO5\nTourn
  ament : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/3010
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3179
@@ -197,7 +197,7 @@ DESCRIPTION:Reason Gaming (RG) vs SK Gaming Prime (SKP)\nType : BO3\nTourna
  ment : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/3179
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4402
@@ -211,7 +211,7 @@ DESCRIPTION:Annihilon Team (AT) vs SK Gaming Prime (SKP)\nType : BO3\nTourn
  ament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/4402
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4409
@@ -225,6 +225,6 @@ DESCRIPTION:ThunderBot Sparta (TBS) vs SK Gaming Prime (SKP)\nType : BO3\nT
  ournament : 2015 EU Spring Challenger Qualifier\nWeek : 2\nStream : No\nUr
  l : http://www.lolesports.com/tourney/match/4409
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150702T200430Z
+DTSTAMP:20150710T200353Z
 END:VEVENT
 END:VCALENDAR

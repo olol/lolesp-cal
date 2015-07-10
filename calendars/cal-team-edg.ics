@@ -15,7 +15,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO2\nTourna
  ment : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2106
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2110
@@ -29,7 +29,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2110
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2116
@@ -43,7 +43,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
  ent : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2116
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2122
@@ -57,7 +57,7 @@ DESCRIPTION:Positive Energy () vs Edward Gaming (EDG)\nType : BO2\nTourname
  nt : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2122
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2125
@@ -71,7 +71,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2125
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2128
@@ -85,7 +85,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Edward Gaming (EDG)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2128
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2133
@@ -99,7 +99,7 @@ DESCRIPTION:Team WE (WE) vs Edward Gaming (EDG)\nType : BO2\nTournament : L
  PL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2133
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2134
@@ -113,7 +113,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO2\nTourna
  ment : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2134
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2138
@@ -127,7 +127,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2138
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2144
@@ -141,7 +141,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
  ent : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2144
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2146
@@ -155,7 +155,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2146
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2150
@@ -169,7 +169,7 @@ DESCRIPTION:Positive Energy () vs Edward Gaming (EDG)\nType : BO2\nTourname
  nt : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2150
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2156
@@ -183,7 +183,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Edward Gaming (EDG)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2156
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2161
@@ -197,7 +197,7 @@ DESCRIPTION:Team WE (WE) vs Edward Gaming (EDG)\nType : BO2\nTournament : L
  PL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2161
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2674
@@ -211,7 +211,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO3\nTournament : L
  PL Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2674
 CATEGORIES:LPL Top 4
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2675
@@ -225,7 +225,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO5\nTourna
  ment : LPL Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2675
 CATEGORIES:LPL Top 4
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2847
@@ -239,7 +239,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2847
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2853
@@ -253,7 +253,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
  ment : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2853
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2856
@@ -267,7 +267,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Young Glory ()\nType : BO2\nTournament :
   LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2856
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2861
@@ -281,7 +281,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE Academy (WEA)\nType : BO2\nTourn
  ament : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2861
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2865
@@ -295,7 +295,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2865
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2871
@@ -309,7 +309,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2871
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2873
@@ -323,7 +323,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : L
  PL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2873
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2875
@@ -337,7 +337,7 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : LPL
  Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2875
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2883
@@ -351,7 +351,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
  ment : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2883
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2884
@@ -365,7 +365,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Young Glory ()\nType : BO2\nTournament :
   LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2884
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2889
@@ -379,7 +379,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE Academy (WEA)\nType : BO2\nTourn
  ament : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2889
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2893
@@ -393,7 +393,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2893
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2899
@@ -407,7 +407,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2899
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2901
@@ -421,7 +421,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : L
  PL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2901
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3069
@@ -435,7 +435,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Edward Gaming (EDG)\nType : BO5\nTournament
   : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3069
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3071
@@ -449,7 +449,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO5\nTournament : LPL
  Summer Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3071
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3074
@@ -463,7 +463,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO5\nTournament : LPL
  Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3074
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3040
@@ -477,7 +477,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO3\n
  Tournament : LPL Regional Qualifier Seed\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/3040
 CATEGORIES:LPL Regional Qualifier Seed
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3077
@@ -491,7 +491,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Samsung White (SSW)\nType : BO1\nTournam
  ent : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3077
 CATEGORIES:Group A
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3080
@@ -505,7 +505,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3080
 CATEGORIES:Group A
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3082
@@ -519,7 +519,7 @@ DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3082
 CATEGORIES:Group A
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3085
@@ -533,7 +533,7 @@ DESCRIPTION:Dark Passage (DP) vs Edward Gaming (EDG)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3085
 CATEGORIES:Group A
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3087
@@ -547,7 +547,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Edward Gaming (EDG)\nType : BO1\nTou
  rnament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3087
 CATEGORIES:Group A
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3088
@@ -561,7 +561,7 @@ DESCRIPTION:Samsung White (SSW) vs Edward Gaming (EDG)\nType : BO1\nTournam
  ent : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3088
 CATEGORIES:Group A
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3132
@@ -575,7 +575,7 @@ DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : Group A\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3132
 CATEGORIES:Group A
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3091
@@ -589,7 +589,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Edward Gaming (EDG)\nType : BO5\n
  Tournament : Knockout Stage\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3091
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4257
@@ -603,7 +603,7 @@ DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4257
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4265
@@ -617,7 +617,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
   : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4265
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4268
@@ -631,7 +631,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Snake (SS)\nType : BO2\nTournament : LPL
   Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4268
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4273
@@ -645,7 +645,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4273
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4281
@@ -659,7 +659,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
  ment : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4281
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4289
@@ -673,7 +673,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4289
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4290
@@ -687,7 +687,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : L
  PL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4290
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4295
@@ -701,7 +701,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Gamtee (GT)\nType : BO2\nTournament : LP
  L Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4295
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4301
@@ -715,7 +715,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : L
  PL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4301
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4302
@@ -729,7 +729,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4302
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4317
@@ -743,7 +743,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/4317
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4323
@@ -757,7 +757,7 @@ DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : LPL
   Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4323
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4336
@@ -771,7 +771,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Snake (SS)\nType : BO2\nTournament : LPL
   Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4336
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4340
@@ -785,7 +785,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4340
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4344
@@ -799,7 +799,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
  ment : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4344
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4353
@@ -813,7 +813,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4353
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4356
@@ -827,7 +827,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : L
  PL Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4356
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4359
@@ -841,7 +841,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Gamtee (GT)\nType : BO2\nTournament : LP
  L Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4359
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4365
@@ -855,7 +855,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : L
  PL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4365
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4377
@@ -869,7 +869,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
   : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4377
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4381
@@ -883,7 +883,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4381
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4384
@@ -897,7 +897,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : LPL
  Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/4384
 CATEGORIES:LPL Spring
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4543
@@ -911,7 +911,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO5\nTournament : 2
  015 LPL Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4543
 CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4547
@@ -925,7 +925,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO5\nTourna
  ment : 2015 LPL Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4547
 CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4549
@@ -939,7 +939,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO5\nTournament
   : 2015 LPL Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4549
 CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4564
@@ -953,7 +953,7 @@ DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4564
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4567
@@ -967,7 +967,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO1\nTourname
  nt : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/4567
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4570
@@ -981,7 +981,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Fnatic (FNC)\nType : BO1\nTournament : 2
  015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4570
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4572
@@ -995,7 +995,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Besiktas e-Sports Club (BJK)\nType : BO1
  \nTournament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/4572
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4574
@@ -1009,7 +1009,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Edward Gaming (EDG)\nType : BO1\nTourname
  nt : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/4574
 CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4578
@@ -1023,7 +1023,7 @@ DESCRIPTION:Edward Gaming (EDG) vs ahq e-Sports Club (AHQ)\nType : BO5\nTou
  rnament : 2015 MSI Knockout\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4578
 CATEGORIES:2015 MSI Knockout
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4579
@@ -1037,7 +1037,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO5\nTourname
  nt : 2015 MSI Knockout\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4579
 CATEGORIES:2015 MSI Knockout
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4986
@@ -1051,7 +1051,7 @@ DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : 201
  5 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/4986
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4990
@@ -1065,7 +1065,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
   : 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4990
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4992
@@ -1079,7 +1079,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Snake (SS)\nType : BO2\nTournament : 201
  5 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/4992
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5005
@@ -1093,7 +1093,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
  ment : 2015 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5005
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5014
@@ -1107,7 +1107,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO2\nT
  ournament : 2015 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5014
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5015
@@ -1121,7 +1121,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : 2
  015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/5015
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5022
@@ -1135,7 +1135,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Unlimited Potential (UPG)\nType : BO2\nT
  ournament : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5022
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5027
@@ -1149,7 +1149,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Qiao Gu (QG)\nType : BO2\nTournament : 2
  015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/5027
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5034
@@ -1163,7 +1163,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team WE (WE)\nType : BO2\nTournament : 2
  015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/5034
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5037
@@ -1177,7 +1177,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : 2015
   LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/5037
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5042
@@ -1191,7 +1191,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD GAMING (LGD)\nType : BO2\nTournament
   : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5042
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5046
@@ -1205,7 +1205,7 @@ DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO2\nTournament
   : 2015 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5046
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5048
@@ -1219,7 +1219,7 @@ DESCRIPTION:King (KNG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 201
  5 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5048
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5061
@@ -1233,7 +1233,7 @@ DESCRIPTION:Snake (SS) vs Edward Gaming (EDG)\nType : BO2\nTournament : 201
  5 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5061
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5066
@@ -1247,7 +1247,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Edward Gaming (EDG)\nType : BO2\nTournament
   : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5066
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5070
@@ -1261,7 +1261,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO2\nTourna
  ment : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5070
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5077
@@ -1275,7 +1275,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO2\nT
  ournament : 2015 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5077
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5081
@@ -1289,7 +1289,7 @@ DESCRIPTION:Qiao Gu (QG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2
  015 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/5081
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5090
@@ -1303,7 +1303,7 @@ DESCRIPTION:Team WE (WE) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2
  015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/5090
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5101
@@ -1317,7 +1317,7 @@ DESCRIPTION:Unlimited Potential (UPG) vs Edward Gaming (EDG)\nType : BO2\nT
  ournament : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/5101
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5104
@@ -1331,7 +1331,7 @@ DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2
  015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/5104
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5110
@@ -1345,6 +1345,6 @@ DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 2015
   LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/5110
 CATEGORIES:2015 LPL Summer
-DTSTAMP:20150702T200431Z
+DTSTAMP:20150710T200354Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:Samsung White (SSW) vs Team SoloMid (TSM)\nType : BO5\nTourname
  nt : Knockout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3089
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200435Z
+DTSTAMP:20150710T200359Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3090
@@ -29,7 +29,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Cloud9  (C9)\nType : BO5\nTournament : Kn
  ockout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3090
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200435Z
+DTSTAMP:20150710T200359Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3091
@@ -43,7 +43,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Edward Gaming (EDG)\nType : BO5\n
  Tournament : Knockout Stage\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3091
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200435Z
+DTSTAMP:20150710T200359Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3092
@@ -57,7 +57,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs OMG (OMG)\nType : BO5\nTournament : Knoc
  kout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3092
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200435Z
+DTSTAMP:20150710T200359Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3093
@@ -71,7 +71,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Samsung White (SSW)\nType : BO5\nTourname
  nt : Knockout Stage\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3093
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200435Z
+DTSTAMP:20150710T200359Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3094
@@ -85,7 +85,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs OMG (OMG)\nType : BO5\nTournament
   : Knockout Stage\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3094
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200435Z
+DTSTAMP:20150710T200359Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3095
@@ -99,6 +99,6 @@ DESCRIPTION:Samsung White (SSW) vs Star Horn Royal Club (SHR)\nType : BO5\n
  Tournament : Knockout Stage\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3095
 CATEGORIES:Knockout Stage
-DTSTAMP:20150702T200435Z
+DTSTAMP:20150710T200359Z
 END:VEVENT
 END:VCALENDAR

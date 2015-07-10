@@ -15,7 +15,7 @@ DESCRIPTION:Tricked (TRC) vs SK Gaming Prime (SKP)\nType : BO1\nTournament
  : EU CS Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2653
 CATEGORIES:EU CS Play In 4
-DTSTAMP:20150702T200433Z
+DTSTAMP:20150710T200357Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2962
@@ -29,6 +29,6 @@ DESCRIPTION:4everzenzyg (4EZ) vs Tricked (TRC)\nType : BO1\nTournament : EU
   CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2962
 CATEGORIES:EU CS Play In 1
-DTSTAMP:20150702T200433Z
+DTSTAMP:20150710T200357Z
 END:VEVENT
 END:VCALENDAR

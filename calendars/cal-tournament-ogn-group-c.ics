@@ -15,7 +15,7 @@ DESCRIPTION:NaJin Black Sword (NBS) vs Jin Air Falcons (JAF)\nType : BO2\nT
  ournament : OGN Group C\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2207
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2208
@@ -29,7 +29,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Jin Air Falcons (JAF)\nType : BO2\nTourna
  ment : OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2208
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2209
@@ -43,7 +43,7 @@ DESCRIPTION:KT Rolster (KT) vs Samsung Blue (SSB)\nType : BO2\nTournament :
   OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/2209
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2210
@@ -57,7 +57,7 @@ DESCRIPTION:KT Rolster (KT) vs NaJin Black Sword (NBS)\nType : BO2\nTournam
  ent : OGN Group C\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2210
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2211
@@ -71,7 +71,7 @@ DESCRIPTION:Jin Air Falcons (JAF) vs KT Rolster (KT)\nType : BO2\nTournamen
  t : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2211
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2212
@@ -85,7 +85,7 @@ DESCRIPTION:Samsung Blue (SSB) vs NaJin Black Sword (NBS)\nType : BO2\nTour
  nament : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2212
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2954
@@ -99,7 +99,7 @@ DESCRIPTION:Samsung White (SSW) vs SK Telecom T1 S (SKS)\nType : BO2\nTourn
  ament : OGN Group C\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2954
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2955
@@ -113,7 +113,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Bigfile Miracle (BFM)\nType : BO2\nTournament
  : OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2955
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2956
@@ -127,7 +127,7 @@ DESCRIPTION:Samsung White (SSW) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2956
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2957
@@ -141,7 +141,7 @@ DESCRIPTION:Bigfile Miracle (BFM) vs SK Telecom T1 S (SKS)\nType : BO2\nTou
  rnament : OGN Group C\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2957
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2958
@@ -155,7 +155,7 @@ DESCRIPTION:Samsung White (SSW) vs Bigfile Miracle (BFM)\nType : BO2\nTourn
  ament : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2958
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2959
@@ -169,6 +169,6 @@ DESCRIPTION:CJ ENTUS (CJ) vs SK Telecom T1 S (SKS)\nType : BO2\nTournament
  : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2959
 CATEGORIES:OGN Group C
-DTSTAMP:20150702T200432Z
+DTSTAMP:20150710T200356Z
 END:VEVENT
 END:VCALENDAR

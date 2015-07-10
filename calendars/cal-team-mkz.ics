@@ -15,7 +15,7 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs MKZ (MKZ)\nType : BO2\nTournament : OGN
   Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2935
 CATEGORIES:OGN Group D
-DTSTAMP:20150702T200434Z
+DTSTAMP:20150710T200358Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2936
@@ -29,7 +29,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs MKZ (MKZ)\nType : BO2\nTournament
  : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2936
 CATEGORIES:OGN Group D
-DTSTAMP:20150702T200434Z
+DTSTAMP:20150710T200358Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2938
@@ -43,6 +43,6 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs MKZ (MKZ)\nType : BO2\nTournament :
  OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2938
 CATEGORIES:OGN Group D
-DTSTAMP:20150702T200434Z
+DTSTAMP:20150710T200358Z
 END:VEVENT
 END:VCALENDAR
