@@ -15,7 +15,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/540
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-542
@@ -29,7 +29,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/542
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-544
@@ -43,7 +43,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/544
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-556
@@ -57,7 +57,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/556
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-558
@@ -71,7 +71,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/558
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-561
@@ -85,7 +85,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity White (COW)\nType : BO
  1\nTournament : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/561
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-564
@@ -99,7 +99,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/564
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-567
@@ -113,7 +113,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/567
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-571
@@ -127,7 +127,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team MRN ()\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/571
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-579
@@ -141,7 +141,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/579
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-581
@@ -155,7 +155,7 @@ DESCRIPTION:compLexity White (COW) vs Counter Logic Gaming (CLG)\nType : BO
  1\nTournament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/581
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-586
@@ -169,7 +169,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/586
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-591
@@ -183,7 +183,7 @@ DESCRIPTION:Team MRN () vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/591
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-594
@@ -197,7 +197,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/594
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-598
@@ -211,7 +211,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/598
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-600
@@ -225,7 +225,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/600
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-602
@@ -239,7 +239,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/602
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-604
@@ -253,7 +253,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/604
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-609
@@ -267,7 +267,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/609
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-613
@@ -281,7 +281,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity White (COW)\nType : BO
  1\nTournament : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/613
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-616
@@ -295,7 +295,7 @@ DESCRIPTION:compLexity White (COW) vs Counter Logic Gaming (CLG)\nType : BO
  1\nTournament : NA Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/616
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-625
@@ -309,7 +309,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/625
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-629
@@ -323,7 +323,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team MRN ()\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/629
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-635
@@ -337,7 +337,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/635
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-637
@@ -351,7 +351,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/637
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-643
@@ -365,7 +365,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/643
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-644
@@ -379,7 +379,7 @@ DESCRIPTION:Team MRN () vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/644
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-648
@@ -393,7 +393,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/648
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-771
@@ -407,7 +407,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO3\nTournament
   : NA Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/771
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-792
@@ -421,7 +421,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Azure Cats ()\nType : BO5\nTourna
  ment : NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/792
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1256
@@ -435,7 +435,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Velocity Esports ()\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1256
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1260
@@ -449,7 +449,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1260
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1264
@@ -463,7 +463,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1264
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1268
@@ -477,7 +477,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1268
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1270
@@ -491,7 +491,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1270
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1273
@@ -505,7 +505,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1273
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1278
@@ -519,7 +519,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1278
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1283
@@ -533,7 +533,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1283
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1286
@@ -547,7 +547,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1286
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1291
@@ -561,7 +561,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1291
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1296
@@ -575,7 +575,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1296
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1299
@@ -589,7 +589,7 @@ DESCRIPTION:Velocity Esports () vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1299
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1302
@@ -603,7 +603,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1302
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1307
@@ -617,7 +617,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1307
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1310
@@ -631,7 +631,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1310
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1316
@@ -645,7 +645,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Velocity Esports ()\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1316
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1319
@@ -659,7 +659,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1319
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1324
@@ -673,7 +673,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1324
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1327
@@ -687,7 +687,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1327
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1332
@@ -701,7 +701,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1332
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1334
@@ -715,7 +715,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1334
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1337
@@ -729,7 +729,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1337
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1343
@@ -743,7 +743,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1343
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1345
@@ -757,7 +757,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1345
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1351
@@ -771,7 +771,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1351
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1355
@@ -785,7 +785,7 @@ DESCRIPTION:Velocity Esports () vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1355
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1360
@@ -799,7 +799,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1360
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1362
@@ -813,7 +813,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1362
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1596
@@ -827,7 +827,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nT
  ournament : NA Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1596
 CATEGORIES:NA Regionals 2013
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1674
@@ -841,7 +841,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/1674
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1676
@@ -855,7 +855,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1676
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1678
@@ -869,7 +869,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1678
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1680
@@ -883,7 +883,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1680
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1688
@@ -897,7 +897,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1688
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1692
@@ -911,7 +911,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/1692
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1695
@@ -925,7 +925,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1695
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1697
@@ -939,7 +939,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1697
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1699
@@ -953,7 +953,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1699
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1705
@@ -967,7 +967,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Evil Geniuses (EG)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1705
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1709
@@ -981,7 +981,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1709
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1716
@@ -995,7 +995,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1716
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1720
@@ -1009,7 +1009,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1720
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1723
@@ -1023,7 +1023,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1723
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1726
@@ -1037,7 +1037,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1726
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1731
@@ -1051,7 +1051,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1731
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1735
@@ -1065,7 +1065,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/1735
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1738
@@ -1079,7 +1079,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1738
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1745
@@ -1093,7 +1093,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1745
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1747
@@ -1107,7 +1107,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1747
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1752
@@ -1121,7 +1121,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1752
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1754
@@ -1135,7 +1135,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1754
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1758
@@ -1149,7 +1149,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/1758
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1761
@@ -1163,7 +1163,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1761
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1767
@@ -1177,7 +1177,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1767
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1772
@@ -1191,7 +1191,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1772
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1774
@@ -1205,7 +1205,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Evil Geniuses (EG)\nType : BO1\nT
  ournament : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/1774
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1776
@@ -1219,7 +1219,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/1776
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2188
@@ -1233,7 +1233,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO3\nTou
  rnament : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2188
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2190
@@ -1247,7 +1247,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nT
  ournament : NA LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/2190
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2192
@@ -1261,7 +1261,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO3\nTourname
  nt : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2192
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2516
@@ -1275,7 +1275,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2516
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2519
@@ -1289,7 +1289,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs LMQ (LMQ)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2519
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2525
@@ -1303,7 +1303,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2525
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2530
@@ -1317,7 +1317,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2530
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2531
@@ -1331,7 +1331,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2531
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2537
@@ -1345,7 +1345,7 @@ DESCRIPTION:compLexity Black (CLB) vs Counter Logic Gaming (CLG)\nType : BO
  1\nTournament : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/2537
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2541
@@ -1359,7 +1359,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2541
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2543
@@ -1373,7 +1373,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2543
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2550
@@ -1387,7 +1387,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity Black (CLB)\nType : BO
  1\nTournament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/2550
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2553
@@ -1401,7 +1401,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Evil Geniuses (EG)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2553
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2557
@@ -1415,7 +1415,7 @@ DESCRIPTION:LMQ (LMQ) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2557
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2561
@@ -1429,7 +1429,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2561
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2563
@@ -1443,7 +1443,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2563
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2569
@@ -1457,7 +1457,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2569
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2572
@@ -1471,7 +1471,7 @@ DESCRIPTION:compLexity Black (CLB) vs Counter Logic Gaming (CLG)\nType : BO
  1\nTournament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/2572
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2574
@@ -1485,7 +1485,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2574
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2581
@@ -1499,7 +1499,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs LMQ (LMQ)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2581
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2582
@@ -1513,7 +1513,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2582
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2587
@@ -1527,7 +1527,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2587
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2592
@@ -1541,7 +1541,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2592
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2597
@@ -1555,7 +1555,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2597
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2601
@@ -1569,7 +1569,7 @@ DESCRIPTION:LMQ (LMQ) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2601
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2603
@@ -1583,7 +1583,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2603
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2608
@@ -1597,7 +1597,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2608
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2615
@@ -1611,7 +1611,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/2615
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2617
@@ -1625,7 +1625,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Evil Geniuses (EG)\nType : BO1\nT
  ournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2617
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2620
@@ -1639,7 +1639,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs compLexity Black (CLB)\nType : BO
  1\nTournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/2620
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2626
@@ -1653,7 +1653,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/2626
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3049
@@ -1667,7 +1667,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO5\nTourname
  nt : NA LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3049
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3055
@@ -1681,7 +1681,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO5\n
  Tournament : NA LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/3055
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2705
@@ -1695,7 +1695,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse Academy (CA)\nType : BO5\nT
  ournament : NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/2705
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3512
@@ -1709,7 +1709,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team 8 (T8)\nType : BO1\nTourname
  nt : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3512
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3515
@@ -1723,7 +1723,7 @@ DESCRIPTION:Team Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3515
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200342Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3521
@@ -1737,7 +1737,7 @@ DESCRIPTION:Team Impulse (TIP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3521
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3523
@@ -1751,7 +1751,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3523
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3532
@@ -1765,7 +1765,7 @@ DESCRIPTION:Winterfox (WFX) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
  nament : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3532
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3534
@@ -1779,7 +1779,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Gravity (GV)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3534
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3538
@@ -1793,7 +1793,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3538
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3545
@@ -1807,7 +1807,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3545
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3551
@@ -1821,7 +1821,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3551
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3553
@@ -1835,7 +1835,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3553
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3562
@@ -1849,7 +1849,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Winterfox (WFX)\nType : BO1\nTour
  nament : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3562
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3566
@@ -1863,7 +1863,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Liquid (TL)\nType : BO1\nTou
  rnament : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3566
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3569
@@ -1877,7 +1877,7 @@ DESCRIPTION:Gravity (GV) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3569
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3577
@@ -1891,7 +1891,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3577
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3581
@@ -1905,7 +1905,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3581
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3585
@@ -1919,7 +1919,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3585
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3591
@@ -1933,7 +1933,7 @@ DESCRIPTION:Team 8 (T8) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3591
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3594
@@ -1947,7 +1947,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
  ournament : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3594
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4532
@@ -1961,7 +1961,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4532
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4513
@@ -1975,7 +1975,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Liquid (TL)\nType : BO5\nTou
  rnament : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/4513
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4678
@@ -1989,7 +1989,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4678
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4683
@@ -2003,7 +2003,7 @@ DESCRIPTION:Team Impulse (TIP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4683
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4689
@@ -2017,7 +2017,7 @@ DESCRIPTION:Team 8 (T8) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4689
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4693
@@ -2031,7 +2031,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4693
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4700
@@ -2045,7 +2045,7 @@ DESCRIPTION:Gravity (GV) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4700
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4705
@@ -2059,7 +2059,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Enemy Esports (NME)\nType : BO1\n
  Tournament : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4705
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4707
@@ -2073,7 +2073,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Counter Logic Gaming (CLG)\nType :
   BO1\nTournament : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/4707
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4713
@@ -2087,7 +2087,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4713
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4717
@@ -2101,7 +2101,7 @@ DESCRIPTION:Team Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/4717
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4723
@@ -2115,7 +2115,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4723
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4727
@@ -2129,7 +2129,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Gravity (GV)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4727
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4734
@@ -2143,7 +2143,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4734
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4737
@@ -2157,7 +2157,7 @@ DESCRIPTION:Enemy Esports (NME) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4737
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4745
@@ -2171,7 +2171,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dragon Knights (TDK)\nType :
   BO1\nTournament : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/4745
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4749
@@ -2185,7 +2185,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Liquid (TL)\nType : BO1\nTou
  rnament : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/4749
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4753
@@ -2199,7 +2199,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4753
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4759
@@ -2213,7 +2213,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4759
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4762
@@ -2227,6 +2227,6 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team 8 (T8)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4762
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150710T200343Z
+DTSTAMP:20150717T181700Z
 END:VEVENT
 END:VCALENDAR

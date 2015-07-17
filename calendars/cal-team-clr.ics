@@ -15,7 +15,7 @@ DESCRIPTION:TINT Gaming (TNT) vs compLexity.Red (CLR)\nType : BO1\nTourname
  nt : NA Play in 5\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1789
 CATEGORIES:NA Play in 5
-DTSTAMP:20150710T200353Z
+DTSTAMP:20150717T181710Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1937
@@ -29,7 +29,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs compLexity.Red (CLR)\nType : BO3\nTourn
  ament : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1937
 CATEGORIES:NA Top 8
-DTSTAMP:20150710T200353Z
+DTSTAMP:20150717T181710Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1941
@@ -43,7 +43,7 @@ DESCRIPTION:compLexity.Red (CLR) vs LMQ (LMQ)\nType : BO3\nTournament : NA
  Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/1941
 CATEGORIES:NA Top 8
-DTSTAMP:20150710T200353Z
+DTSTAMP:20150717T181710Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1944
@@ -57,7 +57,7 @@ DESCRIPTION:compLexity.Red (CLR) vs COGnitive Gaming (COG)\nType : BO3\nTou
  rnament : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1944
 CATEGORIES:NA Top 8
-DTSTAMP:20150710T200353Z
+DTSTAMP:20150717T181710Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2097
@@ -71,7 +71,7 @@ DESCRIPTION:compLexity.Red (CLR) vs Curse Academy (CA)\nType : BO3\nTournam
  ent : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2097
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150710T200353Z
+DTSTAMP:20150717T181710Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2181
@@ -85,6 +85,6 @@ DESCRIPTION:compLexity Black (CLB) vs compLexity.Red (CLR)\nType : BO3\nTou
  rnament : NA CS Spring Playoffs 2014\nWeek : 1\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/2181
 CATEGORIES:NA CS Spring Playoffs 2014
-DTSTAMP:20150710T200353Z
+DTSTAMP:20150717T181710Z
 END:VEVENT
 END:VCALENDAR

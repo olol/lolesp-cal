@@ -15,7 +15,7 @@ DESCRIPTION:Curse Academy (CA) vs Denial eSports NA (DNL)\nType : BO1\nTour
  nament : NA CS Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2638
 CATEGORIES:NA CS Play In 4
-DTSTAMP:20150710T200357Z
+DTSTAMP:20150717T181713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2638
@@ -29,7 +29,7 @@ DESCRIPTION:Curse Academy (CA) vs Denial eSports NA (DNL)\nType : BO1\nTour
  nament : NA CS Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2638
 CATEGORIES:NA CS Play In 4
-DTSTAMP:20150710T200357Z
+DTSTAMP:20150717T181713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2998
@@ -43,7 +43,7 @@ DESCRIPTION:Team Coast (CST) vs Denial eSports NA (DNL)\nType : BO3\nTourna
  ment : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2998
 CATEGORIES:NA Top 8
-DTSTAMP:20150710T200357Z
+DTSTAMP:20150717T181713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2684
@@ -57,6 +57,6 @@ DESCRIPTION:Team LolPro (PRO) vs Denial eSports NA (DNL)\nType : BO3\nTourn
  ament : NA CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2684
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150710T200357Z
+DTSTAMP:20150717T181713Z
 END:VEVENT
 END:VCALENDAR

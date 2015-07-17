@@ -15,7 +15,7 @@ DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament
  : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1253
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1254
@@ -29,7 +29,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1254
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1255
@@ -43,7 +43,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1255
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1256
@@ -57,7 +57,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Velocity Esports ()\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1256
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1257
@@ -71,7 +71,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1257
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1258
@@ -85,7 +85,7 @@ DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
  on 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1258
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1259
@@ -99,7 +99,7 @@ DESCRIPTION:Curse (CRS) vs Velocity Esports ()\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1259
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1260
@@ -113,7 +113,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1260
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1261
@@ -127,7 +127,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1261
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1262
@@ -141,7 +141,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1262
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1263
@@ -155,7 +155,7 @@ DESCRIPTION:XDG (XDG) vs Velocity Esports ()\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1263
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1264
@@ -169,7 +169,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1264
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1265
@@ -183,7 +183,7 @@ DESCRIPTION:Velocity Esports () vs Team Dignitas (DIG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1265
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1266
@@ -197,7 +197,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Coast (CST)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1266
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1267
@@ -211,7 +211,7 @@ DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1267
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1268
@@ -225,7 +225,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1268
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1269
@@ -239,7 +239,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1269
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1270
@@ -253,7 +253,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1270
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1271
@@ -267,7 +267,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1271
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1272
@@ -281,7 +281,7 @@ DESCRIPTION:Velocity Esports () vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1272
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1273
@@ -295,7 +295,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1273
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1274
@@ -309,7 +309,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Velocity Esports ()\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1274
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1275
@@ -323,7 +323,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1275
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1276
@@ -337,7 +337,7 @@ DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1276
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1277
@@ -351,7 +351,7 @@ DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1277
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1278
@@ -365,7 +365,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1278
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1279
@@ -379,7 +379,7 @@ DESCRIPTION:Velocity Esports () vs Team Coast (CST)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1279
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1280
@@ -393,7 +393,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1280
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1281
@@ -407,7 +407,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1281
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1282
@@ -421,7 +421,7 @@ DESCRIPTION:Velocity Esports () vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1282
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1283
@@ -435,7 +435,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1283
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1284
@@ -449,7 +449,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9  (C9)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1284
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1285
@@ -463,7 +463,7 @@ DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1285
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1286
@@ -477,7 +477,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1286
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1287
@@ -491,7 +491,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1287
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1288
@@ -505,7 +505,7 @@ DESCRIPTION:Team Coast (CST) vs Velocity Esports ()\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1288
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1289
@@ -519,7 +519,7 @@ DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1289
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1290
@@ -533,7 +533,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1290
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1291
@@ -547,7 +547,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1291
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1292
@@ -561,7 +561,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Velocity Esports ()\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1292
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1293
@@ -575,7 +575,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1293
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1294
@@ -589,7 +589,7 @@ DESCRIPTION:Velocity Esports () vs Team SoloMid (TSM)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1294
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1295
@@ -603,7 +603,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1295
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1296
@@ -617,7 +617,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1296
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1297
@@ -631,7 +631,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1297
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1298
@@ -645,7 +645,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament
  : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1298
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1299
@@ -659,7 +659,7 @@ DESCRIPTION:Velocity Esports () vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1299
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1300
@@ -673,7 +673,7 @@ DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1300
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1301
@@ -687,7 +687,7 @@ DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1301
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1302
@@ -701,7 +701,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1302
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1303
@@ -715,7 +715,7 @@ DESCRIPTION:Velocity Esports () vs Team Dignitas (DIG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1303
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1304
@@ -729,7 +729,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1304
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1305
@@ -743,7 +743,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Velocity Esports ()\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1305
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1306
@@ -757,7 +757,7 @@ DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1306
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1307
@@ -771,7 +771,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1307
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1308
@@ -785,7 +785,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1308
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1309
@@ -799,7 +799,7 @@ DESCRIPTION:Cloud9  (C9) vs Velocity Esports ()\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1309
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1310
@@ -813,7 +813,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1310
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1311
@@ -827,7 +827,7 @@ DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
  on 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1311
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1312
@@ -841,7 +841,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1312
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1313
@@ -855,7 +855,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1313
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1314
@@ -869,7 +869,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1314
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1315
@@ -883,7 +883,7 @@ DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1315
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1316
@@ -897,7 +897,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Velocity Esports ()\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1316
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1317
@@ -911,7 +911,7 @@ DESCRIPTION:Team Coast (CST) vs Team SoloMid (TSM)\nType : BO1\nTournament
  : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1317
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1318
@@ -925,7 +925,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1318
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1319
@@ -939,7 +939,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1319
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1320
@@ -953,7 +953,7 @@ DESCRIPTION:Velocity Esports () vs XDG (XDG)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1320
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1321
@@ -967,7 +967,7 @@ DESCRIPTION:Velocity Esports () vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1321
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1322
@@ -981,7 +981,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1322
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1323
@@ -995,7 +995,7 @@ DESCRIPTION:Team Coast (CST) vs XDG (XDG)\nType : BO1\nTournament : NA Seas
  on 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1323
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1324
@@ -1009,7 +1009,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1324
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1325
@@ -1023,7 +1023,7 @@ DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1325
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1326
@@ -1037,7 +1037,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Coast (CST)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1326
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1327
@@ -1051,7 +1051,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1327
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1328
@@ -1065,7 +1065,7 @@ DESCRIPTION:Curse (CRS) vs Velocity Esports ()\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1328
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1329
@@ -1079,7 +1079,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1329
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1330
@@ -1093,7 +1093,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1330
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1331
@@ -1107,7 +1107,7 @@ DESCRIPTION:Velocity Esports () vs Team Coast (CST)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1331
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1332
@@ -1121,7 +1121,7 @@ DESCRIPTION:XDG (XDG) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1332
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1333
@@ -1135,7 +1135,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1333
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1334
@@ -1149,7 +1149,7 @@ DESCRIPTION:Team Coast (CST) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1334
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1335
@@ -1163,7 +1163,7 @@ DESCRIPTION:XDG (XDG) vs Velocity Esports ()\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1335
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1336
@@ -1177,7 +1177,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1336
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1337
@@ -1191,7 +1191,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1337
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1338
@@ -1205,7 +1205,7 @@ DESCRIPTION:Team Coast (CST) vs Velocity Esports ()\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1338
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1339
@@ -1219,7 +1219,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1339
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1340
@@ -1233,7 +1233,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1340
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1341
@@ -1247,7 +1247,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1341
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1342
@@ -1261,7 +1261,7 @@ DESCRIPTION:Cloud9  (C9) vs Velocity Esports ()\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1342
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1343
@@ -1275,7 +1275,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/1343
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1344
@@ -1289,7 +1289,7 @@ DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
   : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1344
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1345
@@ -1303,7 +1303,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Coast (CST)\nType : BO1\nTou
  rnament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/1345
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1346
@@ -1317,7 +1317,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1346
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1347
@@ -1331,7 +1331,7 @@ DESCRIPTION:Velocity Esports () vs Team SoloMid (TSM)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1347
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1348
@@ -1345,7 +1345,7 @@ DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1348
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1349
@@ -1359,7 +1359,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO1\nTournament
  : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1349
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1350
@@ -1373,7 +1373,7 @@ DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1350
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1351
@@ -1387,7 +1387,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1351
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1352
@@ -1401,7 +1401,7 @@ DESCRIPTION:Velocity Esports () vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1352
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1353
@@ -1415,7 +1415,7 @@ DESCRIPTION:XDG (XDG) vs Team Coast (CST)\nType : BO1\nTournament : NA Seas
  on 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1353
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1354
@@ -1429,7 +1429,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1354
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1355
@@ -1443,7 +1443,7 @@ DESCRIPTION:Velocity Esports () vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1355
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1356
@@ -1457,7 +1457,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1356
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1357
@@ -1471,7 +1471,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9  (C9)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1357
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1358
@@ -1485,7 +1485,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Velocity Esports ()\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1358
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1359
@@ -1499,7 +1499,7 @@ DESCRIPTION:XDG (XDG) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1359
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1360
@@ -1513,7 +1513,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1360
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1361
@@ -1527,7 +1527,7 @@ DESCRIPTION:Velocity Esports () vs XDG (XDG)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1361
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1362
@@ -1541,7 +1541,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/1362
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1363
@@ -1555,7 +1555,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1363
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1364
@@ -1569,6 +1569,6 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1364
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150710T200349Z
+DTSTAMP:20150717T181706Z
 END:VEVENT
 END:VCALENDAR

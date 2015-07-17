@@ -15,7 +15,7 @@ DESCRIPTION:Mousesports (MOU) vs Copenhagen Wolves (CW)\nType : BO5\nTourna
  ment : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1655
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150710T200351Z
+DTSTAMP:20150717T181707Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1656
@@ -29,7 +29,7 @@ DESCRIPTION:SK Gaming (SK) vs SUPA HOT CREW XD (SHC)\nType : BO5\nTournamen
  t : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1656
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150710T200351Z
+DTSTAMP:20150717T181707Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1657
@@ -43,7 +43,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Kiedyś Miałem Team (KMT)\nType : B
  O5\nTournament : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/1657
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150710T200351Z
+DTSTAMP:20150717T181707Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3009
@@ -57,7 +57,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO5\nTournament : E
  U LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3009
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150710T200351Z
+DTSTAMP:20150717T181707Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3010
@@ -71,7 +71,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming Prime (SKP)\nType : BO5\nTourn
  ament : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/3010
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150710T200351Z
+DTSTAMP:20150717T181707Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3011
@@ -85,6 +85,6 @@ DESCRIPTION:Millenium (MIL) vs Unicorns Of Love (UOL)\nType : BO5\nTourname
  nt : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3011
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150710T200351Z
+DTSTAMP:20150717T181707Z
 END:VEVENT
 END:VCALENDAR
