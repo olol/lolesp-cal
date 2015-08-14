@@ -15,7 +15,7 @@ DESCRIPTION:Millenium (MIL) vs Ninjas in Pyjamas (NIP)\nType : BO5\nTournam
  ent : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2248
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150717T181713Z
+DTSTAMP:20150814T214337Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2249
@@ -29,7 +29,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs H2K (H2K)\nType : BO5\nTournament : E
  U LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2249
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150717T181713Z
+DTSTAMP:20150814T214337Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2250
@@ -43,7 +43,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Denial eSports EU (DEFUNCT) (DNE)\nTy
  pe : BO5\nTournament : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl
   : http://www.lolesports.com/tourney/match/2250
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150717T181713Z
+DTSTAMP:20150814T214337Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4558
@@ -57,7 +57,7 @@ DESCRIPTION:Giants Gaming (GIA) vs Reason Gaming (RG)\nType : BO5\nTourname
  nt : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/4558
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150717T181713Z
+DTSTAMP:20150814T214337Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4559
@@ -71,6 +71,6 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves Academy (CWA)\nType : BO5\nTo
  urnament : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/4559
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150717T181713Z
+DTSTAMP:20150814T214337Z
 END:VEVENT
 END:VCALENDAR

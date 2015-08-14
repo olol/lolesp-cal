@@ -15,7 +15,7 @@ DESCRIPTION:Alliance (ALL) vs Ninjas in Pyjamas (NIP)\nType : BO3\nTourname
  nt : EU Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/765
 CATEGORIES:EU Spring Playoffs
-DTSTAMP:20150717T181705Z
+DTSTAMP:20150814T214328Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-766
@@ -29,7 +29,7 @@ DESCRIPTION:SK Gaming (SK) vs Against All Authority ()\nType : BO3\nTournam
  ent : EU Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/766
 CATEGORIES:EU Spring Playoffs
-DTSTAMP:20150717T181705Z
+DTSTAMP:20150814T214328Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-767
@@ -43,7 +43,7 @@ DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO3\nTournament : EU Spr
  ing Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/767
 CATEGORIES:EU Spring Playoffs
-DTSTAMP:20150717T181705Z
+DTSTAMP:20150814T214328Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-768
@@ -57,7 +57,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO3\nTournament :
   EU Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/768
 CATEGORIES:EU Spring Playoffs
-DTSTAMP:20150717T181705Z
+DTSTAMP:20150814T214328Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-770
@@ -71,7 +71,7 @@ DESCRIPTION:SK Gaming (SK) vs Alliance (ALL)\nType : BO3\nTournament : EU S
  pring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/770
 CATEGORIES:EU Spring Playoffs
-DTSTAMP:20150717T181705Z
+DTSTAMP:20150814T214328Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-769
@@ -85,6 +85,6 @@ DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO5\nTournament : E
  U Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/769
 CATEGORIES:EU Spring Playoffs
-DTSTAMP:20150717T181705Z
+DTSTAMP:20150814T214328Z
 END:VEVENT
 END:VCALENDAR

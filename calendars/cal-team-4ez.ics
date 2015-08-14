@@ -15,7 +15,7 @@ DESCRIPTION:4everzenzyg (4EZ) vs Tricked (TRC)\nType : BO1\nTournament : EU
   CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2962
 CATEGORIES:EU CS Play In 1
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2976
@@ -29,6 +29,6 @@ DESCRIPTION:4everzenzyg (4EZ) vs SK Gaming Prime (SKP)\nType : BO3\nTournam
  ent : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2976
 CATEGORIES:EU Top 8
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 END:VCALENDAR

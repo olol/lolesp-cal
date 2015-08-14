@@ -15,7 +15,7 @@ DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Gamers2 (G2)\nType : BO3\nTo
  urnament : 2015 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl 
  : http://www.lolesports.com/tourney/match/4522
 CATEGORIES:2015 EU Challenger Spring Playoffs
-DTSTAMP:20150717T181719Z
+DTSTAMP:20150814T214345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4521
@@ -29,7 +29,7 @@ DESCRIPTION:Origen (OG) vs Reason Gaming (RG)\nType : BO3\nTournament : 201
  5 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4521
 CATEGORIES:2015 EU Challenger Spring Playoffs
-DTSTAMP:20150717T181719Z
+DTSTAMP:20150814T214345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4524
@@ -43,7 +43,7 @@ DESCRIPTION:Reason Gaming (RG) vs Gamers2 (G2)\nType : BO3\nTournament : 20
  15 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/4524
 CATEGORIES:2015 EU Challenger Spring Playoffs
-DTSTAMP:20150717T181719Z
+DTSTAMP:20150814T214345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4523
@@ -57,6 +57,6 @@ DESCRIPTION:Origen (OG) vs Copenhagen Wolves Academy (CWA)\nType : BO5\nTou
  rnament : 2015 EU Challenger Spring Playoffs\nWeek : 2\nStream : No\nUrl :
   http://www.lolesports.com/tourney/match/4523
 CATEGORIES:2015 EU Challenger Spring Playoffs
-DTSTAMP:20150717T181719Z
+DTSTAMP:20150814T214345Z
 END:VEVENT
 END:VCALENDAR

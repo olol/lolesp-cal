@@ -15,7 +15,7 @@ DESCRIPTION:Team LolPro (PRO) vs Denial eSports NA (DNL)\nType : BO3\nTourn
  ament : NA CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2684
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2683
@@ -29,7 +29,7 @@ DESCRIPTION:Team 8 (T8) vs XDG (XDG)\nType : BO3\nTournament : NA CS Summer
   Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/2683
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2686
@@ -43,7 +43,7 @@ DESCRIPTION:Curse Academy (CA) vs Team LolPro (PRO)\nType : BO3\nTournament
   : NA CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2686
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2685
@@ -57,7 +57,7 @@ DESCRIPTION:Team Coast (CST) vs Team 8 (T8)\nType : BO3\nTournament : NA CS
   Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2685
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2688
@@ -71,7 +71,7 @@ DESCRIPTION:Team Coast (CST) vs Team LolPro (PRO)\nType : BO5\nTournament :
   NA CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2688
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2687
@@ -85,6 +85,6 @@ DESCRIPTION:Curse Academy (CA) vs Team 8 (T8)\nType : BO5\nTournament : NA
  CS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2687
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 END:VCALENDAR

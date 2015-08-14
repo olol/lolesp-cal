@@ -14,7 +14,7 @@ SUMMARY:XDG vs Fnatic
 DESCRIPTION:XDG (XDG) vs Fnatic (FNC)\nType : BO1\nTournament : Group B\nWe
  ek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1621
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1622
@@ -28,7 +28,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Team Mineski ()\nType : BO1\nTournament
  : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1622
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1623
@@ -42,7 +42,7 @@ DESCRIPTION:Samsung White (SSW) vs XDG (XDG)\nType : BO1\nTournament : Grou
  p B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  1623
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1624
@@ -56,7 +56,7 @@ DESCRIPTION:Team Mineski () vs Fnatic (FNC)\nType : BO1\nTournament : Group
   B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  624
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1625
@@ -70,7 +70,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Samsung White (SSW)\nType : BO1\nTournam
  ent : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1625
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1626
@@ -84,7 +84,7 @@ DESCRIPTION:Team Mineski () vs Samsung White (SSW)\nType : BO1\nTournament
  : Group B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1626
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1627
@@ -98,7 +98,7 @@ DESCRIPTION:XDG (XDG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Grou
  p B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  1627
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1628
@@ -112,7 +112,7 @@ DESCRIPTION:Samsung White (SSW) vs Fnatic (FNC)\nType : BO1\nTournament : G
  roup B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1628
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1629
@@ -125,7 +125,7 @@ SUMMARY:Team Mineski vs XDG
 DESCRIPTION:Team Mineski () vs XDG (XDG)\nType : BO1\nTournament : Group B\
  nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1629
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1630
@@ -139,7 +139,7 @@ DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : G
  roup B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1630
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1631
@@ -153,7 +153,7 @@ DESCRIPTION:Samsung White (SSW) vs Gambit Gaming (GMB)\nType : BO1\nTournam
  ent : Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1631
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1632
@@ -166,7 +166,7 @@ SUMMARY:Fnatic vs XDG
 DESCRIPTION:Fnatic (FNC) vs XDG (XDG)\nType : BO1\nTournament : Group B\nWe
  ek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1632
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1633
@@ -180,7 +180,7 @@ DESCRIPTION:Team Mineski () vs Gambit Gaming (GMB)\nType : BO1\nTournament
  : Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1633
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1634
@@ -194,7 +194,7 @@ DESCRIPTION:Fnatic (FNC) vs Samsung White (SSW)\nType : BO1\nTournament : G
  roup B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1634
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1635
@@ -207,7 +207,7 @@ SUMMARY:XDG vs Team Mineski
 DESCRIPTION:XDG (XDG) vs Team Mineski ()\nType : BO1\nTournament : Group B\
  nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1635
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1636
@@ -221,7 +221,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : G
  roup B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1636
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1637
@@ -235,7 +235,7 @@ DESCRIPTION:XDG (XDG) vs Samsung White (SSW)\nType : BO1\nTournament : Grou
  p B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  1637
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1638
@@ -249,7 +249,7 @@ DESCRIPTION:Fnatic (FNC) vs Team Mineski ()\nType : BO1\nTournament : Group
   B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  638
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1639
@@ -263,7 +263,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs XDG (XDG)\nType : BO1\nTournament : Grou
  p B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  1639
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1640
@@ -277,7 +277,7 @@ DESCRIPTION:Samsung White (SSW) vs Team Mineski ()\nType : BO1\nTournament
  : Group B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1640
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1651
@@ -291,7 +291,7 @@ DESCRIPTION:Samsung White (SSW) vs Gambit Gaming (GMB)\nType : BO1\nTournam
  ent : Group B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1651
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3096
@@ -305,7 +305,7 @@ DESCRIPTION:Team SoloMid (TSM) vs SK Gaming (SK)\nType : BO1\nTournament :
  Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3096
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3097
@@ -319,7 +319,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Star Horn Royal Club (SHR)\nType : BO
  1\nTournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3097
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3098
@@ -333,7 +333,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3098
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3099
@@ -347,7 +347,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3099
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3100
@@ -361,7 +361,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs SK Gaming (SK)\nType : BO1\nTourn
  ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3100
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3101
@@ -375,7 +375,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Taipei Assassins (TPA)\nType : BO1\nTourn
  ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3101
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3102
@@ -389,7 +389,7 @@ DESCRIPTION:SK Gaming (SK) vs Star Horn Royal Club (SHR)\nType : BO1\nTourn
  ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3102
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3103
@@ -403,7 +403,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Team SoloMid (TSM)\nType : BO1\nTourn
  ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3103
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3104
@@ -417,7 +417,7 @@ DESCRIPTION:SK Gaming (SK) vs Taipei Assassins (TPA)\nType : BO1\nTournamen
  t : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3104
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3105
@@ -431,7 +431,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Star Horn Royal Club (SHR)\nType : BO1\nT
  ournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3105
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3106
@@ -445,7 +445,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Taipei Assassins (TPA)\nType : BO
  1\nTournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3106
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3107
@@ -459,6 +459,6 @@ DESCRIPTION:SK Gaming (SK) vs Team SoloMid (TSM)\nType : BO1\nTournament :
  Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3107
 CATEGORIES:Group B
-DTSTAMP:20150717T181707Z
+DTSTAMP:20150814T214331Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:GG Call Nash (CN) vs Lublin Shore (LBS)\nType : BO1\nTournament
   : EU CS Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2650
 CATEGORIES:EU CS Play In 3
-DTSTAMP:20150717T181713Z
+DTSTAMP:20150814T214338Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2968
@@ -29,6 +29,6 @@ DESCRIPTION:Playing Ducks (PD) vs ThunderBot Sparta (TBS)\nType : BO1\nTour
  nament : EU CS Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2968
 CATEGORIES:EU CS Play In 3
-DTSTAMP:20150717T181713Z
+DTSTAMP:20150814T214338Z
 END:VEVENT
 END:VCALENDAR

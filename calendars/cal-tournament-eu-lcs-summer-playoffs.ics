@@ -15,7 +15,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs ROCCAT (ROC)\nType : BO5\nTournament
  : EU LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3043
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3042
@@ -29,7 +29,7 @@ DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO5\nTournament : EU
  LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3042
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3048
@@ -43,7 +43,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO5\nTourname
  nt : EU LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3048
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3045
@@ -57,7 +57,7 @@ DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
  ummer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3045
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3044
@@ -71,7 +71,7 @@ DESCRIPTION:Alliance (ALL) vs SK Gaming (SK)\nType : BO5\nTournament : EU L
  CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3044
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3047
@@ -85,7 +85,7 @@ DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS
   Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3047
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3046
@@ -99,6 +99,6 @@ DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO5\nTournament : EU LCS
   Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3046
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150717T181714Z
+DTSTAMP:20150814T214339Z
 END:VEVENT
 END:VCALENDAR

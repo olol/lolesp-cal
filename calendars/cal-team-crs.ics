@@ -15,7 +15,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/541
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-544
@@ -29,7 +29,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/544
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-546
@@ -43,7 +43,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
  ason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/546
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-550
@@ -57,7 +57,7 @@ DESCRIPTION:compLexity White (COW) vs Curse (CRS)\nType : BO1\nTournament :
   NA Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/550
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-552
@@ -71,7 +71,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
  Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/552
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-557
@@ -85,7 +85,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
  ason 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/557
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-565
@@ -99,7 +99,7 @@ DESCRIPTION:Curse (CRS) vs Team MRN ()\nType : BO1\nTournament : NA Season
  3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/565
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-568
@@ -113,7 +113,7 @@ DESCRIPTION:Curse (CRS) vs compLexity White (COW)\nType : BO1\nTournament :
   NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/568
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-572
@@ -127,7 +127,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/572
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-579
@@ -141,7 +141,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/579
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-580
@@ -155,7 +155,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/580
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-586
@@ -169,7 +169,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/586
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-588
@@ -183,7 +183,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/588
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-595
@@ -197,7 +197,7 @@ DESCRIPTION:Team MRN () vs Curse (CRS)\nType : BO1\nTournament : NA Season
  3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/595
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-605
@@ -211,7 +211,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/605
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-609
@@ -225,7 +225,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/609
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-615
@@ -239,7 +239,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3
  Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/615
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-617
@@ -253,7 +253,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
  ason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/617
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-620
@@ -267,7 +267,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/620
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-623
@@ -281,7 +281,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
  Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/623
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-624
@@ -295,7 +295,7 @@ DESCRIPTION:Curse (CRS) vs Team MRN ()\nType : BO1\nTournament : NA Season
  3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/624
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-626
@@ -309,7 +309,7 @@ DESCRIPTION:compLexity White (COW) vs Curse (CRS)\nType : BO1\nTournament :
   NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/626
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-631
@@ -323,7 +323,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/631
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-636
@@ -337,7 +337,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
  ason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/636
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-640
@@ -351,7 +351,7 @@ DESCRIPTION:Team MRN () vs Curse (CRS)\nType : BO1\nTournament : NA Season
  3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/640
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-642
@@ -365,7 +365,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/642
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-645
@@ -379,7 +379,7 @@ DESCRIPTION:Curse (CRS) vs compLexity White (COW)\nType : BO1\nTournament :
   NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/645
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-651
@@ -393,7 +393,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3
  Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/651
 CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-774
@@ -407,7 +407,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO3\nTournament : NA Sp
  ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/774
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-776
@@ -421,7 +421,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO3\nTournament : NA Spring Pl
  ayoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/776
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1254
@@ -435,7 +435,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1254
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1259
@@ -449,7 +449,7 @@ DESCRIPTION:Curse (CRS) vs Velocity Esports ()\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1259
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1261
@@ -463,7 +463,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1261
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1268
@@ -477,7 +477,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1268
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1271
@@ -491,7 +491,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1271
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1275
@@ -505,7 +505,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1275
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1280
@@ -519,7 +519,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1280
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1282
@@ -533,7 +533,7 @@ DESCRIPTION:Velocity Esports () vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1282
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1287
@@ -547,7 +547,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1287
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1290
@@ -561,7 +561,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1290
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1293
@@ -575,7 +575,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1293
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1297
@@ -589,7 +589,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1297
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1304
@@ -603,7 +603,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1304
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1307
@@ -617,7 +617,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1307
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1312
@@ -631,7 +631,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1312
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1314
@@ -645,7 +645,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1314
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1318
@@ -659,7 +659,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1318
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1324
@@ -673,7 +673,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1324
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1328
@@ -687,7 +687,7 @@ DESCRIPTION:Curse (CRS) vs Velocity Esports ()\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1328
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1330
@@ -701,7 +701,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1330
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1336
@@ -715,7 +715,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1336
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1339
@@ -729,7 +729,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1339
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1341
@@ -743,7 +743,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA Season 3
  Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/1341
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1346
@@ -757,7 +757,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1346
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1352
@@ -771,7 +771,7 @@ DESCRIPTION:Velocity Esports () vs Curse (CRS)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1352
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1356
@@ -785,7 +785,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1356
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1360
@@ -799,7 +799,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1360
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1363
@@ -813,7 +813,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA Se
  ason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1363
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1595
@@ -827,7 +827,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO3\nTournament : NA
   Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1595
 CATEGORIES:NA Regionals 2013
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1654
@@ -841,7 +841,7 @@ DESCRIPTION:Curse (CRS) vs COGnitive Gaming (COG)\nType : BO5\nTournament :
   NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1654
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1671
@@ -855,7 +855,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA LC
  S Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1671
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1675
@@ -869,7 +869,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Sprin
  g Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1675
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1680
@@ -883,7 +883,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1680
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1683
@@ -897,7 +897,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1683
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1686
@@ -911,7 +911,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA LC
  S Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1686
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1691
@@ -925,7 +925,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/1691
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1695
@@ -939,7 +939,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1695
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1698
@@ -953,7 +953,7 @@ DESCRIPTION:Curse (CRS) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1698
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1704
@@ -967,7 +967,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1704
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1706
@@ -981,7 +981,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1706
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1710
@@ -995,7 +995,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1710
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1713
@@ -1009,7 +1009,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sprin
  g Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1713
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1719
@@ -1023,7 +1023,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/1719
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1722
@@ -1037,7 +1037,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1722
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1726
@@ -1051,7 +1051,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1726
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1732
@@ -1065,7 +1065,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO1\nTournament : NA LC
  S Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1732
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1736
@@ -1079,7 +1079,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Sprin
  g Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1736
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1740
@@ -1093,7 +1093,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/1740
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1746
@@ -1107,7 +1107,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1746
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1748
@@ -1121,7 +1121,7 @@ DESCRIPTION:Curse (CRS) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1748
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1750
@@ -1135,7 +1135,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1750
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1755
@@ -1149,7 +1149,7 @@ DESCRIPTION:XDG (XDG) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sprin
  g Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1755
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1760
@@ -1163,7 +1163,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1760
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1762
@@ -1177,7 +1177,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1762
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1766
@@ -1191,7 +1191,7 @@ DESCRIPTION:Team Coast (CST) vs Curse (CRS)\nType : BO1\nTournament : NA LC
  S Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1766
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1768
@@ -1205,7 +1205,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1768
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1772
@@ -1219,7 +1219,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1772
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1777
@@ -1233,7 +1233,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1777
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2187
@@ -1247,7 +1247,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO3\nTournament : NA
   LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2187
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2189
@@ -1261,7 +1261,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO3\nTournament : NA LCS Sp
  ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2189
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2192
@@ -1275,7 +1275,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO3\nTourname
  nt : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2192
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2516
@@ -1289,7 +1289,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2516
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2520
@@ -1303,7 +1303,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2520
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2526
@@ -1317,7 +1317,7 @@ DESCRIPTION:LMQ (LMQ) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2526
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2529
@@ -1331,7 +1331,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2529
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2534
@@ -1345,7 +1345,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2534
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2536
@@ -1359,7 +1359,7 @@ DESCRIPTION:Curse (CRS) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2536
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2542
@@ -1373,7 +1373,7 @@ DESCRIPTION:compLexity Black (CLB) vs Curse (CRS)\nType : BO1\nTournament :
   NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2542
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2546
@@ -1387,7 +1387,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2546
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2549
@@ -1401,7 +1401,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2549
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2551
@@ -1415,7 +1415,7 @@ DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2551
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2555
@@ -1429,7 +1429,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2555
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2561
@@ -1443,7 +1443,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2561
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2565
@@ -1457,7 +1457,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2565
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2570
@@ -1471,7 +1471,7 @@ DESCRIPTION:Curse (CRS) vs compLexity Black (CLB)\nType : BO1\nTournament :
   NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2570
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2575
@@ -1485,7 +1485,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2575
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2578
@@ -1499,7 +1499,7 @@ DESCRIPTION:LMQ (LMQ) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2578
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2580
@@ -1513,7 +1513,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2580
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2582
@@ -1527,7 +1527,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2582
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2589
@@ -1541,7 +1541,7 @@ DESCRIPTION:compLexity Black (CLB) vs Curse (CRS)\nType : BO1\nTournament :
   NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2589
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2593
@@ -1555,7 +1555,7 @@ DESCRIPTION:Curse (CRS) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2593
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2598
@@ -1569,7 +1569,7 @@ DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2598
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2599
@@ -1583,7 +1583,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2599
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2603
@@ -1597,7 +1597,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse (CRS)\nType : BO1\nTourname
  nt : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2603
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2609
@@ -1611,7 +1611,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Curse (CRS)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2609
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2613
@@ -1625,7 +1625,7 @@ DESCRIPTION:Curse (CRS) vs compLexity Black (CLB)\nType : BO1\nTournament :
   NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2613
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2616
@@ -1639,7 +1639,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2616
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2618
@@ -1653,7 +1653,7 @@ DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summe
  r Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2618
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2623
@@ -1667,7 +1667,7 @@ DESCRIPTION:Curse (CRS) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2623
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3049
@@ -1681,7 +1681,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO5\nTourname
  nt : NA LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3049
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3051
@@ -1695,7 +1695,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO5\nTournament : NA LCS Su
  mmer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3051
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3054
@@ -1709,6 +1709,6 @@ DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO5\nTournament : NA LCS Summe
  r Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3054
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150717T181700Z
+DTSTAMP:20150814T214322Z
 END:VEVENT
 END:VCALENDAR
