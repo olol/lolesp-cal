@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-eu-lcs-summer-playoffs
+X-WR-CALNAME:LoL eSports 2015 eu lcs summer playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5329
+DTSTART:20150809T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T160000Z
+URL:http://www.lolesports.com/tourney/match/5329
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 29
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5328
+DTSTART:20150808T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T160000Z
+URL:http://www.lolesports.com/tourney/match/5328
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 28
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5331
+DTSTART:20150816T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T160000Z
+URL:http://www.lolesports.com/tourney/match/5331
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 31
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5330
+DTSTART:20150815T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T160000Z
+URL:http://www.lolesports.com/tourney/match/5330
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 30
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5333
+DTSTART:20150822T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150822T160000Z
+URL:http://www.lolesports.com/tourney/match/5333
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 33
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5332
+DTSTART:20150823T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T160000Z
+URL:http://www.lolesports.com/tourney/match/5332
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 32
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-na-lcs-summer-playoffs
+X-WR-CALNAME:LoL eSports 2015 na lcs summer playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5335
+DTSTART:20150809T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T200000Z
+URL:http://www.lolesports.com/tourney/match/5335
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 35
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5334
+DTSTART:20150808T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T200000Z
+URL:http://www.lolesports.com/tourney/match/5334
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 34
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5337
+DTSTART:20150816T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T200000Z
+URL:http://www.lolesports.com/tourney/match/5337
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 37
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5336
+DTSTART:20150815T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T200000Z
+URL:http://www.lolesports.com/tourney/match/5336
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 36
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5339
+DTSTART:20150822T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150822T200000Z
+URL:http://www.lolesports.com/tourney/match/5339
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 39
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5338
+DTSTART:20150823T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T200000Z
+URL:http://www.lolesports.com/tourney/match/5338
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 38
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR

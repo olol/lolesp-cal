@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-eu-lcs-regional-qualifier
+X-WR-CALNAME:LoL eSports 2015 eu lcs regional qualifier
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5363
+DTSTART:20150829T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T160000Z
+URL:http://www.lolesports.com/tourney/match/5363
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5363
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5364
+DTSTART:20150830T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150830T160000Z
+URL:http://www.lolesports.com/tourney/match/5364
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5364
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5365
+DTSTART:20150831T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T160000Z
+URL:http://www.lolesports.com/tourney/match/5365
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5365
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-wef
+X-WR-CALNAME:LoL eSports WEF
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5380
+DTSTART:20150810T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150810T120000Z
+URL:http://www.lolesports.com/tourney/match/5380
+SUMMARY:Unlimited Potential vs Team WE Future
+DESCRIPTION:Unlimited Potential (UP) vs Team WE Future (WEF)\nType : BO5\nT
+ ournament : 2016 LPL Spring Promotion\nWeek : 1\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/5380
+CATEGORIES:2016 LPL Spring Promotion
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR

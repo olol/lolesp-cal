@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-lck-summer-playoffs
+X-WR-CALNAME:LoL eSports 2015 lck summer playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5351
+DTSTART:20150816T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T100000Z
+URL:http://www.lolesports.com/tourney/match/5351
+SUMMARY:KOO Tigers vs Najin e-mFire
+DESCRIPTION:KOO Tigers (KOO) vs NaJin e-mFire (NJF)\nType : BO3\nTournament
+  : 2015 LCK Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/5351
+CATEGORIES:2015 LCK Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5352
+DTSTART:20150819T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150819T100000Z
+URL:http://www.lolesports.com/tourney/match/5352
+SUMMARY:TBD vs CJ Entus Blaze
+DESCRIPTION: () vs CJ Entus Blaze (CJB)\nType : BO5\nTournament : 2015 LCK 
+ Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5352
+CATEGORIES:2015 LCK Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5353
+DTSTART:20150821T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150821T100000Z
+URL:http://www.lolesports.com/tourney/match/5353
+SUMMARY:TBD vs KT Rolster
+DESCRIPTION: () vs KT Rolster (KT)\nType : BO5\nTournament : 2015 LCK Summe
+ r Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/5353
+CATEGORIES:2015 LCK Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5354
+DTSTART:20150829T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T090000Z
+URL:http://www.lolesports.com/tourney/match/5354
+SUMMARY:TBD vs SKTelecom T1
+DESCRIPTION: () vs SKTelecom T1 (SKT)\nType : BO5\nTournament : 2015 LCK Su
+ mmer Playoffs\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5354
+CATEGORIES:2015 LCK Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR

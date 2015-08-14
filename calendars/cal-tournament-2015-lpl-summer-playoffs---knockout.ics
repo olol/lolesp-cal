@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-lpl-summer-playoffs---knockou
+ t
+X-WR-CALNAME:LoL eSports 2015 lpl summer playoffs   knockout
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5373
+DTSTART:20150815T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T060000Z
+URL:http://www.lolesports.com/tourney/match/5373
+SUMMARY:Invictus Gaming vs Vici Gaming
+DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO5\nTournamen
+ t : 2015 LPL Summer Playoffs - Knockout\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5373
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5372
+DTSTART:20150815T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T100000Z
+URL:http://www.lolesports.com/tourney/match/5372
+SUMMARY:Snake vs LGD GAMING
+DESCRIPTION:Snake (SS) vs LGD GAMING (LGD)\nType : BO5\nTournament : 2015 L
+ PL Summer Playoffs - Knockout\nWeek : 1\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/5372
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5374
+DTSTART:20150816T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T060000Z
+URL:http://www.lolesports.com/tourney/match/5374
+SUMMARY:Edward Gaming vs TBD
+DESCRIPTION:Edward Gaming (EDG) vs  ()\nType : BO5\nTournament : 2015 LPL S
+ ummer Playoffs - Knockout\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/5374
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5375
+DTSTART:20150816T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T100000Z
+URL:http://www.lolesports.com/tourney/match/5375
+SUMMARY:Qiao Gu vs TBD
+DESCRIPTION:Qiao Gu (QG) vs  ()\nType : BO5\nTournament : 2015 LPL Summer P
+ layoffs - Knockout\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5375
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5377
+DTSTART:20150817T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150817T100000Z
+URL:http://www.lolesports.com/tourney/match/5377
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LPL Summer Playoffs -
+  Knockout\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5377
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5376
+DTSTART:20150823T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T080000Z
+URL:http://www.lolesports.com/tourney/match/5376
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LPL Summer Playoffs -
+  Knockout\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5376
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR

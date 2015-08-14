@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-2dg
+X-WR-CALNAME:LoL eSports 2DG
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5379
+DTSTART:20150810T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150810T080000Z
+URL:http://www.lolesports.com/tourney/match/5379
+SUMMARY:King vs 2144 Danmu Gaming
+DESCRIPTION:King (KNG) vs 2144 Danmu Gaming (2DG)\nType : BO5\nTournament :
+  2016 LPL Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/5379
+CATEGORIES:2016 LPL Spring Promotion
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5382
+DTSTART:20150812T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150812T060000Z
+URL:http://www.lolesports.com/tourney/match/5382
+SUMMARY:Royal Never Give Up vs 2144 Danmu Gaming
+DESCRIPTION:Royal Never Give Up (RNG) vs 2144 Danmu Gaming (2DG)\nType : BO
+ 5\nTournament : 2016 LPL Spring Promotion\nWeek : 2\nStream : No\nUrl : ht
+ tp://www.lolesports.com/tourney/match/5382
+CATEGORIES:2016 LPL Spring Promotion
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR

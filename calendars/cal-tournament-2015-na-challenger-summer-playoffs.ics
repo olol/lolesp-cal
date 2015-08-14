@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2015-na-challenger-summer-playoffs
+X-WR-CALNAME:LoL eSports 2015 na challenger summer playoffs
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5341
+DTSTART:20150806T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150806T020000Z
+URL:http://www.lolesports.com/tourney/match/5341
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5341
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5340
+DTSTART:20150805T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150805T020000Z
+URL:http://www.lolesports.com/tourney/match/5340
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5340
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5343
+DTSTART:20150812T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150812T020000Z
+URL:http://www.lolesports.com/tourney/match/5343
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5343
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5342
+DTSTART:20150813T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150813T020000Z
+URL:http://www.lolesports.com/tourney/match/5342
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5342
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150814T214348Z
+END:VEVENT
+END:VCALENDAR
