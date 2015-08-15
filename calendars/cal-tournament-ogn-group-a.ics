@@ -15,7 +15,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO2\nTourna
  ment : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2195
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2196
@@ -29,7 +29,7 @@ DESCRIPTION:Prime Optimus () vs KT Rolster Arrows (KTA)\nType : BO2\nTourna
  ment : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2196
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2197
@@ -43,7 +43,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Prime Optimus ()\nType : BO2\nTournament
  : OGN Group A\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2197
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2198
@@ -57,7 +57,7 @@ DESCRIPTION:SK Telecom T1 S (SKS) vs KT Rolster Arrows (KTA)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2198
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2199
@@ -71,7 +71,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs SKTelecom T1 (SKT)\nType : BO2\nTour
  nament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2199
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2200
@@ -85,7 +85,7 @@ DESCRIPTION:Prime Optimus () vs SK Telecom T1 S (SKS)\nType : BO2\nTourname
  nt : OGN Group A\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2200
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2227
@@ -99,7 +99,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO1\nTourna
  ment : OGN Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2227
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2922
@@ -113,7 +113,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Incredible Miracle 1 (IM1)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2922
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2923
@@ -127,7 +127,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Incredible Miracle (IM)\nType : B
  O2\nTournament : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2923
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2924
@@ -141,7 +141,7 @@ DESCRIPTION:Samsung Blue (SSB) vs SKTelecom T1 (SKT)\nType : BO2\nTournamen
  t : OGN Group A\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2924
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2925
@@ -155,7 +155,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Incredible Miracle 1 (IM1)\n
  Type : BO2\nTournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://
  www.lolesports.com/tourney/match/2925
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2926
@@ -169,7 +169,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Longzhu Incredible Miracle (IM)\nType : B
  O2\nTournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2926
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2927
@@ -183,6 +183,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Incredible Miracle 1 (IM1)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2927
 CATEGORIES:OGN Group A
-DTSTAMP:20150814T214336Z
+DTSTAMP:20150815T210318Z
 END:VEVENT
 END:VCALENDAR

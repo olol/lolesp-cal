@@ -15,7 +15,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Liquid (TL)\nType : BO1\nTournament
  : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3511
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3513
@@ -29,7 +29,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
  nt : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3513
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3521
@@ -43,7 +43,7 @@ DESCRIPTION:Team Impulse (TIP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3521
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3526
@@ -57,7 +57,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team 8 (T8)\nType : BO1\nTournament : NA
  LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3526
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3528
@@ -71,7 +71,7 @@ DESCRIPTION:Gravity (GV) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3528
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3537
@@ -85,7 +85,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Impulse (TIP)\nType : BO1\nTournamen
  t : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3537
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3539
@@ -99,7 +99,7 @@ DESCRIPTION:Winterfox (WFX) vs Team Impulse (TIP)\nType : BO1\nTournament :
   NA LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3539
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3544
@@ -113,7 +113,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Coast (CST)\nType : BO1\nTournament
  : NA LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3544
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3550
@@ -127,7 +127,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3550
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3557
@@ -141,7 +141,7 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3557
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3559
@@ -155,7 +155,7 @@ DESCRIPTION:Team 8 (T8) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
  LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3559
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3565
@@ -169,7 +169,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team SoloMid (TSM)\nType : BO1\nTournamen
  t : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3565
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3571
@@ -183,7 +183,7 @@ DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3571
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210424Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3575
@@ -197,7 +197,7 @@ DESCRIPTION:Team Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament
  : NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3575
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3582
@@ -211,7 +211,7 @@ DESCRIPTION:Team Coast (CST) vs Team Impulse (TIP)\nType : BO1\nTournament
  : NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3582
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3586
@@ -225,7 +225,7 @@ DESCRIPTION:Team Impulse (TIP) vs Winterfox (WFX)\nType : BO1\nTournament :
   NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3586
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3592
@@ -239,7 +239,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
  nt : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3592
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3594
@@ -253,7 +253,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
  ournament : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3594
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4512
@@ -267,7 +267,7 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO5\nTournament : NA
   LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4512
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4514
@@ -281,7 +281,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Impulse (TIP)\nType : BO5\nTournamen
  t : NA LCS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4514
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4517
@@ -295,7 +295,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Liquid (TL)\nType : BO5\nTournament
  : NA LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4517
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4679
@@ -309,7 +309,7 @@ DESCRIPTION:Team 8 (T8) vs Team Impulse (TIP)\nType : BO1\nTournament : 201
  5 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4679
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4683
@@ -323,7 +323,7 @@ DESCRIPTION:Team Impulse (TIP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4683
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4688
@@ -337,7 +337,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Impulse (TIP)\nType : BO1\nTournamen
  t : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4688
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4691
@@ -351,7 +351,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4691
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4699
@@ -365,7 +365,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Dragon Knights (TDK)\nType : BO1\nTo
  urnament : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/4699
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4703
@@ -379,7 +379,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Liquid (TL)\nType : BO1\nTournament
  : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4703
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4706
@@ -393,7 +393,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4706
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4714
@@ -407,7 +407,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Impulse (TIP)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4714
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4716
@@ -421,7 +421,7 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4716
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4722
@@ -435,7 +435,7 @@ DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4722
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4729
@@ -449,7 +449,7 @@ DESCRIPTION:Team Impulse (TIP) vs Enemy Esports (NME)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4729
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4734
@@ -463,7 +463,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
  ournament : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4734
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4740
@@ -477,7 +477,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4740
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4743
@@ -491,7 +491,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team 8 (T8)\nType : BO1\nTournament : 201
  5 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4743
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4748
@@ -505,7 +505,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team SoloMid (TSM)\nType : BO1\nTournamen
  t : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4748
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4752
@@ -519,7 +519,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Team Impulse (TIP)\nType : BO1\nTo
  urnament : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/4752
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4758
@@ -533,7 +533,7 @@ DESCRIPTION:Gravity (GV) vs Team Impulse (TIP)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4758
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4765
@@ -547,7 +547,7 @@ DESCRIPTION:Team Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament
  : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4765
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5358
@@ -561,6 +561,6 @@ DESCRIPTION:Team Impulse (TIP) vs Gravity (GV)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/5358
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150814T214344Z
+DTSTAMP:20150815T210425Z
 END:VEVENT
 END:VCALENDAR

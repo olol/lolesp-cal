@@ -15,7 +15,7 @@ DESCRIPTION:SK Gaming Prime (SKP) vs Reason Gaming (RG)\nType : BO3\nTourna
  ment : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2677
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2678
@@ -29,7 +29,7 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Unicorns Of Love (UOL)\nType : BO3\nT
  ournament : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/2678
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2679
@@ -43,7 +43,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs SK Gaming Prime (SKP)\nType : BO3\nT
  ournament : EU CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/2679
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2680
@@ -57,7 +57,7 @@ DESCRIPTION:H2K (H2K) vs Unicorns Of Love (UOL)\nType : BO3\nTournament : E
  U CS Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2680
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2682
@@ -71,7 +71,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Unicorns Of Love (UOL)\nType : BO5\n
  Tournament : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/2682
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210345Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2681
@@ -85,6 +85,6 @@ DESCRIPTION:H2K (H2K) vs SK Gaming Prime (SKP)\nType : BO5\nTournament : EU
   CS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2681
 CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210345Z
 END:VEVENT
 END:VCALENDAR

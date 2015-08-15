@@ -14,7 +14,7 @@ SUMMARY:LMQ vs OMG
 DESCRIPTION:LMQ (LMQ) vs OMG (OMG)\nType : BO1\nTournament : Group C\nWeek 
  : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3108
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3109
@@ -28,7 +28,7 @@ DESCRIPTION:Samsung Blue (SSB) vs OMG (OMG)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  109
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3110
@@ -41,7 +41,7 @@ SUMMARY:Fnatic vs LMQ
 DESCRIPTION:Fnatic (FNC) vs LMQ (LMQ)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3110
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3111
@@ -55,7 +55,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Fnatic (FNC)\nType : BO1\nTournament : Gr
  oup C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/3111
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3112
@@ -68,7 +68,7 @@ SUMMARY:OMG vs Fnatic
 DESCRIPTION:OMG (OMG) vs Fnatic (FNC)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3112
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3113
@@ -82,7 +82,7 @@ DESCRIPTION:Samsung Blue (SSB) vs LMQ (LMQ)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  113
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3114
@@ -95,7 +95,7 @@ SUMMARY:Fnatic vs OMG
 DESCRIPTION:Fnatic (FNC) vs OMG (OMG)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3114
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3115
@@ -108,7 +108,7 @@ SUMMARY:LMQ vs Fnatic
 DESCRIPTION:LMQ (LMQ) vs Fnatic (FNC)\nType : BO1\nTournament : Group C\nWe
  ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3115
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3116
@@ -122,7 +122,7 @@ DESCRIPTION:OMG (OMG) vs Samsung Blue (SSB)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  116
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3117
@@ -136,7 +136,7 @@ DESCRIPTION:LMQ (LMQ) vs Samsung Blue (SSB)\nType : BO1\nTournament : Group
   C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
  117
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3118
@@ -150,7 +150,7 @@ DESCRIPTION:Fnatic (FNC) vs Samsung Blue (SSB)\nType : BO1\nTournament : Gr
  oup C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/3118
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3119
@@ -163,6 +163,6 @@ SUMMARY:OMG vs LMQ
 DESCRIPTION:OMG (OMG) vs LMQ (LMQ)\nType : BO1\nTournament : Group C\nWeek 
  : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3119
 CATEGORIES:Group C
-DTSTAMP:20150814T214339Z
+DTSTAMP:20150815T210349Z
 END:VEVENT
 END:VCALENDAR

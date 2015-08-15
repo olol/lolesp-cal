@@ -15,7 +15,7 @@ DESCRIPTION:Black Ravens (BR) vs Les Touristes (LT)\nType : BO3\nTournament
   : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5113
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150814T214347Z
+DTSTAMP:20150815T210446Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5118
@@ -29,6 +29,6 @@ DESCRIPTION:Les Touristes (LT) vs Denial eSports (DNE)\nType : BO3\nTournam
  ent : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/5118
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20150814T214347Z
+DTSTAMP:20150815T210446Z
 END:VEVENT
 END:VCALENDAR

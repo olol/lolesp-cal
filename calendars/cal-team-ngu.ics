@@ -15,7 +15,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3685
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3686
@@ -29,7 +29,7 @@ DESCRIPTION:Never Give Up (NGU) vs ahq e-Sports Club (AHQ)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3686
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3696
@@ -43,7 +43,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Never Give Up (NGU)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3696
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3697
@@ -57,7 +57,7 @@ DESCRIPTION:Never Give Up (NGU) vs Taipei Assassins (TPA)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3697
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3703
@@ -71,7 +71,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Never Give Up (NGU)\nType : BO1\nTourname
  nt : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3703
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3705
@@ -85,7 +85,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3705
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3706
@@ -99,7 +99,7 @@ DESCRIPTION:Never Give Up (NGU) vs Midnight Sun e-Sports (MSE)\nType : BO1\
  nTournament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3706
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3729
@@ -113,7 +113,7 @@ DESCRIPTION:Never Give Up (NGU) vs Logitech G Sniper (LGS)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3729
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3730
@@ -127,7 +127,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3730
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3717
@@ -141,7 +141,7 @@ DESCRIPTION:Never Give Up (NGU) vs Flash Wolves (YFW)\nType : BO1\nTourname
  nt : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3717
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3734
@@ -155,7 +155,7 @@ DESCRIPTION:Never Give Up (NGU) vs Dream or Reality (DOR)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3734
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3737
@@ -169,7 +169,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Never Give Up (NGU)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3737
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3749
@@ -183,7 +183,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3749
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3719
@@ -197,7 +197,7 @@ DESCRIPTION:Never Give Up (NGU) vs Hong Kong Esports (HKE)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3719
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3720
@@ -211,7 +211,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Never Give Up (NGU)\nType : BO1\
  nTournament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3720
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3750
@@ -225,7 +225,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3750
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3757
@@ -239,7 +239,7 @@ DESCRIPTION:Never Give Up (NGU) vs Flash Wolves (YFW)\nType : BO1\nTourname
  nt : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3757
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3744
@@ -253,7 +253,7 @@ DESCRIPTION:Dream or Reality (DOR) vs Never Give Up (NGU)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3744
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3760
@@ -267,7 +267,7 @@ DESCRIPTION:Never Give Up (NGU) vs Taipei Assassins (TPA)\nType : BO1\nTour
  nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3760
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3759
@@ -281,7 +281,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Never Give Up (NGU)\nType : BO1\nTou
  rnament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3759
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3738
@@ -295,6 +295,6 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Never Give Up (NGU)\nType : BO1\
  nTournament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3738
 CATEGORIES:LMS Spring
-DTSTAMP:20150814T214341Z
+DTSTAMP:20150815T210402Z
 END:VEVENT
 END:VCALENDAR

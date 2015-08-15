@@ -1,0 +1,4886 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-
+X-WR-CALNAME:LoL eSports 
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-548
+DTSTART:20130214T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130214T210000Z
+URL:http://www.lolesports.com/tourney/match/548
+SUMMARY:Team Dignitas vs Team MRN
+DESCRIPTION:Team Dignitas (DIG) vs Team MRN ()\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/548
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-554
+DTSTART:20130216T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T030000Z
+URL:http://www.lolesports.com/tourney/match/554
+SUMMARY:Team SoloMid vs Team MRN
+DESCRIPTION:Team SoloMid (TSM) vs Team MRN ()\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/554
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-661
+DTSTART:20130216T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T170000Z
+URL:http://www.lolesports.com/tourney/match/661
+SUMMARY:Alliance vs Dragonborns
+DESCRIPTION:Alliance (ALL) vs Dragonborns ()\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/661
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-663
+DTSTART:20130216T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130216T190000Z
+URL:http://www.lolesports.com/tourney/match/663
+SUMMARY:Against All Authority vs Gambit Gaming
+DESCRIPTION:Against All Authority () vs Gambit Gaming (GMB)\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/663
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-667
+DTSTART:20130217T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130217T180000Z
+URL:http://www.lolesports.com/tourney/match/667
+SUMMARY:SK Gaming vs Dragonborns
+DESCRIPTION:SK Gaming (SK) vs Dragonborns ()\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/667
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-560
+DTSTART:20130223T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T010000Z
+URL:http://www.lolesports.com/tourney/match/560
+SUMMARY:Team MRN vs Team Coast
+DESCRIPTION:Team MRN () vs Team Coast (CST)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/560
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-562
+DTSTART:20130223T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T030000Z
+URL:http://www.lolesports.com/tourney/match/562
+SUMMARY:Team MRN vs XDG
+DESCRIPTION:Team MRN () vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/562
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-671
+DTSTART:20130223T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130223T190000Z
+URL:http://www.lolesports.com/tourney/match/671
+SUMMARY:Against All Authority vs Ninjas in Pyjamas
+DESCRIPTION:Against All Authority () vs Ninjas in Pyjamas (NIP)\nType : BO1
+ \nTournament : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/671
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-673
+DTSTART:20130224T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130224T170000Z
+URL:http://www.lolesports.com/tourney/match/673
+SUMMARY:Dragonborns vs Ozone GIANTS
+DESCRIPTION:Dragonborns () vs Giants Gaming (GIA)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/673
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-674
+DTSTART:20130224T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130224T180000Z
+URL:http://www.lolesports.com/tourney/match/674
+SUMMARY:Fnatic vs Against All Authority
+DESCRIPTION:Fnatic (FNC) vs Against All Authority ()\nType : BO1\nTournamen
+ t : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/674
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-675
+DTSTART:20130224T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130224T190000Z
+URL:http://www.lolesports.com/tourney/match/675
+SUMMARY:Dragonborns vs Ninjas in Pyjamas
+DESCRIPTION:Dragonborns () vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/675
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-676
+DTSTART:20130224T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130224T200000Z
+URL:http://www.lolesports.com/tourney/match/676
+SUMMARY:Ozone GIANTS vs Against All Authority
+DESCRIPTION:Giants Gaming (GIA) vs Against All Authority ()\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/676
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-565
+DTSTART:20130227T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130227T200000Z
+URL:http://www.lolesports.com/tourney/match/565
+SUMMARY:Curse vs Team MRN
+DESCRIPTION:Curse (CRS) vs Team MRN ()\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/565
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-571
+DTSTART:20130228T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T020000Z
+URL:http://www.lolesports.com/tourney/match/571
+SUMMARY:Counter Logic Gaming vs Team MRN
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team MRN ()\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/571
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-575
+DTSTART:20130228T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T060000Z
+URL:http://www.lolesports.com/tourney/match/575
+SUMMARY:Team MRN vs Team SoloMid
+DESCRIPTION:Team MRN () vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/575
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-578
+DTSTART:20130228T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130228T230000Z
+URL:http://www.lolesports.com/tourney/match/578
+SUMMARY:Team Coast vs Team MRN
+DESCRIPTION:Team Coast (CST) vs Team MRN ()\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/578
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-678
+DTSTART:20130301T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130301T100000Z
+URL:http://www.lolesports.com/tourney/match/678
+SUMMARY:Gambit Gaming vs Dragonborns
+DESCRIPTION:Gambit Gaming (GMB) vs Dragonborns ()\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/678
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-679
+DTSTART:20130301T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130301T110000Z
+URL:http://www.lolesports.com/tourney/match/679
+SUMMARY:SK Gaming vs Against All Authority
+DESCRIPTION:SK Gaming (SK) vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/679
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-684
+DTSTART:20130301T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130301T150000Z
+URL:http://www.lolesports.com/tourney/match/684
+SUMMARY:Fnatic vs Dragonborns
+DESCRIPTION:Fnatic (FNC) vs Dragonborns ()\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/684
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-686
+DTSTART:20130301T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130301T170000Z
+URL:http://www.lolesports.com/tourney/match/686
+SUMMARY:Ninjas in Pyjamas vs Against All Authority
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Against All Authority ()\nType : BO1
+ \nTournament : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/686
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-582
+DTSTART:20130302T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T030000Z
+URL:http://www.lolesports.com/tourney/match/582
+SUMMARY:Team MRN vs Team Dignitas
+DESCRIPTION:Team MRN () vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/582
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-690
+DTSTART:20130302T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T170000Z
+URL:http://www.lolesports.com/tourney/match/690
+SUMMARY:Alliance vs Against All Authority
+DESCRIPTION:Alliance (ALL) vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/690
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-689
+DTSTART:20130302T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T180000Z
+URL:http://www.lolesports.com/tourney/match/689
+SUMMARY:TBD vs Fnatic
+DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Sprin
+ g Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/689
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-691
+DTSTART:20130302T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T190000Z
+URL:http://www.lolesports.com/tourney/match/691
+SUMMARY:Ozone GIANTS vs Dragonborns
+DESCRIPTION:Giants Gaming (GIA) vs Dragonborns ()\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/691
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210217Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-681
+DTSTART:20130302T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130302T210000Z
+URL:http://www.lolesports.com/tourney/match/681
+SUMMARY:Gambit Gaming vs Against All Authority
+DESCRIPTION:Gambit Gaming (GMB) vs Against All Authority ()\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/681
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-694
+DTSTART:20130303T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130303T160000Z
+URL:http://www.lolesports.com/tourney/match/694
+SUMMARY:Against All Authority vs Fnatic
+DESCRIPTION:Against All Authority () vs Fnatic (FNC)\nType : BO1\nTournamen
+ t : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/694
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-695
+DTSTART:20130303T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130303T180000Z
+URL:http://www.lolesports.com/tourney/match/695
+SUMMARY:Dragonborns vs Alliance
+DESCRIPTION:Dragonborns () vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/695
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-688
+DTSTART:20130303T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130303T200000Z
+URL:http://www.lolesports.com/tourney/match/688
+SUMMARY:Dragonborns vs SK Gaming
+DESCRIPTION:Dragonborns () vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/688
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-587
+DTSTART:20130316T013000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T023000Z
+URL:http://www.lolesports.com/tourney/match/587
+SUMMARY:XDG vs Team MRN
+DESCRIPTION:XDG (XDG) vs Team MRN ()\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/587
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-697
+DTSTART:20130316T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T140000Z
+URL:http://www.lolesports.com/tourney/match/697
+SUMMARY:Alliance vs Dragonborns
+DESCRIPTION:Alliance (ALL) vs Dragonborns ()\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/697
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-698
+DTSTART:20130316T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130316T150000Z
+URL:http://www.lolesports.com/tourney/match/698
+SUMMARY:SK Gaming vs Against All Authority
+DESCRIPTION:SK Gaming (SK) vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/698
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-591
+DTSTART:20130317T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T010000Z
+URL:http://www.lolesports.com/tourney/match/591
+SUMMARY:Team MRN vs Counter Logic Gaming
+DESCRIPTION:Team MRN () vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/591
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-700
+DTSTART:20130317T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T130000Z
+URL:http://www.lolesports.com/tourney/match/700
+SUMMARY:SK Gaming vs Dragonborns
+DESCRIPTION:SK Gaming (SK) vs Dragonborns ()\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/700
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-704
+DTSTART:20130317T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T140000Z
+URL:http://www.lolesports.com/tourney/match/704
+SUMMARY:Alliance vs Against All Authority
+DESCRIPTION:Alliance (ALL) vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/704
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-702
+DTSTART:20130317T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T160000Z
+URL:http://www.lolesports.com/tourney/match/702
+SUMMARY:Dragonborns vs Against All Authority
+DESCRIPTION:Dragonborns () vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/702
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-702
+DTSTART:20130317T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T160000Z
+URL:http://www.lolesports.com/tourney/match/702
+SUMMARY:Dragonborns vs Against All Authority
+DESCRIPTION:Dragonborns () vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/702
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-595
+DTSTART:20130317T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130317T220000Z
+URL:http://www.lolesports.com/tourney/match/595
+SUMMARY:Team MRN vs Curse
+DESCRIPTION:Team MRN () vs Curse (CRS)\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/595
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-596
+DTSTART:20130321T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130321T210000Z
+URL:http://www.lolesports.com/tourney/match/596
+SUMMARY:Team Dignitas vs Team MRN
+DESCRIPTION:Team Dignitas (DIG) vs Team MRN ()\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/596
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-599
+DTSTART:20130321T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130322T000000Z
+URL:http://www.lolesports.com/tourney/match/599
+SUMMARY:Team SoloMid vs Team MRN
+DESCRIPTION:Team SoloMid (TSM) vs Team MRN ()\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/599
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-601
+DTSTART:20130322T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T000000Z
+URL:http://www.lolesports.com/tourney/match/601
+SUMMARY:Team MRN vs compLexity
+DESCRIPTION:Team MRN () vs compLexity White (COW)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/601
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-706
+DTSTART:20130323T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T160000Z
+URL:http://www.lolesports.com/tourney/match/706
+SUMMARY:Against All Authority vs Alliance
+DESCRIPTION:Against All Authority () vs Alliance (ALL)\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/706
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-708
+DTSTART:20130323T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130323T180000Z
+URL:http://www.lolesports.com/tourney/match/708
+SUMMARY:Ninjas in Pyjamas vs Dragonborns
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Dragonborns ()\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/708
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-711
+DTSTART:20130324T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130324T140000Z
+URL:http://www.lolesports.com/tourney/match/711
+SUMMARY:Against All Authority vs Ninjas in Pyjamas
+DESCRIPTION:Against All Authority () vs Ninjas in Pyjamas (NIP)\nType : BO1
+ \nTournament : EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/711
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-712
+DTSTART:20130324T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130324T150000Z
+URL:http://www.lolesports.com/tourney/match/712
+SUMMARY:Dragonborns vs Fnatic
+DESCRIPTION:Dragonborns () vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/712
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-713
+DTSTART:20130324T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130324T160000Z
+URL:http://www.lolesports.com/tourney/match/713
+SUMMARY:Against All Authority vs SK Gaming
+DESCRIPTION:Against All Authority () vs SK Gaming (SK)\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/713
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-716
+DTSTART:20130324T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130324T190000Z
+URL:http://www.lolesports.com/tourney/match/716
+SUMMARY:Dragonborns vs Gambit Gaming
+DESCRIPTION:Dragonborns () vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/716
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-718
+DTSTART:20130330T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T140000Z
+URL:http://www.lolesports.com/tourney/match/718
+SUMMARY:Against All Authority vs Fnatic
+DESCRIPTION:Against All Authority () vs Fnatic (FNC)\nType : BO1\nTournamen
+ t : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/718
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-720
+DTSTART:20130330T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T160000Z
+URL:http://www.lolesports.com/tourney/match/720
+SUMMARY:Dragonborns vs Against All Authority
+DESCRIPTION:Dragonborns () vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/720
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-720
+DTSTART:20130330T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130330T160000Z
+URL:http://www.lolesports.com/tourney/match/720
+SUMMARY:Dragonborns vs Against All Authority
+DESCRIPTION:Dragonborns () vs Against All Authority ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/720
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-607
+DTSTART:20130330T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T000000Z
+URL:http://www.lolesports.com/tourney/match/607
+SUMMARY:compLexity vs Team MRN
+DESCRIPTION:compLexity White (COW) vs Team MRN ()\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/607
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-722
+DTSTART:20130331T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T140000Z
+URL:http://www.lolesports.com/tourney/match/722
+SUMMARY:Ninjas in Pyjamas vs Against All Authority
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Against All Authority ()\nType : BO1
+ \nTournament : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/722
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-723
+DTSTART:20130331T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T150000Z
+URL:http://www.lolesports.com/tourney/match/723
+SUMMARY:Dragonborns vs Ozone GIANTS
+DESCRIPTION:Dragonborns () vs Giants Gaming (GIA)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/723
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-610
+DTSTART:20130331T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T210000Z
+URL:http://www.lolesports.com/tourney/match/610
+SUMMARY:Team MRN vs XDG
+DESCRIPTION:Team MRN () vs XDG (XDG)\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/610
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-612
+DTSTART:20130331T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130331T230000Z
+URL:http://www.lolesports.com/tourney/match/612
+SUMMARY:Team MRN vs Team Dignitas
+DESCRIPTION:Team MRN () vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/612
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-619
+DTSTART:20130404T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130405T000000Z
+URL:http://www.lolesports.com/tourney/match/619
+SUMMARY:Team MRN vs compLexity
+DESCRIPTION:Team MRN () vs compLexity White (COW)\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/619
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-622
+DTSTART:20130406T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T010000Z
+URL:http://www.lolesports.com/tourney/match/622
+SUMMARY:Team MRN vs Team Coast
+DESCRIPTION:Team MRN () vs Team Coast (CST)\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/622
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-728
+DTSTART:20130406T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T160000Z
+URL:http://www.lolesports.com/tourney/match/728
+SUMMARY:Against All Authority vs Dragonborns
+DESCRIPTION:Against All Authority () vs Dragonborns ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/728
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-728
+DTSTART:20130406T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130406T160000Z
+URL:http://www.lolesports.com/tourney/match/728
+SUMMARY:Against All Authority vs Dragonborns
+DESCRIPTION:Against All Authority () vs Dragonborns ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/728
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-731
+DTSTART:20130407T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130407T130000Z
+URL:http://www.lolesports.com/tourney/match/731
+SUMMARY:Dragonborns vs Ninjas in Pyjamas
+DESCRIPTION:Dragonborns () vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/731
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-732
+DTSTART:20130407T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130407T140000Z
+URL:http://www.lolesports.com/tourney/match/732
+SUMMARY:Against All Authority vs Ozone GIANTS
+DESCRIPTION:Against All Authority () vs Giants Gaming (GIA)\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/732
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-733
+DTSTART:20130407T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130407T150000Z
+URL:http://www.lolesports.com/tourney/match/733
+SUMMARY:Dragonborns vs Alliance
+DESCRIPTION:Dragonborns () vs Alliance (ALL)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/733
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-734
+DTSTART:20130407T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130407T160000Z
+URL:http://www.lolesports.com/tourney/match/734
+SUMMARY:Fnatic vs Against All Authority
+DESCRIPTION:Fnatic (FNC) vs Against All Authority ()\nType : BO1\nTournamen
+ t : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/734
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-624
+DTSTART:20130411T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130411T210000Z
+URL:http://www.lolesports.com/tourney/match/624
+SUMMARY:Curse vs Team MRN
+DESCRIPTION:Curse (CRS) vs Team MRN ()\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/624
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-627
+DTSTART:20130411T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130412T000000Z
+URL:http://www.lolesports.com/tourney/match/627
+SUMMARY:Team Coast vs Team MRN
+DESCRIPTION:Team Coast (CST) vs Team MRN ()\nType : BO1\nTournament : NA Se
+ ason 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/627
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-629
+DTSTART:20130412T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T000000Z
+URL:http://www.lolesports.com/tourney/match/629
+SUMMARY:Counter Logic Gaming vs Team MRN
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team MRN ()\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/629
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-737
+DTSTART:20130413T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T170000Z
+URL:http://www.lolesports.com/tourney/match/737
+SUMMARY:Gambit Gaming vs Dragonborns
+DESCRIPTION:Gambit Gaming (GMB) vs Dragonborns ()\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/737
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-739
+DTSTART:20130413T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T190000Z
+URL:http://www.lolesports.com/tourney/match/739
+SUMMARY:Against All Authority vs Gambit Gaming
+DESCRIPTION:Against All Authority () vs Gambit Gaming (GMB)\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/739
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-740
+DTSTART:20130413T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130413T200000Z
+URL:http://www.lolesports.com/tourney/match/740
+SUMMARY:Ozone GIANTS vs Dragonborns
+DESCRIPTION:Giants Gaming (GIA) vs Dragonborns ()\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/740
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-742
+DTSTART:20130414T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130414T180000Z
+URL:http://www.lolesports.com/tourney/match/742
+SUMMARY:Fnatic vs Dragonborns
+DESCRIPTION:Fnatic (FNC) vs Dragonborns ()\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/742
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-743
+DTSTART:20130414T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130414T190000Z
+URL:http://www.lolesports.com/tourney/match/743
+SUMMARY:Ozone GIANTS vs Against All Authority
+DESCRIPTION:Giants Gaming (GIA) vs Against All Authority ()\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/743
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-633
+DTSTART:20130417T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130417T220000Z
+URL:http://www.lolesports.com/tourney/match/633
+SUMMARY:Team MRN vs Team SoloMid
+DESCRIPTION:Team MRN () vs Team SoloMid (TSM)\nType : BO1\nTournament : NA 
+ Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/633
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-638
+DTSTART:20130418T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T210000Z
+URL:http://www.lolesports.com/tourney/match/638
+SUMMARY:XDG vs Team MRN
+DESCRIPTION:XDG (XDG) vs Team MRN ()\nType : BO1\nTournament : NA Season 3 
+ Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/638
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-640
+DTSTART:20130418T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130418T230000Z
+URL:http://www.lolesports.com/tourney/match/640
+SUMMARY:Team MRN vs Curse
+DESCRIPTION:Team MRN () vs Curse (CRS)\nType : BO1\nTournament : NA Season 
+ 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/640
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-745
+DTSTART:20130419T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T130000Z
+URL:http://www.lolesports.com/tourney/match/745
+SUMMARY:Against All Authority vs Alliance
+DESCRIPTION:Against All Authority () vs Alliance (ALL)\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/745
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-746
+DTSTART:20130419T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T140000Z
+URL:http://www.lolesports.com/tourney/match/746
+SUMMARY:Dragonborns vs SK Gaming
+DESCRIPTION:Dragonborns () vs SK Gaming (SK)\nType : BO1\nTournament : EU S
+ eason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/746
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-747
+DTSTART:20130419T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T150000Z
+URL:http://www.lolesports.com/tourney/match/747
+SUMMARY:Against All Authority vs Ozone GIANTS
+DESCRIPTION:Against All Authority () vs Giants Gaming (GIA)\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/747
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-644
+DTSTART:20130419T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130419T210000Z
+URL:http://www.lolesports.com/tourney/match/644
+SUMMARY:Team MRN vs Counter Logic Gaming
+DESCRIPTION:Team MRN () vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/644
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-650
+DTSTART:20130420T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T030000Z
+URL:http://www.lolesports.com/tourney/match/650
+SUMMARY:compLexity vs Team MRN
+DESCRIPTION:compLexity White (COW) vs Team MRN ()\nType : BO1\nTournament :
+  NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/650
+CATEGORIES:NA Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-751
+DTSTART:20130420T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T130000Z
+URL:http://www.lolesports.com/tourney/match/751
+SUMMARY:Ninjas in Pyjamas vs Dragonborns
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Dragonborns ()\nType : BO1\nTourname
+ nt : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/751
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-752
+DTSTART:20130420T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T140000Z
+URL:http://www.lolesports.com/tourney/match/752
+SUMMARY:Against All Authority vs SK Gaming
+DESCRIPTION:Against All Authority () vs SK Gaming (SK)\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/752
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-753
+DTSTART:20130420T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130420T150000Z
+URL:http://www.lolesports.com/tourney/match/753
+SUMMARY:Dragonborns vs Gambit Gaming
+DESCRIPTION:Dragonborns () vs Gambit Gaming (GMB)\nType : BO1\nTournament :
+  EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/753
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-757
+DTSTART:20130421T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130421T130000Z
+URL:http://www.lolesports.com/tourney/match/757
+SUMMARY:Dragonborns vs Fnatic
+DESCRIPTION:Dragonborns () vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
+ son 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
+ m/tourney/match/757
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-758
+DTSTART:20130421T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130421T140000Z
+URL:http://www.lolesports.com/tourney/match/758
+SUMMARY:Gambit Gaming vs Against All Authority
+DESCRIPTION:Gambit Gaming (GMB) vs Against All Authority ()\nType : BO1\nTo
+ urnament : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/758
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-763
+DTSTART:20130421T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130421T190000Z
+URL:http://www.lolesports.com/tourney/match/763
+SUMMARY:Against All Authority vs Dragonborns
+DESCRIPTION:Against All Authority () vs Dragonborns ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/763
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-763
+DTSTART:20130421T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130421T190000Z
+URL:http://www.lolesports.com/tourney/match/763
+SUMMARY:Against All Authority vs Dragonborns
+DESCRIPTION:Against All Authority () vs Dragonborns ()\nType : BO1\nTournam
+ ent : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
+ olesports.com/tourney/match/763
+CATEGORIES:EU Season 3 Spring Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-766
+DTSTART:20130426T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130426T190000Z
+URL:http://www.lolesports.com/tourney/match/766
+SUMMARY:SK Gaming vs Against All Authority
+DESCRIPTION:SK Gaming (SK) vs Against All Authority ()\nType : BO3\nTournam
+ ent : EU Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/766
+CATEGORIES:EU Spring Playoffs
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-778
+DTSTART:20130503T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130503T100000Z
+URL:http://www.lolesports.com/tourney/match/778
+SUMMARY:Meet Your Makers vs Dexterisactuallyevil
+DESCRIPTION:Mousesports (MOU) vs Dexterisactuallyevil ()\nType : BO3\nTourn
+ ament : EU Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/778
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-780
+DTSTART:20130505T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T100000Z
+URL:http://www.lolesports.com/tourney/match/780
+SUMMARY:Millenium vs Wizards Club
+DESCRIPTION: () vs Wizards Club ()\nType : BO3\nTournament : EU Summer Prom
+ otion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/780
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-780
+DTSTART:20130505T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T100000Z
+URL:http://www.lolesports.com/tourney/match/780
+SUMMARY:Millenium vs Wizards Club
+DESCRIPTION: () vs Wizards Club ()\nType : BO3\nTournament : EU Summer Prom
+ otion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/780
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-779
+DTSTART:20130505T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T110000Z
+URL:http://www.lolesports.com/tourney/match/779
+SUMMARY:Lemondogs vs TCM Gaming
+DESCRIPTION:Lemondogs (LD) vs TCM Gaming ()\nType : BO3\nTournament : EU Su
+ mmer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/779
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-777
+DTSTART:20130505T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T140000Z
+URL:http://www.lolesports.com/tourney/match/777
+SUMMARY:Samurai in Jeans vs Anexis eSports
+DESCRIPTION:Samurai in Jeans () vs Anexis eSports ()\nType : BO3\nTournamen
+ t : EU Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/777
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-777
+DTSTART:20130505T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T140000Z
+URL:http://www.lolesports.com/tourney/match/777
+SUMMARY:Samurai in Jeans vs Anexis eSports
+DESCRIPTION:Samurai in Jeans () vs Anexis eSports ()\nType : BO3\nTournamen
+ t : EU Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/777
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-784
+DTSTART:20130505T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130505T170000Z
+URL:http://www.lolesports.com/tourney/match/784
+SUMMARY:Ozone GIANTS vs Millenium
+DESCRIPTION:Giants Gaming (GIA) vs  ()\nType : BO5\nTournament : EU Summer 
+ Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/784
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-783
+DTSTART:20130506T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130506T130000Z
+URL:http://www.lolesports.com/tourney/match/783
+SUMMARY:Against All Authority vs Lemondogs
+DESCRIPTION:Against All Authority () vs Lemondogs (LD)\nType : BO5\nTournam
+ ent : EU Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/783
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-781
+DTSTART:20130506T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130506T140000Z
+URL:http://www.lolesports.com/tourney/match/781
+SUMMARY:Ninjas in Pyjamas vs Samurai in Jeans
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs Samurai in Jeans ()\nType : BO5\nTou
+ rnament : EU Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/781
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-782
+DTSTART:20130506T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130506T180000Z
+URL:http://www.lolesports.com/tourney/match/782
+SUMMARY:Dragonborns vs Meet Your Makers
+DESCRIPTION:Dragonborns () vs Mousesports (MOU)\nType : BO5\nTournament : E
+ U Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/782
+CATEGORIES:EU Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-789
+DTSTART:20130510T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130510T190000Z
+URL:http://www.lolesports.com/tourney/match/789
+SUMMARY:Cloud 9  vs Team Astral Poke
+DESCRIPTION:Cloud9  (C9) vs Team Astral Poke ()\nType : BO3\nTournament : N
+ A Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/789
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-791
+DTSTART:20130510T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130510T220000Z
+URL:http://www.lolesports.com/tourney/match/791
+SUMMARY:Velocity Esports vs The Salad Bar
+DESCRIPTION:Velocity Esports () vs The Salad Bar ()\nType : BO3\nTournament
+  : NA Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/791
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-791
+DTSTART:20130510T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130510T220000Z
+URL:http://www.lolesports.com/tourney/match/791
+SUMMARY:Velocity Esports vs The Salad Bar
+DESCRIPTION:Velocity Esports () vs The Salad Bar ()\nType : BO3\nTournament
+  : NA Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/791
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-790
+DTSTART:20130511T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130511T010000Z
+URL:http://www.lolesports.com/tourney/match/790
+SUMMARY:Team Summon vs Fidelis
+DESCRIPTION:Team Summon () vs Fidelis ()\nType : BO3\nTournament : NA Summe
+ r Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/790
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-790
+DTSTART:20130511T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130511T010000Z
+URL:http://www.lolesports.com/tourney/match/790
+SUMMARY:Team Summon vs Fidelis
+DESCRIPTION:Team Summon () vs Fidelis ()\nType : BO3\nTournament : NA Summe
+ r Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/790
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-788
+DTSTART:20130511T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130511T040000Z
+URL:http://www.lolesports.com/tourney/match/788
+SUMMARY:DoubleBuff vs Azure Cats
+DESCRIPTION:DoubleBuff () vs Azure Cats ()\nType : BO3\nTournament : NA Sum
+ mer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/788
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-788
+DTSTART:20130511T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130511T040000Z
+URL:http://www.lolesports.com/tourney/match/788
+SUMMARY:DoubleBuff vs Azure Cats
+DESCRIPTION:DoubleBuff () vs Azure Cats ()\nType : BO3\nTournament : NA Sum
+ mer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/788
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-795
+DTSTART:20130511T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130512T000000Z
+URL:http://www.lolesports.com/tourney/match/795
+SUMMARY:Team MRN vs Velocity Esports
+DESCRIPTION:Team MRN () vs Velocity Esports ()\nType : BO5\nTournament : NA
+  Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/795
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-795
+DTSTART:20130511T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130512T000000Z
+URL:http://www.lolesports.com/tourney/match/795
+SUMMARY:Team MRN vs Velocity Esports
+DESCRIPTION:Team MRN () vs Velocity Esports ()\nType : BO5\nTournament : NA
+  Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/795
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-794
+DTSTART:20130512T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130512T190000Z
+URL:http://www.lolesports.com/tourney/match/794
+SUMMARY:Team Dignitas vs Team Summon
+DESCRIPTION:Team Dignitas (DIG) vs Team Summon ()\nType : BO5\nTournament :
+  NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/794
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-792
+DTSTART:20130512T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130513T000000Z
+URL:http://www.lolesports.com/tourney/match/792
+SUMMARY:Counter Logic Gaming vs Azure Cats
+DESCRIPTION:Counter Logic Gaming (CLG) vs Azure Cats ()\nType : BO5\nTourna
+ ment : NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesp
+ orts.com/tourney/match/792
+CATEGORIES:NA Summer Promotion
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-799
+DTSTART:20130524T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130524T080000Z
+URL:http://www.lolesports.com/tourney/match/799
+SUMMARY:North America LCS Team vs China LPL Team
+DESCRIPTION:North America LCS Team () vs China LPL Team ()\nType : BO3\nTou
+ rnament : All-Star 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/799
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-799
+DTSTART:20130524T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130524T080000Z
+URL:http://www.lolesports.com/tourney/match/799
+SUMMARY:North America LCS Team vs China LPL Team
+DESCRIPTION:North America LCS Team () vs China LPL Team ()\nType : BO3\nTou
+ rnament : All-Star 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/799
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-800
+DTSTART:20130524T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130524T113000Z
+URL:http://www.lolesports.com/tourney/match/800
+SUMMARY:Europe LCS Team vs Korea Champions Team
+DESCRIPTION:Europe LCS Team () vs Korea Champions Team ()\nType : BO3\nTour
+ nament : All-Star 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/800
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-800
+DTSTART:20130524T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130524T113000Z
+URL:http://www.lolesports.com/tourney/match/800
+SUMMARY:Europe LCS Team vs Korea Champions Team
+DESCRIPTION:Europe LCS Team () vs Korea Champions Team ()\nType : BO3\nTour
+ nament : All-Star 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/800
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-801
+DTSTART:20130525T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130525T080000Z
+URL:http://www.lolesports.com/tourney/match/801
+SUMMARY:North America LCS Team vs Europe LCS Team
+DESCRIPTION:North America LCS Team () vs Europe LCS Team ()\nType : BO3\nTo
+ urnament : All-Star 2013\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/801
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-801
+DTSTART:20130525T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130525T080000Z
+URL:http://www.lolesports.com/tourney/match/801
+SUMMARY:North America LCS Team vs Europe LCS Team
+DESCRIPTION:North America LCS Team () vs Europe LCS Team ()\nType : BO3\nTo
+ urnament : All-Star 2013\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/801
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-802
+DTSTART:20130525T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130525T113000Z
+URL:http://www.lolesports.com/tourney/match/802
+SUMMARY:Garena Team vs China LPL Team
+DESCRIPTION:Garena Team () vs China LPL Team ()\nType : BO3\nTournament : A
+ ll-Star 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/802
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-802
+DTSTART:20130525T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130525T113000Z
+URL:http://www.lolesports.com/tourney/match/802
+SUMMARY:Garena Team vs China LPL Team
+DESCRIPTION:Garena Team () vs China LPL Team ()\nType : BO3\nTournament : A
+ ll-Star 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/802
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-803
+DTSTART:20130526T033000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130526T043000Z
+URL:http://www.lolesports.com/tourney/match/803
+SUMMARY:Korea Champions Team vs North America LCS Team
+DESCRIPTION:Korea Champions Team () vs North America LCS Team ()\nType : BO
+ 3\nTournament : All-Star 2013\nWeek : 3\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/803
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-803
+DTSTART:20130526T033000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130526T043000Z
+URL:http://www.lolesports.com/tourney/match/803
+SUMMARY:Korea Champions Team vs North America LCS Team
+DESCRIPTION:Korea Champions Team () vs North America LCS Team ()\nType : BO
+ 3\nTournament : All-Star 2013\nWeek : 3\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/803
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-804
+DTSTART:20130526T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130526T080000Z
+URL:http://www.lolesports.com/tourney/match/804
+SUMMARY:China LPL Team vs Korea Champions Team
+DESCRIPTION:China LPL Team () vs Korea Champions Team ()\nType : BO3\nTourn
+ ament : All-Star 2013\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/804
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-804
+DTSTART:20130526T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130526T080000Z
+URL:http://www.lolesports.com/tourney/match/804
+SUMMARY:China LPL Team vs Korea Champions Team
+DESCRIPTION:China LPL Team () vs Korea Champions Team ()\nType : BO3\nTourn
+ ament : All-Star 2013\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/804
+CATEGORIES:All-Star 2013
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1256
+DTSTART:20130612T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130613T000000Z
+URL:http://www.lolesports.com/tourney/match/1256
+SUMMARY:Counter Logic Gaming vs Velocity Esports
+DESCRIPTION:Counter Logic Gaming (CLG) vs Velocity Esports ()\nType : BO1\n
+ Tournament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/1256
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1259
+DTSTART:20130613T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130613T210000Z
+URL:http://www.lolesports.com/tourney/match/1259
+SUMMARY:Curse vs Velocity Esports
+DESCRIPTION:Curse (CRS) vs Velocity Esports ()\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1259
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1263
+DTSTART:20130614T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130614T010000Z
+URL:http://www.lolesports.com/tourney/match/1263
+SUMMARY:XDG vs Velocity Esports
+DESCRIPTION:XDG (XDG) vs Velocity Esports ()\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1263
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1265
+DTSTART:20130614T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130614T210000Z
+URL:http://www.lolesports.com/tourney/match/1265
+SUMMARY:Velocity Esports vs Team Dignitas
+DESCRIPTION:Velocity Esports () vs Team Dignitas (DIG)\nType : BO1\nTournam
+ ent : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/1265
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1272
+DTSTART:20130615T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T040000Z
+URL:http://www.lolesports.com/tourney/match/1272
+SUMMARY:Velocity Esports vs Cloud 9 
+DESCRIPTION:Velocity Esports () vs Cloud9  (C9)\nType : BO1\nTournament : N
+ A Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1272
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1480
+DTSTART:20130615T164500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130615T174500Z
+URL:http://www.lolesports.com/tourney/match/1480
+SUMMARY:Millenium vs Alliance
+DESCRIPTION: () vs Alliance (ALL)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1480
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1484
+DTSTART:20130616T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T090000Z
+URL:http://www.lolesports.com/tourney/match/1484
+SUMMARY:Millenium vs Lemondogs
+DESCRIPTION: () vs Lemondogs (LD)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1484
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210218Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1488
+DTSTART:20130616T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T140000Z
+URL:http://www.lolesports.com/tourney/match/1488
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1488
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1490
+DTSTART:20130616T154500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130616T164500Z
+URL:http://www.lolesports.com/tourney/match/1490
+SUMMARY:Millenium vs Ninjas in Pyjamas
+DESCRIPTION: () vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1490
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1494
+DTSTART:20130617T181500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130617T191500Z
+URL:http://www.lolesports.com/tourney/match/1494
+SUMMARY:Meet Your Makers vs Millenium
+DESCRIPTION:Mousesports (MOU) vs  ()\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1494
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1274
+DTSTART:20130620T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130620T220000Z
+URL:http://www.lolesports.com/tourney/match/1274
+SUMMARY:Team SoloMid vs Velocity Esports
+DESCRIPTION:Team SoloMid (TSM) vs Velocity Esports ()\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1274
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1502
+DTSTART:20130621T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130621T160000Z
+URL:http://www.lolesports.com/tourney/match/1502
+SUMMARY:Millenium vs Gambit Gaming
+DESCRIPTION: () vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1502
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1279
+DTSTART:20130622T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T010000Z
+URL:http://www.lolesports.com/tourney/match/1279
+SUMMARY:Velocity Esports vs Team Coast
+DESCRIPTION:Velocity Esports () vs Team Coast (CST)\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1279
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1499
+DTSTART:20130622T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130622T170000Z
+URL:http://www.lolesports.com/tourney/match/1499
+SUMMARY:Millenium vs Meet Your Makers
+DESCRIPTION: () vs Mousesports (MOU)\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1499
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1507
+DTSTART:20130623T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130623T160000Z
+URL:http://www.lolesports.com/tourney/match/1507
+SUMMARY:Millenium vs Fnatic
+DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1507
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1282
+DTSTART:20130629T013000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T023000Z
+URL:http://www.lolesports.com/tourney/match/1282
+SUMMARY:Velocity Esports vs Curse
+DESCRIPTION:Velocity Esports () vs Curse (CRS)\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1282
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1511
+DTSTART:20130629T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130629T190000Z
+URL:http://www.lolesports.com/tourney/match/1511
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION: () vs SK Gaming (SK)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1511
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1288
+DTSTART:20130630T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T060000Z
+URL:http://www.lolesports.com/tourney/match/1288
+SUMMARY:Team Coast vs Velocity Esports
+DESCRIPTION:Team Coast (CST) vs Velocity Esports ()\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1288
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1515
+DTSTART:20130630T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130630T190000Z
+URL:http://www.lolesports.com/tourney/match/1515
+SUMMARY:Alliance vs Millenium
+DESCRIPTION:Alliance (ALL) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1515
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1292
+DTSTART:20130701T013000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130701T023000Z
+URL:http://www.lolesports.com/tourney/match/1292
+SUMMARY:Team Dignitas vs Velocity Esports
+DESCRIPTION:Team Dignitas (DIG) vs Velocity Esports ()\nType : BO1\nTournam
+ ent : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/1292
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1294
+DTSTART:20130704T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130704T200000Z
+URL:http://www.lolesports.com/tourney/match/1294
+SUMMARY:Velocity Esports vs Team SoloMid
+DESCRIPTION:Velocity Esports () vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1294
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1299
+DTSTART:20130705T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130705T010000Z
+URL:http://www.lolesports.com/tourney/match/1299
+SUMMARY:Velocity Esports vs Counter Logic Gaming
+DESCRIPTION:Velocity Esports () vs Counter Logic Gaming (CLG)\nType : BO1\n
+ Tournament : NA Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/1299
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1518
+DTSTART:20130706T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130706T180000Z
+URL:http://www.lolesports.com/tourney/match/1518
+SUMMARY:Gambit Gaming vs Millenium
+DESCRIPTION:Gambit Gaming (GMB) vs  ()\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1518
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1523
+DTSTART:20130707T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T150000Z
+URL:http://www.lolesports.com/tourney/match/1523
+SUMMARY:Ninjas in Pyjamas vs Millenium
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs  ()\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1523
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1526
+DTSTART:20130707T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130707T180000Z
+URL:http://www.lolesports.com/tourney/match/1526
+SUMMARY:Fnatic vs Millenium
+DESCRIPTION:Fnatic (FNC) vs  ()\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1526
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1303
+DTSTART:20130711T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130711T230000Z
+URL:http://www.lolesports.com/tourney/match/1303
+SUMMARY:Velocity Esports vs Team Dignitas
+DESCRIPTION:Velocity Esports () vs Team Dignitas (DIG)\nType : BO1\nTournam
+ ent : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/1303
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1305
+DTSTART:20130712T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130712T010000Z
+URL:http://www.lolesports.com/tourney/match/1305
+SUMMARY:Team SoloMid vs Velocity Esports
+DESCRIPTION:Team SoloMid (TSM) vs Velocity Esports ()\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1305
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1309
+DTSTART:20130712T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130712T230000Z
+URL:http://www.lolesports.com/tourney/match/1309
+SUMMARY:Cloud 9  vs Velocity Esports
+DESCRIPTION:Cloud9  (C9) vs Velocity Esports ()\nType : BO1\nTournament : N
+ A Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1309
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1530
+DTSTART:20130713T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130713T170000Z
+URL:http://www.lolesports.com/tourney/match/1530
+SUMMARY:Millenium vs Fnatic
+DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1530
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1535
+DTSTART:20130714T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130714T190000Z
+URL:http://www.lolesports.com/tourney/match/1535
+SUMMARY:Lemondogs vs Millenium
+DESCRIPTION:Lemondogs (LD) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1535
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1540
+DTSTART:20130718T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130718T200000Z
+URL:http://www.lolesports.com/tourney/match/1540
+SUMMARY:Millenium vs Ninjas in Pyjamas
+DESCRIPTION: () vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1540
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1316
+DTSTART:20130718T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T000000Z
+URL:http://www.lolesports.com/tourney/match/1316
+SUMMARY:Counter Logic Gaming vs Velocity Esports
+DESCRIPTION:Counter Logic Gaming (CLG) vs Velocity Esports ()\nType : BO1\n
+ Tournament : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/1316
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1543
+DTSTART:20130719T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130719T190000Z
+URL:http://www.lolesports.com/tourney/match/1543
+SUMMARY:Millenium vs Alliance
+DESCRIPTION: () vs Alliance (ALL)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1543
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1320
+DTSTART:20130720T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T020000Z
+URL:http://www.lolesports.com/tourney/match/1320
+SUMMARY:Velocity Esports vs XDG
+DESCRIPTION:Velocity Esports () vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1320
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1548
+DTSTART:20130720T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130720T200000Z
+URL:http://www.lolesports.com/tourney/match/1548
+SUMMARY:Millenium vs Lemondogs
+DESCRIPTION: () vs Lemondogs (LD)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1548
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1321
+DTSTART:20130725T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130725T210000Z
+URL:http://www.lolesports.com/tourney/match/1321
+SUMMARY:Velocity Esports vs Cloud 9 
+DESCRIPTION:Velocity Esports () vs Cloud9  (C9)\nType : BO1\nTournament : N
+ A Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1321
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1328
+DTSTART:20130726T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130726T220000Z
+URL:http://www.lolesports.com/tourney/match/1328
+SUMMARY:Curse vs Velocity Esports
+DESCRIPTION:Curse (CRS) vs Velocity Esports ()\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1328
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1331
+DTSTART:20130727T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T010000Z
+URL:http://www.lolesports.com/tourney/match/1331
+SUMMARY:Velocity Esports vs Team Coast
+DESCRIPTION:Velocity Esports () vs Team Coast (CST)\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1331
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1551
+DTSTART:20130727T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130727T190000Z
+URL:http://www.lolesports.com/tourney/match/1551
+SUMMARY:Meet Your Makers vs Millenium
+DESCRIPTION:Mousesports (MOU) vs  ()\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1551
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1553
+DTSTART:20130728T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130728T170000Z
+URL:http://www.lolesports.com/tourney/match/1553
+SUMMARY:Millenium vs Gambit Gaming
+DESCRIPTION: () vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1553
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1335
+DTSTART:20130801T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130801T230000Z
+URL:http://www.lolesports.com/tourney/match/1335
+SUMMARY:XDG vs Velocity Esports
+DESCRIPTION:XDG (XDG) vs Velocity Esports ()\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1335
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1338
+DTSTART:20130802T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130802T020000Z
+URL:http://www.lolesports.com/tourney/match/1338
+SUMMARY:Team Coast vs Velocity Esports
+DESCRIPTION:Team Coast (CST) vs Velocity Esports ()\nType : BO1\nTournament
+  : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/1338
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1342
+DTSTART:20130802T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T000000Z
+URL:http://www.lolesports.com/tourney/match/1342
+SUMMARY:Cloud 9  vs Velocity Esports
+DESCRIPTION:Cloud9  (C9) vs Velocity Esports ()\nType : BO1\nTournament : N
+ A Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/1342
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1558
+DTSTART:20130803T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T180000Z
+URL:http://www.lolesports.com/tourney/match/1558
+SUMMARY:SK Gaming vs Millenium
+DESCRIPTION:SK Gaming (SK) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1558
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1561
+DTSTART:20130803T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130803T210000Z
+URL:http://www.lolesports.com/tourney/match/1561
+SUMMARY:Millenium vs Meet Your Makers
+DESCRIPTION: () vs Mousesports (MOU)\nType : BO1\nTournament : EU Season 3 
+ Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
+ ey/match/1561
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1567
+DTSTART:20130804T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130804T170000Z
+URL:http://www.lolesports.com/tourney/match/1567
+SUMMARY:Fnatic vs Millenium
+DESCRIPTION:Fnatic (FNC) vs  ()\nType : BO1\nTournament : EU Season 3 Summe
+ r Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/1567
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1347
+DTSTART:20130814T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130814T230000Z
+URL:http://www.lolesports.com/tourney/match/1347
+SUMMARY:Velocity Esports vs Team SoloMid
+DESCRIPTION:Velocity Esports () vs Team SoloMid (TSM)\nType : BO1\nTourname
+ nt : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/1347
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1569
+DTSTART:20130815T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T130000Z
+URL:http://www.lolesports.com/tourney/match/1569
+SUMMARY:Millenium vs SK Gaming
+DESCRIPTION: () vs SK Gaming (SK)\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1569
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1575
+DTSTART:20130815T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T190000Z
+URL:http://www.lolesports.com/tourney/match/1575
+SUMMARY:Gambit Gaming vs Millenium
+DESCRIPTION:Gambit Gaming (GMB) vs  ()\nType : BO1\nTournament : EU Season 
+ 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/1575
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1352
+DTSTART:20130815T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130815T220000Z
+URL:http://www.lolesports.com/tourney/match/1352
+SUMMARY:Velocity Esports vs Curse
+DESCRIPTION:Velocity Esports () vs Curse (CRS)\nType : BO1\nTournament : NA
+  Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/1352
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1355
+DTSTART:20130816T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T010000Z
+URL:http://www.lolesports.com/tourney/match/1355
+SUMMARY:Velocity Esports vs Counter Logic Gaming
+DESCRIPTION:Velocity Esports () vs Counter Logic Gaming (CLG)\nType : BO1\n
+ Tournament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/1355
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1579
+DTSTART:20130816T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T150000Z
+URL:http://www.lolesports.com/tourney/match/1579
+SUMMARY:Lemondogs vs Millenium
+DESCRIPTION:Lemondogs (LD) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1579
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1358
+DTSTART:20130816T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130816T220000Z
+URL:http://www.lolesports.com/tourney/match/1358
+SUMMARY:Team Dignitas vs Velocity Esports
+DESCRIPTION:Team Dignitas (DIG) vs Velocity Esports ()\nType : BO1\nTournam
+ ent : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lo
+ lesports.com/tourney/match/1358
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1361
+DTSTART:20130817T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T010000Z
+URL:http://www.lolesports.com/tourney/match/1361
+SUMMARY:Velocity Esports vs XDG
+DESCRIPTION:Velocity Esports () vs XDG (XDG)\nType : BO1\nTournament : NA S
+ eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/1361
+CATEGORIES:NA Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1584
+DTSTART:20130817T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T140000Z
+URL:http://www.lolesports.com/tourney/match/1584
+SUMMARY:Ninjas in Pyjamas vs Millenium
+DESCRIPTION:Ninjas in Pyjamas (NIP) vs  ()\nType : BO1\nTournament : EU Sea
+ son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/1584
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1586
+DTSTART:20130817T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130817T160000Z
+URL:http://www.lolesports.com/tourney/match/1586
+SUMMARY:Alliance vs Millenium
+DESCRIPTION:Alliance (ALL) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
+ mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1586
+CATEGORIES:EU Season 3 Summer Split
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1590
+DTSTART:20130823T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130823T120000Z
+URL:http://www.lolesports.com/tourney/match/1590
+SUMMARY:Alliance vs Millenium
+DESCRIPTION:Alliance (ALL) vs  ()\nType : BO3\nTournament : EU Regionals 20
+ 13\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
+ 590
+CATEGORIES:EU Regionals 2013
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1601
+DTSTART:20130915T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130915T200000Z
+URL:http://www.lolesports.com/tourney/match/1601
+SUMMARY:GamingGear.eu vs Team SoloMid
+DESCRIPTION:GamingGear.eu () vs Team SoloMid (TSM)\nType : BO1\nTournament 
+ : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1601
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1604
+DTSTART:20130915T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130915T230000Z
+URL:http://www.lolesports.com/tourney/match/1604
+SUMMARY:Lemondogs vs GamingGear.eu
+DESCRIPTION:Lemondogs (LD) vs GamingGear.eu ()\nType : BO1\nTournament : Gr
+ oup A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/1604
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1622
+DTSTART:20130916T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130916T020000Z
+URL:http://www.lolesports.com/tourney/match/1622
+SUMMARY:Gambit Gaming vs Team Mineski
+DESCRIPTION:Gambit Gaming (GMB) vs Team Mineski ()\nType : BO1\nTournament 
+ : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1622
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1624
+DTSTART:20130916T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130916T040000Z
+URL:http://www.lolesports.com/tourney/match/1624
+SUMMARY:Team Mineski vs Fnatic
+DESCRIPTION:Team Mineski () vs Fnatic (FNC)\nType : BO1\nTournament : Group
+  B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
+ 624
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1626
+DTSTART:20130917T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130917T030000Z
+URL:http://www.lolesports.com/tourney/match/1626
+SUMMARY:Team Mineski vs Samsung Galaxy Ozone
+DESCRIPTION:Team Mineski () vs Samsung White (SSW)\nType : BO1\nTournament 
+ : Group B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1626
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1629
+DTSTART:20130917T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130917T060000Z
+URL:http://www.lolesports.com/tourney/match/1629
+SUMMARY:Team Mineski vs XDG
+DESCRIPTION:Team Mineski () vs XDG (XDG)\nType : BO1\nTournament : Group B\
+ nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1629
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1607
+DTSTART:20130918T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130918T040000Z
+URL:http://www.lolesports.com/tourney/match/1607
+SUMMARY:SK Telecom T1 K vs GamingGear.eu
+DESCRIPTION:SKTelecom T1 (SKT) vs GamingGear.eu ()\nType : BO1\nTournament 
+ : Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1607
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1609
+DTSTART:20130918T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130918T060000Z
+URL:http://www.lolesports.com/tourney/match/1609
+SUMMARY:GamingGear.eu vs OMG
+DESCRIPTION:GamingGear.eu () vs OMG (OMG)\nType : BO1\nTournament : Group A
+ \nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/160
+ 9
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1633
+DTSTART:20130920T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130920T050000Z
+URL:http://www.lolesports.com/tourney/match/1633
+SUMMARY:Team Mineski vs Gambit Gaming
+DESCRIPTION:Team Mineski () vs Gambit Gaming (GMB)\nType : BO1\nTournament 
+ : Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1633
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1635
+DTSTART:20130920T060000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130920T070000Z
+URL:http://www.lolesports.com/tourney/match/1635
+SUMMARY:XDG vs Team Mineski
+DESCRIPTION:XDG (XDG) vs Team Mineski ()\nType : BO1\nTournament : Group B\
+ nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1635
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1612
+DTSTART:20130921T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130921T040000Z
+URL:http://www.lolesports.com/tourney/match/1612
+SUMMARY:OMG vs GamingGear.eu
+DESCRIPTION:OMG (OMG) vs GamingGear.eu ()\nType : BO1\nTournament : Group A
+ \nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/161
+ 2
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1614
+DTSTART:20130921T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130921T060000Z
+URL:http://www.lolesports.com/tourney/match/1614
+SUMMARY:GamingGear.eu vs Lemondogs
+DESCRIPTION:GamingGear.eu () vs Lemondogs (LD)\nType : BO1\nTournament : Gr
+ oup A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
+ h/1614
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1638
+DTSTART:20130921T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130921T220000Z
+URL:http://www.lolesports.com/tourney/match/1638
+SUMMARY:Fnatic vs Team Mineski
+DESCRIPTION:Fnatic (FNC) vs Team Mineski ()\nType : BO1\nTournament : Group
+  B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
+ 638
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1640
+DTSTART:20130921T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130922T000000Z
+URL:http://www.lolesports.com/tourney/match/1640
+SUMMARY:Samsung Galaxy Ozone vs Team Mineski
+DESCRIPTION:Samsung White (SSW) vs Team Mineski ()\nType : BO1\nTournament 
+ : Group B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1640
+CATEGORIES:Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1617
+DTSTART:20130922T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130922T020000Z
+URL:http://www.lolesports.com/tourney/match/1617
+SUMMARY:GamingGear.eu vs SK Telecom T1 K
+DESCRIPTION:GamingGear.eu () vs SKTelecom T1 (SKT)\nType : BO1\nTournament 
+ : Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1617
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1619
+DTSTART:20130922T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130922T040000Z
+URL:http://www.lolesports.com/tourney/match/1619
+SUMMARY:Team SoloMid vs GamingGear.eu
+DESCRIPTION:Team SoloMid (TSM) vs GamingGear.eu ()\nType : BO1\nTournament 
+ : Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/1619
+CATEGORIES:Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1641
+DTSTART:20130925T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20130925T030000Z
+URL:http://www.lolesports.com/tourney/match/1641
+SUMMARY:Gamania Bears vs SK Telecom T1 K
+DESCRIPTION:Gamania Bears () vs SKTelecom T1 (SKT)\nType : BO3\nTournament 
+ : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/1641
+CATEGORIES:World Playoffs
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1920
+DTSTART:20140116T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140117T000000Z
+URL:http://www.lolesports.com/tourney/match/1920
+SUMMARY:Pulse Esports vs Salade Tomate Oignon
+DESCRIPTION:Pulse Esports (PS) vs Salade Tomate Oignon ()\nType : BO1\nTour
+ nament : EU Play in 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/1920
+CATEGORIES:EU Play in 4
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2107
+DTSTART:20140222T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140222T120000Z
+URL:http://www.lolesports.com/tourney/match/2107
+SUMMARY:Positive Energy vs OMG
+DESCRIPTION:Positive Energy () vs OMG (OMG)\nType : BO2\nTournament : LPL R
+ ound Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2107
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2108
+DTSTART:20140223T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140223T090000Z
+URL:http://www.lolesports.com/tourney/match/2108
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2108
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2111
+DTSTART:20140228T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140228T120000Z
+URL:http://www.lolesports.com/tourney/match/2111
+SUMMARY:Positive Energy vs Team WE
+DESCRIPTION:Positive Energy () vs Team WE (WE)\nType : BO2\nTournament : LP
+ L Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2111
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2112
+DTSTART:20140301T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140301T090000Z
+URL:http://www.lolesports.com/tourney/match/2112
+SUMMARY:Invictus Gaming vs Energy PACEMAKER
+DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
+ ment : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2112
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2114
+DTSTART:20140302T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140302T090000Z
+URL:http://www.lolesports.com/tourney/match/2114
+SUMMARY:Positive Energy vs Royal Club
+DESCRIPTION:Positive Energy () vs Star Horn Royal Club (SHR)\nType : BO2\nT
+ ournament : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2114
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2116
+DTSTART:20140307T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140307T090000Z
+URL:http://www.lolesports.com/tourney/match/2116
+SUMMARY:EDward Gaming vs Energy PACEMAKER
+DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
+ ent : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2116
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2119
+DTSTART:20140308T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140308T120000Z
+URL:http://www.lolesports.com/tourney/match/2119
+SUMMARY:Positive Energy vs Invictus Gaming
+DESCRIPTION:Positive Energy () vs Invictus Gaming (iG)\nType : BO2\nTournam
+ ent : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2119
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2121
+DTSTART:20140309T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140309T120000Z
+URL:http://www.lolesports.com/tourney/match/2121
+SUMMARY:Team WE vs Energy PACEMAKER
+DESCRIPTION:Team WE (WE) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
+ PL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2121
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2201
+DTSTART:20140312T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140312T120000Z
+URL:http://www.lolesports.com/tourney/match/2201
+SUMMARY:CJ Entus Frost vs Midas FIO
+DESCRIPTION:CJ ENTUS (CJ) vs Midas FIO ()\nType : BO2\nTournament : OGN Gro
+ up B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /2201
+CATEGORIES:OGN Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2122
+DTSTART:20140314T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140314T090000Z
+URL:http://www.lolesports.com/tourney/match/2122
+SUMMARY:Positive Energy vs EDward Gaming
+DESCRIPTION:Positive Energy () vs Edward Gaming (EDG)\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2122
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2123
+DTSTART:20140314T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140314T120000Z
+URL:http://www.lolesports.com/tourney/match/2123
+SUMMARY:OMG vs Energy PACEMAKER
+DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL 
+ Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2123
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2196
+DTSTART:20140315T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140315T110000Z
+URL:http://www.lolesports.com/tourney/match/2196
+SUMMARY:Prime Optimus vs KT Rolster Arrows
+DESCRIPTION:Prime Optimus () vs KT Rolster Arrows (KTA)\nType : BO2\nTourna
+ ment : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2196
+CATEGORIES:OGN Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2126
+DTSTART:20140316T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140316T090000Z
+URL:http://www.lolesports.com/tourney/match/2126
+SUMMARY:Positive Energy vs Energy PACEMAKER
+DESCRIPTION:Positive Energy () vs Energy PACEMAKER ()\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2126
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2126
+DTSTART:20140316T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140316T090000Z
+URL:http://www.lolesports.com/tourney/match/2126
+SUMMARY:Positive Energy vs Energy PACEMAKER
+DESCRIPTION:Positive Energy () vs Energy PACEMAKER ()\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2126
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2214
+DTSTART:20140319T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140319T120000Z
+URL:http://www.lolesports.com/tourney/match/2214
+SUMMARY:NaJin White Shield  vs Xenics Storm
+DESCRIPTION:Najin e-mFire (NJE) vs Xenics Storm ()\nType : BO2\nTournament 
+ : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2214
+CATEGORIES:OGN Group D
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2197
+DTSTART:20140321T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140321T110000Z
+URL:http://www.lolesports.com/tourney/match/2197
+SUMMARY:SK Telecom T1 K vs Prime Optimus
+DESCRIPTION:SKTelecom T1 (SKT) vs Prime Optimus ()\nType : BO2\nTournament 
+ : OGN Group A\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2197
+CATEGORIES:OGN Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2203
+DTSTART:20140321T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140321T120000Z
+URL:http://www.lolesports.com/tourney/match/2203
+SUMMARY:Incredible Miracle 1 vs Midas FIO
+DESCRIPTION:Incredible Miracle 1 (IM1) vs Midas FIO ()\nType : BO2\nTournam
+ ent : OGN Group B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2203
+CATEGORIES:OGN Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2130
+DTSTART:20140322T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140322T090000Z
+URL:http://www.lolesports.com/tourney/match/2130
+SUMMARY:Positive Energy vs LGD GAMING
+DESCRIPTION:Positive Energy () vs LGD GAMING (LGD)\nType : BO2\nTournament 
+ : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2130
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2215
+DTSTART:20140322T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140322T120000Z
+URL:http://www.lolesports.com/tourney/match/2215
+SUMMARY:Xenics Storm vs Incredible Miracle 2
+DESCRIPTION:Xenics Storm () vs Longzhu Incredible Miracle (IM)\nType : BO2\
+ nTournament : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/2215
+CATEGORIES:OGN Group D
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2132
+DTSTART:20140323T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140323T090000Z
+URL:http://www.lolesports.com/tourney/match/2132
+SUMMARY:Royal Club vs Energy PACEMAKER
+DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
+ Tournament : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lole
+ sports.com/tourney/match/2132
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2135
+DTSTART:20140328T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140328T120000Z
+URL:http://www.lolesports.com/tourney/match/2135
+SUMMARY:Positive Energy vs OMG
+DESCRIPTION:Positive Energy () vs OMG (OMG)\nType : BO2\nTournament : LPL R
+ ound Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2135
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2136
+DTSTART:20140329T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140329T090000Z
+URL:http://www.lolesports.com/tourney/match/2136
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2136
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2139
+DTSTART:20140330T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140330T120000Z
+URL:http://www.lolesports.com/tourney/match/2139
+SUMMARY:Positive Energy vs Team WE
+DESCRIPTION:Positive Energy () vs Team WE (WE)\nType : BO2\nTournament : LP
+ L Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2139
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2217
+DTSTART:20140402T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140402T120000Z
+URL:http://www.lolesports.com/tourney/match/2217
+SUMMARY:CJ Entus Blaze vs Xenics Storm
+DESCRIPTION:CJ Entus Blaze (CJB) vs Xenics Storm ()\nType : BO2\nTournament
+  : OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2217
+CATEGORIES:OGN Group D
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2140
+DTSTART:20140404T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140404T090000Z
+URL:http://www.lolesports.com/tourney/match/2140
+SUMMARY:Invictus Gaming vs Energy PACEMAKER
+DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
+ ment : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/2140
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2200
+DTSTART:20140404T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140404T100000Z
+URL:http://www.lolesports.com/tourney/match/2200
+SUMMARY:Prime Optimus vs SK Telecom T1 S
+DESCRIPTION:Prime Optimus () vs SK Telecom T1 S (SKS)\nType : BO2\nTourname
+ nt : OGN Group A\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2200
+CATEGORIES:OGN Group A
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2206
+DTSTART:20140404T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140404T120000Z
+URL:http://www.lolesports.com/tourney/match/2206
+SUMMARY:Midas FIO vs Samsung Galaxy Ozone
+DESCRIPTION:Midas FIO () vs Samsung White (SSW)\nType : BO2\nTournament : O
+ GN Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/2206
+CATEGORIES:OGN Group B
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2142
+DTSTART:20140405T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140405T090000Z
+URL:http://www.lolesports.com/tourney/match/2142
+SUMMARY:Positive Energy vs Royal Club
+DESCRIPTION:Positive Energy () vs Star Horn Royal Club (SHR)\nType : BO2\nT
+ ournament : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.loles
+ ports.com/tourney/match/2142
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2144
+DTSTART:20140406T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140406T090000Z
+URL:http://www.lolesports.com/tourney/match/2144
+SUMMARY:EDward Gaming vs Energy PACEMAKER
+DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
+ ent : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2144
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2147
+DTSTART:20140411T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140411T120000Z
+URL:http://www.lolesports.com/tourney/match/2147
+SUMMARY:Positive Energy vs Invictus Gaming
+DESCRIPTION:Positive Energy () vs Invictus Gaming (iG)\nType : BO2\nTournam
+ ent : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
+ com/tourney/match/2147
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2149
+DTSTART:20140412T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140412T120000Z
+URL:http://www.lolesports.com/tourney/match/2149
+SUMMARY:Team WE vs Energy PACEMAKER
+DESCRIPTION:Team WE (WE) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
+ PL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
+ rney/match/2149
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2150
+DTSTART:20140413T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140413T090000Z
+URL:http://www.lolesports.com/tourney/match/2150
+SUMMARY:Positive Energy vs EDward Gaming
+DESCRIPTION:Positive Energy () vs Edward Gaming (EDG)\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2150
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2151
+DTSTART:20140413T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140413T120000Z
+URL:http://www.lolesports.com/tourney/match/2151
+SUMMARY:OMG vs Energy PACEMAKER
+DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL 
+ Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
+ y/match/2151
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2154
+DTSTART:20140419T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140419T090000Z
+URL:http://www.lolesports.com/tourney/match/2154
+SUMMARY:Positive Energy vs Energy PACEMAKER
+DESCRIPTION:Positive Energy () vs Energy PACEMAKER ()\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2154
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2154
+DTSTART:20140419T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140419T090000Z
+URL:http://www.lolesports.com/tourney/match/2154
+SUMMARY:Positive Energy vs Energy PACEMAKER
+DESCRIPTION:Positive Energy () vs Energy PACEMAKER ()\nType : BO2\nTourname
+ nt : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
+ om/tourney/match/2154
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210219Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2158
+DTSTART:20140425T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140425T090000Z
+URL:http://www.lolesports.com/tourney/match/2158
+SUMMARY:Positive Energy vs LGD GAMING
+DESCRIPTION:Positive Energy () vs LGD GAMING (LGD)\nType : BO2\nTournament 
+ : LPL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2158
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2160
+DTSTART:20140426T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140426T090000Z
+URL:http://www.lolesports.com/tourney/match/2160
+SUMMARY:Royal Club vs Energy PACEMAKER
+DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
+ Tournament : LPL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lol
+ esports.com/tourney/match/2160
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2846
+DTSTART:20140614T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140614T090000Z
+URL:http://www.lolesports.com/tourney/match/2846
+SUMMARY:Invictus Gaming vs Young Glory
+DESCRIPTION:Invictus Gaming (iG) vs Young Glory ()\nType : BO2\nTournament 
+ : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2846
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2850
+DTSTART:20140620T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140620T090000Z
+URL:http://www.lolesports.com/tourney/match/2850
+SUMMARY:Royal Club vs Young Glory
+DESCRIPTION:Star Horn Royal Club (SHR) vs Young Glory ()\nType : BO2\nTourn
+ ament : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2850
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2854
+DTSTART:20140622T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140622T090000Z
+URL:http://www.lolesports.com/tourney/match/2854
+SUMMARY:Team WE vs Young Glory
+DESCRIPTION:Team WE (WE) vs Young Glory ()\nType : BO2\nTournament : LPL Ro
+ und Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/2854
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2856
+DTSTART:20140627T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140627T090000Z
+URL:http://www.lolesports.com/tourney/match/2856
+SUMMARY:EDward Gaming vs Young Glory
+DESCRIPTION:Edward Gaming (EDG) vs Young Glory ()\nType : BO2\nTournament :
+  LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2856
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2864
+DTSTART:20140705T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140705T090000Z
+URL:http://www.lolesports.com/tourney/match/2864
+SUMMARY:Team WE Academy vs Young Glory
+DESCRIPTION:Team WE Academy (WEA) vs Young Glory ()\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2864
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2866
+DTSTART:20140706T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140706T090000Z
+URL:http://www.lolesports.com/tourney/match/2866
+SUMMARY:LGD GAMING vs Young Glory
+DESCRIPTION:LGD GAMING (LGD) vs Young Glory ()\nType : BO2\nTournament : LP
+ L Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2866
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2872
+DTSTART:20140713T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140713T090000Z
+URL:http://www.lolesports.com/tourney/match/2872
+SUMMARY:OMG vs Young Glory
+DESCRIPTION:OMG (OMG) vs Young Glory ()\nType : BO2\nTournament : LPL Round
+  Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/2872
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2874
+DTSTART:20140719T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140719T090000Z
+URL:http://www.lolesports.com/tourney/match/2874
+SUMMARY:Invictus Gaming vs Young Glory
+DESCRIPTION:Invictus Gaming (iG) vs Young Glory ()\nType : BO2\nTournament 
+ : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/2874
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2878
+DTSTART:20140720T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140720T090000Z
+URL:http://www.lolesports.com/tourney/match/2878
+SUMMARY:Royal Club vs Young Glory
+DESCRIPTION:Star Horn Royal Club (SHR) vs Young Glory ()\nType : BO2\nTourn
+ ament : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/2878
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2882
+DTSTART:20140726T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140726T090000Z
+URL:http://www.lolesports.com/tourney/match/2882
+SUMMARY:Team WE vs Young Glory
+DESCRIPTION:Team WE (WE) vs Young Glory ()\nType : BO2\nTournament : LPL Ro
+ und Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/2882
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2884
+DTSTART:20140727T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140727T090000Z
+URL:http://www.lolesports.com/tourney/match/2884
+SUMMARY:EDward Gaming vs Young Glory
+DESCRIPTION:Edward Gaming (EDG) vs Young Glory ()\nType : BO2\nTournament :
+  LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/2884
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2892
+DTSTART:20140808T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140808T090000Z
+URL:http://www.lolesports.com/tourney/match/2892
+SUMMARY:Team WE Academy vs Young Glory
+DESCRIPTION:Team WE Academy (WEA) vs Young Glory ()\nType : BO2\nTournament
+  : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/2892
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2894
+DTSTART:20140809T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140809T090000Z
+URL:http://www.lolesports.com/tourney/match/2894
+SUMMARY:LGD GAMING vs Young Glory
+DESCRIPTION:LGD GAMING (LGD) vs Young Glory ()\nType : BO2\nTournament : LP
+ L Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/2894
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2900
+DTSTART:20140816T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20140816T090000Z
+URL:http://www.lolesports.com/tourney/match/2900
+SUMMARY:OMG vs Young Glory
+DESCRIPTION:OMG (OMG) vs Young Glory ()\nType : BO2\nTournament : LPL Round
+  Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/2900
+CATEGORIES:LPL Round Robin
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4256
+DTSTART:20150116T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150116T100000Z
+URL:http://www.lolesports.com/tourney/match/4256
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4256
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4263
+DTSTART:20150118T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150118T080000Z
+URL:http://www.lolesports.com/tourney/match/4263
+SUMMARY:OMG vs Energy PACEMAKER
+DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL 
+ Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
+ ch/4263
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4266
+DTSTART:20150123T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150123T060000Z
+URL:http://www.lolesports.com/tourney/match/4266
+SUMMARY:Invictus Gaming vs Energy PACEMAKER
+DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
+ ment : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4266
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4270
+DTSTART:20150124T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150124T060000Z
+URL:http://www.lolesports.com/tourney/match/4270
+SUMMARY:King vs Energy PACEMAKER
+DESCRIPTION:King (KNG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
+  Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4270
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4282
+DTSTART:20150131T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150131T060000Z
+URL:http://www.lolesports.com/tourney/match/4282
+SUMMARY:Energy PACEMAKER vs Gamtee
+DESCRIPTION:Energy PACEMAKER () vs Gamtee (GT)\nType : BO2\nTournament : LP
+ L Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4282
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4291
+DTSTART:20150206T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150206T080000Z
+URL:http://www.lolesports.com/tourney/match/4291
+SUMMARY:Team WE vs Energy PACEMAKER
+DESCRIPTION:Team WE (WE) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
+ PL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4291
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4294
+DTSTART:20150207T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150207T060000Z
+URL:http://www.lolesports.com/tourney/match/4294
+SUMMARY:Snake vs Energy PACEMAKER
+DESCRIPTION:Snake (SS) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
+  Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4294
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4302
+DTSTART:20150213T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150213T060000Z
+URL:http://www.lolesports.com/tourney/match/4302
+SUMMARY:Edward Gaming vs Energy PACEMAKER
+DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
+ ent : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
+ ourney/match/4302
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4311
+DTSTART:20150215T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150215T080000Z
+URL:http://www.lolesports.com/tourney/match/4311
+SUMMARY:Master3 vs Energy PACEMAKER
+DESCRIPTION:Master3 (M3) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
+ PL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/4311
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4314
+DTSTART:20150227T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150227T060000Z
+URL:http://www.lolesports.com/tourney/match/4314
+SUMMARY:Vici Gaming vs Energy PACEMAKER
+DESCRIPTION:Vici Gaming (VG) vs Energy PACEMAKER ()\nType : BO2\nTournament
+  : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4314
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4318
+DTSTART:20150228T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150228T060000Z
+URL:http://www.lolesports.com/tourney/match/4318
+SUMMARY:Star Horn Royal Club vs Energy PACEMAKER
+DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
+ Tournament : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
+ s.com/tourney/match/4318
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4322
+DTSTART:20150301T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150301T060000Z
+URL:http://www.lolesports.com/tourney/match/4322
+SUMMARY:Energy PACEMAKER vs LGD GAMING
+DESCRIPTION:Energy PACEMAKER () vs LGD GAMING (LGD)\nType : BO2\nTournament
+  : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4322
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4331
+DTSTART:20150307T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150307T080000Z
+URL:http://www.lolesports.com/tourney/match/4331
+SUMMARY:Invictus Gaming vs Energy PACEMAKER
+DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
+ ment : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4331
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4334
+DTSTART:20150308T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150308T060000Z
+URL:http://www.lolesports.com/tourney/match/4334
+SUMMARY:Vici Gaming vs Energy PACEMAKER
+DESCRIPTION:Vici Gaming (VG) vs Energy PACEMAKER ()\nType : BO2\nTournament
+  : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/4334
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4341
+DTSTART:20150313T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150313T120000Z
+URL:http://www.lolesports.com/tourney/match/4341
+SUMMARY:King vs Energy PACEMAKER
+DESCRIPTION:King (KNG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
+  Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4341
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4343
+DTSTART:20150314T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150314T080000Z
+URL:http://www.lolesports.com/tourney/match/4343
+SUMMARY:Energy PACEMAKER vs Gamtee
+DESCRIPTION:Energy PACEMAKER () vs Gamtee (GT)\nType : BO2\nTournament : LP
+ L Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/4343
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4358
+DTSTART:20150322T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150322T060000Z
+URL:http://www.lolesports.com/tourney/match/4358
+SUMMARY:Snake vs Energy PACEMAKER
+DESCRIPTION:Snake (SS) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
+  Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4358
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4362
+DTSTART:20150403T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150403T060000Z
+URL:http://www.lolesports.com/tourney/match/4362
+SUMMARY:OMG vs Energy PACEMAKER
+DESCRIPTION:OMG (OMG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL 
+ Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
+ tch/4362
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4366
+DTSTART:20150404T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150404T060000Z
+URL:http://www.lolesports.com/tourney/match/4366
+SUMMARY:Star Horn Royal Club vs Energy PACEMAKER
+DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
+ Tournament : LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4366
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4371
+DTSTART:20150405T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150405T080000Z
+URL:http://www.lolesports.com/tourney/match/4371
+SUMMARY:Team WE vs Energy PACEMAKER
+DESCRIPTION:Team WE (WE) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
+ PL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/4371
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4375
+DTSTART:20150410T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150410T080000Z
+URL:http://www.lolesports.com/tourney/match/4375
+SUMMARY:Master3 vs Energy PACEMAKER
+DESCRIPTION:Master3 (M3) vs Energy PACEMAKER ()\nType : BO2\nTournament : L
+ PL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/4375
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4381
+DTSTART:20150411T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150411T120000Z
+URL:http://www.lolesports.com/tourney/match/4381
+SUMMARY:Edward Gaming vs Energy PACEMAKER
+DESCRIPTION:Edward Gaming (EDG) vs Energy PACEMAKER ()\nType : BO2\nTournam
+ ent : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
+ tourney/match/4381
+CATEGORIES:LPL Spring
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4552
+DTSTART:20150415T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150415T050000Z
+URL:http://www.lolesports.com/tourney/match/4552
+SUMMARY:Energy PACEMAKER vs AD Gaming
+DESCRIPTION:Energy PACEMAKER () vs AD Gaming ()\nType : BO5\nTournament : 2
+ 015 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4552
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4552
+DTSTART:20150415T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150415T050000Z
+URL:http://www.lolesports.com/tourney/match/4552
+SUMMARY:Energy PACEMAKER vs AD Gaming
+DESCRIPTION:Energy PACEMAKER () vs AD Gaming ()\nType : BO5\nTournament : 2
+ 015 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4552
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4553
+DTSTART:20150416T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150416T050000Z
+URL:http://www.lolesports.com/tourney/match/4553
+SUMMARY:Star Horn Royal Club vs Young Glory
+DESCRIPTION:Star Horn Royal Club (SHR) vs Young Glory ()\nType : BO5\nTourn
+ ament : 2015 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www
+ .lolesports.com/tourney/match/4553
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4555
+DTSTART:20150418T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150418T050000Z
+URL:http://www.lolesports.com/tourney/match/4555
+SUMMARY:Master3 vs Energy PACEMAKER
+DESCRIPTION:Master3 (M3) vs Energy PACEMAKER ()\nType : BO5\nTournament : 2
+ 015 LPL Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolespor
+ ts.com/tourney/match/4555
+CATEGORIES:2015 LPL Summer Promotion
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4584
+DTSTART:20150516T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150516T080000Z
+URL:http://www.lolesports.com/tourney/match/4584
+SUMMARY:Samsung Galaxy vs Xenics Storm
+DESCRIPTION:Samsung Galaxy (SSG) vs Xenics Storm ()\nType : BO3\nTournament
+  : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http://
+ www.lolesports.com/tourney/match/4584
+CATEGORIES:2015 LCK Summer Promotion Group B
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4585
+DTSTART:20150516T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150516T100000Z
+URL:http://www.lolesports.com/tourney/match/4585
+SUMMARY:Prime Clan vs Xenics Storm
+DESCRIPTION:SBENU SONICBOOM (SBE) vs Xenics Storm ()\nType : BO3\nTournamen
+ t : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http:/
+ /www.lolesports.com/tourney/match/4585
+CATEGORIES:2015 LCK Summer Promotion Group B
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5349
+DTSTART:20150725T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T100000Z
+URL:http://www.lolesports.com/tourney/match/5349
+SUMMARY:TBD vs Flash Wolves
+DESCRIPTION: () vs Flash Wolves (YFW)\nType : BO5\nTournament : 2015 LMS Su
+ mmer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5349
+CATEGORIES:2015 LMS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5350
+DTSTART:20150726T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T100000Z
+URL:http://www.lolesports.com/tourney/match/5350
+SUMMARY:TBD vs ahq e-Sports Club
+DESCRIPTION: () vs ahq e-Sports Club (AHQ)\nType : BO5\nTournament : 2015 L
+ MS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5350
+CATEGORIES:2015 LMS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5345
+DTSTART:20150805T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150805T170000Z
+URL:http://www.lolesports.com/tourney/match/5345
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5345
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5345
+DTSTART:20150805T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150805T170000Z
+URL:http://www.lolesports.com/tourney/match/5345
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5345
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5341
+DTSTART:20150806T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150806T020000Z
+URL:http://www.lolesports.com/tourney/match/5341
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5341
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5341
+DTSTART:20150806T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150806T020000Z
+URL:http://www.lolesports.com/tourney/match/5341
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5341
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5344
+DTSTART:20150804T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150804T170000Z
+URL:http://www.lolesports.com/tourney/match/5344
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5344
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5344
+DTSTART:20150804T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150804T170000Z
+URL:http://www.lolesports.com/tourney/match/5344
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5344
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5340
+DTSTART:20150805T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150805T020000Z
+URL:http://www.lolesports.com/tourney/match/5340
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5340
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5340
+DTSTART:20150805T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150805T020000Z
+URL:http://www.lolesports.com/tourney/match/5340
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5340
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5329
+DTSTART:20150809T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T160000Z
+URL:http://www.lolesports.com/tourney/match/5329
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 29
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5329
+DTSTART:20150809T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T160000Z
+URL:http://www.lolesports.com/tourney/match/5329
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 29
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5335
+DTSTART:20150809T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T200000Z
+URL:http://www.lolesports.com/tourney/match/5335
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 35
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5335
+DTSTART:20150809T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T200000Z
+URL:http://www.lolesports.com/tourney/match/5335
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 35
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5328
+DTSTART:20150808T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T160000Z
+URL:http://www.lolesports.com/tourney/match/5328
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 28
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5328
+DTSTART:20150808T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T160000Z
+URL:http://www.lolesports.com/tourney/match/5328
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 28
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5334
+DTSTART:20150808T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T200000Z
+URL:http://www.lolesports.com/tourney/match/5334
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 34
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5334
+DTSTART:20150808T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T200000Z
+URL:http://www.lolesports.com/tourney/match/5334
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 34
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5378
+DTSTART:20150810T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150810T040000Z
+URL:http://www.lolesports.com/tourney/match/5378
+SUMMARY:Royal Never Give Up vs Young Glory
+DESCRIPTION:Royal Never Give Up (RNG) vs Young Glory ()\nType : BO5\nTourna
+ ment : 2016 LPL Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/5378
+CATEGORIES:2016 LPL Spring Promotion
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5347
+DTSTART:20150811T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150811T170000Z
+URL:http://www.lolesports.com/tourney/match/5347
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5347
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5347
+DTSTART:20150811T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150811T170000Z
+URL:http://www.lolesports.com/tourney/match/5347
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5347
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5343
+DTSTART:20150812T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150812T020000Z
+URL:http://www.lolesports.com/tourney/match/5343
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5343
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5343
+DTSTART:20150812T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150812T020000Z
+URL:http://www.lolesports.com/tourney/match/5343
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5343
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5346
+DTSTART:20150812T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150812T170000Z
+URL:http://www.lolesports.com/tourney/match/5346
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5346
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5346
+DTSTART:20150812T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150812T170000Z
+URL:http://www.lolesports.com/tourney/match/5346
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU Challenger Summer 
+ Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5346
+CATEGORIES:2015 EU Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5342
+DTSTART:20150813T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150813T020000Z
+URL:http://www.lolesports.com/tourney/match/5342
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5342
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5342
+DTSTART:20150813T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150813T020000Z
+URL:http://www.lolesports.com/tourney/match/5342
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA Challenger Summer 
+ Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
+ atch/5342
+CATEGORIES:2015 NA Challenger Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5331
+DTSTART:20150816T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T160000Z
+URL:http://www.lolesports.com/tourney/match/5331
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 31
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5331
+DTSTART:20150816T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T160000Z
+URL:http://www.lolesports.com/tourney/match/5331
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 31
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5337
+DTSTART:20150816T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T200000Z
+URL:http://www.lolesports.com/tourney/match/5337
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 37
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5337
+DTSTART:20150816T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T200000Z
+URL:http://www.lolesports.com/tourney/match/5337
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 37
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5362
+DTSTART:20150816T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T060000Z
+URL:http://www.lolesports.com/tourney/match/5362
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LMS Regional Qualifie
+ r\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 62
+CATEGORIES:2015 LMS Regional Qualifier
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5362
+DTSTART:20150816T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T060000Z
+URL:http://www.lolesports.com/tourney/match/5362
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LMS Regional Qualifie
+ r\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 62
+CATEGORIES:2015 LMS Regional Qualifier
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5374
+DTSTART:20150816T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T060000Z
+URL:http://www.lolesports.com/tourney/match/5374
+SUMMARY:Edward Gaming vs TBD
+DESCRIPTION:Edward Gaming (EDG) vs  ()\nType : BO5\nTournament : 2015 LPL S
+ ummer Playoffs - Knockout\nWeek : 2\nStream : No\nUrl : http://www.lolespo
+ rts.com/tourney/match/5374
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5375
+DTSTART:20150816T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T100000Z
+URL:http://www.lolesports.com/tourney/match/5375
+SUMMARY:Qiao Gu vs TBD
+DESCRIPTION:Qiao Gu (QG) vs  ()\nType : BO5\nTournament : 2015 LPL Summer P
+ layoffs - Knockout\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
+ /tourney/match/5375
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5330
+DTSTART:20150815T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T160000Z
+URL:http://www.lolesports.com/tourney/match/5330
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 30
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5330
+DTSTART:20150815T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T160000Z
+URL:http://www.lolesports.com/tourney/match/5330
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 30
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5336
+DTSTART:20150815T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T200000Z
+URL:http://www.lolesports.com/tourney/match/5336
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 36
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5336
+DTSTART:20150815T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150815T200000Z
+URL:http://www.lolesports.com/tourney/match/5336
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 36
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5377
+DTSTART:20150817T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150817T100000Z
+URL:http://www.lolesports.com/tourney/match/5377
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LPL Summer Playoffs -
+  Knockout\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5377
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5377
+DTSTART:20150817T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150817T100000Z
+URL:http://www.lolesports.com/tourney/match/5377
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LPL Summer Playoffs -
+  Knockout\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5377
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5352
+DTSTART:20150819T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150819T100000Z
+URL:http://www.lolesports.com/tourney/match/5352
+SUMMARY:TBD vs CJ Entus Blaze
+DESCRIPTION: () vs CJ Entus Blaze (CJB)\nType : BO5\nTournament : 2015 LCK 
+ Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
+ urney/match/5352
+CATEGORIES:2015 LCK Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5353
+DTSTART:20150821T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150821T100000Z
+URL:http://www.lolesports.com/tourney/match/5353
+SUMMARY:TBD vs KT Rolster
+DESCRIPTION: () vs KT Rolster (KT)\nType : BO5\nTournament : 2015 LCK Summe
+ r Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
+ /match/5353
+CATEGORIES:2015 LCK Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5333
+DTSTART:20150822T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150822T160000Z
+URL:http://www.lolesports.com/tourney/match/5333
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 33
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5333
+DTSTART:20150822T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150822T160000Z
+URL:http://www.lolesports.com/tourney/match/5333
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 33
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5339
+DTSTART:20150822T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150822T200000Z
+URL:http://www.lolesports.com/tourney/match/5339
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 39
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5339
+DTSTART:20150822T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150822T200000Z
+URL:http://www.lolesports.com/tourney/match/5339
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 39
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5376
+DTSTART:20150823T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T080000Z
+URL:http://www.lolesports.com/tourney/match/5376
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LPL Summer Playoffs -
+  Knockout\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5376
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150815T210220Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5376
+DTSTART:20150823T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T080000Z
+URL:http://www.lolesports.com/tourney/match/5376
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LPL Summer Playoffs -
+  Knockout\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
+ match/5376
+CATEGORIES:2015 LPL Summer Playoffs - Knockout
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5332
+DTSTART:20150823T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T160000Z
+URL:http://www.lolesports.com/tourney/match/5332
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 32
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5332
+DTSTART:20150823T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T160000Z
+URL:http://www.lolesports.com/tourney/match/5332
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
+ s\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 32
+CATEGORIES:2015 EU LCS Summer Playoffs
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5338
+DTSTART:20150823T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T200000Z
+URL:http://www.lolesports.com/tourney/match/5338
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 38
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5338
+DTSTART:20150823T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T200000Z
+URL:http://www.lolesports.com/tourney/match/5338
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Summer Playoff
+ s\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 38
+CATEGORIES:2015 NA LCS Summer Playoffs
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5354
+DTSTART:20150829T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T090000Z
+URL:http://www.lolesports.com/tourney/match/5354
+SUMMARY:TBD vs SKTelecom T1
+DESCRIPTION: () vs SKTelecom T1 (SKT)\nType : BO5\nTournament : 2015 LCK Su
+ mmer Playoffs\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
+ ney/match/5354
+CATEGORIES:2015 LCK Summer Playoffs
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5363
+DTSTART:20150829T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T160000Z
+URL:http://www.lolesports.com/tourney/match/5363
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5363
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5363
+DTSTART:20150829T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T160000Z
+URL:http://www.lolesports.com/tourney/match/5363
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5363
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5366
+DTSTART:20150829T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T200000Z
+URL:http://www.lolesports.com/tourney/match/5366
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
+ fier\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5366
+CATEGORIES:2015 NA LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5366
+DTSTART:20150829T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T200000Z
+URL:http://www.lolesports.com/tourney/match/5366
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
+ fier\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5366
+CATEGORIES:2015 NA LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5364
+DTSTART:20150830T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150830T160000Z
+URL:http://www.lolesports.com/tourney/match/5364
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5364
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5364
+DTSTART:20150830T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150830T160000Z
+URL:http://www.lolesports.com/tourney/match/5364
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5364
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5367
+DTSTART:20150830T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150830T200000Z
+URL:http://www.lolesports.com/tourney/match/5367
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
+ fier\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5367
+CATEGORIES:2015 NA LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5367
+DTSTART:20150830T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150830T200000Z
+URL:http://www.lolesports.com/tourney/match/5367
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
+ fier\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5367
+CATEGORIES:2015 NA LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5365
+DTSTART:20150831T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T160000Z
+URL:http://www.lolesports.com/tourney/match/5365
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5365
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5365
+DTSTART:20150831T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T160000Z
+URL:http://www.lolesports.com/tourney/match/5365
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Regional Quali
+ fier\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5365
+CATEGORIES:2015 EU LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5368
+DTSTART:20150831T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T200000Z
+URL:http://www.lolesports.com/tourney/match/5368
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
+ fier\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5368
+CATEGORIES:2015 NA LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5368
+DTSTART:20150831T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T200000Z
+URL:http://www.lolesports.com/tourney/match/5368
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
+ fier\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
+ /5368
+CATEGORIES:2015 NA LCS Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5385
+DTSTART:20150902T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150902T100000Z
+URL:http://www.lolesports.com/tourney/match/5385
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 LCK Regional Qualifie
+ r\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 85
+CATEGORIES:2015 LCK Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5385
+DTSTART:20150902T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150902T100000Z
+URL:http://www.lolesports.com/tourney/match/5385
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 LCK Regional Qualifie
+ r\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 85
+CATEGORIES:2015 LCK Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5386
+DTSTART:20150904T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150904T100000Z
+URL:http://www.lolesports.com/tourney/match/5386
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LCK Regional Qualifie
+ r\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 86
+CATEGORIES:2015 LCK Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5386
+DTSTART:20150904T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150904T100000Z
+URL:http://www.lolesports.com/tourney/match/5386
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LCK Regional Qualifie
+ r\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 86
+CATEGORIES:2015 LCK Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5387
+DTSTART:20150905T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150905T100000Z
+URL:http://www.lolesports.com/tourney/match/5387
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LCK Regional Qualifie
+ r\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 87
+CATEGORIES:2015 LCK Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5387
+DTSTART:20150905T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150905T100000Z
+URL:http://www.lolesports.com/tourney/match/5387
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LCK Regional Qualifie
+ r\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
+ 87
+CATEGORIES:2015 LCK Regional Qualifier
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5388
+DTSTART:20150911T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150911T100000Z
+URL:http://www.lolesports.com/tourney/match/5388
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2016 LCK Spring Promotion\
+ nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5388
+CATEGORIES:2016 LCK Spring Promotion
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5388
+DTSTART:20150911T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150911T100000Z
+URL:http://www.lolesports.com/tourney/match/5388
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2016 LCK Spring Promotion\
+ nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5388
+CATEGORIES:2016 LCK Spring Promotion
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5389
+DTSTART:20150912T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150912T100000Z
+URL:http://www.lolesports.com/tourney/match/5389
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2016 LCK Spring Promotion\
+ nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5389
+CATEGORIES:2016 LCK Spring Promotion
+DTSTAMP:20150815T210221Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5389
+DTSTART:20150912T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150912T100000Z
+URL:http://www.lolesports.com/tourney/match/5389
+SUMMARY:TBD vs TBD
+DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2016 LCK Spring Promotion\
+ nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5389
+CATEGORIES:2016 LCK Spring Promotion
+DTSTAMP:20150815T210221Z
+END:VEVENT
+END:VCALENDAR

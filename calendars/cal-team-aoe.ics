@@ -15,7 +15,7 @@ DESCRIPTION:Necrofantasian (NF) vs Area of Effect (AOE)\nType : BO1\nTourna
  ment : NA CS Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2632
 CATEGORIES:NA CS Play In 2
-DTSTAMP:20150814T214338Z
+DTSTAMP:20150815T210331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2632
@@ -29,7 +29,7 @@ DESCRIPTION:Necrofantasian (NF) vs Area of Effect (AOE)\nType : BO1\nTourna
  ment : NA CS Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2632
 CATEGORIES:NA CS Play In 2
-DTSTAMP:20150814T214338Z
+DTSTAMP:20150815T210331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2658
@@ -43,7 +43,7 @@ DESCRIPTION:Team LolPro (PRO) vs Area of Effect (AOE)\nType : BO3\nTourname
  nt : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2658
 CATEGORIES:NA Top 8
-DTSTAMP:20150814T214338Z
+DTSTAMP:20150815T210331Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2985
@@ -57,6 +57,6 @@ DESCRIPTION:Team 8 (T8) vs Area of Effect (AOE)\nType : BO1\nTournament : N
  A CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2985
 CATEGORIES:NA CS Play In 1
-DTSTAMP:20150814T214338Z
+DTSTAMP:20150815T210331Z
 END:VEVENT
 END:VCALENDAR
