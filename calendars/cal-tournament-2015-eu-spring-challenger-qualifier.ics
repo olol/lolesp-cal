@@ -16,7 +16,7 @@ DESCRIPTION:ThunderBot Sparta (TBS) vs Cyber Gaming (CG)\nType : BO3\nTourn
  ament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/4401
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4402
@@ -30,7 +30,7 @@ DESCRIPTION:Annihilon Team (AT) vs SK Gaming Prime (SKP)\nType : BO3\nTourn
  ament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/4402
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4405
@@ -44,7 +44,7 @@ DESCRIPTION:Tricked Esport (TE) vs Copenhagen Wolves Academy (CWA)\nType :
  BO3\nTournament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : 
  No\nUrl : http://www.lolesports.com/tourney/match/4405
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4406
@@ -58,7 +58,7 @@ DESCRIPTION:Fnatic Academy (FNA) vs Different Dimension (DD)\nType : BO3\nT
  ournament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUr
  l : http://www.lolesports.com/tourney/match/4406
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4407
@@ -72,7 +72,7 @@ DESCRIPTION:Millenium Spirit  (MSP) vs Team ROCK (RCK)\nType : BO3\nTournam
  ent : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/4407
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4408
@@ -86,7 +86,7 @@ DESCRIPTION:5 Sins (SIN) vs Origen (OG)\nType : BO3\nTournament : 2015 EU S
  pring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4408
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4403
@@ -100,7 +100,7 @@ DESCRIPTION:Team Refuse (RFS) vs Gamers2 (defunct) (G2)\nType : BO3\nTourna
  ment : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : h
  ttp://www.lolesports.com/tourney/match/4403
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4404
@@ -114,7 +114,7 @@ DESCRIPTION:Nevo (NVO) vs Ragnarok (RGN)\nType : BO3\nTournament : 2015 EU
  Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4404
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4409
@@ -128,7 +128,7 @@ DESCRIPTION:ThunderBot Sparta (TBS) vs SK Gaming Prime (SKP)\nType : BO3\nT
  ournament : 2015 EU Spring Challenger Qualifier\nWeek : 2\nStream : No\nUr
  l : http://www.lolesports.com/tourney/match/4409
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4411
@@ -142,7 +142,7 @@ DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Different Dimension (DD)\nTy
  pe : BO3\nTournament : 2015 EU Spring Challenger Qualifier\nWeek : 2\nStre
  am : No\nUrl : http://www.lolesports.com/tourney/match/4411
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4412
@@ -156,7 +156,7 @@ DESCRIPTION:Millenium Spirit  (MSP) vs Origen (OG)\nType : BO3\nTournament
  : 2015 EU Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/4412
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4410
@@ -170,6 +170,6 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Nevo (NVO)\nType : BO3\nTournament :
  2015 EU Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/4410
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150815T210412Z
+DTSTAMP:20150819T101501Z
 END:VEVENT
 END:VCALENDAR

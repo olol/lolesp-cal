@@ -15,7 +15,7 @@ DESCRIPTION:LMQ (LMQ) vs Team 8 (T8)\nType : BO3\nTournament : NA CS 2 Top
  8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/20
  95
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2096
@@ -29,7 +29,7 @@ DESCRIPTION:Team LolPro (PRO) vs vVv Gaming (vVv)\nType : BO3\nTournament :
   NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2096
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2097
@@ -43,7 +43,7 @@ DESCRIPTION:compLexity.Red (CLR) vs Curse Academy (CA)\nType : BO3\nTournam
  ent : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2097
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2098
@@ -57,7 +57,7 @@ DESCRIPTION:compLexity Black (CLB) vs Cloud9 Tempest (C9T)\nType : BO3\nTou
  rnament : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2098
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2099
@@ -71,7 +71,7 @@ DESCRIPTION:LMQ (LMQ) vs vVv Gaming (vVv)\nType : BO3\nTournament : NA CS 2
   Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/2099
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2100
@@ -85,7 +85,7 @@ DESCRIPTION:Curse Academy (CA) vs Cloud9 Tempest (C9T)\nType : BO3\nTournam
  ent : NA CS 2 Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2100
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2102
@@ -99,7 +99,7 @@ DESCRIPTION:vVv Gaming (vVv) vs Curse Academy (CA)\nType : BO3\nTournament
  : NA CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2102
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2101
@@ -113,6 +113,6 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9 Tempest (C9T)\nType : BO3\nTournament : NA
  CS 2 Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2101
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150815T210318Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 END:VCALENDAR

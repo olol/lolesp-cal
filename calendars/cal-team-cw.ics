@@ -15,7 +15,7 @@ DESCRIPTION:Mousesports (MOU) vs Copenhagen Wolves (CW)\nType : BO5\nTourna
  ment : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1655
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1801
@@ -29,7 +29,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1801
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1804
@@ -43,7 +43,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/1804
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1809
@@ -57,7 +57,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1809
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1813
@@ -71,7 +71,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1813
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1818
@@ -85,7 +85,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1818
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1820
@@ -99,7 +99,7 @@ DESCRIPTION:Alliance (ALL) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1820
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1827
@@ -113,7 +113,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1827
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1829
@@ -127,7 +127,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1829
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1834
@@ -141,7 +141,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/1834
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1836
@@ -155,7 +155,7 @@ DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1836
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1841
@@ -169,7 +169,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1841
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1846
@@ -183,7 +183,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1846
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1848
@@ -197,7 +197,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1848
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101451Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1852
@@ -211,7 +211,7 @@ DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1852
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1859
@@ -225,7 +225,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1859
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1861
@@ -239,7 +239,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1861
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1864
@@ -253,7 +253,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1864
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1870
@@ -267,7 +267,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1870
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1872
@@ -281,7 +281,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/1872
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1879
@@ -295,7 +295,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1879
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1883
@@ -309,7 +309,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1883
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1887
@@ -323,7 +323,7 @@ DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1887
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1888
@@ -337,7 +337,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1888
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1895
@@ -351,7 +351,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1895
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1900
@@ -365,7 +365,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1900
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1905
@@ -379,7 +379,7 @@ DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1905
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1908
@@ -393,7 +393,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/1908
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1911
@@ -407,7 +407,7 @@ DESCRIPTION:Alliance (ALL) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1911
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2163
@@ -421,7 +421,7 @@ DESCRIPTION:Alliance (ALL) vs Copenhagen Wolves (CW)\nType : BO3\nTournamen
  t : EU LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/2163
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2186
@@ -435,7 +435,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO3\nTour
  nament : EU LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2186
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2250
@@ -449,7 +449,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Denial eSports EU (DEFUNCT) (DNE)\nTy
  pe : BO5\nTournament : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl
   : http://www.lolesports.com/tourney/match/2250
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2293
@@ -463,7 +463,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2293
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2297
@@ -477,7 +477,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2297
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2299
@@ -491,7 +491,7 @@ DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2299
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2303
@@ -505,7 +505,7 @@ DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2303
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2308
@@ -519,7 +519,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2308
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2313
@@ -533,7 +533,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2313
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2318
@@ -547,7 +547,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2318
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2320
@@ -561,7 +561,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2320
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2324
@@ -575,7 +575,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2324
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2330
@@ -589,7 +589,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2330
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2332
@@ -603,7 +603,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2332
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2338
@@ -617,7 +617,7 @@ DESCRIPTION:Alliance (ALL) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2338
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2339
@@ -631,7 +631,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2339
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2346
@@ -645,7 +645,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2346
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2349
@@ -659,7 +659,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2349
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2356
@@ -673,7 +673,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/2356
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2358
@@ -687,7 +687,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Alliance (ALL)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2358
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2360
@@ -701,7 +701,7 @@ DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2360
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2366
@@ -715,7 +715,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2366
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2369
@@ -729,7 +729,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2369
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2372
@@ -743,7 +743,7 @@ DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2372
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2376
@@ -757,7 +757,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2376
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2382
@@ -771,7 +771,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2382
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2386
@@ -785,7 +785,7 @@ DESCRIPTION:Alliance (ALL) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2386
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2387
@@ -799,7 +799,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2387
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2390
@@ -813,7 +813,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2390
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2396
@@ -827,7 +827,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2396
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2400
@@ -841,7 +841,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/2400
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3020
@@ -855,7 +855,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : EU LCS Summer Tiebreaker\nWeek : 1\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/3020
 CATEGORIES:EU LCS Summer Tiebreaker
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3009
@@ -869,7 +869,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO5\nTournament : E
  U LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3009
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3348
@@ -883,7 +883,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : E
  U LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3348
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3352
@@ -897,7 +897,7 @@ DESCRIPTION:Giants Gaming (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3352
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3360
@@ -911,7 +911,7 @@ DESCRIPTION:Elements (EL) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
   : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3360
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3365
@@ -925,7 +925,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3365
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3370
@@ -939,7 +939,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3370
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3374
@@ -953,7 +953,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3374
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3380
@@ -967,7 +967,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3380
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3384
@@ -981,7 +981,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3384
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3386
@@ -995,7 +995,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3386
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3393
@@ -1009,7 +1009,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Meet Your Makers (MYM)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3393
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3400
@@ -1023,7 +1023,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3400
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3402
@@ -1037,7 +1037,7 @@ DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3402
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3408
@@ -1051,7 +1051,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Elements (EL)\nType : BO1\nTournament
   : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3408
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3414
@@ -1065,7 +1065,7 @@ DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : E
  U LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3414
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3417
@@ -1079,7 +1079,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Unicorns Of Love (UOL)\nType : BO1\nT
  ournament : EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3417
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3424
@@ -1093,7 +1093,7 @@ DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3424
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3428
@@ -1107,7 +1107,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3428
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3431
@@ -1121,7 +1121,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Giants Gaming (GIA)\nType : BO1\nTour
  nament : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3431
 CATEGORIES:EU LCS Spring
-DTSTAMP:20150815T210240Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4507
@@ -1135,7 +1135,7 @@ DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO5\nTournament : E
  U LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4507
 CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4588
@@ -1149,7 +1149,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
  t : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4588
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4592
@@ -1163,7 +1163,7 @@ DESCRIPTION:Giants Gaming (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4592
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4600
@@ -1177,7 +1177,7 @@ DESCRIPTION:Unicorns Of Love (UOL) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : 2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4600
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4605
@@ -1191,7 +1191,7 @@ DESCRIPTION:Origen (OG) vs Copenhagen Wolves (CW)\nType : BO1\nTournament :
   2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4605
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4610
@@ -1205,7 +1205,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4610
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4613
@@ -1219,7 +1219,7 @@ DESCRIPTION:Elements (EL) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
   : 2015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4613
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4620
@@ -1233,7 +1233,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : 2
  015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4620
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4623
@@ -1247,7 +1247,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4623
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4626
@@ -1261,7 +1261,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4626
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4633
@@ -1275,7 +1275,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Origen (OG)\nType : BO1\nTournament :
   2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4633
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4640
@@ -1289,7 +1289,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4640
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4642
@@ -1303,7 +1303,7 @@ DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4642
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4648
@@ -1317,7 +1317,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Unicorns Of Love (UOL)\nType : BO1\nT
  ournament : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4648
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4654
@@ -1331,7 +1331,7 @@ DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4654
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4657
@@ -1345,7 +1345,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Elements (EL)\nType : BO1\nTournament
   : 2015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4657
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4664
@@ -1359,7 +1359,7 @@ DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : 2
  015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4664
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4668
@@ -1373,7 +1373,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4668
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4671
@@ -1387,6 +1387,6 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Giants Gaming (GIA)\nType : BO1\nTour
  nament : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4671
 CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20150815T210241Z
+DTSTAMP:20150819T101452Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION: () vs  ()\nType : BO3\nTournament : 2015 LCK Regional Qualifie
  r\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  85
 CATEGORIES:2015 LCK Regional Qualifier
-DTSTAMP:20150815T210458Z
+DTSTAMP:20150819T101506Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5386
@@ -29,7 +29,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LCK Regional Qualifie
  r\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  86
 CATEGORIES:2015 LCK Regional Qualifier
-DTSTAMP:20150815T210458Z
+DTSTAMP:20150819T101506Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5387
@@ -43,6 +43,6 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LCK Regional Qualifie
  r\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  87
 CATEGORIES:2015 LCK Regional Qualifier
-DTSTAMP:20150815T210458Z
+DTSTAMP:20150819T101506Z
 END:VEVENT
 END:VCALENDAR

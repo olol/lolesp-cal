@@ -15,7 +15,7 @@ DESCRIPTION:Prime Optimus () vs KT Rolster Arrows (KTA)\nType : BO2\nTourna
  ment : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2196
 CATEGORIES:OGN Group A
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2198
@@ -29,7 +29,7 @@ DESCRIPTION:SK Telecom T1 S (SKS) vs KT Rolster Arrows (KTA)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2198
 CATEGORIES:OGN Group A
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2199
@@ -43,7 +43,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs SKTelecom T1 (SKT)\nType : BO2\nTour
  nament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2199
 CATEGORIES:OGN Group A
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2221
@@ -57,7 +57,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs CJ Entus Blaze (CJB)\nType : BO5\nTo
  urnament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2221
 CATEGORIES:OGN Top 8
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2934
@@ -71,7 +71,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs Jin Air Green Wings (JAG)\nType : BO
  2\nTournament : OGN Group D\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2934
 CATEGORIES:OGN Group D
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2937
@@ -85,7 +85,7 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs KT Rolster Arrows (KTA)\nType : BO2\nTo
  urnament : OGN Group D\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2937
 CATEGORIES:OGN Group D
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2938
@@ -99,7 +99,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs MKZ (MKZ)\nType : BO2\nTournament :
  OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2938
 CATEGORIES:OGN Group D
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2946
@@ -113,7 +113,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs Najin e-mFire (NJE)\nType : BO5\nTou
  rnament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2946
 CATEGORIES:OGN Top 8
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2950
@@ -127,7 +127,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs SK Telecom T1 S (SKS)\nType : BO5\nT
  ournament : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2950
 CATEGORIES:OGN Top 8
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2952
@@ -141,7 +141,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs Samsung Blue (SSB)\nType : BO5\nTour
  nament : OGN Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2952
 CATEGORIES:OGN Top 8
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3033
@@ -155,6 +155,6 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster Arrows (KTA)\nType : BO5\nTou
  rnament : OGN Regional Qualifier\nWeek : 2\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/3033
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150815T210322Z
+DTSTAMP:20150819T101456Z
 END:VEVENT
 END:VCALENDAR

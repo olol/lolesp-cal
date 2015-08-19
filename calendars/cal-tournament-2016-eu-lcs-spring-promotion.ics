@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-2016-eu-lcs-spring-promotion
+X-WR-CALNAME:LoL eSports 2016 eu lcs spring promotion
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5394
+DTSTART:20150905T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150905T130000Z
+URL:http://www.lolesports.com/tourney/match/5394
+SUMMARY:SK Gaming vs Gamers2
+DESCRIPTION:SK Gaming (SK) vs Gamers2 (G2)\nType : BO5\nTournament : 2016 E
+ U LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
+ .com/tourney/match/5394
+CATEGORIES:2016 EU LCS Spring Promotion
+DTSTAMP:20150819T101506Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5395
+DTSTART:20150905T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150905T180000Z
+URL:http://www.lolesports.com/tourney/match/5395
+SUMMARY:Gambit Gaming vs Mousesports
+DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO5\nTournamen
+ t : 2016 EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/5395
+CATEGORIES:2016 EU LCS Spring Promotion
+DTSTAMP:20150819T101506Z
+END:VEVENT
+END:VCALENDAR

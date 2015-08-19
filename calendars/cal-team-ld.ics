@@ -15,7 +15,7 @@ DESCRIPTION:Lemondogs (LD) vs TCM Gaming ()\nType : BO3\nTournament : EU Su
  mmer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/779
 CATEGORIES:EU Summer Promotion
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-783
@@ -29,7 +29,7 @@ DESCRIPTION:Against All Authority () vs Lemondogs (LD)\nType : BO5\nTournam
  ent : EU Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/783
 CATEGORIES:EU Summer Promotion
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1479
@@ -43,7 +43,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Lemondogs (LD)\nType : BO1\nTourname
  nt : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1479
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1484
@@ -57,7 +57,7 @@ DESCRIPTION: () vs Lemondogs (LD)\nType : BO1\nTournament : EU Season 3 Sum
  mer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1484
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1487
@@ -71,7 +71,7 @@ DESCRIPTION:Lemondogs (LD) vs Mousesports (MOU)\nType : BO1\nTournament : E
  U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1487
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1489
@@ -85,7 +85,7 @@ DESCRIPTION:Alliance (ALL) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1489
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1496
@@ -99,7 +99,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Lemondogs (LD)\nType : BO1\nTournament :
   EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1496
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1504
@@ -113,7 +113,7 @@ DESCRIPTION:SK Gaming (SK) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1504
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1498
@@ -127,7 +127,7 @@ DESCRIPTION:Lemondogs (LD) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
  nt : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1498
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1508
@@ -141,7 +141,7 @@ DESCRIPTION:Lemondogs (LD) vs Alliance (ALL)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1508
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1510
@@ -155,7 +155,7 @@ DESCRIPTION:Fnatic (FNC) vs Lemondogs (LD)\nType : BO1\nTournament : EU Sea
  son 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1510
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1516
@@ -169,7 +169,7 @@ DESCRIPTION:Mousesports (MOU) vs Lemondogs (LD)\nType : BO1\nTournament : E
  U Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1516
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1519
@@ -183,7 +183,7 @@ DESCRIPTION:Alliance (ALL) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1519
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1521
@@ -197,7 +197,7 @@ DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
  son 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1521
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1525
@@ -211,7 +211,7 @@ DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
   EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1525
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1532
@@ -225,7 +225,7 @@ DESCRIPTION:Lemondogs (LD) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1532
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101449Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1535
@@ -239,7 +239,7 @@ DESCRIPTION:Lemondogs (LD) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
  mer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1535
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1537
@@ -253,7 +253,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Lemondogs (LD)\nType : BO1\nTournament :
   EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1537
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1544
@@ -267,7 +267,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Lemondogs (LD)\nType : BO1\nTourname
  nt : EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1544
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1548
@@ -281,7 +281,7 @@ DESCRIPTION: () vs Lemondogs (LD)\nType : BO1\nTournament : EU Season 3 Sum
  mer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1548
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1552
@@ -295,7 +295,7 @@ DESCRIPTION:SK Gaming (SK) vs Lemondogs (LD)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1552
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1554
@@ -309,7 +309,7 @@ DESCRIPTION:Fnatic (FNC) vs Lemondogs (LD)\nType : BO1\nTournament : EU Sea
  son 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1554
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1559
@@ -323,7 +323,7 @@ DESCRIPTION:Lemondogs (LD) vs Mousesports (MOU)\nType : BO1\nTournament : E
  U Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1559
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1562
@@ -337,7 +337,7 @@ DESCRIPTION:Lemondogs (LD) vs SK Gaming (SK)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1562
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1566
@@ -351,7 +351,7 @@ DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
   EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1566
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1572
@@ -365,7 +365,7 @@ DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
  son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1572
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1576
@@ -379,7 +379,7 @@ DESCRIPTION:Lemondogs (LD) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTourname
  nt : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/1576
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1579
@@ -393,7 +393,7 @@ DESCRIPTION:Lemondogs (LD) vs  ()\nType : BO1\nTournament : EU Season 3 Sum
  mer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1579
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1582
@@ -407,7 +407,7 @@ DESCRIPTION:Lemondogs (LD) vs Alliance (ALL)\nType : BO1\nTournament : EU S
  eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1582
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1585
@@ -421,7 +421,7 @@ DESCRIPTION:Mousesports (MOU) vs Lemondogs (LD)\nType : BO1\nTournament : E
  U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1585
 CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1591
@@ -435,7 +435,7 @@ DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO3\nTournament :
   EU Regionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1591
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1593
@@ -449,7 +449,7 @@ DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO5\nTournament : EU Reg
  ionals 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1593
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1602
@@ -463,7 +463,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Lemondogs (LD)\nType : BO1\nTournament :
  Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1602
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1604
@@ -477,7 +477,7 @@ DESCRIPTION:Lemondogs (LD) vs GamingGear.eu ()\nType : BO1\nTournament : Gr
  oup A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/1604
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1606
@@ -490,7 +490,7 @@ SUMMARY:Lemondogs vs OMG
 DESCRIPTION:Lemondogs (LD) vs OMG (OMG)\nType : BO1\nTournament : Group A\n
  Week : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1606
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1608
@@ -504,7 +504,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Lemondogs (LD)\nType : BO1\nTournament :
  Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1608
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1611
@@ -518,7 +518,7 @@ DESCRIPTION:Lemondogs (LD) vs SKTelecom T1 (SKT)\nType : BO1\nTournament :
  Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1611
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1614
@@ -532,7 +532,7 @@ DESCRIPTION:GamingGear.eu () vs Lemondogs (LD)\nType : BO1\nTournament : Gr
  oup A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/1614
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1616
@@ -546,7 +546,7 @@ DESCRIPTION:Lemondogs (LD) vs Team SoloMid (TSM)\nType : BO1\nTournament :
  Group A\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1616
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1618
@@ -559,7 +559,7 @@ SUMMARY:OMG vs Lemondogs
 DESCRIPTION:OMG (OMG) vs Lemondogs (LD)\nType : BO1\nTournament : Group A\n
  Week : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1618
 CATEGORIES:Group A
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4554
@@ -573,6 +573,6 @@ DESCRIPTION:Gamtee (GT) vs Legend Dragons (LD)\nType : BO5\nTournament : 20
  15 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4554
 CATEGORIES:2015 LPL Summer Promotion
-DTSTAMP:20150815T210226Z
+DTSTAMP:20150819T101450Z
 END:VEVENT
 END:VCALENDAR

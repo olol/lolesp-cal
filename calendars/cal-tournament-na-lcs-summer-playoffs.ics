@@ -15,7 +15,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO5\nTourname
  nt : NA LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3050
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150815T210346Z
+DTSTAMP:20150819T101458Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3049
@@ -29,7 +29,7 @@ DESCRIPTION:Curse (CRS) vs Counter Logic Gaming (CLG)\nType : BO5\nTourname
  nt : NA LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3049
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150815T210346Z
+DTSTAMP:20150819T101458Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3055
@@ -43,7 +43,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO5\n
  Tournament : NA LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/3055
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150815T210346Z
+DTSTAMP:20150819T101458Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3052
@@ -57,7 +57,7 @@ DESCRIPTION:Team SoloMid (TSM) vs LMQ (LMQ)\nType : BO5\nTournament : NA LC
  S Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3052
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150815T210347Z
+DTSTAMP:20150819T101458Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3051
@@ -71,7 +71,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO5\nTournament : NA LCS Su
  mmer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3051
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150815T210347Z
+DTSTAMP:20150819T101458Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3054
@@ -85,7 +85,7 @@ DESCRIPTION:Curse (CRS) vs LMQ (LMQ)\nType : BO5\nTournament : NA LCS Summe
  r Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3054
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150815T210347Z
+DTSTAMP:20150819T101458Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3053
@@ -99,6 +99,6 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO5\nTournament : NA
   LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3053
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150815T210347Z
+DTSTAMP:20150819T101458Z
 END:VEVENT
 END:VCALENDAR
