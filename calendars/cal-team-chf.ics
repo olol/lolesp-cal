@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-chf
+X-WR-CALNAME:LoL eSports CHF
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-5397
+DTSTART:20150827T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150827T080000Z
+URL:http://www.lolesports.com/tourney/match/5397
+SUMMARY:Chiefs eSports Club vs Bangkok Titans
+DESCRIPTION:Chiefs eSports Club (CHF) vs Bangkok Titans (BKT)\nType : BO1\n
+ Tournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/5397
+CATEGORIES:2015 IWC Turkey-Groups
+DTSTAMP:20150922T133717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5399
+DTSTART:20150827T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150827T100000Z
+URL:http://www.lolesports.com/tourney/match/5399
+SUMMARY:Detonation FocusMe vs Chiefs eSports Club
+DESCRIPTION:Detonation FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
+ O1\nTournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5399
+CATEGORIES:2015 IWC Turkey-Groups
+DTSTAMP:20150922T133717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5401
+DTSTART:20150827T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150827T120000Z
+URL:http://www.lolesports.com/tourney/match/5401
+SUMMARY:Chiefs eSports Club vs Dark Passage
+DESCRIPTION:Chiefs eSports Club (CHF) vs Dark Passage (DP)\nType : BO1\nTou
+ rnament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/5401
+CATEGORIES:2015 IWC Turkey-Groups
+DTSTAMP:20150922T133717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5404
+DTSTART:20150828T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150828T110000Z
+URL:http://www.lolesports.com/tourney/match/5404
+SUMMARY:Bangkok Titans vs Chiefs eSports Club
+DESCRIPTION:Bangkok Titans (BKT) vs Chiefs eSports Club (CHF)\nType : BO1\n
+ Tournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/5404
+CATEGORIES:2015 IWC Turkey-Groups
+DTSTAMP:20150922T133717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5406
+DTSTART:20150828T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150828T130000Z
+URL:http://www.lolesports.com/tourney/match/5406
+SUMMARY:Chiefs eSports Club vs Detonation FocusMe
+DESCRIPTION:Chiefs eSports Club (CHF) vs Detonation FocusMe (DFM)\nType : B
+ O1\nTournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http
+ ://www.lolesports.com/tourney/match/5406
+CATEGORIES:2015 IWC Turkey-Groups
+DTSTAMP:20150922T133717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5407
+DTSTART:20150828T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150828T140000Z
+URL:http://www.lolesports.com/tourney/match/5407
+SUMMARY:Dark Passage vs Chiefs eSports Club
+DESCRIPTION:Dark Passage (DP) vs Chiefs eSports Club (CHF)\nType : BO1\nTou
+ rnament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.
+ lolesports.com/tourney/match/5407
+CATEGORIES:2015 IWC Turkey-Groups
+DTSTAMP:20150922T133717Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5409
+DTSTART:20150829T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T120000Z
+URL:http://www.lolesports.com/tourney/match/5409
+SUMMARY:Chiefs eSports Club vs Bangkok Titans
+DESCRIPTION:Chiefs eSports Club (CHF) vs Bangkok Titans (BKT)\nType : BO5\n
+ Tournament : 2015 IWC Turkey-Finals\nWeek : 1\nStream : No\nUrl : http://w
+ ww.lolesports.com/tourney/match/5409
+CATEGORIES:2015 IWC Turkey-Finals
+DTSTAMP:20150922T133717Z
+END:VEVENT
+END:VCALENDAR

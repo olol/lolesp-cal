@@ -15,7 +15,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO3\nTournament
   : NA Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/772
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150819T101449Z
+DTSTAMP:20150922T133653Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-771
@@ -29,7 +29,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs XDG (XDG)\nType : BO3\nTournament
   : NA Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/771
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150819T101449Z
+DTSTAMP:20150922T133653Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-773
@@ -43,7 +43,7 @@ DESCRIPTION:Team SoloMid (TSM) vs XDG (XDG)\nType : BO3\nTournament : NA Sp
  ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/773
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150819T101449Z
+DTSTAMP:20150922T133653Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-774
@@ -57,7 +57,7 @@ DESCRIPTION:Curse (CRS) vs Team Coast (CST)\nType : BO3\nTournament : NA Sp
  ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/774
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150819T101449Z
+DTSTAMP:20150922T133653Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-776
@@ -71,7 +71,7 @@ DESCRIPTION:Curse (CRS) vs XDG (XDG)\nType : BO3\nTournament : NA Spring Pl
  ayoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/776
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150819T101449Z
+DTSTAMP:20150922T133653Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-775
@@ -85,6 +85,6 @@ DESCRIPTION:Team SoloMid (TSM) vs Team Coast (CST)\nType : BO5\nTournament
  : NA Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/775
 CATEGORIES:NA Spring Playoffs
-DTSTAMP:20150819T101449Z
+DTSTAMP:20150922T133653Z
 END:VEVENT
 END:VCALENDAR

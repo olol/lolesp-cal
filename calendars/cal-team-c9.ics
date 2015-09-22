@@ -15,7 +15,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Astral Poke ()\nType : BO3\nTournament : N
  A Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/789
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-793
@@ -29,7 +29,7 @@ DESCRIPTION:compLexity White (COW) vs Cloud9  (C9)\nType : BO5\nTournament
  : NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/793
 CATEGORIES:NA Summer Promotion
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1255
@@ -43,7 +43,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1255
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1257
@@ -57,7 +57,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1257
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1261
@@ -71,7 +71,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1261
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1266
@@ -85,7 +85,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Coast (CST)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1266
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1272
@@ -99,7 +99,7 @@ DESCRIPTION:Velocity Esports () vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1272
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1273
@@ -113,7 +113,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1273
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1277
@@ -127,7 +127,7 @@ DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1277
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1284
@@ -141,7 +141,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9  (C9)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1284
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1286
@@ -155,7 +155,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1286
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1289
@@ -169,7 +169,7 @@ DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1289
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1295
@@ -183,7 +183,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1295
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1297
@@ -197,7 +197,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1297
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1302
@@ -211,7 +211,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1302
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1306
@@ -225,7 +225,7 @@ DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1306
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1309
@@ -239,7 +239,7 @@ DESCRIPTION:Cloud9  (C9) vs Velocity Esports ()\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1309
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1313
@@ -253,7 +253,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1313
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1318
@@ -267,7 +267,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1318
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1321
@@ -281,7 +281,7 @@ DESCRIPTION:Velocity Esports () vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1321
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1326
@@ -295,7 +295,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Coast (CST)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1326
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1329
@@ -309,7 +309,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1329
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1333
@@ -323,7 +323,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1333
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1339
@@ -337,7 +337,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season
   3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1339
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1342
@@ -351,7 +351,7 @@ DESCRIPTION:Cloud9  (C9) vs Velocity Esports ()\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1342
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1348
@@ -365,7 +365,7 @@ DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA Season 3
   Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/1348
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1351
@@ -379,7 +379,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/1351
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1354
@@ -393,7 +393,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1354
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1357
@@ -407,7 +407,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9  (C9)\nType : BO1\nTournament : NA S
  eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1357
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1364
@@ -421,7 +421,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/1364
 CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1597
@@ -435,7 +435,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO3\nTournament : N
  A Regionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1597
 CATEGORIES:NA Regionals 2013
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1599
@@ -449,7 +449,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO5\nTournament : NA
   Regionals 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1599
 CATEGORIES:NA Regionals 2013
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1644
@@ -463,7 +463,7 @@ DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO3\nTournament : World Pl
  ayoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/1644
 CATEGORIES:World Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1669
@@ -477,7 +477,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1669
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1672
@@ -491,7 +491,7 @@ DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Spri
  ng Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/1672
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1676
@@ -505,7 +505,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1676
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1681
@@ -519,7 +519,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1681
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1691
@@ -533,7 +533,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/1691
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1694
@@ -547,7 +547,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9  (C9)\nType : BO1\nTournament : NA L
  CS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1694
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1696
@@ -561,7 +561,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1696
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1700
@@ -575,7 +575,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1700
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1701
@@ -589,7 +589,7 @@ DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Spri
  ng Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/1701
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1707
@@ -603,7 +603,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Coast (CST)\nType : BO1\nTournament : NA L
  CS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1707
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1709
@@ -617,7 +617,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1709
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1714
@@ -631,7 +631,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1714
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1719
@@ -645,7 +645,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/1719
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1721
@@ -659,7 +659,7 @@ DESCRIPTION:Cloud9  (C9) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1721
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1725
@@ -673,7 +673,7 @@ DESCRIPTION:XDG (XDG) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Spri
  ng Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/1725
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1729
@@ -687,7 +687,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1729
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1733
@@ -701,7 +701,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1733
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1740
@@ -715,7 +715,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/1740
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1743
@@ -729,7 +729,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1743
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1747
@@ -743,7 +743,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1747
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1751
@@ -757,7 +757,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9  (C9)\nType : BO1\nTournament : NA L
  CS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1751
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1756
@@ -771,7 +771,7 @@ DESCRIPTION:Cloud9  (C9) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1756
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1760
@@ -785,7 +785,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Sp
  ring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1760
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1763
@@ -799,7 +799,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/1763
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1765
@@ -813,7 +813,7 @@ DESCRIPTION:Cloud9  (C9) vs XDG (XDG)\nType : BO1\nTournament : NA LCS Spri
  ng Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/1765
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1767
@@ -827,7 +827,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1767
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1775
@@ -841,7 +841,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1775
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1779
@@ -855,7 +855,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Coast (CST)\nType : BO1\nTournament : NA L
  CS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1779
 CATEGORIES:NA LCS Spring Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2189
@@ -869,7 +869,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO3\nTournament : NA LCS Sp
  ring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2189
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2191
@@ -883,7 +883,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO5\nTournament : NA
   LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/2191
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2280
@@ -897,7 +897,7 @@ DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO1\nTournament : All-Star
   2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2280
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2282
@@ -911,7 +911,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Cloud9  (C9)\nType : BO1\nTournament : Al
  l-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2282
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2284
@@ -925,7 +925,7 @@ DESCRIPTION:Cloud9  (C9) vs Taipei Assassins (TPA)\nType : BO1\nTournament
  : All-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2284
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2286
@@ -939,7 +939,7 @@ DESCRIPTION:Cloud9  (C9) vs OMG (OMG)\nType : BO1\nTournament : All-Star 20
  14 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2286
 CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2288
@@ -953,7 +953,7 @@ DESCRIPTION:Cloud9  (C9) vs OMG (OMG)\nType : BO3\nTournament : All-Star 20
  14 Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2288
 CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2515
@@ -967,7 +967,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2515
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2524
@@ -981,7 +981,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2524
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2527
@@ -995,7 +995,7 @@ DESCRIPTION:Cloud9  (C9) vs compLexity Black (CLB)\nType : BO1\nTournament
  : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2527
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2530
@@ -1009,7 +1009,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2530
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2534
@@ -1023,7 +1023,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2534
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2535
@@ -1037,7 +1037,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2535
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2540
@@ -1051,7 +1051,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2540
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2543
@@ -1065,7 +1065,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2543
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2547
@@ -1079,7 +1079,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2547
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2554
@@ -1093,7 +1093,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2554
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2555
@@ -1107,7 +1107,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2555
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2562
@@ -1121,7 +1121,7 @@ DESCRIPTION:Cloud9  (C9) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2562
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2564
@@ -1135,7 +1135,7 @@ DESCRIPTION:compLexity Black (CLB) vs Cloud9  (C9)\nType : BO1\nTournament
  : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2564
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2567
@@ -1149,7 +1149,7 @@ DESCRIPTION:Cloud9  (C9) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2567
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2571
@@ -1163,7 +1163,7 @@ DESCRIPTION:LMQ (LMQ) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/2571
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2574
@@ -1177,7 +1177,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2574
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2580
@@ -1191,7 +1191,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2580
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2586
@@ -1205,7 +1205,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2586
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2588
@@ -1219,7 +1219,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2588
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2594
@@ -1233,7 +1233,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2594
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2596
@@ -1247,7 +1247,7 @@ DESCRIPTION:Cloud9  (C9) vs compLexity Black (CLB)\nType : BO1\nTournament
  : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2596
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2599
@@ -1261,7 +1261,7 @@ DESCRIPTION:Curse (CRS) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Su
  mmer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/2599
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2605
@@ -1275,7 +1275,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2605
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2607
@@ -1289,7 +1289,7 @@ DESCRIPTION:Cloud9  (C9) vs LMQ (LMQ)\nType : BO1\nTournament : NA LCS Summ
  er Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/2607
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2614
@@ -1303,7 +1303,7 @@ DESCRIPTION:Cloud9  (C9) vs Evil Geniuses (EG)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2614
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2611
@@ -1317,7 +1317,7 @@ DESCRIPTION:compLexity Black (CLB) vs Cloud9  (C9)\nType : BO1\nTournament
  : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2611
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2621
@@ -1331,7 +1331,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2621
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2626
@@ -1345,7 +1345,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/2626
 CATEGORIES:NA LCS Summer Split
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3051
@@ -1359,7 +1359,7 @@ DESCRIPTION:Cloud9  (C9) vs Curse (CRS)\nType : BO5\nTournament : NA LCS Su
  mmer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3051
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3053
@@ -1373,7 +1373,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO5\nTournament : NA
   LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/3053
 CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3121
@@ -1387,7 +1387,7 @@ DESCRIPTION:Cloud9  (C9) vs Alliance (ALL)\nType : BO1\nTournament : Group
  D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/31
  21
 CATEGORIES:Group D
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3122
@@ -1401,7 +1401,7 @@ DESCRIPTION:Cloud9  (C9) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament :
  Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3122
 CATEGORIES:Group D
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3124
@@ -1415,7 +1415,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Cloud9  (C9)\nType : BO1\nTournament : G
  roup D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/3124
 CATEGORIES:Group D
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3126
@@ -1429,7 +1429,7 @@ DESCRIPTION:Alliance (ALL) vs Cloud9  (C9)\nType : BO1\nTournament : Group
  D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/31
  26
 CATEGORIES:Group D
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3129
@@ -1443,7 +1443,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Cloud9  (C9)\nType : BO1\nTournament :
  Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3129
 CATEGORIES:Group D
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3131
@@ -1457,7 +1457,7 @@ DESCRIPTION:Cloud9  (C9) vs Najin e-mFire (NJE)\nType : BO1\nTournament : G
  roup D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/3131
 CATEGORIES:Group D
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3134
@@ -1471,7 +1471,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Cloud9  (C9)\nType : BO1\nTournament : G
  roup D\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/3134
 CATEGORIES:Group D
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3090
@@ -1485,7 +1485,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Cloud9  (C9)\nType : BO5\nTournament : Kn
  ockout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3090
 CATEGORIES:Knockout Stage
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3508
@@ -1499,7 +1499,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3508
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3516
@@ -1513,7 +1513,7 @@ DESCRIPTION:Cloud9  (C9) vs Gravity (GV)\nType : BO1\nTournament : NA LCS S
  pring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/3516
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3520
@@ -1527,7 +1527,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Liquid (TL)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3520
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3523
@@ -1541,7 +1541,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3523
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3529
@@ -1555,7 +1555,7 @@ DESCRIPTION:Cloud9  (C9) vs Team 8 (T8)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3529
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3533
@@ -1569,7 +1569,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Coast (CST)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3533
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3540
@@ -1583,7 +1583,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3540
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3543
@@ -1597,7 +1597,7 @@ DESCRIPTION:Winterfox (WFX) vs Cloud9  (C9)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3543
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3550
@@ -1611,7 +1611,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3550
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3553
@@ -1625,7 +1625,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3553
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3558
@@ -1639,7 +1639,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9  (C9)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3558
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3564
@@ -1653,7 +1653,7 @@ DESCRIPTION:Cloud9  (C9) vs Winterfox (WFX)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3564
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3571
@@ -1667,7 +1667,7 @@ DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3571
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3573
@@ -1681,7 +1681,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3573
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3580
@@ -1695,7 +1695,7 @@ DESCRIPTION:Team Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : NA L
  CS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3580
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3587
@@ -1709,7 +1709,7 @@ DESCRIPTION:Team 8 (T8) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3587
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3588
@@ -1723,7 +1723,7 @@ DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS S
  pring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
  h/3588
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3595
@@ -1737,7 +1737,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3595
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4532
@@ -1751,7 +1751,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA LCS Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/4532
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4515
@@ -1765,7 +1765,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Liquid (TL)\nType : BO5\nTournament : NA L
  CS Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4515
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4516
@@ -1779,7 +1779,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO5\nTournament : NA
   LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4516
 CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4676
@@ -1793,7 +1793,7 @@ DESCRIPTION:Cloud9  (C9) vs Team SoloMid (TSM)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4676
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4682
@@ -1807,7 +1807,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4682
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4687
@@ -1821,7 +1821,7 @@ DESCRIPTION:Cloud9  (C9) vs Gravity (GV)\nType : BO1\nTournament : 2015 NA
  LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4687
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4691
@@ -1835,7 +1835,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4691
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4698
@@ -1849,7 +1849,7 @@ DESCRIPTION:Team Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : 2015
   NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4698
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4701
@@ -1863,7 +1863,7 @@ DESCRIPTION:Cloud9  (C9) vs Team 8 (T8)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4701
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4710
@@ -1877,7 +1877,7 @@ DESCRIPTION:Enemy Esports (NME) vs Cloud9  (C9)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4710
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4713
@@ -1891,7 +1891,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4713
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4719
@@ -1905,7 +1905,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dragon Knights (TDK)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4719
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4722
@@ -1919,7 +1919,7 @@ DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4722
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4728
@@ -1933,7 +1933,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Liquid (TL)\nType : BO1\nTournament : 2015
   NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4728
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4732
@@ -1947,7 +1947,7 @@ DESCRIPTION:Team 8 (T8) vs Cloud9  (C9)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4732
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4738
@@ -1961,7 +1961,7 @@ DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO1\nTournament : 2015 NA
  LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/4738
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4742
@@ -1975,7 +1975,7 @@ DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4742
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4746
@@ -1989,7 +1989,7 @@ DESCRIPTION:Cloud9  (C9) vs Enemy Esports (NME)\nType : BO1\nTournament : 2
  015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4746
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4753
@@ -2003,7 +2003,7 @@ DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4753
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4757
@@ -2017,7 +2017,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Cloud9  (C9)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4757
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4763
@@ -2031,7 +2031,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4763
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5357
@@ -2045,6 +2045,6 @@ DESCRIPTION:Team 8 (T8) vs Cloud9  (C9)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/5357
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150819T101450Z
+DTSTAMP:20150922T133654Z
 END:VEVENT
 END:VCALENDAR

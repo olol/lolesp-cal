@@ -16,7 +16,7 @@ DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO5\nTournament : 2015 LPL Su
  mmer Playoffs - Gauntlet\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/5369
 CATEGORIES:2015 LPL Summer Playoffs - Gauntlet
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5370
@@ -30,7 +30,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO5\nTournament : 2015 LP
  L Summer Playoffs - Gauntlet\nWeek : 2\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/5370
 CATEGORIES:2015 LPL Summer Playoffs - Gauntlet
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5371
@@ -44,6 +44,6 @@ DESCRIPTION:Vici Gaming (VG) vs LGD GAMING (LGD)\nType : BO5\nTournament :
  2015 LPL Summer Playoffs - Gauntlet\nWeek : 3\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/5371
 CATEGORIES:2015 LPL Summer Playoffs - Gauntlet
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 END:VCALENDAR

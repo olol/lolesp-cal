@@ -15,7 +15,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
  s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  29
 CATEGORIES:2015 EU LCS Summer Playoffs
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5328
@@ -29,7 +29,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
  s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  28
 CATEGORIES:2015 EU LCS Summer Playoffs
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5331
@@ -43,7 +43,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
  s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  31
 CATEGORIES:2015 EU LCS Summer Playoffs
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5330
@@ -57,7 +57,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
  s\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  30
 CATEGORIES:2015 EU LCS Summer Playoffs
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5333
@@ -71,7 +71,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
  s\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  33
 CATEGORIES:2015 EU LCS Summer Playoffs
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5332
@@ -85,6 +85,6 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 EU LCS Summer Playoff
  s\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  32
 CATEGORIES:2015 EU LCS Summer Playoffs
-DTSTAMP:20150819T101506Z
+DTSTAMP:20150922T133717Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Xenics Storm ()\nType : BO2\nTournament
  : OGN Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2214
 CATEGORIES:OGN Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2216
@@ -29,7 +29,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs CJ Entus Blaze (CJB)\nType : BO2\nTourna
  ment : OGN Group D\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2216
 CATEGORIES:OGN Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2218
@@ -43,7 +43,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Najin e-mFire (NJE)\nType :
  BO2\nTournament : OGN Group D\nWeek : 4\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2218
 CATEGORIES:OGN Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2228
@@ -57,7 +57,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs CJ Entus Blaze (CJB)\nType : BO1\nTourna
  ment : OGN Group D\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2228
 CATEGORIES:OGN Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2222
@@ -71,7 +71,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO5\nTournament
  : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/2222
 CATEGORIES:OGN Top 8
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2224
@@ -85,7 +85,7 @@ DESCRIPTION:CJ Entus Blaze (CJB) vs Najin e-mFire (NJE)\nType : BO5\nTourna
  ment : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2224
 CATEGORIES:OGN Top 8
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2225
@@ -99,7 +99,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Najin e-mFire (NJE)\nType : BO5\nTourname
  nt : OGN Top 8\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2225
 CATEGORIES:OGN Top 8
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2929
@@ -113,7 +113,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Jin Air Falcons (JAF)\nType : BO2\nTourn
  ament : OGN Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2929
 CATEGORIES:OGN Group B
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2930
@@ -127,7 +127,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs NaJin Black Sword (NBS)\nType : BO2\nTou
  rnament : OGN Group B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2930
 CATEGORIES:OGN Group B
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2931
@@ -141,7 +141,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO2\nTournament
  : OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2931
 CATEGORIES:OGN Group B
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2946
@@ -155,7 +155,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs Najin e-mFire (NJE)\nType : BO5\nTou
  rnament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2946
 CATEGORIES:OGN Top 8
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3032
@@ -169,7 +169,7 @@ DESCRIPTION:KT Rolster (KT) vs Najin e-mFire (NJE)\nType : BO5\nTournament
  : OGN Regional Qualifier\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3032
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3033
@@ -183,7 +183,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster Arrows (KTA)\nType : BO5\nTou
  rnament : OGN Regional Qualifier\nWeek : 2\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/3033
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3034
@@ -197,7 +197,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO5\nTourname
  nt : OGN Regional Qualifier\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3034
 CATEGORIES:OGN Regional Qualifier
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3120
@@ -211,7 +211,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KaBuM e-Sports (KBM)\nType : BO1\nTourna
  ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3120
 CATEGORIES:Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3123
@@ -225,7 +225,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Alliance (ALL)\nType : BO1\nTournament :
   Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3123
 CATEGORIES:Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3124
@@ -239,7 +239,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Cloud9  (C9)\nType : BO1\nTournament : G
  roup D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/3124
 CATEGORIES:Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3127
@@ -253,7 +253,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Najin e-mFire (NJE)\nType : BO1\nTourna
  ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3127
 CATEGORIES:Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3128
@@ -267,7 +267,7 @@ DESCRIPTION:Alliance (ALL) vs Najin e-mFire (NJE)\nType : BO1\nTournament :
   Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3128
 CATEGORIES:Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3131
@@ -281,7 +281,7 @@ DESCRIPTION:Cloud9  (C9) vs Najin e-mFire (NJE)\nType : BO1\nTournament : G
  roup D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/3131
 CATEGORIES:Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3134
@@ -295,7 +295,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Cloud9  (C9)\nType : BO1\nTournament : G
  roup D\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
  ch/3134
 CATEGORIES:Group D
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3092
@@ -309,7 +309,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs OMG (OMG)\nType : BO5\nTournament : Knoc
  kout Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3092
 CATEGORIES:Knockout Stage
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3290
@@ -323,7 +323,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : 2015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3290
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3293
@@ -337,7 +337,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO3\nTournament
  : 2015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3293
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3297
@@ -351,7 +351,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Najin e-mFire (NJE)\nType : BO3\nTournament :
  2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/3297
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3302
@@ -365,7 +365,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs Najin e-mFire (NJE)\nType : BO3\nT
  ournament : 2015 LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/3302
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3309
@@ -379,7 +379,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Najin e-mFire (NJE)\nType :
  BO3\nTournament : 2015 LCK Spring Split\nWeek : 4\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/3309
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3311
@@ -393,7 +393,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KOO Tigers (KOO)\nType : BO3\nTournament
   : 2015 LCK Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/3311
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3316
@@ -407,7 +407,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
  ment : 2015 LCK Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3316
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3318
@@ -421,7 +421,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Najin e-mFire (NJE)\nType : BO3\nTourname
  nt : 2015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3318
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3322
@@ -435,7 +435,7 @@ DESCRIPTION:KT Rolster (KT) vs Najin e-mFire (NJE)\nType : BO3\nTournament
  : 2015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3322
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3324
@@ -449,7 +449,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs CJ ENTUS (CJ)\nType : BO3\nTournament :
  2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/3324
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3329
@@ -463,7 +463,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Jin Air Green Wings (JAG)\nType : BO3\nT
  ournament : 2015 LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/3329
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3336
@@ -477,7 +477,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Longzhu Incredible Miracle (IM)\nType :
  BO3\nTournament : 2015 LCK Spring Split\nWeek : 10\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/3336
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3338
@@ -491,7 +491,7 @@ DESCRIPTION:KOO Tigers (KOO) vs Najin e-mFire (NJE)\nType : BO3\nTournament
   : 2015 LCK Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/3338
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3345
@@ -505,7 +505,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Najin e-mFire (NJE)\nType : BO3\nTourna
  ment : 2015 LCK Spring Split\nWeek : 12\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/3345
 CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4934
@@ -519,7 +519,7 @@ DESCRIPTION:Anarchy (ANC) vs Najin e-mFire (NJE)\nType : BO3\nTournament :
  2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4934
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4940
@@ -533,7 +533,7 @@ DESCRIPTION:KOO Tigers (KOO) vs Najin e-mFire (NJE)\nType : BO3\nTournament
   : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4940
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4944
@@ -547,7 +547,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/4944
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4950
@@ -561,7 +561,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Longzhu Incredible Miracle (IM)\nType :
  BO3\nTournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/4950
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4955
@@ -575,7 +575,7 @@ DESCRIPTION:SBENU SONICBOOM (SBE) vs Najin e-mFire (NJE)\nType : BO3\nTourn
  ament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/4955
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4960
@@ -589,7 +589,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
  ment : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/4960
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4968
@@ -603,7 +603,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Najin e-mFire (NJE)\nType : BO3\nTournament :
  2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4968
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4974
@@ -617,7 +617,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs Najin e-mFire (NJE)\nType : BO3\nT
  ournament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/4974
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4977
@@ -631,7 +631,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO3\nTournament
  : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4977
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5285
@@ -645,7 +645,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KT Rolster (KT)\nType : BO3\nTournament
  : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/5285
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5290
@@ -659,7 +659,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Jin Air Green Wings (JAG)\nType : BO3\nT
  ournament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/5290
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5295
@@ -673,7 +673,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Anarchy (ANC)\nType : BO3\nTournament :
  2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/5295
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5298
@@ -687,7 +687,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Najin e-mFire (NJE)\nType : BO3\nTournament :
  2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/5298
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5301
@@ -701,7 +701,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Najin e-mFire (NJE)\nType :
  BO3\nTournament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/5301
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5309
@@ -715,7 +715,7 @@ DESCRIPTION:KOO Tigers (KOO) vs Najin e-mFire (NJE)\nType : BO3\nTournament
   : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/5309
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5314
@@ -729,7 +729,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
  ment : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/5314
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5322
@@ -743,7 +743,7 @@ DESCRIPTION:SBENU SONICBOOM (SBE) vs Najin e-mFire (NJE)\nType : BO3\nTourn
  ament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/5322
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5325
@@ -757,6 +757,6 @@ DESCRIPTION:Najin e-mFire (NJE) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/5325
 CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20150819T101456Z
+DTSTAMP:20150922T133704Z
 END:VEVENT
 END:VCALENDAR

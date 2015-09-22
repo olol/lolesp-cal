@@ -15,7 +15,7 @@ DESCRIPTION:Tricked Esport (TE) vs n!faculty (NF)\nType : BO3\nTournament :
   Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3183
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4405
@@ -29,6 +29,6 @@ DESCRIPTION:Tricked Esport (TE) vs Copenhagen Wolves Academy (CWA)\nType :
  BO3\nTournament : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : 
  No\nUrl : http://www.lolesports.com/tourney/match/4405
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 END:VCALENDAR

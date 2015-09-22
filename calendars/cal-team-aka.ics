@@ -15,7 +15,7 @@ DESCRIPTION:Zenith eSports (ZEN) vs Also Known As (AKA)\nType : BO1\nTourna
  ment : NA CS Play In 2 \nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2988
 CATEGORIES:NA CS Play In 2 
-DTSTAMP:20150819T101458Z
+DTSTAMP:20150922T133706Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5150
@@ -29,6 +29,6 @@ DESCRIPTION:Renegades (RNG) vs Also Known As (AKA)\nType : BO3\nTournament
  : 2015 NA Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/5150
 CATEGORIES:2015 NA Summer Challenger Qualifier
-DTSTAMP:20150819T101458Z
+DTSTAMP:20150922T133706Z
 END:VEVENT
 END:VCALENDAR

@@ -16,7 +16,7 @@ DESCRIPTION:Enemy Esports (NME) vs The Arbiters (ARB)\nType : BO3\nTourname
  nt : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/4386
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4387
@@ -30,7 +30,7 @@ DESCRIPTION:Darkness (DRK) vs BrawL NA (BWL)\nType : BO3\nTournament : 2015
   NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4387
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4390
@@ -44,7 +44,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Team Frostbite (FB)\nType : BO3\nT
  ournament : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUr
  l : http://www.lolesports.com/tourney/match/4390
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4391
@@ -58,7 +58,7 @@ DESCRIPTION:Storm (STR) vs Zenith eSports (ZEN)\nType : BO3\nTournament : 2
  015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/4391
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4392
@@ -72,7 +72,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Infinity (OO)\nType : BO3\nTournam
  ent : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/4392
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4393
@@ -86,7 +86,7 @@ DESCRIPTION:Rock Bottom Gorillas (RBG) vs CLG Black (CLB)\nType : BO3\nTour
  nament : 2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl :
   http://www.lolesports.com/tourney/match/4393
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4388
@@ -100,7 +100,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Roar (RR)\nType : BO3\nTournament : 201
  5 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/4388
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4389
@@ -114,7 +114,7 @@ DESCRIPTION:Team Confound (CON) vs AffNity (AFN)\nType : BO3\nTournament :
  2015 NA Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/4389
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4396
@@ -128,7 +128,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Storm (STR)\nType : BO3\nTournamen
  t : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/4396
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4395
@@ -142,7 +142,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Team Confound (CON)\nType : BO3\nTourna
  ment : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : h
  ttp://www.lolesports.com/tourney/match/4395
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4397
@@ -156,6 +156,6 @@ DESCRIPTION:Team Liquid Academy (TLA) vs CLG Black (CLB)\nType : BO3\nTourn
  ament : 2015 NA Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : 
  http://www.lolesports.com/tourney/match/4397
 CATEGORIES:2015 NA Spring Challenger Qualifier
-DTSTAMP:20150819T101501Z
+DTSTAMP:20150922T133711Z
 END:VEVENT
 END:VCALENDAR

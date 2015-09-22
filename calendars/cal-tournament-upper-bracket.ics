@@ -15,7 +15,7 @@ DESCRIPTION:Final Five (F5) vs Team Fusion (FSN)\nType : BO5\nTournament :
  Upper Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/3173
 CATEGORIES:Upper Bracket
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3174
@@ -29,7 +29,7 @@ DESCRIPTION:Curse Academy (CA) vs Team Coast (CST)\nType : BO5\nTournament
  : Upper Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3174
 CATEGORIES:Upper Bracket
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3175
@@ -43,7 +43,7 @@ DESCRIPTION:Team Fusion (FSN) vs Curse Academy (CA)\nType : BO5\nTournament
   : Upper Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/3175
 CATEGORIES:Upper Bracket
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3191
@@ -57,7 +57,7 @@ DESCRIPTION:Giants Gaming (GIA) vs Reason Gaming (RG)\nType : BO5\nTourname
  nt : Upper Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3191
 CATEGORIES:Upper Bracket
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3192
@@ -71,7 +71,7 @@ DESCRIPTION:H2K (H2K) vs n!faculty (NF)\nType : BO5\nTournament : Upper Bra
  cket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3192
 CATEGORIES:Upper Bracket
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3193
@@ -85,6 +85,6 @@ DESCRIPTION:Giants Gaming (GIA) vs H2K (H2K)\nType : BO5\nTournament : Uppe
  r Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3193
 CATEGORIES:Upper Bracket
-DTSTAMP:20150819T101459Z
+DTSTAMP:20150922T133708Z
 END:VEVENT
 END:VCALENDAR
