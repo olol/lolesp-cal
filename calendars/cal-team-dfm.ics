@@ -15,7 +15,7 @@ DESCRIPTION:Dark Passage (DP) vs Detonation FocusMe (DFM)\nType : BO1\nTour
  nament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/5398
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150922T133717Z
+DTSTAMP:20150930T141719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5399
@@ -29,7 +29,7 @@ DESCRIPTION:Detonation FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
  O1\nTournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/5399
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150922T133717Z
+DTSTAMP:20150930T141719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5402
@@ -43,7 +43,7 @@ DESCRIPTION:Detonation FocusMe (DFM) vs Bangkok Titans (BKT)\nType : BO1\nT
  ournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/5402
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150922T133717Z
+DTSTAMP:20150930T141719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5403
@@ -57,7 +57,7 @@ DESCRIPTION:Detonation FocusMe (DFM) vs Dark Passage (DP)\nType : BO1\nTour
  nament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/5403
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150922T133717Z
+DTSTAMP:20150930T141719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5406
@@ -71,7 +71,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Detonation FocusMe (DFM)\nType : B
  O1\nTournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/5406
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150922T133717Z
+DTSTAMP:20150930T141719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5408
@@ -85,6 +85,6 @@ DESCRIPTION:Bangkok Titans (BKT) vs Detonation FocusMe (DFM)\nType : BO1\nT
  ournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://ww
  w.lolesports.com/tourney/match/5408
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150922T133717Z
+DTSTAMP:20150930T141719Z
 END:VEVENT
 END:VCALENDAR

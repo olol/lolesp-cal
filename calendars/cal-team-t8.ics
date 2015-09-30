@@ -15,7 +15,7 @@ DESCRIPTION:Team 8 (T8) vs Kings of Tilt (KOT)\nType : BO1\nTournament : NA
   CS 2 Play In 5\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2064
 CATEGORIES:NA CS 2 Play In 5
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2095
@@ -29,7 +29,7 @@ DESCRIPTION:LMQ (LMQ) vs Team 8 (T8)\nType : BO3\nTournament : NA CS 2 Top
  8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/20
  95
 CATEGORIES:NA CS 2 Top 8
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2985
@@ -43,7 +43,7 @@ DESCRIPTION:Team 8 (T8) vs Area of Effect (AOE)\nType : BO1\nTournament : N
  A CS Play In 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2985
 CATEGORIES:NA CS Play In 1
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2999
@@ -57,7 +57,7 @@ DESCRIPTION:Team 8 (T8) vs Zenith eSports (ZEN)\nType : BO3\nTournament : N
  A Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/2999
 CATEGORIES:NA Top 8
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3002
@@ -71,7 +71,7 @@ DESCRIPTION:Team Coast (CST) vs Team 8 (T8)\nType : BO3\nTournament : NA To
  p 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
  3002
 CATEGORIES:NA Top 8
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3005
@@ -85,7 +85,7 @@ DESCRIPTION:Team 8 (T8) vs Team LolPro (PRO)\nType : BO3\nTournament : NA T
  op 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3005
 CATEGORIES:NA Top 8
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2683
@@ -99,7 +99,7 @@ DESCRIPTION:Team 8 (T8) vs XDG (XDG)\nType : BO3\nTournament : NA CS Summer
   Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/2683
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2685
@@ -113,7 +113,7 @@ DESCRIPTION:Team Coast (CST) vs Team 8 (T8)\nType : BO3\nTournament : NA CS
   Summer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2685
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2687
@@ -127,7 +127,7 @@ DESCRIPTION:Curse Academy (CA) vs Team 8 (T8)\nType : BO5\nTournament : NA
  CS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2687
 CATEGORIES:NA CS Summer Playoffs
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2707
@@ -141,7 +141,7 @@ DESCRIPTION:compLexity Black (CLB) vs Team 8 (T8)\nType : BO5\nTournament :
   NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2707
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3512
@@ -155,7 +155,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team 8 (T8)\nType : BO1\nTourname
  nt : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3512
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3517
@@ -169,7 +169,7 @@ DESCRIPTION:Team 8 (T8) vs Team SoloMid (TSM)\nType : BO1\nTournament : NA
  LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3517
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3519
@@ -183,7 +183,7 @@ DESCRIPTION:Team 8 (T8) vs Team Coast (CST)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3519
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3526
@@ -197,7 +197,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team 8 (T8)\nType : BO1\nTournament : NA
  LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3526
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3529
@@ -211,7 +211,7 @@ DESCRIPTION:Cloud9  (C9) vs Team 8 (T8)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3529
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3536
@@ -225,7 +225,7 @@ DESCRIPTION:Team 8 (T8) vs Winterfox (WFX)\nType : BO1\nTournament : NA LCS
   Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3536
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3541
@@ -239,7 +239,7 @@ DESCRIPTION:Team 8 (T8) vs Team Liquid (TL)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3541
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3547
@@ -253,7 +253,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team 8 (T8)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3547
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3549
@@ -267,7 +267,7 @@ DESCRIPTION:Team 8 (T8) vs Gravity (GV)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3549
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3556
@@ -281,7 +281,7 @@ DESCRIPTION:Team Coast (CST) vs Team 8 (T8)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3556
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3559
@@ -295,7 +295,7 @@ DESCRIPTION:Team 8 (T8) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
  LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3559
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3567
@@ -309,7 +309,7 @@ DESCRIPTION:Team 8 (T8) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3567
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3572
@@ -323,7 +323,7 @@ DESCRIPTION:Team Liquid (TL) vs Team 8 (T8)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3572
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3574
@@ -337,7 +337,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team 8 (T8)\nType : BO1\nTournament : NA
  LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3574
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3579
@@ -351,7 +351,7 @@ DESCRIPTION:Winterfox (WFX) vs Team 8 (T8)\nType : BO1\nTournament : NA LCS
   Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3579
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3587
@@ -365,7 +365,7 @@ DESCRIPTION:Team 8 (T8) vs Cloud9  (C9)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3587
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3591
@@ -379,7 +379,7 @@ DESCRIPTION:Team 8 (T8) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/3591
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3596
@@ -393,7 +393,7 @@ DESCRIPTION:Gravity (GV) vs Team 8 (T8)\nType : BO1\nTournament : NA LCS Sp
  ring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /3596
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4531
@@ -407,7 +407,7 @@ DESCRIPTION:Team 8 (T8) vs Team Liquid (TL)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/4531
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4679
@@ -421,7 +421,7 @@ DESCRIPTION:Team 8 (T8) vs Team Impulse (TIP)\nType : BO1\nTournament : 201
  5 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4679
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4681
@@ -435,7 +435,7 @@ DESCRIPTION:Team Liquid (TL) vs Team 8 (T8)\nType : BO1\nTournament : 2015
  NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4681
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4689
@@ -449,7 +449,7 @@ DESCRIPTION:Team 8 (T8) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4689
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4695
@@ -463,7 +463,7 @@ DESCRIPTION:Team 8 (T8) vs Team Dignitas (DIG)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4695
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4696
@@ -477,7 +477,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team 8 (T8)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4696
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4701
@@ -491,7 +491,7 @@ DESCRIPTION:Cloud9  (C9) vs Team 8 (T8)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4701
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4709
@@ -505,7 +505,7 @@ DESCRIPTION:Gravity (GV) vs Team 8 (T8)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4709
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4711
@@ -519,7 +519,7 @@ DESCRIPTION:Team 8 (T8) vs Team Dragon Knights (TDK)\nType : BO1\nTournamen
  t : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4711
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4718
@@ -533,7 +533,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Team 8 (T8)\nType : BO1\nTournament : 201
  5 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4718
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4725
@@ -547,7 +547,7 @@ DESCRIPTION:Team 8 (T8) vs Enemy Esports (NME)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4725
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4726
@@ -561,7 +561,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team 8 (T8)\nType : BO1\nTournament : 20
  15 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4726
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4732
@@ -575,7 +575,7 @@ DESCRIPTION:Team 8 (T8) vs Cloud9  (C9)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4732
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4739
@@ -589,7 +589,7 @@ DESCRIPTION:Team 8 (T8) vs Team SoloMid (TSM)\nType : BO1\nTournament : 201
  5 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4739
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4743
@@ -603,7 +603,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team 8 (T8)\nType : BO1\nTournament : 201
  5 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4743
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4750
@@ -617,7 +617,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Team 8 (T8)\nType : BO1\nTournamen
  t : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4750
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4754
@@ -631,7 +631,7 @@ DESCRIPTION:Team 8 (T8) vs Gravity (GV)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/4754
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4760
@@ -645,7 +645,7 @@ DESCRIPTION:Team 8 (T8) vs Team Liquid (TL)\nType : BO1\nTournament : 2015
  NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4760
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4762
@@ -659,7 +659,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team 8 (T8)\nType : BO1\nTourname
  nt : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4762
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5357
@@ -673,7 +673,7 @@ DESCRIPTION:Team 8 (T8) vs Cloud9  (C9)\nType : BO1\nTournament : 2015 NA L
  CS Summer\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/5357
 CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5392
@@ -687,6 +687,6 @@ DESCRIPTION:Team 8 (T8) vs Team Imagine (IMG)\nType : BO5\nTournament : 201
  6 NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/5392
 CATEGORIES:2016 NA LCS Spring Promotion
-DTSTAMP:20150922T133703Z
+DTSTAMP:20150930T141646Z
 END:VEVENT
 END:VCALENDAR

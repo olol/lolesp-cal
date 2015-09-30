@@ -15,7 +15,7 @@ DESCRIPTION:H2K (H2K) vs Heavy Botlane (HB)\nType : BO1\nTournament : EU Pl
  ay in 1\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/1799
 CATEGORIES:EU Play in 1
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141638Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2647
@@ -29,6 +29,6 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Heavy Botlane (HB)\nType : BO1\nTourn
  ament : EU CS Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2647
 CATEGORIES:EU CS Play In 2
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141638Z
 END:VEVENT
 END:VCALENDAR

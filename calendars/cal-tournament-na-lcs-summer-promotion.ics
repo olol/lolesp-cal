@@ -15,7 +15,7 @@ DESCRIPTION:XDG (XDG) vs LMQ (LMQ)\nType : BO5\nTournament : NA LCS Summer
  Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/2257
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150922T133705Z
+DTSTAMP:20150930T141650Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2258
@@ -29,7 +29,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Cloud9 Tempest (C9T)\nType : BO5\nTournam
  ent : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2258
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150922T133705Z
+DTSTAMP:20150930T141650Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2259
@@ -43,7 +43,7 @@ DESCRIPTION:Team Coast (CST) vs compLexity Black (CLB)\nType : BO5\nTournam
  ent : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2259
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150922T133705Z
+DTSTAMP:20150930T141650Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4560
@@ -57,7 +57,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Team Fusion (FSN)\nType : BO5\nTournamen
  t : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4560
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150922T133705Z
+DTSTAMP:20150930T141650Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4561
@@ -71,6 +71,6 @@ DESCRIPTION:Winterfox (WFX) vs Team Dragon Knights (TDK)\nType : BO5\nTourn
  ament : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4561
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150922T133705Z
+DTSTAMP:20150930T141650Z
 END:VEVENT
 END:VCALENDAR

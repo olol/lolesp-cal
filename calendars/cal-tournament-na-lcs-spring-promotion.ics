@@ -15,7 +15,7 @@ DESCRIPTION:Evil Geniuses (EG) vs compLexity Black (CLB)\nType : BO5\nTourn
  ament : NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/1652
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150922T133658Z
+DTSTAMP:20150930T141634Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1653
@@ -29,7 +29,7 @@ DESCRIPTION:Team Coast (CST) vs Cloud9 Tempest (C9T)\nType : BO5\nTournamen
  t : NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1653
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150922T133658Z
+DTSTAMP:20150930T141634Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1654
@@ -43,7 +43,7 @@ DESCRIPTION:Curse (CRS) vs COGnitive Gaming (COG)\nType : BO5\nTournament :
   NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1654
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150922T133658Z
+DTSTAMP:20150930T141634Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2705
@@ -57,7 +57,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Curse Academy (CA)\nType : BO5\nT
  ournament : NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/2705
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150922T133658Z
+DTSTAMP:20150930T141634Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2706
@@ -71,7 +71,7 @@ DESCRIPTION:Evil Geniuses (EG) vs Team Coast (CST)\nType : BO5\nTournament
  : NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2706
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150922T133658Z
+DTSTAMP:20150930T141634Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2707
@@ -85,6 +85,6 @@ DESCRIPTION:compLexity Black (CLB) vs Team 8 (T8)\nType : BO5\nTournament :
   NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2707
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150922T133658Z
+DTSTAMP:20150930T141634Z
 END:VEVENT
 END:VCALENDAR

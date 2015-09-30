@@ -15,7 +15,7 @@ DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1805
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1808
@@ -29,7 +29,7 @@ DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1808
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1810
@@ -43,7 +43,7 @@ DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1810
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1812
@@ -57,7 +57,7 @@ DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1812
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1816
@@ -71,7 +71,7 @@ DESCRIPTION:Millenium (MIL) vs Alliance (ALL)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1816
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1818
@@ -85,7 +85,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1818
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1823
@@ -99,7 +99,7 @@ DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1823
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1833
@@ -113,7 +113,7 @@ DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1833
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1835
@@ -127,7 +127,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1835
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1839
@@ -141,7 +141,7 @@ DESCRIPTION:Alliance (ALL) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1839
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1843
@@ -155,7 +155,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1843
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1845
@@ -169,7 +169,7 @@ DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1845
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1848
@@ -183,7 +183,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1848
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1855
@@ -197,7 +197,7 @@ DESCRIPTION:Millenium (MIL) vs Alliance (ALL)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1855
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1858
@@ -211,7 +211,7 @@ DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1858
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1861
@@ -225,7 +225,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1861
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1866
@@ -239,7 +239,7 @@ DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/1866
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1868
@@ -253,7 +253,7 @@ DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1868
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1874
@@ -267,7 +267,7 @@ DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1874
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1877
@@ -281,7 +281,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1877
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1881
@@ -295,7 +295,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1881
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1884
@@ -309,7 +309,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament
  : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/1884
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1888
@@ -323,7 +323,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1888
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1894
@@ -337,7 +337,7 @@ DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1894
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1899
@@ -351,7 +351,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/1899
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1901
@@ -365,7 +365,7 @@ DESCRIPTION:Alliance (ALL) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1901
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1904
@@ -379,7 +379,7 @@ DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
  S Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/1904
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1907
@@ -393,7 +393,7 @@ DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU
  LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1907
 CATEGORIES:EU LCS Spring Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2248
@@ -407,7 +407,7 @@ DESCRIPTION:Millenium (MIL) vs Ninjas in Pyjamas (NIP)\nType : BO5\nTournam
  ent : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2248
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2292
@@ -421,7 +421,7 @@ DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2292
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2294
@@ -435,7 +435,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2294
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2297
@@ -449,7 +449,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2297
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2304
@@ -463,7 +463,7 @@ DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2304
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2309
@@ -477,7 +477,7 @@ DESCRIPTION:Millenium (MIL) vs Alliance (ALL)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2309
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2312
@@ -491,7 +491,7 @@ DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2312
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2316
@@ -505,7 +505,7 @@ DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2316
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2320
@@ -519,7 +519,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2320
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2325
@@ -533,7 +533,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2325
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2328
@@ -547,7 +547,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2328
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2333
@@ -561,7 +561,7 @@ DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2333
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2337
@@ -575,7 +575,7 @@ DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2337
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2340
@@ -589,7 +589,7 @@ DESCRIPTION:Alliance (ALL) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2340
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2344
@@ -603,7 +603,7 @@ DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2344
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2350
@@ -617,7 +617,7 @@ DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2350
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2353
@@ -631,7 +631,7 @@ DESCRIPTION:ROCCAT (ROC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2353
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2355
@@ -645,7 +645,7 @@ DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2355
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2359
@@ -659,7 +659,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2359
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2365
@@ -673,7 +673,7 @@ DESCRIPTION:Millenium (MIL) vs Alliance (ALL)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2365
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2369
@@ -687,7 +687,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2369
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2373
@@ -701,7 +701,7 @@ DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2373
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2377
@@ -715,7 +715,7 @@ DESCRIPTION:Millenium (MIL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/2377
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2382
@@ -729,7 +729,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2382
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2384
@@ -743,7 +743,7 @@ DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
  S Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2384
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2389
@@ -757,7 +757,7 @@ DESCRIPTION:Millenium (MIL) vs SK Gaming (SK)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2389
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2397
@@ -771,7 +771,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament
  : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/2397
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2398
@@ -785,7 +785,7 @@ DESCRIPTION:Meet Your Makers (MYM) vs Millenium (MIL)\nType : BO1\nTourname
  nt : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2398
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2401
@@ -799,7 +799,7 @@ DESCRIPTION:Alliance (ALL) vs Millenium (MIL)\nType : BO1\nTournament : EU
  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2401
 CATEGORIES:EU LCS Summer Split
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3042
@@ -813,7 +813,7 @@ DESCRIPTION:SK Gaming (SK) vs Millenium (MIL)\nType : BO5\nTournament : EU
  LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3042
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3048
@@ -827,7 +827,7 @@ DESCRIPTION:Millenium (MIL) vs Meet Your Makers (MYM)\nType : BO5\nTourname
  nt : EU LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3048
 CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3011
@@ -841,7 +841,7 @@ DESCRIPTION:Millenium (MIL) vs Unicorns Of Love (UOL)\nType : BO5\nTourname
  nt : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3011
 CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3184
@@ -855,6 +855,6 @@ DESCRIPTION:Millenium (MIL) vs Giants Gaming (GIA)\nType : BO3\nTournament
  : Single Elimination Bracket\nWeek : 2\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/3184
 CATEGORIES:Single Elimination Bracket
-DTSTAMP:20150922T133659Z
+DTSTAMP:20150930T141637Z
 END:VEVENT
 END:VCALENDAR

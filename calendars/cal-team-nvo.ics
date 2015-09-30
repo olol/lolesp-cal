@@ -15,7 +15,7 @@ DESCRIPTION:Nevo (NVO) vs Ragnarok (RGN)\nType : BO3\nTournament : 2015 EU
  Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4404
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150922T133712Z
+DTSTAMP:20150930T141709Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4410
@@ -29,6 +29,6 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Nevo (NVO)\nType : BO3\nTournament :
  2015 EU Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/4410
 CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20150922T133712Z
+DTSTAMP:20150930T141709Z
 END:VEVENT
 END:VCALENDAR

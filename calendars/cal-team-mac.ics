@@ -15,7 +15,7 @@ DESCRIPTION:Machi (MAC) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament
  : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4881
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4884
@@ -29,7 +29,7 @@ DESCRIPTION:Machi (MAC) vs Assassin Sniper (AS)\nType : BO2\nTournament : 2
  015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4884
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4889
@@ -43,7 +43,7 @@ DESCRIPTION:Machi (MAC) vs Hong Kong Esports (HKE)\nType : BO2\nTournament
  : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4889
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4893
@@ -57,7 +57,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (MAC)\nType : BO2\nTournam
  ent : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4893
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4895
@@ -71,7 +71,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Machi (MAC)\nType : BO2\nTournament
  : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4895
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4900
@@ -85,7 +85,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Machi (MAC)\nType : BO2\nTournament :
   2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4900
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4904
@@ -99,7 +99,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Machi (MAC)\nType : BO2\nTournament : 201
  5 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/4904
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4908
@@ -113,7 +113,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (MAC)\nType : BO2\nTournament
  : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4908
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4912
@@ -127,7 +127,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Machi (MAC)\nType : BO2\nTournament : 2
  015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4912
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4916
@@ -141,7 +141,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Machi (MAC)\nType : BO2\nTournament
  : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4916
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4923
@@ -155,7 +155,7 @@ DESCRIPTION:Machi (MAC) vs Midnight Sun e-Sports (MSE)\nType : BO2\nTournam
  ent : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4923
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4919
@@ -169,7 +169,7 @@ DESCRIPTION:Machi (MAC) vs Logitech G Sniper (LGS)\nType : BO2\nTournament
  : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/4919
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4928
@@ -183,7 +183,7 @@ DESCRIPTION:Machi (MAC) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
   2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4928
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4932
@@ -197,6 +197,6 @@ DESCRIPTION:Machi (MAC) vs Flash Wolves (YFW)\nType : BO2\nTournament : 201
  5 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/4932
 CATEGORIES:2015 LMS Summer
-DTSTAMP:20150922T133714Z
+DTSTAMP:20150930T141713Z
 END:VEVENT
 END:VCALENDAR
