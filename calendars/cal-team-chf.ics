@@ -15,7 +15,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Bangkok Titans (BKT)\nType : BO1\n
  Tournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/5397
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5399
@@ -29,7 +29,7 @@ DESCRIPTION:Detonation FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
  O1\nTournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/5399
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5401
@@ -43,7 +43,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Dark Passage (DP)\nType : BO1\nTou
  rnament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/5401
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5404
@@ -57,7 +57,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs Chiefs eSports Club (CHF)\nType : BO1\n
  Tournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/5404
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5406
@@ -71,7 +71,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Detonation FocusMe (DFM)\nType : B
  O1\nTournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/5406
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5407
@@ -85,7 +85,7 @@ DESCRIPTION:Dark Passage (DP) vs Chiefs eSports Club (CHF)\nType : BO1\nTou
  rnament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/5407
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5409
@@ -99,6 +99,6 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Bangkok Titans (BKT)\nType : BO5\n
  Tournament : 2015 IWC Turkey-Finals\nWeek : 1\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/5409
 CATEGORIES:2015 IWC Turkey-Finals
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:NaJin Black Sword (NBS) vs Jin Air Falcons (JAF)\nType : BO2\nT
  ournament : OGN Group C\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2207
 CATEGORIES:OGN Group C
-DTSTAMP:20150930T141648Z
+DTSTAMP:20151001T130203Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2208
@@ -29,7 +29,7 @@ DESCRIPTION:Samsung Blue (SSB) vs Jin Air Falcons (JAF)\nType : BO2\nTourna
  ment : OGN Group C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2208
 CATEGORIES:OGN Group C
-DTSTAMP:20150930T141648Z
+DTSTAMP:20151001T130203Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2211
@@ -43,7 +43,7 @@ DESCRIPTION:Jin Air Falcons (JAF) vs KT Rolster (KT)\nType : BO2\nTournamen
  t : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2211
 CATEGORIES:OGN Group C
-DTSTAMP:20150930T141648Z
+DTSTAMP:20151001T130203Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2929
@@ -57,7 +57,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs Jin Air Falcons (JAF)\nType : BO2\nTourn
  ament : OGN Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2929
 CATEGORIES:OGN Group B
-DTSTAMP:20150930T141648Z
+DTSTAMP:20151001T130203Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2932
@@ -71,7 +71,7 @@ DESCRIPTION:KT Rolster (KT) vs Jin Air Falcons (JAF)\nType : BO2\nTournamen
  t : OGN Group B\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/2932
 CATEGORIES:OGN Group B
-DTSTAMP:20150930T141648Z
+DTSTAMP:20151001T130203Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2933
@@ -85,6 +85,6 @@ DESCRIPTION:NaJin Black Sword (NBS) vs Jin Air Falcons (JAF)\nType : BO2\nT
  ournament : OGN Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2933
 CATEGORIES:OGN Group B
-DTSTAMP:20150930T141648Z
+DTSTAMP:20151001T130203Z
 END:VEVENT
 END:VCALENDAR

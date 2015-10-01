@@ -15,7 +15,7 @@ DESCRIPTION:Tick Trick and Duck (TTD) vs Team For Nothing (T4N)\nType : BO1
  \nTournament : EU Play in 2\nWeek : 2\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1914
 CATEGORIES:EU Play in 2
-DTSTAMP:20150930T141638Z
+DTSTAMP:20151001T130154Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1946
@@ -29,7 +29,7 @@ DESCRIPTION:Tick Trick and Duck (TTD) vs Storm Games Clan (SGC)\nType : BO3
  \nTournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/1946
 CATEGORIES:EU Top 8
-DTSTAMP:20150930T141638Z
+DTSTAMP:20151001T130154Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1949
@@ -43,7 +43,7 @@ DESCRIPTION:Ninjas in Pyjamas (NIP) vs Tick Trick and Duck (TTD)\nType : BO
  3\nTournament : EU Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1949
 CATEGORIES:EU Top 8
-DTSTAMP:20150930T141638Z
+DTSTAMP:20151001T130154Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1952
@@ -57,6 +57,6 @@ DESCRIPTION:Tick Trick and Duck (TTD) vs Mousesports (MOU)\nType : BO3\nTou
  rnament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1952
 CATEGORIES:EU Top 8
-DTSTAMP:20150930T141638Z
+DTSTAMP:20151001T130154Z
 END:VEVENT
 END:VCALENDAR

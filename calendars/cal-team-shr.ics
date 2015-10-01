@@ -15,7 +15,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs OMG (OMG)\nType : BO3\nTournament
   : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/1643
 CATEGORIES:World Playoffs
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1646
@@ -29,7 +29,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Fnatic (FNC)\nType : BO5\nTournam
  ent : World Playoffs\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1646
 CATEGORIES:World Playoffs
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1647
@@ -43,7 +43,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Star Horn Royal Club (SHR)\nType : BO5\nT
  ournament : World Playoffs\nWeek : 9\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/1647
 CATEGORIES:World Playoffs
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2109
@@ -57,7 +57,7 @@ DESCRIPTION:Team WE (WE) vs Star Horn Royal Club (SHR)\nType : BO2\nTournam
  ent : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2109
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2113
@@ -71,7 +71,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2113
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2114
@@ -85,7 +85,7 @@ DESCRIPTION:Positive Energy () vs Star Horn Royal Club (SHR)\nType : BO2\nT
  ournament : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2114
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2120
@@ -99,7 +99,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
  nTournament : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2120
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2124
@@ -113,7 +113,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
  rnament : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2124
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2128
@@ -127,7 +127,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Edward Gaming (EDG)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2128
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2132
@@ -141,7 +141,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2132
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2137
@@ -155,7 +155,7 @@ DESCRIPTION:Team WE (WE) vs Star Horn Royal Club (SHR)\nType : BO2\nTournam
  ent : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2137
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2141
@@ -169,7 +169,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2141
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2142
@@ -183,7 +183,7 @@ DESCRIPTION:Positive Energy () vs Star Horn Royal Club (SHR)\nType : BO2\nT
  ournament : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2142
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2148
@@ -197,7 +197,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
  rnament : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2148
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2152
@@ -211,7 +211,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
  nTournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2152
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2156
@@ -225,7 +225,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Edward Gaming (EDG)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2156
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2160
@@ -239,7 +239,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2160
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2848
@@ -253,7 +253,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Star Horn Royal Club (SHR)\nType : BO2\nTou
  rnament : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2848
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2850
@@ -267,7 +267,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Young Glory ()\nType : BO2\nTourn
  ament : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2850
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2857
@@ -281,7 +281,7 @@ DESCRIPTION:Team WE (WE) vs Star Horn Royal Club (SHR)\nType : BO2\nTournam
  ent : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2857
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2858
@@ -295,7 +295,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team WE Academy (WEA)\nType : BO2
  \nTournament : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/2858
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2862
@@ -309,7 +309,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2862
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2865
@@ -323,7 +323,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2865
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2868
@@ -337,7 +337,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Star Horn Royal Club (SHR)\nType : BO2\
  nTournament : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2868
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2876
@@ -351,7 +351,7 @@ DESCRIPTION:LGD GAMING (LGD) vs Star Horn Royal Club (SHR)\nType : BO2\nTou
  rnament : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/2876
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2878
@@ -365,7 +365,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Young Glory ()\nType : BO2\nTourn
  ament : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2878
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2885
@@ -379,7 +379,7 @@ DESCRIPTION:Team WE (WE) vs Star Horn Royal Club (SHR)\nType : BO2\nTournam
  ent : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2885
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2886
@@ -393,7 +393,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team WE Academy (WEA)\nType : BO2
  \nTournament : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/2886
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2890
@@ -407,7 +407,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2890
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2893
@@ -421,7 +421,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/2893
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2896
@@ -435,7 +435,7 @@ DESCRIPTION:Invictus Gaming (iG) vs Star Horn Royal Club (SHR)\nType : BO2\
  nTournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/2896
 CATEGORIES:LPL Round Robin
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3070
@@ -449,7 +449,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO5\nTournament
   : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3070
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3072
@@ -463,7 +463,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO5\nTou
  rnament : LPL Summer Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/3072
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3073
@@ -477,7 +477,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO5\nTournament
   : LPL Summer Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3073
 CATEGORIES:LPL Summer Top 4
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3036
@@ -491,7 +491,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO3\nTou
  rnament : LPL Regional Qualifier Upper\nWeek : 1\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/3036
 CATEGORIES:LPL Regional Qualifier Upper
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3037
@@ -505,7 +505,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO3\nTournament
   : LPL Regional Qualifier Upper\nWeek : 2\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/3037
 CATEGORIES:LPL Regional Qualifier Upper
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3040
@@ -519,7 +519,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO3\n
  Tournament : LPL Regional Qualifier Seed\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/3040
 CATEGORIES:LPL Regional Qualifier Seed
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3097
@@ -533,7 +533,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Star Horn Royal Club (SHR)\nType : BO
  1\nTournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3097
 CATEGORIES:Group B
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3098
@@ -547,7 +547,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team SoloMid (TSM)\nType : BO1\nT
  ournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3098
 CATEGORIES:Group B
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3100
@@ -561,7 +561,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs SK Gaming (SK)\nType : BO1\nTourn
  ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3100
 CATEGORIES:Group B
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3102
@@ -575,7 +575,7 @@ DESCRIPTION:SK Gaming (SK) vs Star Horn Royal Club (SHR)\nType : BO1\nTourn
  ament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3102
 CATEGORIES:Group B
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3105
@@ -589,7 +589,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Star Horn Royal Club (SHR)\nType : BO1\nT
  ournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/3105
 CATEGORIES:Group B
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3106
@@ -603,7 +603,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Taipei Assassins (TPA)\nType : BO
  1\nTournament : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3106
 CATEGORIES:Group B
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3091
@@ -617,7 +617,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Edward Gaming (EDG)\nType : BO5\n
  Tournament : Knockout Stage\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3091
 CATEGORIES:Knockout Stage
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3094
@@ -631,7 +631,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs OMG (OMG)\nType : BO5\nTournament
   : Knockout Stage\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/3094
 CATEGORIES:Knockout Stage
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3095
@@ -645,7 +645,7 @@ DESCRIPTION:Samsung White (SSW) vs Star Horn Royal Club (SHR)\nType : BO5\n
  Tournament : Knockout Stage\nWeek : 3\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3095
 CATEGORIES:Knockout Stage
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4258
@@ -659,7 +659,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Master3 (M3)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4258
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4264
@@ -673,7 +673,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4264
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4267
@@ -687,7 +687,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4267
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4275
@@ -701,7 +701,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Gamtee (GT)\nType : BO2\nTourname
  nt : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4275
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4279
@@ -715,7 +715,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs King (KNG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4279
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4289
@@ -729,7 +729,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4289
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4293
@@ -743,7 +743,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Vici Gaming (VG)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4293
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4297
@@ -757,7 +757,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team WE (WE)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4297
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4307
@@ -771,7 +771,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
  nTournament : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4307
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4310
@@ -785,7 +785,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Snake (SS)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4310
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4318
@@ -799,7 +799,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
  Tournament : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4318
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4324
@@ -813,7 +813,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Master3 (M3)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4324
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4327
@@ -827,7 +827,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs LGD GAMING (LGD)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4327
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4337
@@ -841,7 +841,7 @@ DESCRIPTION:OMG (OMG) vs Star Horn Royal Club (SHR)\nType : BO2\nTournament
   : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/4337
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4338
@@ -855,7 +855,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Gamtee (GT)\nType : BO2\nTourname
  nt : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4338
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4346
@@ -869,7 +869,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs King (KNG)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/4346
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4353
@@ -883,7 +883,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Star Horn Royal Club (SHR)\nType : BO2\n
  Tournament : LPL Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/4353
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4360
@@ -897,7 +897,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Team WE (WE)\nType : BO2\nTournam
  ent : LPL Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/4360
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4364
@@ -911,7 +911,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Vici Gaming (VG)\nType : BO2\nTou
  rnament : LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/4364
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4366
@@ -925,7 +925,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Energy PACEMAKER ()\nType : BO2\n
  Tournament : LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/4366
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4376
@@ -939,7 +939,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
  nTournament : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/4376
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4379
@@ -953,7 +953,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Snake (SS)\nType : BO2\nTournamen
  t : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/4379
 CATEGORIES:LPL Spring
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4553
@@ -967,7 +967,7 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Young Glory ()\nType : BO5\nTourn
  ament : 2015 LPL Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/4553
 CATEGORIES:2015 LPL Summer Promotion
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4556
@@ -981,6 +981,6 @@ DESCRIPTION:Star Horn Royal Club (SHR) vs Gamtee (GT)\nType : BO5\nTourname
  nt : 2015 LPL Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lo
  lesports.com/tourney/match/4556
 CATEGORIES:2015 LPL Summer Promotion
-DTSTAMP:20150930T141631Z
+DTSTAMP:20151001T130148Z
 END:VEVENT
 END:VCALENDAR

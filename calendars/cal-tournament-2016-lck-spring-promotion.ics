@@ -14,7 +14,7 @@ SUMMARY:TBD vs TBD
 DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2016 LCK Spring Promotion\
  nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5388
 CATEGORIES:2016 LCK Spring Promotion
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5389
@@ -27,6 +27,6 @@ SUMMARY:TBD vs TBD
 DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2016 LCK Spring Promotion\
  nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5389
 CATEGORIES:2016 LCK Spring Promotion
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 END:VCALENDAR

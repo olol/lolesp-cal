@@ -15,7 +15,7 @@ DESCRIPTION:Curse (CRS) vs COGnitive Gaming (COG)\nType : BO5\nTournament :
   NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/1654
 CATEGORIES:NA LCS Spring Promotion
-DTSTAMP:20150930T141634Z
+DTSTAMP:20151001T130151Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1940
@@ -29,7 +29,7 @@ DESCRIPTION:COGnitive Gaming (COG) vs vVv Gaming (vVv)\nType : BO3\nTournam
  ent : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/1940
 CATEGORIES:NA Top 8
-DTSTAMP:20150930T141634Z
+DTSTAMP:20151001T130151Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1942
@@ -43,7 +43,7 @@ DESCRIPTION:compLexity Black (CLB) vs COGnitive Gaming (COG)\nType : BO3\nT
  ournament : NA Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/1942
 CATEGORIES:NA Top 8
-DTSTAMP:20150930T141634Z
+DTSTAMP:20151001T130151Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1944
@@ -57,7 +57,7 @@ DESCRIPTION:compLexity.Red (CLR) vs COGnitive Gaming (COG)\nType : BO3\nTou
  rnament : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1944
 CATEGORIES:NA Top 8
-DTSTAMP:20150930T141634Z
+DTSTAMP:20151001T130151Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3001
@@ -71,6 +71,6 @@ DESCRIPTION:Team LolPro (PRO) vs COGnitive Gaming (COG)\nType : BO3\nTourna
  ment : NA Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3001
 CATEGORIES:NA Top 8
-DTSTAMP:20150930T141634Z
+DTSTAMP:20151001T130151Z
 END:VEVENT
 END:VCALENDAR

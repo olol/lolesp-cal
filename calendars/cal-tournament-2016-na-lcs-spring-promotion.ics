@@ -15,7 +15,7 @@ DESCRIPTION:Enemy Esports (NME) vs Team Coast (CST)\nType : BO5\nTournament
   : 2016 NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/5391
 CATEGORIES:2016 NA LCS Spring Promotion
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5392
@@ -29,6 +29,6 @@ DESCRIPTION:Team 8 (T8) vs Team Imagine (IMG)\nType : BO5\nTournament : 201
  6 NA LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/5392
 CATEGORIES:2016 NA LCS Spring Promotion
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 END:VCALENDAR

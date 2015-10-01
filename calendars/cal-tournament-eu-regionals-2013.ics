@@ -15,7 +15,7 @@ DESCRIPTION:Alliance (ALL) vs  ()\nType : BO3\nTournament : EU Regionals 20
  13\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
  590
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150930T141628Z
+DTSTAMP:20151001T130146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1589
@@ -29,7 +29,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO3\nTou
  rnament : EU Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/1589
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150930T141628Z
+DTSTAMP:20151001T130146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1592
@@ -43,7 +43,7 @@ DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO3\nTournament : EU Reg
  ionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1592
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150930T141628Z
+DTSTAMP:20151001T130146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1591
@@ -57,7 +57,7 @@ DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO3\nTournament :
   EU Regionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1591
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150930T141628Z
+DTSTAMP:20151001T130146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1594
@@ -71,7 +71,7 @@ DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO3\nTournament :
   EU Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/1594
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150930T141628Z
+DTSTAMP:20151001T130146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1593
@@ -85,6 +85,6 @@ DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO5\nTournament : EU Reg
  ionals 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/1593
 CATEGORIES:EU Regionals 2013
-DTSTAMP:20150930T141628Z
+DTSTAMP:20151001T130146Z
 END:VEVENT
 END:VCALENDAR

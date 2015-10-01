@@ -15,7 +15,7 @@ DESCRIPTION:HongKong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO5\nT
  ournament : 2015 LMS Regional Qualifier\nWeek : 1\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/5360
 CATEGORIES:2015 LMS Regional Qualifier
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130230Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5361
@@ -29,7 +29,7 @@ DESCRIPTION:Flash Wolves (YFW) vs Midnight Sun e-Sports (MSE)\nType : BO5\n
  Tournament : 2015 LMS Regional Qualifier\nWeek : 1\nStream : No\nUrl : htt
  p://www.lolesports.com/tourney/match/5361
 CATEGORIES:2015 LMS Regional Qualifier
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130230Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5362
@@ -43,6 +43,6 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 LMS Regional Qualifie
  r\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/53
  62
 CATEGORIES:2015 LMS Regional Qualifier
-DTSTAMP:20150930T141718Z
+DTSTAMP:20151001T130230Z
 END:VEVENT
 END:VCALENDAR

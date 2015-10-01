@@ -15,7 +15,7 @@ DESCRIPTION:Playing Ducks (PD) vs ThunderBot Sparta (TBS)\nType : BO1\nTour
  nament : EU CS Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/2968
 CATEGORIES:EU CS Play In 3
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130209Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2977
@@ -29,6 +29,6 @@ DESCRIPTION:Gamers2 (defunct) (G2) vs Playing Ducks (PD)\nType : BO3\nTourn
  ament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2977
 CATEGORIES:EU Top 8
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130209Z
 END:VEVENT
 END:VCALENDAR

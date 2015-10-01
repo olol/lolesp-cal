@@ -15,7 +15,7 @@ DESCRIPTION:GG Call Nash (CN) vs Lublin Shore (LBS)\nType : BO1\nTournament
   : EU CS Play In 3\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2650
 CATEGORIES:EU CS Play In 3
-DTSTAMP:20150930T141651Z
+DTSTAMP:20151001T130206Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2975
@@ -29,6 +29,6 @@ DESCRIPTION:H2K (H2K) vs GG Call Nash (CN)\nType : BO3\nTournament : EU Top
   8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/2
  975
 CATEGORIES:EU Top 8
-DTSTAMP:20150930T141651Z
+DTSTAMP:20151001T130206Z
 END:VEVENT
 END:VCALENDAR

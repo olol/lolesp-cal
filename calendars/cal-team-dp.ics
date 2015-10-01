@@ -15,7 +15,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Dark Passage (DP)\nType : BO1\nTourname
  nt : IWC Gamescom Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/3058
 CATEGORIES:IWC Gamescom Round Robin
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3060
@@ -29,7 +29,7 @@ DESCRIPTION:Russian Force (RF) vs Dark Passage (DP)\nType : BO1\nTournament
   : IWC Gamescom Round Robin\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3060
 CATEGORIES:IWC Gamescom Round Robin
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3061
@@ -43,7 +43,7 @@ DESCRIPTION:Dark Passage (DP) vs Legacy eSports (LGC)\nType : BO1\nTourname
  nt : IWC Gamescom Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/3061
 CATEGORIES:IWC Gamescom Round Robin
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3063
@@ -57,7 +57,7 @@ DESCRIPTION:Dark Passage (DP) vs Russian Force (RF)\nType : BO1\nTournament
   : IWC Gamescom Round Robin\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/3063
 CATEGORIES:IWC Gamescom Round Robin
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3064
@@ -71,7 +71,7 @@ DESCRIPTION:Dark Passage (DP) vs Legacy eSports (LGC)\nType : BO5\nTourname
  nt : IWC Gamescom Final\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/3064
 CATEGORIES:IWC Gamescom Final
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3078
@@ -85,7 +85,7 @@ DESCRIPTION:Dark Passage (DP) vs ahq e-Sports Club (AHQ)\nType : BO1\nTourn
  ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3078
 CATEGORIES:Group A
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3080
@@ -99,7 +99,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3080
 CATEGORIES:Group A
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3081
@@ -113,7 +113,7 @@ DESCRIPTION:Dark Passage (DP) vs Samsung White (SSW)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3081
 CATEGORIES:Group A
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3083
@@ -127,7 +127,7 @@ DESCRIPTION:Samsung White (SSW) vs Dark Passage (DP)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3083
 CATEGORIES:Group A
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3085
@@ -141,7 +141,7 @@ DESCRIPTION:Dark Passage (DP) vs Edward Gaming (EDG)\nType : BO1\nTournamen
  t : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
  y/match/3085
 CATEGORIES:Group A
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3086
@@ -155,7 +155,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Dark Passage (DP)\nType : BO1\nTourn
  ament : Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3086
 CATEGORIES:Group A
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5398
@@ -169,7 +169,7 @@ DESCRIPTION:Dark Passage (DP) vs Detonation FocusMe (DFM)\nType : BO1\nTour
  nament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/5398
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5400
@@ -183,7 +183,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs Dark Passage (DP)\nType : BO1\nTourname
  nt : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5400
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5401
@@ -197,7 +197,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Dark Passage (DP)\nType : BO1\nTou
  rnament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/5401
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5403
@@ -211,7 +211,7 @@ DESCRIPTION:Detonation FocusMe (DFM) vs Dark Passage (DP)\nType : BO1\nTour
  nament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/5403
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5405
@@ -225,7 +225,7 @@ DESCRIPTION:Dark Passage (DP) vs Bangkok Titans (BKT)\nType : BO1\nTourname
  nt : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5405
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5407
@@ -239,6 +239,6 @@ DESCRIPTION:Dark Passage (DP) vs Chiefs eSports Club (CHF)\nType : BO1\nTou
  rnament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/5407
 CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20150930T141655Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 END:VCALENDAR

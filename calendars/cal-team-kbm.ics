@@ -15,7 +15,7 @@ DESCRIPTION:PEX (PEX) vs KaBuM e-Sports (KBM)\nType : BO5\nTournament : IWC
   PAX Prime\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
  /match/3041
 CATEGORIES:IWC PAX Prime
-DTSTAMP:20150930T141656Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3120
@@ -29,7 +29,7 @@ DESCRIPTION:Najin e-mFire (NJE) vs KaBuM e-Sports (KBM)\nType : BO1\nTourna
  ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3120
 CATEGORIES:Group D
-DTSTAMP:20150930T141656Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3122
@@ -43,7 +43,7 @@ DESCRIPTION:Cloud9  (C9) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament :
  Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3122
 CATEGORIES:Group D
-DTSTAMP:20150930T141656Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3125
@@ -57,7 +57,7 @@ DESCRIPTION:Alliance (ALL) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament
  : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3125
 CATEGORIES:Group D
-DTSTAMP:20150930T141656Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3127
@@ -71,7 +71,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Najin e-mFire (NJE)\nType : BO1\nTourna
  ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3127
 CATEGORIES:Group D
-DTSTAMP:20150930T141656Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3129
@@ -85,7 +85,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Cloud9  (C9)\nType : BO1\nTournament :
  Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3129
 CATEGORIES:Group D
-DTSTAMP:20150930T141656Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3130
@@ -99,6 +99,6 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Alliance (ALL)\nType : BO1\nTournament
  : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
  match/3130
 CATEGORIES:Group D
-DTSTAMP:20150930T141656Z
+DTSTAMP:20151001T130210Z
 END:VEVENT
 END:VCALENDAR

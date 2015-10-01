@@ -15,7 +15,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
  fier\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /5366
 CATEGORIES:2015 NA LCS Regional Qualifier
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5367
@@ -29,7 +29,7 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
  fier\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /5367
 CATEGORIES:2015 NA LCS Regional Qualifier
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5368
@@ -43,6 +43,6 @@ DESCRIPTION: () vs  ()\nType : BO5\nTournament : 2015 NA LCS Regional Quali
  fier\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
  /5368
 CATEGORIES:2015 NA LCS Regional Qualifier
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 END:VCALENDAR

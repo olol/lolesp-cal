@@ -15,7 +15,7 @@ DESCRIPTION:SK Gaming (SK) vs Gamers2 (G2)\nType : BO5\nTournament : 2016 E
  U LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5394
 CATEGORIES:2016 EU LCS Spring Promotion
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5395
@@ -29,6 +29,6 @@ DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO5\nTournamen
  t : 2016 EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/5395
 CATEGORIES:2016 EU LCS Spring Promotion
-DTSTAMP:20150930T141719Z
+DTSTAMP:20151001T130231Z
 END:VEVENT
 END:VCALENDAR

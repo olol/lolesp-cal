@@ -15,7 +15,7 @@ DESCRIPTION:Winterfox (WFX) vs Gravity (GV)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3510
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3514
@@ -29,7 +29,7 @@ DESCRIPTION:Team Coast (CST) vs Winterfox (WFX)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3514
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3522
@@ -43,7 +43,7 @@ DESCRIPTION:Team SoloMid (TSM) vs Winterfox (WFX)\nType : BO1\nTournament :
   NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3522
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3524
@@ -57,7 +57,7 @@ DESCRIPTION:Team Dignitas (DIG) vs Winterfox (WFX)\nType : BO1\nTournament
  : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3524
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3532
@@ -71,7 +71,7 @@ DESCRIPTION:Winterfox (WFX) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
  nament : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3532
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3536
@@ -85,7 +85,7 @@ DESCRIPTION:Team 8 (T8) vs Winterfox (WFX)\nType : BO1\nTournament : NA LCS
   Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3536
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3539
@@ -99,7 +99,7 @@ DESCRIPTION:Winterfox (WFX) vs Team Impulse (TIP)\nType : BO1\nTournament :
   NA LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3539
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3543
@@ -113,7 +113,7 @@ DESCRIPTION:Winterfox (WFX) vs Cloud9  (C9)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3543
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3548
@@ -127,7 +127,7 @@ DESCRIPTION:Team Liquid (TL) vs Winterfox (WFX)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3548
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3555
@@ -141,7 +141,7 @@ DESCRIPTION:Winterfox (WFX) vs Team Dignitas (DIG)\nType : BO1\nTournament
  : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/3555
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3562
@@ -155,7 +155,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Winterfox (WFX)\nType : BO1\nTour
  nament : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/3562
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3564
@@ -169,7 +169,7 @@ DESCRIPTION:Cloud9  (C9) vs Winterfox (WFX)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3564
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3570
@@ -183,7 +183,7 @@ DESCRIPTION:Winterfox (WFX) vs Team SoloMid (TSM)\nType : BO1\nTournament :
   NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3570
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3576
@@ -197,7 +197,7 @@ DESCRIPTION:Gravity (GV) vs Winterfox (WFX)\nType : BO1\nTournament : NA LC
  S Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/m
  atch/3576
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3579
@@ -211,7 +211,7 @@ DESCRIPTION:Winterfox (WFX) vs Team 8 (T8)\nType : BO1\nTournament : NA LCS
   Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
  tch/3579
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3586
@@ -225,7 +225,7 @@ DESCRIPTION:Team Impulse (TIP) vs Winterfox (WFX)\nType : BO1\nTournament :
   NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
  rney/match/3586
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3590
@@ -239,7 +239,7 @@ DESCRIPTION:Winterfox (WFX) vs Team Liquid (TL)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3590
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3593
@@ -253,7 +253,7 @@ DESCRIPTION:Winterfox (WFX) vs Team Coast (CST)\nType : BO1\nTournament : N
  A LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/3593
 CATEGORIES:NA LCS Spring
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4561
@@ -267,7 +267,7 @@ DESCRIPTION:Winterfox (WFX) vs Team Dragon Knights (TDK)\nType : BO5\nTourn
  ament : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
  olesports.com/tourney/match/4561
 CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5163
@@ -281,7 +281,7 @@ DESCRIPTION:Team Coast (CST) vs Winterfox (WFX)\nType : BO1\nTournament : 2
  015 NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/5163
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5166
@@ -295,7 +295,7 @@ DESCRIPTION:Winterfox (WFX) vs Team Coast (CST)\nType : BO1\nTournament : 2
  015 NA CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/5166
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5171
@@ -309,7 +309,7 @@ DESCRIPTION:Renegades (RNG) vs Winterfox (WFX)\nType : BO1\nTournament : 20
  15 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/5171
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5174
@@ -323,7 +323,7 @@ DESCRIPTION:Winterfox (WFX) vs Renegades (RNG)\nType : BO1\nTournament : 20
  15 NA CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/5174
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5176
@@ -337,7 +337,7 @@ DESCRIPTION:Winterfox (WFX) vs Cloud9 Tempest (C9T)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5176
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5179
@@ -351,7 +351,7 @@ DESCRIPTION:Cloud9 Tempest (C9T) vs Winterfox (WFX)\nType : BO1\nTournament
   : 2015 NA CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5179
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5182
@@ -365,7 +365,7 @@ DESCRIPTION:Winterfox (WFX) vs Final Five (F5)\nType : BO1\nTournament : 20
  15 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/5182
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5185
@@ -379,7 +379,7 @@ DESCRIPTION:Final Five (F5) vs Winterfox (WFX)\nType : BO1\nTournament : 20
  15 NA CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
  urney/match/5185
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5187
@@ -393,7 +393,7 @@ DESCRIPTION:Winterfox (WFX) vs Imagine (IMG)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5187
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5190
@@ -407,6 +407,6 @@ DESCRIPTION:Imagine (IMG) vs Winterfox (WFX)\nType : BO1\nTournament : 2015
   NA CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5190
 CATEGORIES:2015 NA CS Summer
-DTSTAMP:20150930T141707Z
+DTSTAMP:20151001T130221Z
 END:VEVENT
 END:VCALENDAR
