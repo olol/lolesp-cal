@@ -15,7 +15,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Young Glory ()\nType : BO5\nTourna
  ment : 2016 LPL Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.
  lolesports.com/tourney/match/5378
 CATEGORIES:2016 LPL Spring Promotion
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5379
@@ -29,7 +29,7 @@ DESCRIPTION:King (KNG) vs 2144 Danmu Gaming (2DG)\nType : BO5\nTournament :
   2016 LPL Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesp
  orts.com/tourney/match/5379
 CATEGORIES:2016 LPL Spring Promotion
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5380
@@ -43,7 +43,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Team WE Future (WEF)\nType : BO5\nT
  ournament : 2016 LPL Spring Promotion\nWeek : 1\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/5380
 CATEGORIES:2016 LPL Spring Promotion
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5381
@@ -57,7 +57,7 @@ DESCRIPTION:Team WE (WE) vs Newbee (NB)\nType : BO5\nTournament : 2016 LPL
  Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/5381
 CATEGORIES:2016 LPL Spring Promotion
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5382
@@ -71,7 +71,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs 2144 Danmu Gaming (2DG)\nType : BO
  5\nTournament : 2016 LPL Spring Promotion\nWeek : 2\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/5382
 CATEGORIES:2016 LPL Spring Promotion
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5383
@@ -85,6 +85,6 @@ DESCRIPTION:Unlimited Potential (UP) vs Team WE (WE)\nType : BO5\nTournamen
  t : 2016 LPL Spring Promotion\nWeek : 2\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/5383
 CATEGORIES:2016 LPL Spring Promotion
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO2\nTourna
  ment : OGN Group A\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2195
 CATEGORIES:OGN Group A
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2198
@@ -29,7 +29,7 @@ DESCRIPTION:SK Telecom T1 S (SKS) vs KT Rolster Arrows (KTA)\nType : BO2\nT
  ournament : OGN Group A\nWeek : 3\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2198
 CATEGORIES:OGN Group A
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2200
@@ -43,7 +43,7 @@ DESCRIPTION:Prime Optimus () vs SK Telecom T1 S (SKS)\nType : BO2\nTourname
  nt : OGN Group A\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/t
  ourney/match/2200
 CATEGORIES:OGN Group A
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2227
@@ -57,7 +57,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SK Telecom T1 S (SKS)\nType : BO1\nTourna
  ment : OGN Group A\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/2227
 CATEGORIES:OGN Group A
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2954
@@ -71,7 +71,7 @@ DESCRIPTION:Samsung White (SSW) vs SK Telecom T1 S (SKS)\nType : BO2\nTourn
  ament : OGN Group C\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
  m/tourney/match/2954
 CATEGORIES:OGN Group C
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2957
@@ -85,7 +85,7 @@ DESCRIPTION:Bigfile Miracle (BFM) vs SK Telecom T1 S (SKS)\nType : BO2\nTou
  rnament : OGN Group C\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2957
 CATEGORIES:OGN Group C
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2959
@@ -99,7 +99,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SK Telecom T1 S (SKS)\nType : BO2\nTournament
  : OGN Group C\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/2959
 CATEGORIES:OGN Group C
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2947
@@ -113,7 +113,7 @@ DESCRIPTION:NaJin Black Sword (NBS) vs SK Telecom T1 S (SKS)\nType : BO5\nT
  ournament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2947
 CATEGORIES:OGN Top 8
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2950
@@ -127,7 +127,7 @@ DESCRIPTION:KT Rolster Arrows (KTA) vs SK Telecom T1 S (SKS)\nType : BO5\nT
  ournament : OGN Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/2950
 CATEGORIES:OGN Top 8
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2953
@@ -141,6 +141,6 @@ DESCRIPTION:SK Telecom T1 S (SKS) vs Samsung White (SSW)\nType : BO5\nTourn
  ament : OGN Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/2953
 CATEGORIES:OGN Top 8
-DTSTAMP:20151001T130202Z
+DTSTAMP:20151002T130200Z
 END:VEVENT
 END:VCALENDAR

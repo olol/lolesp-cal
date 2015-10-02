@@ -15,7 +15,7 @@ DESCRIPTION:SK Gaming Prime (SKP) vs Denial eSports EU (DEFUNCT) (DNE)\nTyp
  e : BO1\nTournament : EU CS 2 Play In 5\nWeek : 2\nStream : No\nUrl : http
  ://www.lolesports.com/tourney/match/2086
 CATEGORIES:EU CS 2 Play In 5
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2087
@@ -29,7 +29,7 @@ DESCRIPTION:H2K (H2K) vs Denial eSports EU (DEFUNCT) (DNE)\nType : BO3\nTou
  rnament : EU CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/2087
 CATEGORIES:EU CS 2 Top 8
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2091
@@ -43,7 +43,7 @@ DESCRIPTION:Denial eSports EU (DEFUNCT) (DNE) vs Team Coast Gold (CSG)\nTyp
  e : BO3\nTournament : EU CS 2 Top 8\nWeek : 2\nStream : No\nUrl : http://w
  ww.lolesports.com/tourney/match/2091
 CATEGORIES:EU CS 2 Top 8
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2093
@@ -57,7 +57,7 @@ DESCRIPTION:Denial eSports EU (DEFUNCT) (DNE) vs Ninjas in Pyjamas (NIP)\nT
  ype : BO3\nTournament : EU CS 2 Top 8\nWeek : 3\nStream : No\nUrl : http:/
  /www.lolesports.com/tourney/match/2093
 CATEGORIES:EU CS 2 Top 8
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2174
@@ -71,7 +71,7 @@ DESCRIPTION:Denial eSports EU (DEFUNCT) (DNE) vs Team Coast Gold (CSG)\nTyp
  e : BO3\nTournament : EU LCS Spring Playoffs \nWeek : 1\nStream : No\nUrl 
  : http://www.lolesports.com/tourney/match/2174
 CATEGORIES:EU LCS Spring Playoffs 
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2176
@@ -85,7 +85,7 @@ DESCRIPTION:H2K (H2K) vs Denial eSports EU (DEFUNCT) (DNE)\nType : BO3\nTou
  rnament : EU LCS Spring Playoffs \nWeek : 2\nStream : No\nUrl : http://www
  .lolesports.com/tourney/match/2176
 CATEGORIES:EU LCS Spring Playoffs 
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2179
@@ -99,7 +99,7 @@ DESCRIPTION:Denial eSports EU (DEFUNCT) (DNE) vs Reason Gaming (RG)\nType :
   BO5\nTournament : EU LCS Spring Playoffs \nWeek : 1\nStream : No\nUrl : h
  ttp://www.lolesports.com/tourney/match/2179
 CATEGORIES:EU LCS Spring Playoffs 
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2250
@@ -113,7 +113,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Denial eSports EU (DEFUNCT) (DNE)\nTy
  pe : BO5\nTournament : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl
   : http://www.lolesports.com/tourney/match/2250
 CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2667
@@ -127,7 +127,7 @@ DESCRIPTION:Denial eSports EU (DEFUNCT) (DNE) vs Lublin Shore (LBS)\nType :
   BO3\nTournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/2667
 CATEGORIES:EU Top 8
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5114
@@ -141,7 +141,7 @@ DESCRIPTION:Denial eSports (DNE) vs Wortex-Gaming (WG)\nType : BO3\nTournam
  ent : 2015 EU Summer Challenger Qualifier\nWeek : 1\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/5114
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5118
@@ -155,7 +155,7 @@ DESCRIPTION:Les Touristes (LT) vs Denial eSports (DNE)\nType : BO3\nTournam
  ent : 2015 EU Summer Challenger Qualifier\nWeek : 2\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/5118
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5121
@@ -169,7 +169,7 @@ DESCRIPTION:Denial eSports (DNE) vs Ex Nihilo (EXN)\nType : BO3\nTournament
   : 2015 EU Summer Challenger Qualifier\nWeek : 3\nStream : No\nUrl : http:
  //www.lolesports.com/tourney/match/5121
 CATEGORIES:2015 EU Summer Challenger Qualifier
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5254
@@ -183,7 +183,7 @@ DESCRIPTION:Team Dignitas EU (DEU) vs Denial eSports (DNE)\nType : BO1\nTou
  rnament : 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5254
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5257
@@ -197,7 +197,7 @@ DESCRIPTION:Denial eSports (DNE) vs Team Dignitas EU (DEU)\nType : BO1\nTou
  rnament : 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/5257
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5259
@@ -211,7 +211,7 @@ DESCRIPTION:Ex Nihilo (EXN) vs Denial eSports (DNE)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5259
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5262
@@ -225,7 +225,7 @@ DESCRIPTION:Denial eSports (DNE) vs Ex Nihilo (EXN)\nType : BO1\nTournament
   : 2015 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/5262
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5267
@@ -239,7 +239,7 @@ DESCRIPTION:Denial eSports (DNE) vs Overclockers UK (OC)\nType : BO1\nTourn
  ament : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/5267
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5270
@@ -253,7 +253,7 @@ DESCRIPTION:Overclockers UK (OC) vs Denial eSports (DNE)\nType : BO1\nTourn
  ament : 2015 EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespo
  rts.com/tourney/match/5270
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5272
@@ -267,7 +267,7 @@ DESCRIPTION:Gamers2 (G2) vs Denial eSports (DNE)\nType : BO1\nTournament :
  2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5272
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5275
@@ -281,7 +281,7 @@ DESCRIPTION:Denial eSports (DNE) vs Gamers2 (G2)\nType : BO1\nTournament :
  2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
  tourney/match/5275
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5278
@@ -295,7 +295,7 @@ DESCRIPTION:Denial eSports (DNE) vs Mousesports (MOU)\nType : BO1\nTourname
  nt : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5278
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5281
@@ -309,6 +309,6 @@ DESCRIPTION:Mousesports (MOU) vs Denial eSports (DNE)\nType : BO1\nTourname
  nt : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/5281
 CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151001T130201Z
+DTSTAMP:20151002T130159Z
 END:VEVENT
 END:VCALENDAR

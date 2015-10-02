@@ -15,7 +15,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs HongKong Esports (HKE)\nType : B
  O5\nTournament : 2015 LMS Summer Playoffs\nWeek : 1\nStream : No\nUrl : ht
  tp://www.lolesports.com/tourney/match/5348
 CATEGORIES:2015 LMS Summer Playoffs
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5349
@@ -29,7 +29,7 @@ DESCRIPTION: () vs Flash Wolves (YFW)\nType : BO5\nTournament : 2015 LMS Su
  mmer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
  ney/match/5349
 CATEGORIES:2015 LMS Summer Playoffs
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5350
@@ -43,6 +43,6 @@ DESCRIPTION: () vs ahq e-Sports Club (AHQ)\nType : BO5\nTournament : 2015 L
  MS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/5350
 CATEGORIES:2015 LMS Summer Playoffs
-DTSTAMP:20151001T130230Z
+DTSTAMP:20151002T130229Z
 END:VEVENT
 END:VCALENDAR

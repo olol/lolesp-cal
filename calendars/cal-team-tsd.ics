@@ -15,7 +15,7 @@ DESCRIPTION:CLG Black (CLB) vs TSM Darkness (TSD)\nType : BO1\nTournament :
   2015 NA CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4478
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4481
@@ -29,7 +29,7 @@ DESCRIPTION:TSM Darkness (TSD) vs CLG Black (CLB)\nType : BO1\nTournament :
   2015 NA CS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4481
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4482
@@ -43,7 +43,7 @@ DESCRIPTION:TSM Darkness (TSD) vs Team Dragon Knights (TDK)\nType : BO1\nTo
  urnament : 2015 NA CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/4482
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4485
@@ -57,7 +57,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs TSM Darkness (TSD)\nType : BO1\nTo
  urnament : 2015 NA CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
  sports.com/tourney/match/4485
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4489
@@ -71,7 +71,7 @@ DESCRIPTION:Final Five (F5) vs TSM Darkness (TSD)\nType : BO1\nTournament :
   2015 NA CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4489
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4492
@@ -85,7 +85,7 @@ DESCRIPTION:TSM Darkness (TSD) vs Final Five (F5)\nType : BO1\nTournament :
   2015 NA CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4492
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4496
@@ -99,7 +99,7 @@ DESCRIPTION:Enemy Esports (NME) vs TSM Darkness (TSD)\nType : BO1\nTourname
  nt : 2015 NA CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4496
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4499
@@ -113,7 +113,7 @@ DESCRIPTION:TSM Darkness (TSD) vs Enemy Esports (NME)\nType : BO1\nTourname
  nt : 2015 NA CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/4499
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4502
@@ -127,7 +127,7 @@ DESCRIPTION:TSM Darkness (TSD) vs Team Fusion (FSN)\nType : BO1\nTournament
   : 2015 NA CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4502
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4505
@@ -141,7 +141,7 @@ DESCRIPTION:Team Fusion (FSN) vs TSM Darkness (TSD)\nType : BO1\nTournament
   : 2015 NA CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
  om/tourney/match/4505
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4525
@@ -155,6 +155,6 @@ DESCRIPTION:CLG Black (CLB) vs TSM Darkness (TSD)\nType : BO1\nTournament :
   2015 NA CS Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com
  /tourney/match/4525
 CATEGORIES:2015 NA CS Spring
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 END:VCALENDAR

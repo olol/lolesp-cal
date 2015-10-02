@@ -15,7 +15,7 @@ DESCRIPTION:North America LCS Team () vs China LPL Team ()\nType : BO3\nTou
  rnament : All-Star 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesport
  s.com/tourney/match/799
 CATEGORIES:All-Star 2013
-DTSTAMP:20151001T130144Z
+DTSTAMP:20151002T130142Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-800
@@ -29,7 +29,7 @@ DESCRIPTION:Europe LCS Team () vs Korea Champions Team ()\nType : BO3\nTour
  nament : All-Star 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports
  .com/tourney/match/800
 CATEGORIES:All-Star 2013
-DTSTAMP:20151001T130144Z
+DTSTAMP:20151002T130142Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-801
@@ -43,7 +43,7 @@ DESCRIPTION:North America LCS Team () vs Europe LCS Team ()\nType : BO3\nTo
  urnament : All-Star 2013\nWeek : 2\nStream : No\nUrl : http://www.lolespor
  ts.com/tourney/match/801
 CATEGORIES:All-Star 2013
-DTSTAMP:20151001T130144Z
+DTSTAMP:20151002T130142Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-802
@@ -57,7 +57,7 @@ DESCRIPTION:Garena Team () vs China LPL Team ()\nType : BO3\nTournament : A
  ll-Star 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
  ey/match/802
 CATEGORIES:All-Star 2013
-DTSTAMP:20151001T130144Z
+DTSTAMP:20151002T130142Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-803
@@ -71,7 +71,7 @@ DESCRIPTION:Korea Champions Team () vs North America LCS Team ()\nType : BO
  3\nTournament : All-Star 2013\nWeek : 3\nStream : No\nUrl : http://www.lol
  esports.com/tourney/match/803
 CATEGORIES:All-Star 2013
-DTSTAMP:20151001T130144Z
+DTSTAMP:20151002T130142Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-804
@@ -85,6 +85,6 @@ DESCRIPTION:China LPL Team () vs Korea Champions Team ()\nType : BO3\nTourn
  ament : All-Star 2013\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
  com/tourney/match/804
 CATEGORIES:All-Star 2013
-DTSTAMP:20151001T130144Z
+DTSTAMP:20151002T130142Z
 END:VEVENT
 END:VCALENDAR

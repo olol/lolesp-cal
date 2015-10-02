@@ -15,7 +15,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Winners (WIN)\nType : BO3\nT
  ournament : 2015 LCK Summer Promotion Group A\nWeek : 1\nStream : No\nUrl 
  : http://www.lolesports.com/tourney/match/4580
 CATEGORIES:2015 LCK Summer Promotion Group A
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4581
@@ -29,7 +29,7 @@ DESCRIPTION:Longzhu Incredible Miracle (IM) vs Anarchy (ANC)\nType : BO3\nT
  ournament : 2015 LCK Summer Promotion Group A\nWeek : 1\nStream : No\nUrl 
  : http://www.lolesports.com/tourney/match/4581
 CATEGORIES:2015 LCK Summer Promotion Group A
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4582
@@ -43,6 +43,6 @@ DESCRIPTION:Winners (WIN) vs Anarchy (ANC)\nType : BO3\nTournament : 2015 L
  CK Summer Promotion Group A\nWeek : 1\nStream : No\nUrl : http://www.loles
  ports.com/tourney/match/4582
 CATEGORIES:2015 LCK Summer Promotion Group A
-DTSTAMP:20151001T130223Z
+DTSTAMP:20151002T130222Z
 END:VEVENT
 END:VCALENDAR
