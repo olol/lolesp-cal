@@ -1,286 +1,246 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-sbe
+PRODID:www.lolesports.com|cal-team-SBE
 X-WR-CALNAME:LoL eSports SBE
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-4583
-DTSTART:20150516T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150516T060000Z
-URL:http://www.lolesports.com/tourney/match/4583
-SUMMARY:Samsung Galaxy vs Prime Clan
-DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SBE)\nType : BO3\nTour
- nament : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : h
- ttp://www.lolesports.com/tourney/match/4583
-CATEGORIES:2015 LCK Summer Promotion Group B
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4585
-DTSTART:20150516T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150516T100000Z
-URL:http://www.lolesports.com/tourney/match/4585
-SUMMARY:Prime Clan vs Xenics Storm
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Xenics Storm ()\nType : BO3\nTournamen
- t : 2015 LCK Summer Promotion Group B\nWeek : 1\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/4585
-CATEGORIES:2015 LCK Summer Promotion Group B
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4935
-DTSTART:20150520T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150520T110000Z
-URL:http://www.lolesports.com/tourney/match/4935
-SUMMARY:Samsung Galaxy vs SBENU SONICBOOM
-DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SBE)\nType : BO3\nTour
- nament : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/4935
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4939
-DTSTART:20150523T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150523T090000Z
-URL:http://www.lolesports.com/tourney/match/4939
-SUMMARY:SKTelecom T1 vs SBENU SONICBOOM
-DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTourna
- ment : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4939
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4946
-DTSTART:20150530T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150530T090000Z
-URL:http://www.lolesports.com/tourney/match/4946
-SUMMARY:CJ ENTUS vs SBENU SONICBOOM
-DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournament 
- : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4946
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4952
-DTSTART:20150605T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T110000Z
-URL:http://www.lolesports.com/tourney/match/4952
-SUMMARY:SBENU SONICBOOM vs Jin Air Green Wings
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Jin Air Green Wings (JAG)\nType : BO3\
- nTournament : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/4952
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4955
-DTSTART:20150610T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150610T090000Z
-URL:http://www.lolesports.com/tourney/match/4955
-SUMMARY:SBENU SONICBOOM vs Najin e-mFire
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Najin e-mFire (NJE)\nType : BO3\nTourn
- ament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/4955
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4958
-DTSTART:20150611T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T060000Z
-URL:http://www.lolesports.com/tourney/match/4958
-SUMMARY:Longzhu Incredible Miracle vs SBENU SONICBOOM
-DESCRIPTION:Longzhu Incredible Miracle (IM) vs SBENU SONICBOOM (SBE)\nType 
- : BO3\nTournament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : ht
- tp://www.lolesports.com/tourney/match/4958
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4964
-DTSTART:20150617T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150617T110000Z
-URL:http://www.lolesports.com/tourney/match/4964
-SUMMARY:SBENU SONICBOOM vs KOO Tigers
-DESCRIPTION:SBENU SONICBOOM (SBE) vs KOO Tigers (KOO)\nType : BO3\nTourname
- nt : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/4964
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4967
-DTSTART:20150619T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T090000Z
-URL:http://www.lolesports.com/tourney/match/4967
-SUMMARY:KT Rolster vs SBENU SONICBOOM
-DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournamen
- t : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/4967
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4973
-DTSTART:20150625T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T040000Z
-URL:http://www.lolesports.com/tourney/match/4973
-SUMMARY:SBENU SONICBOOM vs Anarchy
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Anarchy (ANC)\nType : BO3\nTournament 
- : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4973
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5288
-DTSTART:20150704T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150704T090000Z
-URL:http://www.lolesports.com/tourney/match/5288
-SUMMARY:SKTelecom T1 vs SBENU SONICBOOM
-DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTourna
- ment : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/5288
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5292
+UID:match-5ab0328a-4b6f-4b10-a515-454ea0197e40
 DTSTART:20150709T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150709T060000Z
-URL:http://www.lolesports.com/tourney/match/5292
-SUMMARY:SBENU SONICBOOM vs Samsung Galaxy
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Samsung Galaxy (SSG)\nType : BO3\nTour
- nament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/5292
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/8
+SUMMARY:SSB vs SSG
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Samsung Galaxy (SSG)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : Samsu
+ ng Galaxy\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5297
-DTSTART:20150715T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150715T090000Z
-URL:http://www.lolesports.com/tourney/match/5297
-SUMMARY:KT Rolster vs SBENU SONICBOOM
-DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournamen
- t : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/5297
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5302
-DTSTART:20150718T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150718T090000Z
-URL:http://www.lolesports.com/tourney/match/5302
-SUMMARY:CJ ENTUS vs SBENU SONICBOOM
-DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SBE)\nType : BO3\nTournament 
- : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/5302
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5307
-DTSTART:20150724T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T090000Z
-URL:http://www.lolesports.com/tourney/match/5307
-SUMMARY:SBENU SONICBOOM vs Anarchy
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Anarchy (ANC)\nType : BO3\nTournament 
- : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/5307
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5312
+UID:match-cec7056a-f4db-4b23-8d74-d35e11de3ce4
 DTSTART:20150729T100000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150729T110000Z
-URL:http://www.lolesports.com/tourney/match/5312
-SUMMARY:SBENU SONICBOOM vs Longzhu Incredible Miracle
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Longzhu Incredible Miracle (IM)\nType 
- : BO3\nTournament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : ht
- tp://www.lolesports.com/tourney/match/5312
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/11
+SUMMARY:SSB vs LZ
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Longzhu Gaming (LZ)\nType : BO2\nTourn
+ ament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : Longz
+ hu Gaming\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5317
-DTSTART:20150801T100000Z
+UID:match-1fdb1757-02b5-423c-8d36-bd6854e7cb7c
+DTSTART:20150715T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150801T110000Z
-URL:http://www.lolesports.com/tourney/match/5317
-SUMMARY:Jin Air Green Wings vs SBENU SONICBOOM
-DESCRIPTION:Jin Air Green Wings (JAG) vs SBENU SONICBOOM (SBE)\nType : BO3\
- nTournament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/5317
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
+DTEND:20150715T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/9
+SUMMARY:KT vs SSB
+DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : KT Rolster
+ \nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5322
-DTSTART:20150807T100000Z
+UID:match-d9492040-405c-4ce2-860b-900af1e1b6b7
+DTSTART:20150724T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150807T110000Z
-URL:http://www.lolesports.com/tourney/match/5322
-SUMMARY:SBENU SONICBOOM vs Najin e-mFire
-DESCRIPTION:SBENU SONICBOOM (SBE) vs Najin e-mFire (NJE)\nType : BO3\nTourn
- ament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/5322
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
+DTEND:20150724T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/10
+SUMMARY:SSB vs ANC
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Rebels Anarchy (ANC)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : Rebe
+ ls Anarchy\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5327
+UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
 DTSTART:20150813T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150813T060000Z
-URL:http://www.lolesports.com/tourney/match/5327
-SUMMARY:SBENU SONICBOOM vs KOO Tigers
-DESCRIPTION:SBENU SONICBOOM (SBE) vs KOO Tigers (KOO)\nType : BO3\nTourname
- nt : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/5327
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130223Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/13
+SUMMARY:SSB vs ROX
+DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : ROX Tige
+ rs\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-28877413-3c7c-4abc-bcc9-f6dd087e83ff
+DTSTART:20150523T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/1
+SUMMARY:SKT vs SSB
+DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SSB)\nType : BO2\nTourna
+ ment : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : SKTelec
+ om T1\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
+DTSTART:20150617T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:SSB vs ROX
+DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tiger
+ s\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d252ab79-4893-4543-a4ef-dd3e3cacda4b
+DTSTART:20150718T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/9
+SUMMARY:CJE vs SSB
+DESCRIPTION:CJ ENTUS (CJE) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : CJ ENTUS\nL
+ ooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-557d8015-f8a8-46a4-9079-33c4af6f5127
+DTSTART:20150611T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/4
+SUMMARY:LZ vs SSB
+DESCRIPTION:Longzhu Gaming (LZ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTourn
+ ament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : Longzh
+ u Gaming\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-58b6352d-1e3a-4c65-84eb-5959cad260c5
+DTSTART:20150605T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/3
+SUMMARY:SSB vs JAG
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Jin Air Green Wings (JAG)\nType : BO2\
+ nTournament : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : 
+ Jin Air Green Wings\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1fdb1757-02b5-423c-8d36-bd6854e7cb7c
+DTSTART:20150619T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:KT vs SSB
+DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : KT Rolster
+ \nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d252ab79-4893-4543-a4ef-dd3e3cacda4b
+DTSTART:20150530T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/2
+SUMMARY:CJE vs SSB
+DESCRIPTION:CJ ENTUS (CJE) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : CJ ENTUS\nL
+ ooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
+DTSTART:20150610T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/4
+SUMMARY:SSB vs EMF
+DESCRIPTION:SBENU SONICBOOM (SSB) vs e-mFire (EMF)\nType : BO2\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : e-mFire\nLoo
+ ser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d9492040-405c-4ce2-860b-900af1e1b6b7
+DTSTART:20150625T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T040000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:SSB vs ANC
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Rebels Anarchy (ANC)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : Rebel
+ s Anarchy\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-730dab63-096e-43f1-979c-1680341fa5ca
+DTSTART:20150801T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/11
+SUMMARY:JAG vs SSB
+DESCRIPTION:Jin Air Green Wings (JAG) vs SBENU SONICBOOM (SSB)\nType : BO3\
+ nTournament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner :
+  SBENU SONICBOOM\nLooser : Jin Air Green Wings\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
+DTSTART:20150807T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:SSB vs EMF
+DESCRIPTION:SBENU SONICBOOM (SSB) vs e-mFire (EMF)\nType : BO2\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : e-mFire\nLo
+ oser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 END:VCALENDAR

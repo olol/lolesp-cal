@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-LAT
+X-WR-CALNAME:LoL eSports LAT
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-4a64b4f7-4090-4995-ad92-5351b91ff0dd
+DTSTART:20151126T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151126T020000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%201
+SUMMARY:BRA vs LAT
+DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars Latam (LAT)\nType : BO1\nTou
+ rnament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1
+ \n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160117T011028Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8feafcba-3a5d-4ce2-9950-b29e631bd89a
+DTSTART:20151127T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151127T050000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%202
+SUMMARY:LAT vs TUR
+DESCRIPTION:All-Stars Latam (LAT) vs All-Stars TUR (TUR)\nType : BO1\nTourn
+ ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160117T011028Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a4ea29c8-d339-465f-a957-b9176a867ca0
+DTSTART:20151128T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151128T030000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%203
+SUMMARY:SEA vs LAT
+DESCRIPTION:All-Stars SEA (SEA) vs All-Stars Latam (LAT)\nType : BO1\nTourn
+ ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

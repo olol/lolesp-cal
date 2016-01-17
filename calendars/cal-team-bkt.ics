@@ -1,104 +1,96 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-bkt
+PRODID:www.lolesports.com|cal-team-BKT
 X-WR-CALNAME:LoL eSports BKT
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-5397
-DTSTART:20150827T070000Z
+UID:match-78471ed4-b756-46fc-a18e-694676be4f2e
+DTSTART:20151003T130000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150827T080000Z
-URL:http://www.lolesports.com/tourney/match/5397
-SUMMARY:Chiefs eSports Club vs Bangkok Titans
-DESCRIPTION:Chiefs eSports Club (CHF) vs Bangkok Titans (BKT)\nType : BO1\n
- Tournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/5397
-CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20151002T130230Z
+DTEND:20151003T140000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_c/paris-day-3
+SUMMARY:H2K vs BKT
+DESCRIPTION:H2K (H2K) vs Bangkok Titans (BKT)\nType : BO1\nTournament : The
+  2015 World Championship\nWeek : paris-day-3\nWinner : H2K\nLooser : Bangk
+ ok Titans\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011028Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5400
-DTSTART:20150827T100000Z
+UID:match-d184d955-c4f5-46f1-abd0-f7f992401959
+DTSTART:20151009T140000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150827T110000Z
-URL:http://www.lolesports.com/tourney/match/5400
-SUMMARY:Bangkok Titans vs Dark Passage
-DESCRIPTION:Bangkok Titans (BKT) vs Dark Passage (DP)\nType : BO1\nTourname
- nt : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/5400
-CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20151002T130230Z
+DTEND:20151009T150000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_c/paris-day-6
+SUMMARY:BKT vs EDG
+DESCRIPTION:Bangkok Titans (BKT) vs Edward Gaming (EDG)\nType : BO1\nTourna
+ ment : The 2015 World Championship\nWeek : paris-day-6\nWinner : Edward Ga
+ ming\nLooser : Bangkok Titans\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011028Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5402
-DTSTART:20150827T120000Z
+UID:match-8e5e1a4a-aacb-4439-b0b9-175e32669cdc
+DTSTART:20151009T130000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150827T130000Z
-URL:http://www.lolesports.com/tourney/match/5402
-SUMMARY:Detonation FocusMe vs Bangkok Titans
-DESCRIPTION:Detonation FocusMe (DFM) vs Bangkok Titans (BKT)\nType : BO1\nT
- ournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/5402
-CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20151002T130230Z
+DTEND:20151009T140000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_c/paris-day-6
+SUMMARY:BKT vs H2K
+DESCRIPTION:Bangkok Titans (BKT) vs H2K (H2K)\nType : BO1\nTournament : The
+  2015 World Championship\nWeek : paris-day-6\nWinner : H2K\nLooser : Bangk
+ ok Titans\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011028Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5404
-DTSTART:20150828T100000Z
+UID:match-7e792ef6-ae87-428a-8c40-55affe15a84d
+DTSTART:20151002T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150828T110000Z
-URL:http://www.lolesports.com/tourney/match/5404
-SUMMARY:Bangkok Titans vs Chiefs eSports Club
-DESCRIPTION:Bangkok Titans (BKT) vs Chiefs eSports Club (CHF)\nType : BO1\n
- Tournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/5404
-CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20151002T130230Z
+DTEND:20151002T170000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_c/paris-day-2
+SUMMARY:BKT vs SKT
+DESCRIPTION:Bangkok Titans (BKT) vs SKTelecom T1 (SKT)\nType : BO1\nTournam
+ ent : The 2015 World Championship\nWeek : paris-day-2\nWinner : SKTelecom 
+ T1\nLooser : Bangkok Titans\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011028Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5405
-DTSTART:20150828T110000Z
+UID:match-fbb6be62-36ee-4670-add3-0f4d811d07ce
+DTSTART:20151001T173000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150828T120000Z
-URL:http://www.lolesports.com/tourney/match/5405
-SUMMARY:Dark Passage vs Bangkok Titans
-DESCRIPTION:Dark Passage (DP) vs Bangkok Titans (BKT)\nType : BO1\nTourname
- nt : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/5405
-CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20151002T130230Z
+DTEND:20151001T183000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_c/paris-day-1
+SUMMARY:EDG vs BKT
+DESCRIPTION:Edward Gaming (EDG) vs Bangkok Titans (BKT)\nType : BO1\nTourna
+ ment : The 2015 World Championship\nWeek : paris-day-1\nWinner : Edward Ga
+ ming\nLooser : Bangkok Titans\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011028Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5408
-DTSTART:20150828T140000Z
+UID:match-9dc740f0-68bb-4da6-ae58-8ad873e17626
+DTSTART:20151009T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150828T150000Z
-URL:http://www.lolesports.com/tourney/match/5408
-SUMMARY:Bangkok Titans vs Detonation FocusMe
-DESCRIPTION:Bangkok Titans (BKT) vs Detonation FocusMe (DFM)\nType : BO1\nT
- ournament : 2015 IWC Turkey-Groups\nWeek : 1\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/5408
-CATEGORIES:2015 IWC Turkey-Groups
-DTSTAMP:20151002T130230Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5409
-DTSTART:20150829T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150829T120000Z
-URL:http://www.lolesports.com/tourney/match/5409
-SUMMARY:Chiefs eSports Club vs Bangkok Titans
-DESCRIPTION:Chiefs eSports Club (CHF) vs Bangkok Titans (BKT)\nType : BO5\n
- Tournament : 2015 IWC Turkey-Finals\nWeek : 1\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/5409
-CATEGORIES:2015 IWC Turkey-Finals
-DTSTAMP:20151002T130230Z
+DTEND:20151009T180000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_c/paris-day-6
+SUMMARY:SKT vs BKT
+DESCRIPTION:SKTelecom T1 (SKT) vs Bangkok Titans (BKT)\nType : BO1\nTournam
+ ent : The 2015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom 
+ T1\nLooser : Bangkok Titans\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011028Z
 END:VEVENT
 END:VCALENDAR

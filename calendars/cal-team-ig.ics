@@ -1,1168 +1,320 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-ig
+PRODID:www.lolesports.com|cal-team-IG
 X-WR-CALNAME:LoL eSports IG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-2106
-DTSTART:20140222T080000Z
+UID:match-2e609fd8-3b56-4c75-88de-67c69611e0f3
+DTSTART:20160401T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140222T090000Z
-URL:http://www.lolesports.com/tourney/match/2106
-SUMMARY:Invictus Gaming vs EDward Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO2\nTourna
- ment : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2106
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160401T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/9
+SUMMARY:OMG vs IG
+DESCRIPTION:OMG (OMG) vs Invictus Gaming (IG)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2112
-DTSTART:20140301T080000Z
+UID:match-cedbab10-d6fc-4bfb-932f-35e3830ee635
+DTSTART:20160116T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140301T090000Z
-URL:http://www.lolesports.com/tourney/match/2112
-SUMMARY:Invictus Gaming vs Energy PACEMAKER
-DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
- ment : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2112
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160116T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:IG vs EDG
+DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2115
-DTSTART:20140302T110000Z
+UID:match-7ccb6234-3530-4c0c-a711-4a68e040d04c
+DTSTART:20160130T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140302T120000Z
-URL:http://www.lolesports.com/tourney/match/2115
-SUMMARY:Invictus Gaming vs LGD GAMING
-DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
- t : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/2115
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160130T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:IG vs RNG
+DESCRIPTION:Invictus Gaming (IG) vs Royal Never Give Up (RNG)\nType : BO3\n
+ Tournament : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2119
-DTSTART:20140308T110000Z
+UID:match-a8ff7f20-7872-4bdf-9c83-ae85e19301af
+DTSTART:20160220T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140308T120000Z
-URL:http://www.lolesports.com/tourney/match/2119
-SUMMARY:Positive Energy vs Invictus Gaming
-DESCRIPTION:Positive Energy () vs Invictus Gaming (iG)\nType : BO2\nTournam
- ent : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2119
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160220T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:IG vs SS
+DESCRIPTION:Invictus Gaming (IG) vs Snake Esports (SS)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2120
-DTSTART:20140309T080000Z
+UID:match-ee8be2ee-a380-4adf-b02f-5d7df6f38dae
+DTSTART:20160319T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140309T090000Z
-URL:http://www.lolesports.com/tourney/match/2120
-SUMMARY:Royal Club vs Invictus Gaming
-DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
- nTournament : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2120
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160319T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:IG vs QG
+DESCRIPTION:Invictus Gaming (IG) vs Qiao Gu Reapers (QG)\nType : BO3\nTourn
+ ament : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2129
-DTSTART:20140321T110000Z
+UID:match-b64f3121-682c-443b-905e-480d2906b46b
+DTSTART:20160122T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140321T120000Z
-URL:http://www.lolesports.com/tourney/match/2129
-SUMMARY:Team WE vs Invictus Gaming
-DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2129
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160122T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:IG vs HYG
+DESCRIPTION:Invictus Gaming (IG) vs Hyper Youth Gaming (HYG)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2131
-DTSTART:20140322T110000Z
+UID:match-736be5ed-fc55-458e-84ab-aa6356f72406
+DTSTART:20160228T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140322T120000Z
-URL:http://www.lolesports.com/tourney/match/2131
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
-  Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/2131
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160228T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:IG vs LGD
+DESCRIPTION:Invictus Gaming (IG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2134
-DTSTART:20140328T080000Z
+UID:match-19f3166e-951d-4044-9510-40ef96e5104e
+DTSTART:20160324T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140328T090000Z
-URL:http://www.lolesports.com/tourney/match/2134
-SUMMARY:Invictus Gaming vs EDward Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO2\nTourna
- ment : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2134
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160324T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/8
+SUMMARY:VG vs IG
+DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (IG)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2140
-DTSTART:20140404T080000Z
+UID:match-02b0d4b2-fd4e-4336-9519-2681afc3a245
+DTSTART:20160128T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140404T090000Z
-URL:http://www.lolesports.com/tourney/match/2140
-SUMMARY:Invictus Gaming vs Energy PACEMAKER
-DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
- ment : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2140
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160128T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/3
+SUMMARY:IG vs VG
+DESCRIPTION:Invictus Gaming (IG) vs Vici Gaming (VG)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2143
-DTSTART:20140405T110000Z
+UID:match-66eb660f-26e1-48fe-84b6-7b441c37c324
+DTSTART:20160311T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140405T120000Z
-URL:http://www.lolesports.com/tourney/match/2143
-SUMMARY:Invictus Gaming vs LGD GAMING
-DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
- t : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/2143
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160311T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:IG vs WE
+DESCRIPTION:Invictus Gaming (IG) vs Team World Elite (WE)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2147
-DTSTART:20140411T110000Z
+UID:match-33f4ad87-63a2-43dd-874e-5431f7cfc3a0
+DTSTART:20160326T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140411T120000Z
-URL:http://www.lolesports.com/tourney/match/2147
-SUMMARY:Positive Energy vs Invictus Gaming
-DESCRIPTION:Positive Energy () vs Invictus Gaming (iG)\nType : BO2\nTournam
- ent : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2147
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160326T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/8
+SUMMARY:IG vs EDG
+DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2152
-DTSTART:20140418T080000Z
+UID:match-381b6225-1552-4fcc-8228-05260d17790a
+DTSTART:20160403T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140418T090000Z
-URL:http://www.lolesports.com/tourney/match/2152
-SUMMARY:Royal Club vs Invictus Gaming
-DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
- nTournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2152
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160403T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/9
+SUMMARY:HYG vs IG
+DESCRIPTION:Hyper Youth Gaming (HYG) vs Invictus Gaming (IG)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2157
-DTSTART:20140420T110000Z
+UID:match-4702b2d2-1779-466a-bcb6-8daf43d6d745
+DTSTART:20160313T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140420T120000Z
-URL:http://www.lolesports.com/tourney/match/2157
-SUMMARY:Team WE vs Invictus Gaming
-DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2157
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160313T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:M3 vs IG
+DESCRIPTION:Master3 (M3) vs Invictus Gaming (IG)\nType : BO3\nTournament : 
+ LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2159
-DTSTART:20140425T110000Z
+UID:match-277386bd-9545-4e6d-9ae7-fa83f90a555c
+DTSTART:20160124T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140425T120000Z
-URL:http://www.lolesports.com/tourney/match/2159
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
-  Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/2159
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20160124T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:IG vs OMG
+DESCRIPTION:Invictus Gaming (IG) vs OMG (OMG)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2673
-DTSTART:20140524T070000Z
+UID:match-29c05528-a90b-49d4-9fdd-2eb15ed8f758
+DTSTART:20160226T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140524T080000Z
-URL:http://www.lolesports.com/tourney/match/2673
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO3\nTournament : LPL
-  Top 4\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/2673
-CATEGORIES:LPL Top 4
-DTSTAMP:20151002T130155Z
+DTEND:20160226T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:IG vs EPA
+DESCRIPTION:Invictus Gaming (IG) vs Energy Pace Maker (EPA)\nType : BO3\nTo
+ urnament : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2675
-DTSTART:20140525T090000Z
+UID:match-1148045f-0767-4fba-a561-ac3a0788c259
+DTSTART:20160409T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140525T100000Z
-URL:http://www.lolesports.com/tourney/match/2675
-SUMMARY:Invictus Gaming vs EDward Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO5\nTourna
- ment : LPL Top 4\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/2675
-CATEGORIES:LPL Top 4
-DTSTAMP:20151002T130155Z
+DTEND:20160409T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:RNG vs IG
+DESCRIPTION:Royal Never Give Up (RNG) vs Invictus Gaming (IG)\nType : BO3\n
+ Tournament : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2846
-DTSTART:20140614T080000Z
+UID:match-bbe4a379-4248-459f-b286-03d54257cf84
+DTSTART:20151011T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140614T090000Z
-URL:http://www.lolesports.com/tourney/match/2846
-SUMMARY:Invictus Gaming vs Young Glory
-DESCRIPTION:Invictus Gaming (iG) vs Young Glory ()\nType : BO2\nTournament 
- : LPL Round Robin\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/2846
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20151011T090000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-8
+SUMMARY:AHQ vs IG
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Invictus Gaming (IG)\nType : BO1\nTo
+ urnament : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e
+ -Sports Club\nLooser : Invictus Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2853
-DTSTART:20140621T110000Z
+UID:match-5d67b8a0-dcd0-4e71-b339-5fe46f04ac14
+DTSTART:20151011T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140621T120000Z
-URL:http://www.lolesports.com/tourney/match/2853
-SUMMARY:EDward Gaming vs Invictus Gaming
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
- ment : LPL Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2853
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20151011T120000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-8
+SUMMARY:IG vs FNC
+DESCRIPTION:Invictus Gaming (IG) vs Fnatic (FNC)\nType : BO1\nTournament : 
+ The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser :
+  Invictus Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2855
-DTSTART:20140622T110000Z
+UID:match-efbc65b8-d736-4b11-a81b-88d39f4316ed
+DTSTART:20151011T120000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140622T120000Z
-URL:http://www.lolesports.com/tourney/match/2855
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
-  Round Robin\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/2855
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20151011T130000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-8
+SUMMARY:C9 vs IG
+DESCRIPTION:Cloud9  (C9) vs Invictus Gaming (IG)\nType : BO1\nTournament : 
+ The 2015 World Championship\nWeek : paris-day-8\nWinner : Invictus Gaming\
+ nLooser : Cloud9 \n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2860
-DTSTART:20140629T080000Z
+UID:match-22851f97-7555-494d-b234-1e4bbeaf8dd5
+DTSTART:20151001T143000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140629T090000Z
-URL:http://www.lolesports.com/tourney/match/2860
-SUMMARY:Invictus Gaming vs LGD GAMING
-DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
- t : LPL Round Robin\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/2860
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20151001T153000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-1
+SUMMARY:FNC vs IG
+DESCRIPTION:Fnatic (FNC) vs Invictus Gaming (IG)\nType : BO1\nTournament : 
+ The 2015 World Championship\nWeek : paris-day-1\nWinner : Fnatic\nLooser :
+  Invictus Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2863
-DTSTART:20140704T110000Z
+UID:match-1bb10628-ea70-4370-844e-d45f708328b1
+DTSTART:20151004T140000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140704T120000Z
-URL:http://www.lolesports.com/tourney/match/2863
-SUMMARY:Team WE vs Invictus Gaming
-DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Round Robin\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2863
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
+DTEND:20151004T150000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-4
+SUMMARY:IG vs AHQ
+DESCRIPTION:Invictus Gaming (IG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTo
+ urnament : The 2015 World Championship\nWeek : paris-day-4\nWinner : Invic
+ tus Gaming\nLooser : ahq e-Sports Club\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2868
-DTSTART:20140711T080000Z
+UID:match-2489f7d0-ddbe-46bb-ab37-bf093adc8d41
+DTSTART:20151003T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140711T090000Z
-URL:http://www.lolesports.com/tourney/match/2868
-SUMMARY:Invictus Gaming vs Royal Club
-DESCRIPTION:Invictus Gaming (iG) vs Star Horn Royal Club (SHR)\nType : BO2\
- nTournament : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2868
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2870
-DTSTART:20140712T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140712T090000Z
-URL:http://www.lolesports.com/tourney/match/2870
-SUMMARY:Invictus Gaming vs Team WE Academy
-DESCRIPTION:Invictus Gaming (iG) vs Team WE Academy (WEA)\nType : BO2\nTour
- nament : LPL Round Robin\nWeek : 5\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2870
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2874
-DTSTART:20140719T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140719T090000Z
-URL:http://www.lolesports.com/tourney/match/2874
-SUMMARY:Invictus Gaming vs Young Glory
-DESCRIPTION:Invictus Gaming (iG) vs Young Glory ()\nType : BO2\nTournament 
- : LPL Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/2874
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2879
-DTSTART:20140720T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140720T120000Z
-URL:http://www.lolesports.com/tourney/match/2879
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
-  Round Robin\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/2879
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2883
-DTSTART:20140726T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140726T120000Z
-URL:http://www.lolesports.com/tourney/match/2883
-SUMMARY:EDward Gaming vs Invictus Gaming
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
- ment : LPL Round Robin\nWeek : 7\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2883
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2888
-DTSTART:20140802T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140802T090000Z
-URL:http://www.lolesports.com/tourney/match/2888
-SUMMARY:Invictus Gaming vs LGD GAMING
-DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
- t : LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/2888
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2891
-DTSTART:20140803T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140803T120000Z
-URL:http://www.lolesports.com/tourney/match/2891
-SUMMARY:Team WE vs Invictus Gaming
-DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Round Robin\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2891
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2896
-DTSTART:20140810T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140810T090000Z
-URL:http://www.lolesports.com/tourney/match/2896
-SUMMARY:Invictus Gaming vs Royal Club
-DESCRIPTION:Invictus Gaming (iG) vs Star Horn Royal Club (SHR)\nType : BO2\
- nTournament : LPL Round Robin\nWeek : 9\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2896
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2898
-DTSTART:20140815T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140815T090000Z
-URL:http://www.lolesports.com/tourney/match/2898
-SUMMARY:Invictus Gaming vs Team WE Academy
-DESCRIPTION:Invictus Gaming (iG) vs Team WE Academy (WEA)\nType : BO2\nTour
- nament : LPL Round Robin\nWeek : 10\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/2898
-CATEGORIES:LPL Round Robin
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3035
-DTSTART:20140906T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140906T060000Z
-URL:http://www.lolesports.com/tourney/match/3035
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO3\nTournament : LPL
-  Regional Qualifier Upper\nWeek : 1\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/3035
-CATEGORIES:LPL Regional Qualifier Upper
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3038
-DTSTART:20140906T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140906T110000Z
-URL:http://www.lolesports.com/tourney/match/3038
-SUMMARY:Invictus Gaming vs LGD GAMING
-DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO3\nTournamen
- t : LPL Regional Qualifier Lower\nWeek : 1\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/3038
-CATEGORIES:LPL Regional Qualifier Lower
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4254
-DTSTART:20150116T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150116T060000Z
-URL:http://www.lolesports.com/tourney/match/4254
-SUMMARY:Team WE vs Invictus Gaming
-DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
- /match/4254
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4260
-DTSTART:20150117T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150117T100000Z
-URL:http://www.lolesports.com/tourney/match/4260
-SUMMARY:Invictus Gaming vs Gamtee
-DESCRIPTION:Invictus Gaming (iG) vs Gamtee (GT)\nType : BO2\nTournament : L
- PL Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/4260
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4266
-DTSTART:20150123T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150123T060000Z
-URL:http://www.lolesports.com/tourney/match/4266
-SUMMARY:Invictus Gaming vs Energy PACEMAKER
-DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
- ment : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4266
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4276
-DTSTART:20150125T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150125T100000Z
-URL:http://www.lolesports.com/tourney/match/4276
-SUMMARY:Invictus Gaming vs Vici Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO2\nTournamen
- t : LPL Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4276
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4281
-DTSTART:20150130T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150130T120000Z
-URL:http://www.lolesports.com/tourney/match/4281
-SUMMARY:Edward Gaming vs Invictus Gaming
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
- ment : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4281
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4288
-DTSTART:20150201T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150201T100000Z
-URL:http://www.lolesports.com/tourney/match/4288
-SUMMARY:Invictus Gaming vs Snake
-DESCRIPTION:Invictus Gaming (iG) vs Snake (SS)\nType : BO2\nTournament : LP
- L Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/m
- atch/4288
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4292
-DTSTART:20150206T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150206T100000Z
-URL:http://www.lolesports.com/tourney/match/4292
-SUMMARY:LGD GAMING vs Invictus Gaming
-DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
- t : LPL Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4292
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4296
-DTSTART:20150207T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150207T100000Z
-URL:http://www.lolesports.com/tourney/match/4296
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
-  Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4296
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4303
-DTSTART:20150213T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150213T080000Z
-URL:http://www.lolesports.com/tourney/match/4303
-SUMMARY:Master3 vs Invictus Gaming
-DESCRIPTION:Master3 (M3) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney
- /match/4303
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4307
-DTSTART:20150214T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150214T080000Z
-URL:http://www.lolesports.com/tourney/match/4307
-SUMMARY:Star Horn Royal Club vs Invictus Gaming
-DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
- nTournament : LPL Spring\nWeek : 5\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4307
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4313
-DTSTART:20150215T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150215T120000Z
-URL:http://www.lolesports.com/tourney/match/4313
-SUMMARY:Invictus Gaming vs King
-DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : LP
- L Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
- atch/4313
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4320
-DTSTART:20150228T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150228T100000Z
-URL:http://www.lolesports.com/tourney/match/4320
-SUMMARY:Team WE vs Invictus Gaming
-DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney
- /match/4320
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4331
-DTSTART:20150307T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150307T080000Z
-URL:http://www.lolesports.com/tourney/match/4331
-SUMMARY:Invictus Gaming vs Energy PACEMAKER
-DESCRIPTION:Invictus Gaming (iG) vs Energy PACEMAKER ()\nType : BO2\nTourna
- ment : LPL Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4331
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4339
-DTSTART:20150313T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150313T080000Z
-URL:http://www.lolesports.com/tourney/match/4339
-SUMMARY:Invictus Gaming vs Vici Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO2\nTournamen
- t : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4339
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4344
-DTSTART:20150314T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150314T100000Z
-URL:http://www.lolesports.com/tourney/match/4344
-SUMMARY:Edward Gaming vs Invictus Gaming
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
- ment : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4344
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4347
-DTSTART:20150315T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150315T080000Z
-URL:http://www.lolesports.com/tourney/match/4347
-SUMMARY:Invictus Gaming vs Gamtee
-DESCRIPTION:Invictus Gaming (iG) vs Gamtee (GT)\nType : BO2\nTournament : L
- PL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/4347
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4350
-DTSTART:20150320T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150320T060000Z
-URL:http://www.lolesports.com/tourney/match/4350
-SUMMARY:Invictus Gaming vs Snake
-DESCRIPTION:Invictus Gaming (iG) vs Snake (SS)\nType : BO2\nTournament : LP
- L Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/m
- atch/4350
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4361
-DTSTART:20150322T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150322T120000Z
-URL:http://www.lolesports.com/tourney/match/4361
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : LPL
-  Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4361
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4368
-DTSTART:20150404T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150404T100000Z
-URL:http://www.lolesports.com/tourney/match/4368
-SUMMARY:Master3 vs Invictus Gaming
-DESCRIPTION:Master3 (M3) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- LPL Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/4368
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4372
-DTSTART:20150405T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150405T100000Z
-URL:http://www.lolesports.com/tourney/match/4372
-SUMMARY:Invictus Gaming vs King
-DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : LP
- L Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/4372
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4376
-DTSTART:20150410T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150410T100000Z
-URL:http://www.lolesports.com/tourney/match/4376
-SUMMARY:Star Horn Royal Club vs Invictus Gaming
-DESCRIPTION:Star Horn Royal Club (SHR) vs Invictus Gaming (iG)\nType : BO2\
- nTournament : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/4376
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4382
-DTSTART:20150412T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150412T060000Z
-URL:http://www.lolesports.com/tourney/match/4382
-SUMMARY:LGD GAMING vs Invictus Gaming
-DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
- t : LPL Spring\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/4382
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4544
-DTSTART:20150415T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150415T100000Z
-URL:http://www.lolesports.com/tourney/match/4544
-SUMMARY:Vici Gaming vs Invictus Gaming
-DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (iG)\nType : BO5\nTournamen
- t : 2015 LPL Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4544
-CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4547
-DTSTART:20150418T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150418T100000Z
-URL:http://www.lolesports.com/tourney/match/4547
-SUMMARY:Edward Gaming vs Invictus Gaming
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO5\nTourna
- ment : 2015 LPL Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/4547
-CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4550
-DTSTART:20150425T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150425T100000Z
-URL:http://www.lolesports.com/tourney/match/4550
-SUMMARY:Invictus Gaming vs Snake
-DESCRIPTION:Invictus Gaming (iG) vs Snake (SS)\nType : BO5\nTournament : 20
- 15 LPL Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/4550
-CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4979
-DTSTART:20150522T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150522T060000Z
-URL:http://www.lolesports.com/tourney/match/4979
-SUMMARY:Team WE vs Invictus Gaming
-DESCRIPTION:Team WE (WE) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- 2015 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/4979
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4991
-DTSTART:20150529T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T060000Z
-URL:http://www.lolesports.com/tourney/match/4991
-SUMMARY:Invictus Gaming vs Unlimited Potential
-DESCRIPTION:Invictus Gaming (iG) vs Unlimited Potential (UPG)\nType : BO2\n
- Tournament : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4991
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4996
-DTSTART:20150530T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150530T080000Z
-URL:http://www.lolesports.com/tourney/match/4996
-SUMMARY:Invictus Gaming vs Qiao Gu
-DESCRIPTION:Invictus Gaming (iG) vs Qiao Gu (QG)\nType : BO2\nTournament : 
- 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/4996
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5002
-DTSTART:20150531T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150531T120000Z
-URL:http://www.lolesports.com/tourney/match/5002
-SUMMARY:Invictus Gaming vs Vici Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO2\nTournamen
- t : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/5002
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5005
-DTSTART:20150605T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T100000Z
-URL:http://www.lolesports.com/tourney/match/5005
-SUMMARY:Edward Gaming vs Invictus Gaming
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO2\nTourna
- ment : 2015 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/5005
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5013
-DTSTART:20150607T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150607T100000Z
-URL:http://www.lolesports.com/tourney/match/5013
-SUMMARY:Invictus Gaming vs Snake
-DESCRIPTION:Invictus Gaming (iG) vs Snake (SS)\nType : BO2\nTournament : 20
- 15 LPL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/5013
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5018
-DTSTART:20150612T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T120000Z
-URL:http://www.lolesports.com/tourney/match/5018
-SUMMARY:LGD GAMING vs Invictus Gaming
-DESCRIPTION:LGD GAMING (LGD) vs Invictus Gaming (iG)\nType : BO2\nTournamen
- t : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/5018
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5020
-DTSTART:20150613T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150613T080000Z
-URL:http://www.lolesports.com/tourney/match/5020
-SUMMARY:OMG vs Invictus Gaming
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (iG)\nType : BO2\nTournament : 201
- 5 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/5020
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5024
-DTSTART:20150614T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150614T080000Z
-URL:http://www.lolesports.com/tourney/match/5024
-SUMMARY:Royal Never Give Up vs Invictus Gaming
-DESCRIPTION:Royal Never Give Up (RNG) vs Invictus Gaming (iG)\nType : BO2\n
- Tournament : 2015 LPL Summer\nWeek : 4\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/5024
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5028
-DTSTART:20150619T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T080000Z
-URL:http://www.lolesports.com/tourney/match/5028
-SUMMARY:Master3 vs Invictus Gaming
-DESCRIPTION:Master3 (M3) vs Invictus Gaming (iG)\nType : BO2\nTournament : 
- 2015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/5028
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5038
-DTSTART:20150621T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150621T120000Z
-URL:http://www.lolesports.com/tourney/match/5038
-SUMMARY:Invictus Gaming vs King
-DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : 20
- 15 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/5038
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5057
-DTSTART:20150704T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150704T100000Z
-URL:http://www.lolesports.com/tourney/match/5057
-SUMMARY:Invictus Gaming vs Qiao Gu
-DESCRIPTION:Invictus Gaming (iG) vs Qiao Gu (QG)\nType : BO2\nTournament : 
- 2015 LPL Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/5057
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5064
-DTSTART:20150717T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T080000Z
-URL:http://www.lolesports.com/tourney/match/5064
-SUMMARY:Vici Gaming vs Invictus Gaming
-DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (iG)\nType : BO2\nTournamen
- t : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/5064
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5070
-DTSTART:20150718T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150718T120000Z
-URL:http://www.lolesports.com/tourney/match/5070
-SUMMARY:Invictus Gaming vs Edward Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Edward Gaming (EDG)\nType : BO2\nTourna
- ment : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/5070
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5072
-DTSTART:20150719T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150719T080000Z
-URL:http://www.lolesports.com/tourney/match/5072
-SUMMARY:Unlimited Potential vs Invictus Gaming
-DESCRIPTION:Unlimited Potential (UPG) vs Invictus Gaming (iG)\nType : BO2\n
- Tournament : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/5072
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5080
-DTSTART:20150725T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150725T080000Z
-URL:http://www.lolesports.com/tourney/match/5080
-SUMMARY:King vs Invictus Gaming
-DESCRIPTION:King (KNG) vs Invictus Gaming (iG)\nType : BO2\nTournament : 20
- 15 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/5080
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5086
-DTSTART:20150726T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150726T120000Z
-URL:http://www.lolesports.com/tourney/match/5086
-SUMMARY:Invictus Gaming vs OMG
-DESCRIPTION:Invictus Gaming (iG) vs OMG (OMG)\nType : BO2\nTournament : 201
- 5 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/5086
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5093
-DTSTART:20150801T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150801T100000Z
-URL:http://www.lolesports.com/tourney/match/5093
-SUMMARY:Invictus Gaming vs Master3
-DESCRIPTION:Invictus Gaming (iG) vs Master3 (M3)\nType : BO2\nTournament : 
- 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/5093
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5097
-DTSTART:20150802T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150802T100000Z
-URL:http://www.lolesports.com/tourney/match/5097
-SUMMARY:Invictus Gaming vs Royal Never Give Up
-DESCRIPTION:Invictus Gaming (iG) vs Royal Never Give Up (RNG)\nType : BO2\n
- Tournament : 2015 LPL Summer\nWeek : 10\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/5097
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5102
-DTSTART:20150807T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150807T120000Z
-URL:http://www.lolesports.com/tourney/match/5102
-SUMMARY:Invictus Gaming vs LGD GAMING
-DESCRIPTION:Invictus Gaming (iG) vs LGD GAMING (LGD)\nType : BO2\nTournamen
- t : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/5102
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5106
-DTSTART:20150808T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150808T120000Z
-URL:http://www.lolesports.com/tourney/match/5106
-SUMMARY:Invictus Gaming vs Team WE
-DESCRIPTION:Invictus Gaming (iG) vs Team WE (WE)\nType : BO2\nTournament : 
- 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/5106
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5107
-DTSTART:20150809T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150809T060000Z
-URL:http://www.lolesports.com/tourney/match/5107
-SUMMARY:Snake vs Invictus Gaming
-DESCRIPTION:Snake (SS) vs Invictus Gaming (iG)\nType : BO2\nTournament : 20
- 15 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/5107
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5373
-DTSTART:20150815T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150815T060000Z
-URL:http://www.lolesports.com/tourney/match/5373
-SUMMARY:Invictus Gaming vs Vici Gaming
-DESCRIPTION:Invictus Gaming (iG) vs Vici Gaming (VG)\nType : BO5\nTournamen
- t : 2015 LPL Summer Playoffs - Knockout\nWeek : 1\nStream : No\nUrl : http
- ://www.lolesports.com/tourney/match/5373
-CATEGORIES:2015 LPL Summer Playoffs - Knockout
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5422
-DTSTART:20150904T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150904T090000Z
-URL:http://www.lolesports.com/tourney/match/5422
-SUMMARY:Qiao Gu vs Invictus Gaming
-DESCRIPTION:Qiao Gu (QG) vs Invictus Gaming (iG)\nType : BO3\nTournament : 
- 2015 LPL Regional Qualifiers\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/5422
-CATEGORIES:2015 LPL Regional Qualifiers
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5423
-DTSTART:20150904T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150904T120000Z
-URL:http://www.lolesports.com/tourney/match/5423
-SUMMARY:Edward Gaming vs Invictus Gaming
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (iG)\nType : BO5\nTourna
- ment : 2015 LPL Regional Qualifiers\nWeek : 2\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/5423
-CATEGORIES:2015 LPL Regional Qualifiers
-DTSTAMP:20151002T130155Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5425
-DTSTART:20150905T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150905T110000Z
-URL:http://www.lolesports.com/tourney/match/5425
-SUMMARY:Invictus Gaming vs Qiao Gu
-DESCRIPTION:Invictus Gaming (iG) vs Qiao Gu (QG)\nType : BO5\nTournament : 
- 2015 LPL Regional Qualifiers\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/5425
-CATEGORIES:2015 LPL Regional Qualifiers
-DTSTAMP:20151002T130155Z
+DTEND:20151003T170000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-3
+SUMMARY:IG vs C9
+DESCRIPTION:Invictus Gaming (IG) vs Cloud9  (C9)\nType : BO1\nTournament : 
+ The 2015 World Championship\nWeek : paris-day-3\nWinner : Cloud9 \nLooser 
+ : Invictus Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011026Z
 END:VEVENT
 END:VCALENDAR

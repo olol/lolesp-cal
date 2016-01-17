@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-EUA
+X-WR-CALNAME:LoL eSports EUA
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-c43bf921-896a-4040-9c9b-a683f19f5438
+DTSTART:20151212T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151213T000000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-3
+SUMMARY:LCK vs EUA
+DESCRIPTION:LCK All-Stars (LCK) vs EU LCS All-Stars (EUA)\nType : BO1\nTour
+ nament : Initial All-Star format\nWeek : ase-day-3\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3a04949e-0131-4036-9b4d-27bbb749af81
+DTSTART:20151212T032000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151212T042000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-2
+SUMMARY:LMS vs EUA
+DESCRIPTION:LMS All-Stars (LMS) vs EU LCS All-Stars (EUA)\nType : BO1\nTour
+ nament : Initial All-Star format\nWeek : ase-day-2\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-16f269fa-53b8-494c-b8dd-2e0dda4d5f99
+DTSTART:20151211T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151211T020000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-1
+SUMMARY:NAA vs EUA
+DESCRIPTION:NA LCS All-Stars (NAA) vs EU LCS All-Stars (EUA)\nType : BO1\nT
+ ournament : Initial All-Star format\nWeek : ase-day-1\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e69a7182-d3a3-4f78-a51f-5e2c53488eb8
+DTSTART:20151214T014500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151214T024500Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-4
+SUMMARY:EUA vs LCK
+DESCRIPTION:EU LCS All-Stars (EUA) vs LCK All-Stars (LCK)\nType : BO3\nTour
+ nament : Initial All-Star format\nWeek : ase-day-4\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

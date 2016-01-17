@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TFT
+X-WR-CALNAME:LoL eSports TFT
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-dd255910-e8e1-4b6f-848a-0fb327b29c51
+DTSTART:20151213T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151214T000000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-4
+SUMMARY:TFT vs TIT
+DESCRIPTION:Team Fire Tandem (TFT) vs Team Ice Tandem (TIT)\nType : BO1\nTo
+ urnament : Initial All-Star format\nWeek : ase-day-4\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

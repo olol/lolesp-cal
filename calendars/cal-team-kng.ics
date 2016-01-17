@@ -1,645 +1,332 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-kng
+PRODID:www.lolesports.com|cal-team-KNG
 X-WR-CALNAME:LoL eSports KNG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-4257
-DTSTART:20150116T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150116T120000Z
-URL:http://www.lolesports.com/tourney/match/4257
-SUMMARY:Edward Gaming vs King
-DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : LPL
-  Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4257
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4262
-DTSTART:20150118T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150118T060000Z
-URL:http://www.lolesports.com/tourney/match/4262
-SUMMARY:Master3 vs King
-DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : LPL Spring
- \nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/426
- 2
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4270
-DTSTART:20150124T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150124T060000Z
-URL:http://www.lolesports.com/tourney/match/4270
-SUMMARY:King vs Energy PACEMAKER
-DESCRIPTION:King (KNG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
-  Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4270
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4274
-DTSTART:20150125T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150125T060000Z
-URL:http://www.lolesports.com/tourney/match/4274
-SUMMARY:King vs Snake
-DESCRIPTION:King (KNG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\n
- Week : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4274
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4279
-DTSTART:20150130T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150130T080000Z
-URL:http://www.lolesports.com/tourney/match/4279
-SUMMARY:Star Horn Royal Club vs King
-DESCRIPTION:Star Horn Royal Club (SHR) vs King (KNG)\nType : BO2\nTournamen
- t : LPL Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4279
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4287
-DTSTART:20150201T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150201T080000Z
-URL:http://www.lolesports.com/tourney/match/4287
-SUMMARY:Vici Gaming vs King
-DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : LPL Sp
- ring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/match
- /4287
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4298
-DTSTART:20150208T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150208T060000Z
-URL:http://www.lolesports.com/tourney/match/4298
-SUMMARY:King vs LGD GAMING
-DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Sp
- ring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match
- /4298
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4305
-DTSTART:20150213T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150213T120000Z
-URL:http://www.lolesports.com/tourney/match/4305
-SUMMARY:OMG vs King
-DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : LPL Spring\nW
- eek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4305
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4306
-DTSTART:20150214T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150214T060000Z
-URL:http://www.lolesports.com/tourney/match/4306
-SUMMARY:King vs Gamtee
-DESCRIPTION:King (KNG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\
- nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4306
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4313
-DTSTART:20150215T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150215T120000Z
-URL:http://www.lolesports.com/tourney/match/4313
-SUMMARY:Invictus Gaming vs King
-DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : LP
- L Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/m
- atch/4313
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4316
-DTSTART:20150227T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150227T100000Z
-URL:http://www.lolesports.com/tourney/match/4316
-SUMMARY:Team WE vs King
-DESCRIPTION:Team WE (WE) vs King (KNG)\nType : BO2\nTournament : LPL Spring
- \nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/431
- 6
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4321
-DTSTART:20150228T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150228T120000Z
-URL:http://www.lolesports.com/tourney/match/4321
-SUMMARY:Vici Gaming vs King
-DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : LPL Sp
- ring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match
- /4321
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4323
-DTSTART:20150301T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150301T080000Z
-URL:http://www.lolesports.com/tourney/match/4323
-SUMMARY:Edward Gaming vs King
-DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : LPL
-  Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4323
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4326
-DTSTART:20150306T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150306T060000Z
-URL:http://www.lolesports.com/tourney/match/4326
-SUMMARY:Master3 vs King
-DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : LPL Spring
- \nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/432
- 6
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4330
-DTSTART:20150307T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150307T060000Z
-URL:http://www.lolesports.com/tourney/match/4330
-SUMMARY:King vs Snake
-DESCRIPTION:King (KNG) vs Snake (SS)\nType : BO2\nTournament : LPL Spring\n
- Week : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4330
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4341
-DTSTART:20150313T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150313T120000Z
-URL:http://www.lolesports.com/tourney/match/4341
-SUMMARY:King vs Energy PACEMAKER
-DESCRIPTION:King (KNG) vs Energy PACEMAKER ()\nType : BO2\nTournament : LPL
-  Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4341
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4346
-DTSTART:20150315T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150315T060000Z
-URL:http://www.lolesports.com/tourney/match/4346
-SUMMARY:Star Horn Royal Club vs King
-DESCRIPTION:Star Horn Royal Club (SHR) vs King (KNG)\nType : BO2\nTournamen
- t : LPL Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4346
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4355
-DTSTART:20150321T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150321T080000Z
-URL:http://www.lolesports.com/tourney/match/4355
-SUMMARY:OMG vs King
-DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : LPL Spring\nW
- eek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match/4355
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4363
-DTSTART:20150403T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150403T080000Z
-URL:http://www.lolesports.com/tourney/match/4363
-SUMMARY:King vs LGD GAMING
-DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : LPL Sp
- ring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/4363
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4369
-DTSTART:20150404T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150404T120000Z
-URL:http://www.lolesports.com/tourney/match/4369
-SUMMARY:Team WE vs King
-DESCRIPTION:Team WE (WE) vs King (KNG)\nType : BO2\nTournament : LPL Spring
- \nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/match/43
- 69
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4372
-DTSTART:20150405T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150405T100000Z
-URL:http://www.lolesports.com/tourney/match/4372
-SUMMARY:Invictus Gaming vs King
-DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : LP
- L Spring\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/4372
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4378
-DTSTART:20150411T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150411T060000Z
-URL:http://www.lolesports.com/tourney/match/4378
-SUMMARY:King vs Gamtee
-DESCRIPTION:King (KNG) vs Gamtee (GT)\nType : BO2\nTournament : LPL Spring\
- nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourney/match/437
- 8
-CATEGORIES:LPL Spring
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4545
-DTSTART:20150416T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150416T100000Z
-URL:http://www.lolesports.com/tourney/match/4545
-SUMMARY:Snake vs King
-DESCRIPTION:Snake (SS) vs King (KNG)\nType : BO5\nTournament : 2015 LPL Spr
- ing Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/4545
-CATEGORIES:2015 LPL Spring Playoffs
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4986
+UID:match-c89a8306-ef26-4da6-a015-f9b31fb16ad8
 DTSTART:20150523T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150523T120000Z
-URL:http://www.lolesports.com/tourney/match/4986
-SUMMARY:Edward Gaming vs King
-DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : 201
- 5 LPL Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/4986
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/1
+SUMMARY:EDG vs KNG
+DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : Mig
+ rated tournament for lpl_2015_summer\nWeek : 1\nWinner : Edward Gaming\nLo
+ oser : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4987
-DTSTART:20150524T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150524T060000Z
-URL:http://www.lolesports.com/tourney/match/4987
-SUMMARY:Master3 vs King
-DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : 2015 LPL S
- ummer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/4987
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4995
-DTSTART:20150530T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150530T060000Z
-URL:http://www.lolesports.com/tourney/match/4995
-SUMMARY:Royal Never Give Up vs King
-DESCRIPTION:Royal Never Give Up (RNG) vs King (KNG)\nType : BO2\nTournament
-  : 2015 LPL Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4995
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4999
-DTSTART:20150531T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150531T060000Z
-URL:http://www.lolesports.com/tourney/match/4999
-SUMMARY:King vs Snake
-DESCRIPTION:King (KNG) vs Snake (SS)\nType : BO2\nTournament : 2015 LPL Sum
- mer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
- 4999
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5004
-DTSTART:20150605T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T080000Z
-URL:http://www.lolesports.com/tourney/match/5004
-SUMMARY:King vs Qiao Gu
-DESCRIPTION:King (KNG) vs Qiao Gu (QG)\nType : BO2\nTournament : 2015 LPL S
- ummer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/5004
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5012
-DTSTART:20150607T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150607T080000Z
-URL:http://www.lolesports.com/tourney/match/5012
-SUMMARY:Vici Gaming vs King
-DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : 2015 L
- PL Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/5012
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5023
-DTSTART:20150614T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150614T060000Z
-URL:http://www.lolesports.com/tourney/match/5023
-SUMMARY:King vs LGD GAMING
-DESCRIPTION:King (KNG) vs LGD GAMING (LGD)\nType : BO2\nTournament : 2015 L
- PL Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/5023
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5030
-DTSTART:20150619T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T120000Z
-URL:http://www.lolesports.com/tourney/match/5030
-SUMMARY:OMG vs King
-DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : 2015 LPL Summ
- er\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/match/5
- 030
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5033
-DTSTART:20150620T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T100000Z
-URL:http://www.lolesports.com/tourney/match/5033
-SUMMARY:King vs Unlimited Potential
-DESCRIPTION:King (KNG) vs Unlimited Potential (UPG)\nType : BO2\nTournament
-  : 2015 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/5033
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5038
-DTSTART:20150621T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150621T120000Z
-URL:http://www.lolesports.com/tourney/match/5038
-SUMMARY:Invictus Gaming vs King
-DESCRIPTION:Invictus Gaming (iG) vs King (KNG)\nType : BO2\nTournament : 20
- 15 LPL Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/5038
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5041
-DTSTART:20150626T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T100000Z
-URL:http://www.lolesports.com/tourney/match/5041
-SUMMARY:Team WE vs King
-DESCRIPTION:Team WE (WE) vs King (KNG)\nType : BO2\nTournament : 2015 LPL S
- ummer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/5041
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5048
-DTSTART:20150628T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150628T080000Z
-URL:http://www.lolesports.com/tourney/match/5048
-SUMMARY:King vs Edward Gaming
-DESCRIPTION:King (KNG) vs Edward Gaming (EDG)\nType : BO2\nTournament : 201
- 5 LPL Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/5048
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5051
-DTSTART:20150703T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T060000Z
-URL:http://www.lolesports.com/tourney/match/5051
-SUMMARY:King vs Master3
-DESCRIPTION:King (KNG) vs Master3 (M3)\nType : BO2\nTournament : 2015 LPL S
- ummer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/5051
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5055
-DTSTART:20150704T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150704T060000Z
-URL:http://www.lolesports.com/tourney/match/5055
-SUMMARY:Snake vs King
-DESCRIPTION:Snake (SS) vs King (KNG)\nType : BO2\nTournament : 2015 LPL Sum
- mer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
- 5055
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5065
-DTSTART:20150717T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T100000Z
-URL:http://www.lolesports.com/tourney/match/5065
-SUMMARY:Qiao Gu vs King
-DESCRIPTION:Qiao Gu (QG) vs King (KNG)\nType : BO2\nTournament : 2015 LPL S
- ummer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/5065
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5071
-DTSTART:20150719T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150719T060000Z
-URL:http://www.lolesports.com/tourney/match/5071
-SUMMARY:King vs Royal Never Give Up
-DESCRIPTION:King (KNG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
-  : 2015 LPL Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/5071
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5076
+UID:match-8b07e7a7-c7cc-4d05-a5ae-e15401ef9f85
 DTSTART:20150724T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150724T080000Z
-URL:http://www.lolesports.com/tourney/match/5076
-SUMMARY:King vs Vici Gaming
-DESCRIPTION:King (KNG) vs Vici Gaming (VG)\nType : BO2\nTournament : 2015 L
- PL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/5076
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/9
+SUMMARY:KNG vs VG
+DESCRIPTION:King (KNG) vs Vici Gaming (VG)\nType : BO2\nTournament : Migrat
+ ed tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\nLooser 
+ : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5080
+UID:match-0bdbf09d-d27c-4237-85b6-c32d5fbfb52e
 DTSTART:20150725T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150725T080000Z
-URL:http://www.lolesports.com/tourney/match/5080
-SUMMARY:King vs Invictus Gaming
-DESCRIPTION:King (KNG) vs Invictus Gaming (iG)\nType : BO2\nTournament : 20
- 15 LPL Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/5080
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/9
+SUMMARY:KNG vs IG
+DESCRIPTION:King (KNG) vs Invictus Gaming (IG)\nType : BO2\nTournament : Mi
+ grated tournament for lpl_2015_summer\nWeek : 9\nWinner : Invictus Gaming\
+ nLooser : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5088
-DTSTART:20150731T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150731T080000Z
-URL:http://www.lolesports.com/tourney/match/5088
-SUMMARY:LGD GAMING vs King
-DESCRIPTION:LGD GAMING (LGD) vs King (KNG)\nType : BO2\nTournament : 2015 L
- PL Summer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney
- /match/5088
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5094
-DTSTART:20150801T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150801T120000Z
-URL:http://www.lolesports.com/tourney/match/5094
-SUMMARY:King vs Team WE
-DESCRIPTION:King (KNG) vs Team WE (WE)\nType : BO2\nTournament : 2015 LPL S
- ummer\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/5094
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5098
+UID:match-8234373c-f177-4ec6-b028-a7743ea50d3d
 DTSTART:20150802T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150802T120000Z
-URL:http://www.lolesports.com/tourney/match/5098
-SUMMARY:King vs OMG
-DESCRIPTION:King (KNG) vs OMG (OMG)\nType : BO2\nTournament : 2015 LPL Summ
- er\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
- 5098
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/10
+SUMMARY:KNG vs OMG
+DESCRIPTION:King (KNG) vs OMG (OMG)\nType : BO2\nTournament : Migrated tour
+ nament for lpl_2015_summer\nWeek : 10\nWinner : OMG\nLooser : OMG\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5103
+UID:match-07c7c401-2bbb-46a5-a376-e6f264bd0479
+DTSTART:20150607T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:VG vs KNG
+DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : Migrat
+ ed tournament for lpl_2015_summer\nWeek : 3\nWinner : King\nLooser : King\
+ n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5f0b4e90-0045-40d8-8cac-c55fe454c2c0
+DTSTART:20150530T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/2
+SUMMARY:RNG vs KNG
+DESCRIPTION:Royal Never Give Up (RNG) vs King (KNG)\nType : BO2\nTournament
+  : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Royal Never
+  Give Up\nLooser : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-84f1fa25-9447-4a34-81b9-1e7429cb12a6
+DTSTART:20150626T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/6
+SUMMARY:WE vs KNG
+DESCRIPTION:Team World Elite (WE) vs King (KNG)\nType : BO2\nTournament : M
+ igrated tournament for lpl_2015_summer\nWeek : 6\nWinner : King\nLooser : 
+ King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-22f3c7cd-9898-4a2b-9ef7-717a953f20b3
+DTSTART:20150628T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/6
+SUMMARY:KNG vs EDG
+DESCRIPTION:King (KNG) vs Edward Gaming (EDG)\nType : BO2\nTournament : Mig
+ rated tournament for lpl_2015_summer\nWeek : 6\nWinner : Edward Gaming\nLo
+ oser : Edward Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4f0cd259-2b88-4240-a9f0-52800ddcf1af
+DTSTART:20150605T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:KNG vs QG
+DESCRIPTION:King (KNG) vs Qiao Gu Reapers (QG)\nType : BO2\nTournament : Mi
+ grated tournament for lpl_2015_summer\nWeek : 3\nWinner : Qiao Gu Reapers\
+ nLooser : Qiao Gu Reapers\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6abfae3f-efb6-4862-952e-1524e38add55
+DTSTART:20150621T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/5
+SUMMARY:IG vs KNG
+DESCRIPTION:Invictus Gaming (IG) vs King (KNG)\nType : BO2\nTournament : Mi
+ grated tournament for lpl_2015_summer\nWeek : 5\nWinner : Invictus Gaming\
+ nLooser : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-04657ee7-1adc-48af-a934-5716e68fd341
+DTSTART:20150704T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:SS vs KNG
+DESCRIPTION:Snake Esports (SS) vs King (KNG)\nType : BO2\nTournament : Migr
+ ated tournament for lpl_2015_summer\nWeek : 7\nWinner : King\nLooser : Kin
+ g\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-67772e39-f1d5-4e8d-a3d3-55c8372a1f7c
+DTSTART:20150719T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/8
+SUMMARY:KNG vs RNG
+DESCRIPTION:King (KNG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
+  : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Royal Never
+  Give Up\nLooser : Royal Never Give Up\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8b29cabb-1e1b-4f23-b1fa-f1bb697d03e7
+DTSTART:20150619T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/5
+SUMMARY:OMG vs KNG
+DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : Migrated tour
+ nament for lpl_2015_summer\nWeek : 5\nWinner : King\nLooser : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2f7e51d0-168f-40db-9cb9-b551238cae94
+DTSTART:20150614T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:KNG vs LGD
+DESCRIPTION:King (KNG) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migrat
+ ed tournament for lpl_2015_summer\nWeek : 4\nWinner : LGD Gaming\nLooser :
+  LGD Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1a247983-837f-4d9d-abe3-82bf4500e2d5
+DTSTART:20150731T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/10
+SUMMARY:LGD vs KNG
+DESCRIPTION:LGD Gaming (LGD) vs King (KNG)\nType : BO2\nTournament : Migrat
+ ed tournament for lpl_2015_summer\nWeek : 10\nWinner : King\nLooser : King
+ \n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d1b5887f-df18-40f7-af03-1c27a7a55ef9
 DTSTART:20150808T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150808T060000Z
-URL:http://www.lolesports.com/tourney/match/5103
-SUMMARY:Unlimited Potential vs King
-DESCRIPTION:Unlimited Potential (UPG) vs King (KNG)\nType : BO2\nTournament
-  : 2015 LPL Summer\nWeek : 11\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/5103
-CATEGORIES:2015 LPL Summer
-DTSTAMP:20151002T130216Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/11
+SUMMARY:UP vs KNG
+DESCRIPTION:Unlimited Potential (UP) vs King (KNG)\nType : BO2\nTournament 
+ : Migrated tournament for lpl_2015_summer\nWeek : 11\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5379
-DTSTART:20150810T070000Z
+UID:match-f65dfb4a-38da-471d-b286-ba52f3fd5d9d
+DTSTART:20150801T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150810T080000Z
-URL:http://www.lolesports.com/tourney/match/5379
-SUMMARY:King vs 2144 Danmu Gaming
-DESCRIPTION:King (KNG) vs 2144 Danmu Gaming (2DG)\nType : BO5\nTournament :
-  2016 LPL Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/5379
-CATEGORIES:2016 LPL Spring Promotion
-DTSTAMP:20151002T130216Z
+DTEND:20150801T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/10
+SUMMARY:KNG vs WE
+DESCRIPTION:King (KNG) vs Team World Elite (WE)\nType : BO2\nTournament : M
+ igrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Team World Eli
+ te\nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-85d531d0-c104-4639-8a4a-57459706b5dd
+DTSTART:20150620T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/5
+SUMMARY:KNG vs UP
+DESCRIPTION:King (KNG) vs Unlimited Potential (UP)\nType : BO2\nTournament 
+ : Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : King\nLooser
+  : Unlimited Potential\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1ad46c00-04e5-4ef8-ae72-72a4fc312c9a
+DTSTART:20150524T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150524T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/1
+SUMMARY:M3 vs KNG
+DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : Migrated t
+ ournament for lpl_2015_summer\nWeek : 1\nWinner : Master3\nLooser : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a55a8f17-be92-4672-87eb-2e05b00bcb01
+DTSTART:20150531T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/2
+SUMMARY:KNG vs SS
+DESCRIPTION:King (KNG) vs Snake Esports (SS)\nType : BO2\nTournament : Migr
+ ated tournament for lpl_2015_summer\nWeek : 2\nWinner : Snake Esports\nLoo
+ ser : King\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7cd08cab-bee1-4578-8aa2-dd9ea2cc1c07
+DTSTART:20150703T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:KNG vs M3
+DESCRIPTION:King (KNG) vs Master3 (M3)\nType : BO2\nTournament : Migrated t
+ ournament for lpl_2015_summer\nWeek : 7\nWinner : Master3\nLooser : Master
+ 3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c81ce5cc-6ad4-427b-a40d-0ba2eb9de97c
+DTSTART:20150717T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/8
+SUMMARY:QG vs KNG
+DESCRIPTION:Qiao Gu Reapers (QG) vs King (KNG)\nType : BO2\nTournament : Mi
+ grated tournament for lpl_2015_summer\nWeek : 8\nWinner : King\nLooser : K
+ ing\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T011026Z
 END:VEVENT
 END:VCALENDAR

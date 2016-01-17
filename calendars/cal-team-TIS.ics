@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TIS
+X-WR-CALNAME:LoL eSports TIS
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-20e18fcb-34c9-4918-a059-b1beced690ba
+DTSTART:20151214T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151214T014500Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-4
+SUMMARY:TFS vs TIS
+DESCRIPTION:Team Fire All-Stars (TFS) vs Team Ice All-Stars (TIS)\nType : B
+ O1\nTournament : Initial All-Star format\nWeek : ase-day-4\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

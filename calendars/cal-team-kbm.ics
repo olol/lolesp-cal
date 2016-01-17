@@ -1,104 +1,104 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-kbm
+PRODID:www.lolesports.com|cal-team-KBM
 X-WR-CALNAME:LoL eSports KBM
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-3041
-DTSTART:20140830T000000Z
+UID:match-a3ab800d-9b4a-4d46-b732-3176275cd27c
+DTSTART:20160220T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140830T010000Z
-URL:http://www.lolesports.com/tourney/match/3041
-SUMMARY:PEX vs KaBuM e-Sports
-DESCRIPTION:PEX (PEX) vs KaBuM e-Sports (KBM)\nType : BO5\nTournament : IWC
-  PAX Prime\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney
- /match/3041
-CATEGORIES:IWC PAX Prime
-DTSTAMP:20151002T130208Z
+DTEND:20160220T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%205
+SUMMARY:OPK vs KBM
+DESCRIPTION:Operation Kino (OPK) vs KaBuM e-Sports (KBM)\nType : BO2\nTourn
+ ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160117T011029Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3120
-DTSTART:20140925T100000Z
+UID:match-6056f7eb-1eef-4383-b42e-3803029632c0
+DTSTART:20160131T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140925T110000Z
-URL:http://www.lolesports.com/tourney/match/3120
-SUMMARY:NaJin White Shield  vs KaBuM e-Sports
-DESCRIPTION:Najin e-mFire (NJE) vs KaBuM e-Sports (KBM)\nType : BO1\nTourna
- ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/3120
-CATEGORIES:Group D
-DTSTAMP:20151002T130208Z
+DTEND:20160131T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%203
+SUMMARY:VFK vs KBM
+DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
+ t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160117T011029Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3122
-DTSTART:20140925T140000Z
+UID:match-54a0209a-190b-4040-8424-9a534580bd01
+DTSTART:20160124T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140925T150000Z
-URL:http://www.lolesports.com/tourney/match/3122
-SUMMARY:Cloud9  vs KaBuM e-Sports
-DESCRIPTION:Cloud9  (C9) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament : 
- Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/3122
-CATEGORIES:Group D
-DTSTAMP:20151002T130208Z
+DTEND:20160124T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%202
+SUMMARY:PNG vs KBM
+DESCRIPTION:paiN Gaming (PNG) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
+ nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160117T011029Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3125
-DTSTART:20140926T130000Z
+UID:match-24a835c0-77a6-454c-a397-646c6df71035
+DTSTART:20160117T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140926T140000Z
-URL:http://www.lolesports.com/tourney/match/3125
-SUMMARY:Alliance vs KaBuM e-Sports
-DESCRIPTION:Alliance (ALL) vs KaBuM e-Sports (KBM)\nType : BO1\nTournament 
- : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/3125
-CATEGORIES:Group D
-DTSTAMP:20151002T130208Z
+DTEND:20160117T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%201
+SUMMARY:KBM vs 
+DESCRIPTION:KaBuM e-Sports (KBM) vs Red Canids ()\nType : BO2\nTournament :
+  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160117T011029Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3127
-DTSTART:20140927T090000Z
+UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
+DTSTART:20160225T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140927T100000Z
-URL:http://www.lolesports.com/tourney/match/3127
-SUMMARY:KaBuM e-Sports vs NaJin White Shield 
-DESCRIPTION:KaBuM e-Sports (KBM) vs Najin e-mFire (NJE)\nType : BO1\nTourna
- ment : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/3127
-CATEGORIES:Group D
-DTSTAMP:20151002T130208Z
+DTEND:20160225T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:KBM vs ITZ
+DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
+ e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160117T011029Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3129
-DTSTART:20140928T061500Z
+UID:match-54178354-af73-4936-b38a-24c9145cc3c2
+DTSTART:20160228T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140928T071500Z
-URL:http://www.lolesports.com/tourney/match/3129
-SUMMARY:KaBuM e-Sports vs Cloud9 
-DESCRIPTION:KaBuM e-Sports (KBM) vs Cloud9  (C9)\nType : BO1\nTournament : 
- Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/3129
-CATEGORIES:Group D
-DTSTAMP:20151002T130208Z
+DTEND:20160228T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:CNB vs KBM
+DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
+ urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160117T011029Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3130
-DTSTART:20140928T080000Z
+UID:match-b149765d-a396-43ea-98a3-80d25ceef81f
+DTSTART:20160213T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140928T090000Z
-URL:http://www.lolesports.com/tourney/match/3130
-SUMMARY:KaBuM e-Sports vs Alliance
-DESCRIPTION:KaBuM e-Sports (KBM) vs Alliance (ALL)\nType : BO1\nTournament 
- : Group D\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/3130
-CATEGORIES:Group D
-DTSTAMP:20151002T130208Z
+DTEND:20160213T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:KBM vs G3X
+DESCRIPTION:KaBuM e-Sports (KBM) vs g3nerationX (G3X)\nType : BO2\nTourname
+ nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160117T011029Z
 END:VEVENT
 END:VCALENDAR

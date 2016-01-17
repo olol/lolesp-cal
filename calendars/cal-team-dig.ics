@@ -1,2204 +1,273 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-dig
+PRODID:www.lolesports.com|cal-team-DIG
 X-WR-CALNAME:LoL eSports DIG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-541
-DTSTART:20130207T210000Z
+UID:match-ac027c02-a3c7-4eab-abf7-3cda57a6b4da
+DTSTART:20160320T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130207T220000Z
-URL:http://www.lolesports.com/tourney/match/541
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/541
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-545
-DTSTART:20130209T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130209T020000Z
-URL:http://www.lolesports.com/tourney/match/545
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/545
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-547
-DTSTART:20130209T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130209T040000Z
-URL:http://www.lolesports.com/tourney/match/547
-SUMMARY:XDG vs Team Dignitas
-DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
- eason 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/547
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-548
-DTSTART:20130214T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130214T210000Z
-URL:http://www.lolesports.com/tourney/match/548
-SUMMARY:Team Dignitas vs Team MRN
-DESCRIPTION:Team Dignitas (DIG) vs Team MRN ()\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/548
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-551
-DTSTART:20130214T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130215T000000Z
-URL:http://www.lolesports.com/tourney/match/551
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/551
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-553
-DTSTART:20130216T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130216T020000Z
-URL:http://www.lolesports.com/tourney/match/553
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
-  : NA Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/553
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-558
-DTSTART:20130221T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130221T230000Z
-URL:http://www.lolesports.com/tourney/match/558
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/558
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-570
-DTSTART:20130228T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130228T010000Z
-URL:http://www.lolesports.com/tourney/match/570
-SUMMARY:Team Dignitas vs XDG
-DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
- eason 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/570
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-572
-DTSTART:20130228T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130228T030000Z
-URL:http://www.lolesports.com/tourney/match/572
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/572
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-574
-DTSTART:20130228T040000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130228T050000Z
-URL:http://www.lolesports.com/tourney/match/574
-SUMMARY:Team Coast vs Team Dignitas
-DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/574
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-577
-DTSTART:20130228T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130228T220000Z
-URL:http://www.lolesports.com/tourney/match/577
-SUMMARY:Team Dignitas vs compLexity
-DESCRIPTION:Team Dignitas (DIG) vs compLexity White (COW)\nType : BO1\nTour
- nament : NA Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/577
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-582
-DTSTART:20130302T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130302T030000Z
-URL:http://www.lolesports.com/tourney/match/582
-SUMMARY:Team MRN vs Team Dignitas
-DESCRIPTION:Team MRN () vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/582
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-585
-DTSTART:20130315T233000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130316T003000Z
-URL:http://www.lolesports.com/tourney/match/585
-SUMMARY:compLexity vs Team Dignitas
-DESCRIPTION:compLexity White (COW) vs Team Dignitas (DIG)\nType : BO1\nTour
- nament : NA Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/585
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-593
-DTSTART:20130317T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130317T200000Z
-URL:http://www.lolesports.com/tourney/match/593
-SUMMARY:XDG vs Team Dignitas
-DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
- eason 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/593
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-596
-DTSTART:20130321T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130321T210000Z
-URL:http://www.lolesports.com/tourney/match/596
-SUMMARY:Team Dignitas vs Team MRN
-DESCRIPTION:Team Dignitas (DIG) vs Team MRN ()\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/596
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-598
-DTSTART:20130321T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130321T230000Z
-URL:http://www.lolesports.com/tourney/match/598
-SUMMARY:Counter Logic Gaming vs Team Dignitas
+DTEND:20160320T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:CLG vs DIG
 DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/598
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
+ Tournament : NA 2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-603
-DTSTART:20130323T010000Z
+UID:match-35f192bb-43db-47f4-af81-f4aba957f296
+DTSTART:20160208T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130323T020000Z
-URL:http://www.lolesports.com/tourney/match/603
-SUMMARY:Team Dignitas vs compLexity
-DESCRIPTION:Team Dignitas (DIG) vs compLexity White (COW)\nType : BO1\nTour
- nament : NA Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/603
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
+DTEND:20160208T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:DIG vs FOX
+DESCRIPTION:Team Dignitas (DIG) vs Echo Fox (FOX)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-605
-DTSTART:20130330T210000Z
+UID:match-0f8b4f7f-359b-4e80-942a-e3438f5f4ff1
+DTSTART:20160228T230000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130330T220000Z
-URL:http://www.lolesports.com/tourney/match/605
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/605
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
+DTEND:20160229T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:REN vs DIG
+DESCRIPTION:Renegades (REN) vs Team Dignitas (DIG)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-608
-DTSTART:20130331T000000Z
+UID:match-5c4e3f06-abd8-46df-a645-8e20345783ec
+DTSTART:20160131T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130331T010000Z
-URL:http://www.lolesports.com/tourney/match/608
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/608
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-612
-DTSTART:20130331T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130331T230000Z
-URL:http://www.lolesports.com/tourney/match/612
-SUMMARY:Team MRN vs Team Dignitas
-DESCRIPTION:Team MRN () vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/612
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-625
-DTSTART:20130411T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130411T220000Z
-URL:http://www.lolesports.com/tourney/match/625
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/625
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-628
-DTSTART:20130412T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130412T230000Z
-URL:http://www.lolesports.com/tourney/match/628
-SUMMARY:Team Coast vs Team Dignitas
-DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/628
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-632
-DTSTART:20130417T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130417T210000Z
-URL:http://www.lolesports.com/tourney/match/632
-SUMMARY:compLexity vs Team Dignitas
-DESCRIPTION:compLexity White (COW) vs Team Dignitas (DIG)\nType : BO1\nTour
- nament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/632
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-637
-DTSTART:20130418T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130418T020000Z
-URL:http://www.lolesports.com/tourney/match/637
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http:
- //www.lolesports.com/tourney/match/637
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-642
-DTSTART:20130419T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130419T010000Z
-URL:http://www.lolesports.com/tourney/match/642
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/642
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-647
-DTSTART:20130419T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130420T000000Z
-URL:http://www.lolesports.com/tourney/match/647
-SUMMARY:Team Dignitas vs XDG
-DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
- eason 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/647
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-649
-DTSTART:20130420T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130420T020000Z
-URL:http://www.lolesports.com/tourney/match/649
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/649
-CATEGORIES:NA Season 3 Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-772
-DTSTART:20130426T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130426T230000Z
-URL:http://www.lolesports.com/tourney/match/772
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO3\nTournament
-  : NA Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/772
-CATEGORIES:NA Spring Playoffs
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-794
-DTSTART:20130512T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130512T190000Z
-URL:http://www.lolesports.com/tourney/match/794
-SUMMARY:Team Dignitas vs Team Summon
-DESCRIPTION:Team Dignitas (DIG) vs Team Summon ()\nType : BO5\nTournament :
-  NA Summer Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/794
-CATEGORIES:NA Summer Promotion
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1255
-DTSTART:20130612T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130612T230000Z
-URL:http://www.lolesports.com/tourney/match/1255
-SUMMARY:Team Dignitas vs Cloud 9 
+DTEND:20160131T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:DIG vs C9
 DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1255
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
+ A 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1260
-DTSTART:20130613T210000Z
+UID:match-f1c6634a-f25a-484e-8605-3e028e2ca5d3
+DTSTART:20160319T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130613T220000Z
-URL:http://www.lolesports.com/tourney/match/1260
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/1260
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
+DTEND:20160319T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:DIG vs TL
+DESCRIPTION:Team Dignitas (DIG) vs Liquid (TL)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1262
-DTSTART:20130613T230000Z
+UID:match-a44c32cc-eafe-4bd0-aa98-b1bd357bacf5
+DTSTART:20160228T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130614T000000Z
-URL:http://www.lolesports.com/tourney/match/1262
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/1262
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1265
-DTSTART:20130614T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130614T210000Z
-URL:http://www.lolesports.com/tourney/match/1265
-SUMMARY:Velocity Esports vs Team Dignitas
-DESCRIPTION:Velocity Esports () vs Team Dignitas (DIG)\nType : BO1\nTournam
- ent : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/1265
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1269
-DTSTART:20130615T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130615T010000Z
-URL:http://www.lolesports.com/tourney/match/1269
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
-  : NA Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1269
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1276
-DTSTART:20130620T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130621T000000Z
-URL:http://www.lolesports.com/tourney/match/1276
-SUMMARY:Team Coast vs Team Dignitas
-DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1276
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1280
-DTSTART:20130622T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130622T020000Z
-URL:http://www.lolesports.com/tourney/match/1280
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1280
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1281
-DTSTART:20130629T003000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130629T013000Z
-URL:http://www.lolesports.com/tourney/match/1281
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/1281
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1285
-DTSTART:20130629T223000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130629T233000Z
-URL:http://www.lolesports.com/tourney/match/1285
-SUMMARY:XDG vs Team Dignitas
-DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
- eason 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1285
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1292
-DTSTART:20130701T013000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130701T023000Z
-URL:http://www.lolesports.com/tourney/match/1292
-SUMMARY:Team Dignitas vs Velocity Esports
-DESCRIPTION:Team Dignitas (DIG) vs Velocity Esports ()\nType : BO1\nTournam
- ent : NA Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/1292
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1295
-DTSTART:20130704T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130704T210000Z
-URL:http://www.lolesports.com/tourney/match/1295
-SUMMARY:Cloud 9  vs Team Dignitas
+DTEND:20160228T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:C9 vs DIG
 DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1295
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
+ A 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1300
-DTSTART:20130705T010000Z
+UID:match-bae87161-57e5-4529-b0b3-afd507581c6b
+DTSTART:20160313T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130705T020000Z
-URL:http://www.lolesports.com/tourney/match/1300
-SUMMARY:Team Dignitas vs XDG
-DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
- eason 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1300
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
+DTEND:20160313T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:FOX vs DIG
+DESCRIPTION:Echo Fox (FOX) vs Team Dignitas (DIG)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1303
-DTSTART:20130711T220000Z
+UID:match-9285a10b-c63b-4b41-95fd-a25f08a802ac
+DTSTART:20160117T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130711T230000Z
-URL:http://www.lolesports.com/tourney/match/1303
-SUMMARY:Velocity Esports vs Team Dignitas
-DESCRIPTION:Velocity Esports () vs Team Dignitas (DIG)\nType : BO1\nTournam
- ent : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/1303
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1308
-DTSTART:20130712T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130712T220000Z
-URL:http://www.lolesports.com/tourney/match/1308
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
-  : NA Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1308
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1312
-DTSTART:20130713T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130713T020000Z
-URL:http://www.lolesports.com/tourney/match/1312
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1312
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1315
-DTSTART:20130718T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130718T230000Z
-URL:http://www.lolesports.com/tourney/match/1315
-SUMMARY:XDG vs Team Dignitas
-DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA S
- eason 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1315
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1319
-DTSTART:20130720T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130720T010000Z
-URL:http://www.lolesports.com/tourney/match/1319
-SUMMARY:Team Dignitas vs Counter Logic Gaming
+DTEND:20160117T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:DIG vs CLG
 DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/1319
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
+ Tournament : NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1322
-DTSTART:20130725T210000Z
+UID:match-bcd8810c-125b-4e26-a096-5dbdd187a943
+DTSTART:20160130T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20130725T220000Z
-URL:http://www.lolesports.com/tourney/match/1322
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/1322
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1327
-DTSTART:20130726T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130726T210000Z
-URL:http://www.lolesports.com/tourney/match/1327
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/1327
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1330
-DTSTART:20130726T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130727T000000Z
-URL:http://www.lolesports.com/tourney/match/1330
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1330
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1333
-DTSTART:20130801T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130801T210000Z
-URL:http://www.lolesports.com/tourney/match/1333
-SUMMARY:Team Dignitas vs Cloud 9 
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1333
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1340
-DTSTART:20130802T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130802T220000Z
-URL:http://www.lolesports.com/tourney/match/1340
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/1340
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1344
-DTSTART:20130803T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130803T020000Z
-URL:http://www.lolesports.com/tourney/match/1344
-SUMMARY:Team Coast vs Team Dignitas
-DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1344
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1346
-DTSTART:20130814T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130814T220000Z
-URL:http://www.lolesports.com/tourney/match/1346
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1346
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1350
-DTSTART:20130815T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130815T020000Z
-URL:http://www.lolesports.com/tourney/match/1350
-SUMMARY:Team Dignitas vs XDG
-DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA S
- eason 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1350
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1354
-DTSTART:20130815T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130816T000000Z
-URL:http://www.lolesports.com/tourney/match/1354
-SUMMARY:Cloud 9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1354
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1358
-DTSTART:20130816T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130816T220000Z
-URL:http://www.lolesports.com/tourney/match/1358
-SUMMARY:Team Dignitas vs Velocity Esports
-DESCRIPTION:Team Dignitas (DIG) vs Velocity Esports ()\nType : BO1\nTournam
- ent : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/1358
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1362
-DTSTART:20130817T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130817T020000Z
-URL:http://www.lolesports.com/tourney/match/1362
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http:/
- /www.lolesports.com/tourney/match/1362
-CATEGORIES:NA Season 3 Summer Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1595
-DTSTART:20130830T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130831T000000Z
-URL:http://www.lolesports.com/tourney/match/1595
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO3\nTournament : NA
-  Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/1595
-CATEGORIES:NA Regionals 2013
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1597
-DTSTART:20130901T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130901T030000Z
-URL:http://www.lolesports.com/tourney/match/1597
-SUMMARY:Cloud 9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO3\nTournament : N
- A Regionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/1597
-CATEGORIES:NA Regionals 2013
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1600
-DTSTART:20130901T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130901T210000Z
-URL:http://www.lolesports.com/tourney/match/1600
-SUMMARY:XDG vs Team Dignitas
-DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO3\nTournament : NA R
- egionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1600
-CATEGORIES:NA Regionals 2013
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1674
-DTSTART:20140118T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140118T020000Z
-URL:http://www.lolesports.com/tourney/match/1674
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/1674
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1677
-DTSTART:20140118T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140118T230000Z
-URL:http://www.lolesports.com/tourney/match/1677
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1677
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1679
-DTSTART:20140119T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140119T010000Z
-URL:http://www.lolesports.com/tourney/match/1679
-SUMMARY:Team Coast vs Team Dignitas
-DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1679
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1681
-DTSTART:20140119T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140119T220000Z
-URL:http://www.lolesports.com/tourney/match/1681
-SUMMARY:Team Dignitas vs Cloud 9 
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1681
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1685
-DTSTART:20140125T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140125T210000Z
-URL:http://www.lolesports.com/tourney/match/1685
-SUMMARY:Team Dignitas vs XDG
-DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA L
- CS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/1685
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1687
-DTSTART:20140125T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140125T230000Z
-URL:http://www.lolesports.com/tourney/match/1687
-SUMMARY:Evil Geniuses vs Team Dignitas
-DESCRIPTION:Evil Geniuses (EG) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1687
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1692
-DTSTART:20140126T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140127T000000Z
-URL:http://www.lolesports.com/tourney/match/1692
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/1692
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1702
-DTSTART:20140208T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140208T220000Z
-URL:http://www.lolesports.com/tourney/match/1702
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
-  : NA LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1702
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1704
-DTSTART:20140208T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140209T000000Z
-URL:http://www.lolesports.com/tourney/match/1704
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/1704
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1708
-DTSTART:20140209T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140210T000000Z
-URL:http://www.lolesports.com/tourney/match/1708
-SUMMARY:XDG vs Team Dignitas
-DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
- CS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/1708
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1712
-DTSTART:20140215T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140216T000000Z
-URL:http://www.lolesports.com/tourney/match/1712
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1712
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1714
-DTSTART:20140216T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140216T220000Z
-URL:http://www.lolesports.com/tourney/match/1714
-SUMMARY:Cloud 9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1714
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1717
-DTSTART:20140222T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140222T210000Z
-URL:http://www.lolesports.com/tourney/match/1717
-SUMMARY:Team Dignitas vs Evil Geniuses
-DESCRIPTION:Team Dignitas (DIG) vs Evil Geniuses (EG)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1717
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1724
-DTSTART:20140223T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140224T000000Z
-URL:http://www.lolesports.com/tourney/match/1724
-SUMMARY:Team Dignitas vs XDG
-DESCRIPTION:Team Dignitas (DIG) vs XDG (XDG)\nType : BO1\nTournament : NA L
- CS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/1724
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1727
-DTSTART:20140301T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140301T230000Z
-URL:http://www.lolesports.com/tourney/match/1727
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1727
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1730
-DTSTART:20140302T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140302T220000Z
-URL:http://www.lolesports.com/tourney/match/1730
-SUMMARY:Evil Geniuses vs Team Dignitas
-DESCRIPTION:Evil Geniuses (EG) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1730
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130125Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1735
-DTSTART:20140307T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140307T230000Z
-URL:http://www.lolesports.com/tourney/match/1735
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/1735
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1737
-DTSTART:20140308T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140308T010000Z
-URL:http://www.lolesports.com/tourney/match/1737
-SUMMARY:Team Coast vs Team Dignitas
-DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1737
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1743
-DTSTART:20140309T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140309T020000Z
-URL:http://www.lolesports.com/tourney/match/1743
-SUMMARY:Team Dignitas vs Cloud 9 
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1743
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1746
-DTSTART:20140309T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140309T220000Z
-URL:http://www.lolesports.com/tourney/match/1746
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/1746
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1750
-DTSTART:20140322T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140322T210000Z
-URL:http://www.lolesports.com/tourney/match/1750
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/1750
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1753
-DTSTART:20140323T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140323T200000Z
-URL:http://www.lolesports.com/tourney/match/1753
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1753
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1757
-DTSTART:20140329T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140329T200000Z
-URL:http://www.lolesports.com/tourney/match/1757
-SUMMARY:Team Dignitas vs Evil Geniuses
-DESCRIPTION:Team Dignitas (DIG) vs Evil Geniuses (EG)\nType : BO1\nTourname
- nt : NA LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1757
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1763
-DTSTART:20140330T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140330T220000Z
-URL:http://www.lolesports.com/tourney/match/1763
-SUMMARY:Cloud 9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/1763
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1768
-DTSTART:20140404T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140404T230000Z
-URL:http://www.lolesports.com/tourney/match/1768
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1768
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1770
-DTSTART:20140405T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140405T200000Z
-URL:http://www.lolesports.com/tourney/match/1770
-SUMMARY:XDG vs Team Dignitas
-DESCRIPTION:XDG (XDG) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
- CS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/1770
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1773
-DTSTART:20140405T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140405T230000Z
-URL:http://www.lolesports.com/tourney/match/1773
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
-  : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1773
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1776
-DTSTART:20140406T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140406T200000Z
-URL:http://www.lolesports.com/tourney/match/1776
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/1776
-CATEGORIES:NA LCS Spring Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2187
-DTSTART:20140418T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140418T220000Z
-URL:http://www.lolesports.com/tourney/match/2187
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO3\nTournament : NA
-  LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2187
-CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2193
-DTSTART:20140420T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140420T010000Z
-URL:http://www.lolesports.com/tourney/match/2193
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO3\nTournament
-  : NA LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/2193
-CATEGORIES:NA LCS Spring Playoffs
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2518
-DTSTART:20140523T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140523T230000Z
-URL:http://www.lolesports.com/tourney/match/2518
-SUMMARY:compLexity  vs Team Dignitas
-DESCRIPTION:compLexity Black (CLB) vs Team Dignitas (DIG)\nType : BO1\nTour
- nament : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2518
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2522
-DTSTART:20140524T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140524T220000Z
-URL:http://www.lolesports.com/tourney/match/2522
-SUMMARY:Team Dignitas vs Evil Geniuses
-DESCRIPTION:Team Dignitas (DIG) vs Evil Geniuses (EG)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2522
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2524
-DTSTART:20140524T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140525T000000Z
-URL:http://www.lolesports.com/tourney/match/2524
-SUMMARY:Team Dignitas vs Cloud9 
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2524
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2529
-DTSTART:20140525T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140525T230000Z
-URL:http://www.lolesports.com/tourney/match/2529
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/2529
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2533
-DTSTART:20140531T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140531T220000Z
-URL:http://www.lolesports.com/tourney/match/2533
-SUMMARY:LMQ vs Team Dignitas
-DESCRIPTION:LMQ (LMQ) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
- CS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2533
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2538
-DTSTART:20140601T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140601T230000Z
-URL:http://www.lolesports.com/tourney/match/2538
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2538
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2541
-DTSTART:20140607T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140607T220000Z
-URL:http://www.lolesports.com/tourney/match/2541
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/2541
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2545
-DTSTART:20140608T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140608T220000Z
-URL:http://www.lolesports.com/tourney/match/2545
-SUMMARY:Evil Geniuses vs Team Dignitas
-DESCRIPTION:Evil Geniuses (EG) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2545
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2549
-DTSTART:20140614T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140614T220000Z
-URL:http://www.lolesports.com/tourney/match/2549
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/2549
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2554
-DTSTART:20140615T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140615T230000Z
-URL:http://www.lolesports.com/tourney/match/2554
-SUMMARY:Cloud9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2554
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2556
-DTSTART:20140619T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140619T210000Z
-URL:http://www.lolesports.com/tourney/match/2556
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2556
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2559
-DTSTART:20140620T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140620T200000Z
-URL:http://www.lolesports.com/tourney/match/2559
-SUMMARY:Team Dignitas vs compLexity 
-DESCRIPTION:Team Dignitas (DIG) vs compLexity Black (CLB)\nType : BO1\nTour
- nament : NA LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2559
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2566
-DTSTART:20140628T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140628T230000Z
-URL:http://www.lolesports.com/tourney/match/2566
-SUMMARY:Team Dignitas vs LMQ
-DESCRIPTION:Team Dignitas (DIG) vs LMQ (LMQ)\nType : BO1\nTournament : NA L
- CS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2566
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2569
-DTSTART:20140629T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140629T220000Z
-URL:http://www.lolesports.com/tourney/match/2569
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/2569
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2573
-DTSTART:20140704T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140704T220000Z
-URL:http://www.lolesports.com/tourney/match/2573
-SUMMARY:Team Dignitas vs Evil Geniuses
-DESCRIPTION:Team Dignitas (DIG) vs Evil Geniuses (EG)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2573
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2576
-DTSTART:20140705T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140705T200000Z
-URL:http://www.lolesports.com/tourney/match/2576
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2576
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2583
-DTSTART:20140706T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140706T210000Z
-URL:http://www.lolesports.com/tourney/match/2583
-SUMMARY:compLexity  vs Team Dignitas
-DESCRIPTION:compLexity Black (CLB) vs Team Dignitas (DIG)\nType : BO1\nTour
- nament : NA LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2583
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2586
-DTSTART:20140706T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140707T000000Z
-URL:http://www.lolesports.com/tourney/match/2586
-SUMMARY:Team Dignitas vs Cloud9 
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2586
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2590
-DTSTART:20140712T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140712T230000Z
-URL:http://www.lolesports.com/tourney/match/2590
-SUMMARY:LMQ vs Team Dignitas
-DESCRIPTION:LMQ (LMQ) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA L
- CS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2590
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2592
-DTSTART:20140713T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140713T210000Z
-URL:http://www.lolesports.com/tourney/match/2592
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/2592
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2598
-DTSTART:20140719T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140719T200000Z
-URL:http://www.lolesports.com/tourney/match/2598
-SUMMARY:Curse vs Team Dignitas
-DESCRIPTION:Curse (CRS) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/2598
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2602
-DTSTART:20140720T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140720T200000Z
-URL:http://www.lolesports.com/tourney/match/2602
-SUMMARY:Evil Geniuses vs Team Dignitas
-DESCRIPTION:Evil Geniuses (EG) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/2602
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2605
-DTSTART:20140726T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140726T220000Z
-URL:http://www.lolesports.com/tourney/match/2605
-SUMMARY:Cloud9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/2605
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2610
-DTSTART:20140727T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140727T230000Z
-URL:http://www.lolesports.com/tourney/match/2610
-SUMMARY:Team Dignitas vs compLexity 
-DESCRIPTION:Team Dignitas (DIG) vs compLexity Black (CLB)\nType : BO1\nTour
- nament : NA LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2610
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2615
-DTSTART:20140801T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140802T000000Z
-URL:http://www.lolesports.com/tourney/match/2615
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/2615
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2616
-DTSTART:20140802T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140802T200000Z
-URL:http://www.lolesports.com/tourney/match/2616
-SUMMARY:Team Dignitas vs Curse
-DESCRIPTION:Team Dignitas (DIG) vs Curse (CRS)\nType : BO1\nTournament : NA
-  LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2616
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2619
-DTSTART:20140802T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140802T230000Z
-URL:http://www.lolesports.com/tourney/match/2619
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/2619
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2624
-DTSTART:20140803T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140803T210000Z
-URL:http://www.lolesports.com/tourney/match/2624
-SUMMARY:Team Dignitas vs LMQ
-DESCRIPTION:Team Dignitas (DIG) vs LMQ (LMQ)\nType : BO1\nTournament : NA L
- CS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/2624
-CATEGORIES:NA LCS Summer Split
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3050
-DTSTART:20140823T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140823T200000Z
-URL:http://www.lolesports.com/tourney/match/3050
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO5\nTourname
- nt : NA LCS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/3050
-CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3055
-DTSTART:20140829T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140829T200000Z
-URL:http://www.lolesports.com/tourney/match/3055
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO5\n
- Tournament : NA LCS Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/3055
-CATEGORIES:NA LCS Summer Playoffs
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3509
-DTSTART:20150124T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150124T220000Z
-URL:http://www.lolesports.com/tourney/match/3509
-SUMMARY:Team Coast vs Team Dignitas
-DESCRIPTION:Team Coast (CST) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/3509
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3513
-DTSTART:20150125T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150125T210000Z
-URL:http://www.lolesports.com/tourney/match/3513
-SUMMARY:Team Dignitas vs Team Impulse
-DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
- nt : NA LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3513
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3518
-DTSTART:20150131T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150131T210000Z
-URL:http://www.lolesports.com/tourney/match/3518
-SUMMARY:Gravity vs Team Dignitas
-DESCRIPTION:Gravity (GV) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3518
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3524
-DTSTART:20150201T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150201T220000Z
-URL:http://www.lolesports.com/tourney/match/3524
-SUMMARY:Team Dignitas vs Winterfox
-DESCRIPTION:Team Dignitas (DIG) vs Winterfox (WFX)\nType : BO1\nTournament 
- : NA LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3524
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3530
-DTSTART:20150207T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150207T230000Z
-URL:http://www.lolesports.com/tourney/match/3530
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3530
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3535
-DTSTART:20150208T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150208T230000Z
-URL:http://www.lolesports.com/tourney/match/3535
-SUMMARY:Team Liquid vs Team Dignitas
-DESCRIPTION:Team Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : NA LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/3535
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3540
-DTSTART:20150214T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150214T230000Z
-URL:http://www.lolesports.com/tourney/match/3540
-SUMMARY:Team Dignitas vs Cloud9 
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3540
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3547
-DTSTART:20150216T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150216T010000Z
-URL:http://www.lolesports.com/tourney/match/3547
-SUMMARY:Team Dignitas vs Team 8
-DESCRIPTION:Team Dignitas (DIG) vs Team 8 (T8)\nType : BO1\nTournament : NA
-  LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/3547
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3551
-DTSTART:20150221T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150222T000000Z
-URL:http://www.lolesports.com/tourney/match/3551
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/3551
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3555
-DTSTART:20150222T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150222T230000Z
-URL:http://www.lolesports.com/tourney/match/3555
-SUMMARY:Winterfox vs Team Dignitas
-DESCRIPTION:Winterfox (WFX) vs Team Dignitas (DIG)\nType : BO1\nTournament 
- : NA LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3555
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3561
-DTSTART:20150228T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150301T000000Z
-URL:http://www.lolesports.com/tourney/match/3561
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3561
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3567
-DTSTART:20150302T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150302T010000Z
-URL:http://www.lolesports.com/tourney/match/3567
-SUMMARY:Team 8 vs Team Dignitas
-DESCRIPTION:Team 8 (T8) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/3567
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3568
-DTSTART:20150307T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150307T210000Z
-URL:http://www.lolesports.com/tourney/match/3568
-SUMMARY:Team Dignitas vs Team Coast
-DESCRIPTION:Team Dignitas (DIG) vs Team Coast (CST)\nType : BO1\nTournament
-  : NA LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/3568
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3573
-DTSTART:20150308T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150308T200000Z
-URL:http://www.lolesports.com/tourney/match/3573
-SUMMARY:Cloud9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3573
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3581
-DTSTART:20150321T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150321T230000Z
-URL:http://www.lolesports.com/tourney/match/3581
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/3581
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3583
-DTSTART:20150322T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150322T200000Z
-URL:http://www.lolesports.com/tourney/match/3583
-SUMMARY:Team Dignitas vs Gravity
-DESCRIPTION:Team Dignitas (DIG) vs Gravity (GV)\nType : BO1\nTournament : N
- A LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3583
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3592
-DTSTART:20150328T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150329T000000Z
-URL:http://www.lolesports.com/tourney/match/3592
-SUMMARY:Team Impulse vs Team Dignitas
+DTEND:20160130T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:TIP vs DIG
 DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3592
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
+ nt : NA 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3597
-DTSTART:20150329T210000Z
+UID:match-9e7db3a2-f25e-4b87-ad03-5bb1251060c0
+DTSTART:20150808T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150329T220000Z
-URL:http://www.lolesports.com/tourney/match/3597
-SUMMARY:Team Dignitas vs Team Liquid
-DESCRIPTION:Team Dignitas (DIG) vs Team Liquid (TL)\nType : BO1\nTournament
-  : NA LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/3597
-CATEGORIES:NA LCS Spring
-DTSTAMP:20151002T130126Z
+DTEND:20150808T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
+ /na_2015_summer_playoffs/quarterfinals
+SUMMARY:TIP vs DIG
+DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO3\nTourname
+ nt : Generated tournament for the 2015 summer playoffs\nWeek : quarterfina
+ ls\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4560
-DTSTART:20150426T170000Z
+UID:match-d6272882-d1df-4dff-b156-bf8a750c82df
+DTSTART:20160124T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150426T180000Z
-URL:http://www.lolesports.com/tourney/match/4560
-SUMMARY:Team Dignitas vs Team Fusion
-DESCRIPTION:Team Dignitas (DIG) vs Team Fusion (FSN)\nType : BO5\nTournamen
- t : NA LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4560
-CATEGORIES:NA LCS Summer Promotion
-DTSTAMP:20151002T130126Z
+DTEND:20160124T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:TSM vs DIG
+DESCRIPTION:TSM (TSM) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4678
-DTSTART:20150530T210000Z
+UID:match-ecd76d66-45fc-49c6-904e-675485aac2ef
+DTSTART:20160206T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150530T220000Z
-URL:http://www.lolesports.com/tourney/match/4678
-SUMMARY:Counter Logic Gaming vs Team Dignitas
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : 2015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/4678
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+DTEND:20160206T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:TL vs DIG
+DESCRIPTION:Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4682
-DTSTART:20150531T200000Z
+UID:match-9945b7df-5485-4c2f-a4b3-759c82b891e2
+DTSTART:20160123T230000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150531T210000Z
-URL:http://www.lolesports.com/tourney/match/4682
-SUMMARY:Team Dignitas vs Cloud9 
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : 2
- 015 NA LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4682
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+DTEND:20160124T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:DIG vs REN
+DESCRIPTION:Team Dignitas (DIG) vs Renegades (REN)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4690
-DTSTART:20150606T230000Z
+UID:match-a2b124d3-2d1e-4277-9eb6-b20c961758d9
+DTSTART:20160214T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150607T000000Z
-URL:http://www.lolesports.com/tourney/match/4690
-SUMMARY:Team Dignitas vs Team Dragon Knights
-DESCRIPTION:Team Dignitas (DIG) vs Team Dragon Knights (TDK)\nType : BO1\nT
- ournament : 2015 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/4690
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+DTEND:20160214T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:IMT vs DIG
+DESCRIPTION:Immortals (IMT) vs Team Dignitas (DIG)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4695
-DTSTART:20150607T230000Z
+UID:match-113795d3-6119-4330-a645-b5bdb44ae6a6
+DTSTART:20160220T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150608T000000Z
-URL:http://www.lolesports.com/tourney/match/4695
-SUMMARY:Team 8 vs Team Dignitas
-DESCRIPTION:Team 8 (T8) vs Team Dignitas (DIG)\nType : BO1\nTournament : 20
- 15 NA LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/4695
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+DTEND:20160220T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:NRG vs DIG
+DESCRIPTION:NRG Esports (NRG) vs Team Dignitas (DIG)\nType : BO1\nTournamen
+ t : NA 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4697
-DTSTART:20150613T200000Z
+UID:match-cf0346d2-2614-4b2a-987a-a90b80ce0c74
+DTSTART:20160215T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150613T210000Z
-URL:http://www.lolesports.com/tourney/match/4697
-SUMMARY:Team SoloMid vs Team Dignitas
-DESCRIPTION:Team SoloMid (TSM) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : 2015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4697
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4704
-DTSTART:20150614T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150614T230000Z
-URL:http://www.lolesports.com/tourney/match/4704
-SUMMARY:Team Dignitas vs Gravity
-DESCRIPTION:Team Dignitas (DIG) vs Gravity (GV)\nType : BO1\nTournament : 2
- 015 NA LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4704
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4706
-DTSTART:20150620T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T200000Z
-URL:http://www.lolesports.com/tourney/match/4706
-SUMMARY:Team Dignitas vs Team Impulse
+DTEND:20160215T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:DIG vs TIP
 DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
- nt : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4706
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+ nt : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4715
-DTSTART:20150621T230000Z
+UID:match-a1ff1570-993c-4c19-ada2-6e018699c7f2
+DTSTART:20160116T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150622T000000Z
-URL:http://www.lolesports.com/tourney/match/4715
-SUMMARY:Team Liquid vs Team Dignitas
-DESCRIPTION:Team Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament
-  : 2015 NA LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/4715
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+DTEND:20160116T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:DIG vs NRG
+DESCRIPTION:Team Dignitas (DIG) vs NRG Esports (NRG)\nType : BO1\nTournamen
+ t : NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4720
-DTSTART:20150627T230000Z
+UID:match-4dab28b6-f9ff-4f18-8a52-dbdbc4f8c5e5
+DTSTART:20160313T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150628T000000Z
-URL:http://www.lolesports.com/tourney/match/4720
-SUMMARY:Team Dignitas vs Enemy Esports
-DESCRIPTION:Team Dignitas (DIG) vs Enemy Esports (NME)\nType : BO1\nTournam
- ent : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4720
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+DTEND:20160313T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:DIG vs IMT
+DESCRIPTION:Team Dignitas (DIG) vs Immortals (IMT)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4724
-DTSTART:20150628T220000Z
+UID:match-6b739e9a-1399-4a70-a496-15cccdb5fa86
+DTSTART:20160221T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150628T230000Z
-URL:http://www.lolesports.com/tourney/match/4724
-SUMMARY:Team Dragon Knights vs Team Dignitas
-DESCRIPTION:Team Dragon Knights (TDK) vs Team Dignitas (DIG)\nType : BO1\nT
- ournament : 2015 NA LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/4724
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4726
-DTSTART:20150704T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T000000Z
-URL:http://www.lolesports.com/tourney/match/4726
-SUMMARY:Team Dignitas vs Team 8
-DESCRIPTION:Team Dignitas (DIG) vs Team 8 (T8)\nType : BO1\nTournament : 20
- 15 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/4726
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4731
-DTSTART:20150705T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T230000Z
-URL:http://www.lolesports.com/tourney/match/4731
-SUMMARY:Team Dignitas vs Team Liquid
-DESCRIPTION:Team Dignitas (DIG) vs Team Liquid (TL)\nType : BO1\nTournament
-  : 2015 NA LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/4731
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4740
-DTSTART:20150711T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150712T000000Z
-URL:http://www.lolesports.com/tourney/match/4740
-SUMMARY:Team Impulse vs Team Dignitas
-DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : 2015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4740
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4742
-DTSTART:20150712T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150712T210000Z
-URL:http://www.lolesports.com/tourney/match/4742
-SUMMARY:Cloud9  vs Team Dignitas
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : 2
- 015 NA LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4742
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4747
-DTSTART:20150718T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150718T210000Z
-URL:http://www.lolesports.com/tourney/match/4747
-SUMMARY:Gravity vs Team Dignitas
-DESCRIPTION:Gravity (GV) vs Team Dignitas (DIG)\nType : BO1\nTournament : 2
- 015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4747
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4755
-DTSTART:20150719T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150720T000000Z
-URL:http://www.lolesports.com/tourney/match/4755
-SUMMARY:Team Dignitas vs Team SoloMid
-DESCRIPTION:Team Dignitas (DIG) vs Team SoloMid (TSM)\nType : BO1\nTourname
- nt : 2015 NA LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4755
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4759
-DTSTART:20150725T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150725T230000Z
-URL:http://www.lolesports.com/tourney/match/4759
-SUMMARY:Team Dignitas vs Counter Logic Gaming
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/4759
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4764
-DTSTART:20150726T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150726T230000Z
-URL:http://www.lolesports.com/tourney/match/4764
-SUMMARY:Enemy Esports vs Team Dignitas
-DESCRIPTION:Enemy Esports (NME) vs Team Dignitas (DIG)\nType : BO1\nTournam
- ent : 2015 NA LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4764
-CATEGORIES:2015 NA LCS Summer
-DTSTAMP:20151002T130126Z
+DTEND:20160221T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:DIG vs TSM
+DESCRIPTION:Team Dignitas (DIG) vs TSM (TSM)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 END:VCALENDAR

@@ -1,2344 +1,276 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-gmb
+PRODID:www.lolesports.com|cal-team-GMB
 X-WR-CALNAME:LoL eSports GMB
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-654
-DTSTART:20130209T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130209T180000Z
-URL:http://www.lolesports.com/tourney/match/654
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/654
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-657
-DTSTART:20130210T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130210T170000Z
-URL:http://www.lolesports.com/tourney/match/657
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/657
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-659
-DTSTART:20130210T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130210T190000Z
-URL:http://www.lolesports.com/tourney/match/659
-SUMMARY:Ozone GIANTS vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/659
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-663
-DTSTART:20130216T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130216T190000Z
-URL:http://www.lolesports.com/tourney/match/663
-SUMMARY:Against All Authority vs Gambit Gaming
-DESCRIPTION:Against All Authority () vs Gambit Gaming (GMB)\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/663
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-665
-DTSTART:20130217T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130217T190000Z
-URL:http://www.lolesports.com/tourney/match/665
-SUMMARY:Gambit Gaming vs Ninjas in Pyjamas
-DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/665
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-670
-DTSTART:20130223T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130223T180000Z
-URL:http://www.lolesports.com/tourney/match/670
-SUMMARY:Gambit Gaming vs Ozone GIANTS
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/670
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-678
-DTSTART:20130301T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130301T100000Z
-URL:http://www.lolesports.com/tourney/match/678
-SUMMARY:Gambit Gaming vs Dragonborns
-DESCRIPTION:Gambit Gaming (GMB) vs Dragonborns ()\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/678
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-685
-DTSTART:20130301T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130301T160000Z
-URL:http://www.lolesports.com/tourney/match/685
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/685
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-681
-DTSTART:20130302T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130302T210000Z
-URL:http://www.lolesports.com/tourney/match/681
-SUMMARY:Gambit Gaming vs Against All Authority
-DESCRIPTION:Gambit Gaming (GMB) vs Against All Authority ()\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/681
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-693
-DTSTART:20130303T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130303T170000Z
-URL:http://www.lolesports.com/tourney/match/693
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/693
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-707
-DTSTART:20130323T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130323T170000Z
-URL:http://www.lolesports.com/tourney/match/707
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/707
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-709
-DTSTART:20130323T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130323T190000Z
-URL:http://www.lolesports.com/tourney/match/709
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/709
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-716
-DTSTART:20130324T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130324T190000Z
-URL:http://www.lolesports.com/tourney/match/716
-SUMMARY:Dragonborns vs Gambit Gaming
-DESCRIPTION:Dragonborns () vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/716
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-717
-DTSTART:20130330T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130330T130000Z
-URL:http://www.lolesports.com/tourney/match/717
-SUMMARY:Ozone GIANTS vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/717
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-721
-DTSTART:20130331T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130331T130000Z
-URL:http://www.lolesports.com/tourney/match/721
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/721
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-724
-DTSTART:20130331T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130331T160000Z
-URL:http://www.lolesports.com/tourney/match/724
-SUMMARY:Gambit Gaming vs Ninjas in Pyjamas
-DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/724
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-726
-DTSTART:20130406T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130406T140000Z
-URL:http://www.lolesports.com/tourney/match/726
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/726
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-730
-DTSTART:20130406T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130406T180000Z
-URL:http://www.lolesports.com/tourney/match/730
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/730
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-736
-DTSTART:20130407T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130407T180000Z
-URL:http://www.lolesports.com/tourney/match/736
-SUMMARY:Ninjas in Pyjamas vs Gambit Gaming
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gambit Gaming (GMB)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/736
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-737
-DTSTART:20130413T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130413T170000Z
-URL:http://www.lolesports.com/tourney/match/737
-SUMMARY:Gambit Gaming vs Dragonborns
-DESCRIPTION:Gambit Gaming (GMB) vs Dragonborns ()\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/737
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-739
-DTSTART:20130413T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130413T190000Z
-URL:http://www.lolesports.com/tourney/match/739
-SUMMARY:Against All Authority vs Gambit Gaming
-DESCRIPTION:Against All Authority () vs Gambit Gaming (GMB)\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/739
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-744
-DTSTART:20130414T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130414T200000Z
-URL:http://www.lolesports.com/tourney/match/744
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/744
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-749
-DTSTART:20130419T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130419T170000Z
-URL:http://www.lolesports.com/tourney/match/749
-SUMMARY:Gambit Gaming vs Ozone GIANTS
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/749
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-753
-DTSTART:20130420T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130420T150000Z
-URL:http://www.lolesports.com/tourney/match/753
-SUMMARY:Dragonborns vs Gambit Gaming
-DESCRIPTION:Dragonborns () vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/753
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-755
-DTSTART:20130420T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130420T170000Z
-URL:http://www.lolesports.com/tourney/match/755
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/755
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-758
-DTSTART:20130421T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130421T140000Z
-URL:http://www.lolesports.com/tourney/match/758
-SUMMARY:Gambit Gaming vs Against All Authority
-DESCRIPTION:Gambit Gaming (GMB) vs Against All Authority ()\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://
- www.lolesports.com/tourney/match/758
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-762
-DTSTART:20130421T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130421T180000Z
-URL:http://www.lolesports.com/tourney/match/762
-SUMMARY:Ninjas in Pyjamas vs Gambit Gaming
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gambit Gaming (GMB)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/762
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-768
-DTSTART:20130427T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130427T150000Z
-URL:http://www.lolesports.com/tourney/match/768
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO3\nTournament :
-  EU Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/768
-CATEGORIES:EU Spring Playoffs
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-769
-DTSTART:20130428T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130428T150000Z
-URL:http://www.lolesports.com/tourney/match/769
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO5\nTournament : E
- U Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/769
-CATEGORIES:EU Spring Playoffs
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1477
-DTSTART:20130615T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130615T140000Z
-URL:http://www.lolesports.com/tourney/match/1477
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1477
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1482
-DTSTART:20130615T191500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130615T201500Z
-URL:http://www.lolesports.com/tourney/match/1482
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1482
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1485
-DTSTART:20130616T091500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130616T101500Z
-URL:http://www.lolesports.com/tourney/match/1485
-SUMMARY:Ninjas in Pyjamas vs Gambit Gaming
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gambit Gaming (GMB)\nType : BO1\nTou
- rnament : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/1485
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1491
-DTSTART:20130616T171500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130616T181500Z
-URL:http://www.lolesports.com/tourney/match/1491
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1491
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1496
-DTSTART:20130616T201500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130616T211500Z
-URL:http://www.lolesports.com/tourney/match/1496
-SUMMARY:Gambit Gaming vs Lemondogs
-DESCRIPTION:Gambit Gaming (GMB) vs Lemondogs (LD)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1496
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1502
-DTSTART:20130621T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130621T160000Z
-URL:http://www.lolesports.com/tourney/match/1502
-SUMMARY:Millenium vs Gambit Gaming
-DESCRIPTION: () vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU Season 
- 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1502
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1500
-DTSTART:20130622T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130622T180000Z
-URL:http://www.lolesports.com/tourney/match/1500
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1500
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1505
-DTSTART:20130623T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130623T170000Z
-URL:http://www.lolesports.com/tourney/match/1505
-SUMMARY:Meet Your Makers vs Gambit Gaming
-DESCRIPTION:Mousesports (MOU) vs Gambit Gaming (GMB)\nType : BO1\nTournamen
- t : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1505
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1512
-DTSTART:20130629T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130629T200000Z
-URL:http://www.lolesports.com/tourney/match/1512
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1512
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1514
-DTSTART:20130630T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130630T180000Z
-URL:http://www.lolesports.com/tourney/match/1514
-SUMMARY:Gambit Gaming vs Ninjas in Pyjamas
-DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
- rnament : EU Season 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/1514
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1518
-DTSTART:20130706T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130706T180000Z
-URL:http://www.lolesports.com/tourney/match/1518
-SUMMARY:Gambit Gaming vs Millenium
-DESCRIPTION:Gambit Gaming (GMB) vs  ()\nType : BO1\nTournament : EU Season 
- 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1518
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1522
-DTSTART:20130706T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130706T220000Z
-URL:http://www.lolesports.com/tourney/match/1522
-SUMMARY:Gambit Gaming vs Meet Your Makers
-DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO1\nTournamen
- t : EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1522
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1525
-DTSTART:20130707T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130707T170000Z
-URL:http://www.lolesports.com/tourney/match/1525
-SUMMARY:Lemondogs vs Gambit Gaming
-DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1525
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1529
-DTSTART:20130713T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130713T180000Z
-URL:http://www.lolesports.com/tourney/match/1529
-SUMMARY:Mousesports vs Gambit Gaming
-DESCRIPTION:Mousesports (MOU) vs Gambit Gaming (GMB)\nType : BO1\nTournamen
- t : EU Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1529
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1533
-DTSTART:20130714T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130714T170000Z
-URL:http://www.lolesports.com/tourney/match/1533
-SUMMARY:Ninjas in Pyjamas vs Gambit Gaming
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gambit Gaming (GMB)\nType : BO1\nTou
- rnament : EU Season 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/1533
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1537
-DTSTART:20130718T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130718T190000Z
-URL:http://www.lolesports.com/tourney/match/1537
-SUMMARY:Gambit Gaming vs Lemondogs
-DESCRIPTION:Gambit Gaming (GMB) vs Lemondogs (LD)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1537
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1542
-DTSTART:20130719T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130719T200000Z
-URL:http://www.lolesports.com/tourney/match/1542
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1542
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1545
-DTSTART:20130720T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130720T170000Z
-URL:http://www.lolesports.com/tourney/match/1545
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1545
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1550
-DTSTART:20130727T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130727T180000Z
-URL:http://www.lolesports.com/tourney/match/1550
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1550
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1553
-DTSTART:20130728T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130728T170000Z
-URL:http://www.lolesports.com/tourney/match/1553
-SUMMARY:Millenium vs Gambit Gaming
-DESCRIPTION: () vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU Season 
- 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1553
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1557
-DTSTART:20130803T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130803T170000Z
-URL:http://www.lolesports.com/tourney/match/1557
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1557
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1564
-DTSTART:20130804T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130804T160000Z
-URL:http://www.lolesports.com/tourney/match/1564
-SUMMARY:Gambit Gaming vs Ninjas in Pyjamas
-DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
- rnament : EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/1564
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1566
-DTSTART:20130804T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130804T180000Z
-URL:http://www.lolesports.com/tourney/match/1566
-SUMMARY:Lemondogs vs Gambit Gaming
-DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1566
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130132Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1571
-DTSTART:20130815T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130815T150000Z
-URL:http://www.lolesports.com/tourney/match/1571
-SUMMARY:Gambit Gaming vs Meet Your Makers
-DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO1\nTournamen
- t : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1571
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1575
-DTSTART:20130815T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130815T190000Z
-URL:http://www.lolesports.com/tourney/match/1575
-SUMMARY:Gambit Gaming vs Millenium
-DESCRIPTION:Gambit Gaming (GMB) vs  ()\nType : BO1\nTournament : EU Season 
- 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1575
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1578
-DTSTART:20130816T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130816T140000Z
-URL:http://www.lolesports.com/tourney/match/1578
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1578
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1581
-DTSTART:20130816T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130816T170000Z
-URL:http://www.lolesports.com/tourney/match/1581
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/1581
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1588
-DTSTART:20130817T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130817T180000Z
-URL:http://www.lolesports.com/tourney/match/1588
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1588
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1589
-DTSTART:20130823T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130823T150000Z
-URL:http://www.lolesports.com/tourney/match/1589
-SUMMARY:Gambit Gaming vs Ninjas in Pyjamas
-DESCRIPTION:Gambit Gaming (GMB) vs Ninjas in Pyjamas (NIP)\nType : BO3\nTou
- rnament : EU Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1589
-CATEGORIES:EU Regionals 2013
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1591
-DTSTART:20130824T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130824T150000Z
-URL:http://www.lolesports.com/tourney/match/1591
-SUMMARY:Lemondogs vs Gambit Gaming
-DESCRIPTION:Lemondogs (LD) vs Gambit Gaming (GMB)\nType : BO3\nTournament :
-  EU Regionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1591
-CATEGORIES:EU Regionals 2013
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1594
-DTSTART:20130825T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130825T080000Z
-URL:http://www.lolesports.com/tourney/match/1594
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO3\nTournament :
-  EU Regionals 2013\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1594
-CATEGORIES:EU Regionals 2013
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1622
-DTSTART:20130916T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130916T020000Z
-URL:http://www.lolesports.com/tourney/match/1622
-SUMMARY:Gambit Gaming vs Team Mineski
-DESCRIPTION:Gambit Gaming (GMB) vs Team Mineski ()\nType : BO1\nTournament 
- : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/1622
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1625
-DTSTART:20130916T040000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130916T050000Z
-URL:http://www.lolesports.com/tourney/match/1625
-SUMMARY:Gambit Gaming vs Samsung Galaxy Ozone
-DESCRIPTION:Gambit Gaming (GMB) vs Samsung White (SSW)\nType : BO1\nTournam
- ent : Group B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1625
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1627
-DTSTART:20130917T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130917T040000Z
-URL:http://www.lolesports.com/tourney/match/1627
-SUMMARY:XDG vs Gambit Gaming
-DESCRIPTION:XDG (XDG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Grou
- p B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
- 1627
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1630
-DTSTART:20130917T060000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130917T070000Z
-URL:http://www.lolesports.com/tourney/match/1630
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : G
- roup B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/1630
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1631
-DTSTART:20130920T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130920T030000Z
-URL:http://www.lolesports.com/tourney/match/1631
-SUMMARY:Samsung Galaxy Ozone vs Gambit Gaming
-DESCRIPTION:Samsung White (SSW) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1631
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1633
-DTSTART:20130920T040000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130920T050000Z
-URL:http://www.lolesports.com/tourney/match/1633
-SUMMARY:Team Mineski vs Gambit Gaming
-DESCRIPTION:Team Mineski () vs Gambit Gaming (GMB)\nType : BO1\nTournament 
- : Group B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/1633
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1636
-DTSTART:20130921T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130921T200000Z
-URL:http://www.lolesports.com/tourney/match/1636
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : G
- roup B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/1636
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1639
-DTSTART:20130921T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130921T230000Z
-URL:http://www.lolesports.com/tourney/match/1639
-SUMMARY:Gambit Gaming vs XDG
-DESCRIPTION:Gambit Gaming (GMB) vs XDG (XDG)\nType : BO1\nTournament : Grou
- p B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/
- 1639
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1651
-DTSTART:20130922T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130922T010000Z
-URL:http://www.lolesports.com/tourney/match/1651
-SUMMARY:Samsung Galaxy Ozone vs Gambit Gaming
-DESCRIPTION:Samsung White (SSW) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : Group B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1651
-CATEGORIES:Group B
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1642
-DTSTART:20130923T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130924T000000Z
-URL:http://www.lolesports.com/tourney/match/1642
-SUMMARY:Gambit Gaming vs NaJin Black Sword
-DESCRIPTION:Gambit Gaming (GMB) vs NaJin Black Sword (NBS)\nType : BO3\nTou
- rnament : World Playoffs\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/1642
-CATEGORIES:World Playoffs
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1800
-DTSTART:20140114T173000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140114T183000Z
-URL:http://www.lolesports.com/tourney/match/1800
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1800
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1804
-DTSTART:20140114T213000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140114T223000Z
-URL:http://www.lolesports.com/tourney/match/1804
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1804
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1808
-DTSTART:20140115T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140115T210000Z
-URL:http://www.lolesports.com/tourney/match/1808
-SUMMARY:Millenium vs Gambit Gaming
-DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1808
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1814
-DTSTART:20140116T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140116T220000Z
-URL:http://www.lolesports.com/tourney/match/1814
-SUMMARY:Gambit Gaming vs Supa Hot Crew
-DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1814
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1819
-DTSTART:20140123T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140123T220000Z
-URL:http://www.lolesports.com/tourney/match/1819
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1819
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1821
-DTSTART:20140124T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140124T200000Z
-URL:http://www.lolesports.com/tourney/match/1821
-SUMMARY:ROCCAT vs Gambit Gaming
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1821
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1824
-DTSTART:20140130T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140130T190000Z
-URL:http://www.lolesports.com/tourney/match/1824
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1824
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1831
-DTSTART:20140131T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140131T220000Z
-URL:http://www.lolesports.com/tourney/match/1831
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1831
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1834
-DTSTART:20140206T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140206T210000Z
-URL:http://www.lolesports.com/tourney/match/1834
-SUMMARY:Copenhagen Wolves vs Gambit Gaming
-DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1834
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1837
-DTSTART:20140207T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140207T200000Z
-URL:http://www.lolesports.com/tourney/match/1837
-SUMMARY:Supa Hot Crew vs Gambit Gaming
-DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1837
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1843
-DTSTART:20140213T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140213T220000Z
-URL:http://www.lolesports.com/tourney/match/1843
-SUMMARY:Gambit Gaming vs Millenium
-DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1843
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1847
-DTSTART:20140214T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140214T200000Z
-URL:http://www.lolesports.com/tourney/match/1847
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1847
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1849
-DTSTART:20140220T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140220T200000Z
-URL:http://www.lolesports.com/tourney/match/1849
-SUMMARY:Gambit Gaming vs ROCCAT
-DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1849
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1853
-DTSTART:20140221T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140221T200000Z
-URL:http://www.lolesports.com/tourney/match/1853
-SUMMARY:Gambit Gaming vs Supa Hot Crew
-DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1853
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1858
-DTSTART:20140227T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140227T210000Z
-URL:http://www.lolesports.com/tourney/match/1858
-SUMMARY:Millenium vs Gambit Gaming
-DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1858
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1860
-DTSTART:20140228T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140228T190000Z
-URL:http://www.lolesports.com/tourney/match/1860
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1860
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1865
-DTSTART:20140304T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140304T180000Z
-URL:http://www.lolesports.com/tourney/match/1865
-SUMMARY:ROCCAT vs Gambit Gaming
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1865
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1869
-DTSTART:20140305T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140305T170000Z
-URL:http://www.lolesports.com/tourney/match/1869
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1869
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1872
-DTSTART:20140305T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140305T200000Z
-URL:http://www.lolesports.com/tourney/match/1872
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/1872
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1875
-DTSTART:20140306T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140306T170000Z
-URL:http://www.lolesports.com/tourney/match/1875
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1875
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1880
-DTSTART:20140320T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140320T190000Z
-URL:http://www.lolesports.com/tourney/match/1880
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1880
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1884
-DTSTART:20140321T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140321T190000Z
-URL:http://www.lolesports.com/tourney/match/1884
-SUMMARY:Gambit Gaming vs Millenium
-DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1884
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1889
-DTSTART:20140327T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140327T200000Z
-URL:http://www.lolesports.com/tourney/match/1889
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1889
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1893
-DTSTART:20140328T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140328T180000Z
-URL:http://www.lolesports.com/tourney/match/1893
-SUMMARY:Supa Hot Crew vs Gambit Gaming
-DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/1893
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1900
-DTSTART:20140401T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140401T200000Z
-URL:http://www.lolesports.com/tourney/match/1900
-SUMMARY:Copenhagen Wolves vs Gambit Gaming
-DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/1900
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1902
-DTSTART:20140402T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140402T170000Z
-URL:http://www.lolesports.com/tourney/match/1902
-SUMMARY:Gambit Gaming vs ROCCAT
-DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/1902
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1906
-DTSTART:20140402T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140402T210000Z
-URL:http://www.lolesports.com/tourney/match/1906
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/1906
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1909
-DTSTART:20140403T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140403T180000Z
-URL:http://www.lolesports.com/tourney/match/1909
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1909
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2162
-DTSTART:20140415T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140415T180000Z
-URL:http://www.lolesports.com/tourney/match/2162
-SUMMARY:ROCCAT vs Gambit Gaming
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO3\nTournament : E
- U LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2162
-CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2186
-DTSTART:20140416T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140416T210000Z
-URL:http://www.lolesports.com/tourney/match/2186
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO3\nTour
- nament : EU LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/2186
-CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2295
-DTSTART:20140520T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140520T200000Z
-URL:http://www.lolesports.com/tourney/match/2295
-SUMMARY:Gambit Gaming vs ROCCAT
-DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2295
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2296
-DTSTART:20140521T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140521T160000Z
-URL:http://www.lolesports.com/tourney/match/2296
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2296
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2302
-DTSTART:20140522T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140522T160000Z
-URL:http://www.lolesports.com/tourney/match/2302
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2302
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2304
-DTSTART:20140522T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140522T180000Z
-URL:http://www.lolesports.com/tourney/match/2304
-SUMMARY:Millenium vs Gambit Gaming
-DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2304
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2307
-DTSTART:20140529T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140529T170000Z
-URL:http://www.lolesports.com/tourney/match/2307
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2307
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2314
-DTSTART:20140530T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140530T200000Z
-URL:http://www.lolesports.com/tourney/match/2314
-SUMMARY:Gambit Gaming vs Supa Hot Crew
-DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2314
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2318
-DTSTART:20140605T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140605T200000Z
-URL:http://www.lolesports.com/tourney/match/2318
-SUMMARY:Copenhagen Wolves vs Gambit Gaming
-DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2318
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2319
-DTSTART:20140606T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140606T170000Z
-URL:http://www.lolesports.com/tourney/match/2319
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2319
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2326
-DTSTART:20140612T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140612T200000Z
-URL:http://www.lolesports.com/tourney/match/2326
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2326
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2328
-DTSTART:20140613T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140613T180000Z
-URL:http://www.lolesports.com/tourney/match/2328
-SUMMARY:Gambit Gaming vs Millenium
-DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2328
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2334
-DTSTART:20140621T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140621T200000Z
-URL:http://www.lolesports.com/tourney/match/2334
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2334
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2335
-DTSTART:20140622T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140622T170000Z
-URL:http://www.lolesports.com/tourney/match/2335
-SUMMARY:ROCCAT vs Gambit Gaming
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2335
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2341
-DTSTART:20140626T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140626T190000Z
-URL:http://www.lolesports.com/tourney/match/2341
-SUMMARY:Supa Hot Crew vs Gambit Gaming
-DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2341
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2346
-DTSTART:20140627T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140627T200000Z
-URL:http://www.lolesports.com/tourney/match/2346
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2346
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2348
-DTSTART:20140701T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140701T170000Z
-URL:http://www.lolesports.com/tourney/match/2348
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2348
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2355
-DTSTART:20140702T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140702T190000Z
-URL:http://www.lolesports.com/tourney/match/2355
-SUMMARY:Millenium vs Gambit Gaming
-DESCRIPTION:Millenium (MIL) vs Gambit Gaming (GMB)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2355
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2357
-DTSTART:20140702T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140702T210000Z
-URL:http://www.lolesports.com/tourney/match/2357
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2357
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2362
-DTSTART:20140703T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140703T200000Z
-URL:http://www.lolesports.com/tourney/match/2362
-SUMMARY:Gambit Gaming vs ROCCAT
-DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2362
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2366
-DTSTART:20140710T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140710T180000Z
-URL:http://www.lolesports.com/tourney/match/2366
-SUMMARY:Copenhagen Wolves vs Gambit Gaming
-DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2366
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2367
-DTSTART:20140711T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140711T180000Z
-URL:http://www.lolesports.com/tourney/match/2367
-SUMMARY:Gambit Gaming vs Supa Hot Crew
-DESCRIPTION:Gambit Gaming (GMB) vs Meet Your Makers (MYM)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/2367
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2374
-DTSTART:20140717T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140717T180000Z
-URL:http://www.lolesports.com/tourney/match/2374
-SUMMARY:Gambit Gaming vs Alliance
-DESCRIPTION:Gambit Gaming (GMB) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2374
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2375
-DTSTART:20140718T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140718T200000Z
-URL:http://www.lolesports.com/tourney/match/2375
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2375
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2381
-DTSTART:20140724T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140724T170000Z
-URL:http://www.lolesports.com/tourney/match/2381
-SUMMARY:ROCCAT vs Gambit Gaming
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/2381
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2385
-DTSTART:20140725T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140725T170000Z
-URL:http://www.lolesports.com/tourney/match/2385
-SUMMARY:Supa Hot Crew vs Gambit Gaming
-DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2385
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2387
-DTSTART:20140729T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140729T160000Z
-URL:http://www.lolesports.com/tourney/match/2387
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2387
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2394
-DTSTART:20140730T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140730T170000Z
-URL:http://www.lolesports.com/tourney/match/2394
-SUMMARY:Alliance vs Gambit Gaming
-DESCRIPTION:Alliance (ALL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2394
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2397
-DTSTART:20140730T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140730T200000Z
-URL:http://www.lolesports.com/tourney/match/2397
-SUMMARY:Gambit Gaming vs Millenium
-DESCRIPTION:Gambit Gaming (GMB) vs Millenium (MIL)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2397
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2402
-DTSTART:20140731T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140731T160000Z
-URL:http://www.lolesports.com/tourney/match/2402
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2402
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3020
-DTSTART:20140731T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140731T230000Z
-URL:http://www.lolesports.com/tourney/match/3020
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : EU LCS Summer Tiebreaker\nWeek : 1\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/3020
-CATEGORIES:EU LCS Summer Tiebreaker
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3010
-DTSTART:20140910T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140910T180000Z
-URL:http://www.lolesports.com/tourney/match/3010
-SUMMARY:Gambit Gaming vs SK Gaming Prime
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming Prime (SKP)\nType : BO5\nTourn
- ament : EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/3010
-CATEGORIES:EU LCS Spring Promotion
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3350
-DTSTART:20150122T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150122T220000Z
-URL:http://www.lolesports.com/tourney/match/3350
-SUMMARY:Gambit Gaming vs Unicorns Of Love
-DESCRIPTION:Gambit Gaming (GMB) vs Unicorns Of Love (UOL)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3350
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3353
-DTSTART:20150123T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150123T200000Z
-URL:http://www.lolesports.com/tourney/match/3353
-SUMMARY:ROCCAT vs Gambit Gaming
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3353
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3359
-DTSTART:20150129T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150129T210000Z
-URL:http://www.lolesports.com/tourney/match/3359
-SUMMARY:SK Gaming vs Gambit Gaming
-DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/3359
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3361
-DTSTART:20150130T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150130T180000Z
-URL:http://www.lolesports.com/tourney/match/3361
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3361
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3370
-DTSTART:20150205T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150205T220000Z
-URL:http://www.lolesports.com/tourney/match/3370
-SUMMARY:Copenhagen Wolves vs Gambit Gaming
-DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3370
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3372
-DTSTART:20150206T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150206T190000Z
-URL:http://www.lolesports.com/tourney/match/3372
-SUMMARY:Gambit Gaming vs H2k
-DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : EU L
- CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/3372
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3376
-DTSTART:20150212T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150212T180000Z
-URL:http://www.lolesports.com/tourney/match/3376
-SUMMARY:GIANTS GAMING vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3376
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3383
-DTSTART:20150213T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150213T200000Z
-URL:http://www.lolesports.com/tourney/match/3383
-SUMMARY:Gambit Gaming vs Elements
-DESCRIPTION:Gambit Gaming (GMB) vs Elements (EL)\nType : BO1\nTournament : 
- EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/3383
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3389
-DTSTART:20150219T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150219T210000Z
-URL:http://www.lolesports.com/tourney/match/3389
-SUMMARY:Meet Your Makers vs Gambit Gaming
-DESCRIPTION:Meet Your Makers (MYM) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3389
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3391
-DTSTART:20150220T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150220T180000Z
-URL:http://www.lolesports.com/tourney/match/3391
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3391
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3400
-DTSTART:20150226T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150226T220000Z
-URL:http://www.lolesports.com/tourney/match/3400
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3400
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3404
-DTSTART:20150227T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150227T210000Z
-URL:http://www.lolesports.com/tourney/match/3404
-SUMMARY:Gambit Gaming vs ROCCAT
-DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3404
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3407
-DTSTART:20150305T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150305T190000Z
-URL:http://www.lolesports.com/tourney/match/3407
-SUMMARY:H2k vs Gambit Gaming
-DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : EU L
- CS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/3407
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3415
-DTSTART:20150306T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150306T220000Z
-URL:http://www.lolesports.com/tourney/match/3415
-SUMMARY:Gambit Gaming vs GIANTS GAMING
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3415
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3423
-DTSTART:20150320T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150320T220000Z
-URL:http://www.lolesports.com/tourney/match/3423
-SUMMARY:Elements vs Gambit Gaming
-DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 
- EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/3423
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3429
-DTSTART:20150326T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150326T220000Z
-URL:http://www.lolesports.com/tourney/match/3429
-SUMMARY:Unicorns Of Love vs Gambit Gaming
-DESCRIPTION:Unicorns Of Love (UOL) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3429
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3432
-DTSTART:20150327T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150327T200000Z
-URL:http://www.lolesports.com/tourney/match/3432
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/3432
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4506
-DTSTART:20150405T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150405T160000Z
-URL:http://www.lolesports.com/tourney/match/4506
-SUMMARY:Gambit Gaming vs Unicorns Of Love
-DESCRIPTION:Gambit Gaming (GMB) vs Unicorns Of Love (UOL)\nType : BO5\nTour
- nament : EU LCS Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/4506
-CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4589
-DTSTART:20150528T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150528T190000Z
-URL:http://www.lolesports.com/tourney/match/4589
-SUMMARY:Gambit Gaming vs Elements
-DESCRIPTION:Gambit Gaming (GMB) vs Elements (EL)\nType : BO1\nTournament : 
- 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4589
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4593
+UID:match-12170806-d529-459e-96d6-1bb33452258f
 DTSTART:20150529T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150529T190000Z
-URL:http://www.lolesports.com/tourney/match/4593
-SUMMARY:ROCCAT vs Gambit Gaming
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4593
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:ROC vs GMB
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 1\nWinner : ROCCAT\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4598
-DTSTART:20150604T180000Z
+UID:match-1e3a274b-4645-435d-990d-559a17bd858d
+DTSTART:20150723T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150604T190000Z
-URL:http://www.lolesports.com/tourney/match/4598
-SUMMARY:H2K vs Gambit Gaming
-DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 2015
-  EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4598
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+DTEND:20150723T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:EL vs GMB
+DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 
+ Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Elements\nLoose
+ r : Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4601
-DTSTART:20150605T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T170000Z
-URL:http://www.lolesports.com/tourney/match/4601
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4601
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4610
-DTSTART:20150611T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T210000Z
-URL:http://www.lolesports.com/tourney/match/4610
-SUMMARY:Copenhagen Wolves vs Gambit Gaming
-DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4610
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4614
-DTSTART:20150612T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T200000Z
-URL:http://www.lolesports.com/tourney/match/4614
-SUMMARY:Gambit Gaming vs SK Gaming
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  2015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/4614
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4616
-DTSTART:20150618T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T170000Z
-URL:http://www.lolesports.com/tourney/match/4616
-SUMMARY:Giants Gaming vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4616
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4624
-DTSTART:20150619T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T200000Z
-URL:http://www.lolesports.com/tourney/match/4624
-SUMMARY:Gambit Gaming vs Unicorns Of Love
-DESCRIPTION:Gambit Gaming (GMB) vs Unicorns Of Love (UOL)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4624
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4628
-DTSTART:20150625T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T190000Z
-URL:http://www.lolesports.com/tourney/match/4628
-SUMMARY:ORIGEN vs Gambit Gaming
-DESCRIPTION:Origen (OG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 20
- 15 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/4628
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4631
-DTSTART:20150626T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T170000Z
-URL:http://www.lolesports.com/tourney/match/4631
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4631
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4640
-DTSTART:20150702T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150702T170000Z
-URL:http://www.lolesports.com/tourney/match/4640
-SUMMARY:Gambit Gaming vs Copenhagen Wolves
-DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4640
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4644
+UID:match-ea287843-73e1-4083-8538-ab503aac8c02
 DTSTART:20150703T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150703T180000Z
-URL:http://www.lolesports.com/tourney/match/4644
-SUMMARY:Gambit Gaming vs ROCCAT
-DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4644
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:GMB vs ROC
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit Gaming\nL
+ ooser : ROCCAT\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4647
-DTSTART:20150709T170000Z
+UID:match-773c613c-7f6d-484e-8dc4-20ad21936647
+DTSTART:20150619T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150709T180000Z
-URL:http://www.lolesports.com/tourney/match/4647
-SUMMARY:SK Gaming vs Gambit Gaming
+DTEND:20150619T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:GMB vs UOL
+DESCRIPTION:Gambit Gaming (GMB) vs Unicorns of Love (UOL)\nType : BO1\nTour
+ nament : Migrated tournament for eu_2015_summer\nWeek : 4\nWinner : Unicor
+ ns of Love\nLooser : Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7d92cf9f-54dd-4edf-95df-41590fcea2e3
+DTSTART:20150710T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:GMB vs GIA
+DESCRIPTION:Gambit Gaming (GMB) vs Giants (GIA)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 7\nWinner : Giants\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-80351cc1-2fd3-4fec-a12b-8f6a34e806c7
+DTSTART:20150709T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:SK vs GMB
 DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
-  2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/4647
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+  Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Gambit Gaming\
+ nLooser : SK Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4655
-DTSTART:20150710T200000Z
+UID:match-b22bae60-8576-4282-a949-20ba122a38d3
+DTSTART:20150717T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150710T210000Z
-URL:http://www.lolesports.com/tourney/match/4655
-SUMMARY:Gambit Gaming vs GIANTS GAMING
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4655
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+DTEND:20150717T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:UOL vs GMB
+DESCRIPTION:Unicorns of Love (UOL) vs Gambit Gaming (GMB)\nType : BO1\nTour
+ nament : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : Unicor
+ ns of Love\nLooser : Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4659
+UID:match-96ca259a-40da-4dc5-a940-b64ffb12ae9e
+DTSTART:20150604T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:H2K vs GMB
+DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Migr
+ ated tournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : Gambi
+ t Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0137f685-1394-4e45-863e-0e826dd4ddde
+DTSTART:20150528T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:GMB vs EL
+DESCRIPTION:Gambit Gaming (GMB) vs Elements (EL)\nType : BO1\nTournament : 
+ Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Elements\nLoose
+ r : Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2a431093-2b89-479f-919c-d69799792a9e
+DTSTART:20150702T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:GMB vs CW
+DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
+ nament : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit
+  Gaming\nLooser : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-71884799-3396-400f-845e-28bebc1b1a71
+DTSTART:20150618T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:GIA vs GMB
+DESCRIPTION:Giants (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 4\nWinner : Gambit Gaming\nL
+ ooser : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-07ef9530-69c2-4116-85c6-d9894c9b7068
+DTSTART:20150605T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:GMB vs FNC
+DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c654cf87-7b73-407d-bdd7-c40a9a7e6b48
 DTSTART:20150716T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150716T200000Z
-URL:http://www.lolesports.com/tourney/match/4659
-SUMMARY:Gambit Gaming vs ORIGEN
-DESCRIPTION:Gambit Gaming (GMB) vs Origen (OG)\nType : BO1\nTournament : 20
- 15 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/4659
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:GMB vs OG
+DESCRIPTION:Gambit Gaming (GMB) vs Origen (OG)\nType : BO1\nTournament : Mi
+ grated tournament for eu_2015_summer\nWeek : 8\nWinner : Gambit Gaming\nLo
+ oser : Origen\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4663
-DTSTART:20150717T180000Z
+UID:match-23f4c47e-4a9a-44da-891a-f28f49c36090
+DTSTART:20150625T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150717T190000Z
-URL:http://www.lolesports.com/tourney/match/4663
-SUMMARY:Unicorns Of Love vs Gambit Gaming
-DESCRIPTION:Unicorns Of Love (UOL) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4663
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+DTEND:20150625T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:OG vs GMB
+DESCRIPTION:Origen (OG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Mi
+ grated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser : 
+ Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4669
-DTSTART:20150723T190000Z
+UID:match-027ccc98-505f-4733-a1eb-b72aab0064b6
+DTSTART:20150612T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150723T200000Z
-URL:http://www.lolesports.com/tourney/match/4669
-SUMMARY:Elements vs Gambit Gaming
-DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 
- 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4669
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
+DTEND:20150612T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:GMB vs SK
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit Gaming\
+ nLooser : SK Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4672
+UID:match-6cfe545d-a78f-4195-8daf-c53ed4ad8299
+DTSTART:20150611T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:CW vs GMB
+DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
+ nament : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit
+  Gaming\nLooser : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7f677e9f-f18f-45cb-b75e-ba9d7914ce88
+DTSTART:20150626T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:FNC vs GMB
+DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6723971e-ae69-483f-93b8-c7d2e3698829
 DTSTART:20150724T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150724T180000Z
-URL:http://www.lolesports.com/tourney/match/4672
-SUMMARY:Gambit Gaming vs H2K
-DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : 2015
-  EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4672
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130133Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5395
-DTSTART:20150905T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150905T180000Z
-URL:http://www.lolesports.com/tourney/match/5395
-SUMMARY:Gambit Gaming vs Mousesports
-DESCRIPTION:Gambit Gaming (GMB) vs Mousesports (MOU)\nType : BO5\nTournamen
- t : 2016 EU LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/5395
-CATEGORIES:2016 EU LCS Spring Promotion
-DTSTAMP:20151002T130133Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:GMB vs H2K
+DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : Migr
+ ated tournament for eu_2015_summer\nWeek : 9\nWinner : H2K\nLooser : Gambi
+ t Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 END:VCALENDAR

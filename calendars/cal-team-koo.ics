@@ -1,482 +1,407 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-koo
+PRODID:www.lolesports.com|cal-team-KOO
 X-WR-CALNAME:LoL eSports KOO
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-3291
-DTSTART:20150109T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150109T090000Z
-URL:http://www.lolesports.com/tourney/match/3291
-SUMMARY:GE Tigers vs Incredible Miracle
-DESCRIPTION:KOO Tigers (KOO) vs Longzhu Incredible Miracle (IM)\nType : BO3
- \nTournament : 2015 LCK Spring Split\nWeek : 1\nStream : No\nUrl : http://
- www.lolesports.com/tourney/match/3291
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3295
-DTSTART:20150114T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150114T100000Z
-URL:http://www.lolesports.com/tourney/match/3295
-SUMMARY:GE Tigers vs Samsung Galaxy
-DESCRIPTION:KOO Tigers (KOO) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
- t : 2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/3295
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3299
-DTSTART:20150117T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150117T100000Z
-URL:http://www.lolesports.com/tourney/match/3299
-SUMMARY:GE Tigers vs Jin Air Green Wings
-DESCRIPTION:KOO Tigers (KOO) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
- nament : 2015 LCK Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/3299
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3303
-DTSTART:20150124T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150124T090000Z
-URL:http://www.lolesports.com/tourney/match/3303
-SUMMARY:CJ ENTUS vs GE Tigers
-DESCRIPTION:CJ ENTUS (CJ) vs KOO Tigers (KOO)\nType : BO3\nTournament : 201
- 5 LCK Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3303
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3307
-DTSTART:20150130T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150130T100000Z
-URL:http://www.lolesports.com/tourney/match/3307
-SUMMARY:GE Tigers vs KT Rolster
-DESCRIPTION:KOO Tigers (KOO) vs KT Rolster (KT)\nType : BO3\nTournament : 2
- 015 LCK Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/3307
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3311
-DTSTART:20150206T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150206T100000Z
-URL:http://www.lolesports.com/tourney/match/3311
-SUMMARY:Najin e-mFire vs GE Tigers
-DESCRIPTION:Najin e-mFire (NJE) vs KOO Tigers (KOO)\nType : BO3\nTournament
-  : 2015 LCK Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/3311
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3317
-DTSTART:20150214T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150214T110000Z
-URL:http://www.lolesports.com/tourney/match/3317
-SUMMARY:SK Telecom T1 vs GE Tigers
-DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO3\nTournament 
- : 2015 LCK Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/3317
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3320
-DTSTART:20150227T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150227T110000Z
-URL:http://www.lolesports.com/tourney/match/3320
-SUMMARY:Incredible Miracle vs GE Tigers
-DESCRIPTION:Longzhu Incredible Miracle (IM) vs KOO Tigers (KOO)\nType : BO3
- \nTournament : 2015 LCK Spring Split\nWeek : 7\nStream : No\nUrl : http://
- www.lolesports.com/tourney/match/3320
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3323
-DTSTART:20150304T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150304T100000Z
-URL:http://www.lolesports.com/tourney/match/3323
-SUMMARY:Samsung Galaxy vs GE Tigers
-DESCRIPTION:Samsung Galaxy (SSG) vs KOO Tigers (KOO)\nType : BO3\nTournamen
- t : 2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/3323
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3326
-DTSTART:20150307T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150307T090000Z
-URL:http://www.lolesports.com/tourney/match/3326
-SUMMARY:Jin Air Green Wings vs GE Tigers
-DESCRIPTION:Jin Air Green Wings (JAG) vs KOO Tigers (KOO)\nType : BO3\nTour
- nament : 2015 LCK Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/3326
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3332
-DTSTART:20150321T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150321T110000Z
-URL:http://www.lolesports.com/tourney/match/3332
-SUMMARY:GE Tigers vs CJ ENTUS
-DESCRIPTION:KOO Tigers (KOO) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 201
- 5 LCK Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3332
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3334
-DTSTART:20150327T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150327T090000Z
-URL:http://www.lolesports.com/tourney/match/3334
-SUMMARY:KT Rolster vs GE Tigers
-DESCRIPTION:KT Rolster (KT) vs KOO Tigers (KOO)\nType : BO3\nTournament : 2
- 015 LCK Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/3334
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3338
-DTSTART:20150401T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150401T100000Z
-URL:http://www.lolesports.com/tourney/match/3338
-SUMMARY:GE Tigers vs Najin e-mFire
-DESCRIPTION:KOO Tigers (KOO) vs Najin e-mFire (NJE)\nType : BO3\nTournament
-  : 2015 LCK Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/3338
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3344
-DTSTART:20150411T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150411T090000Z
-URL:http://www.lolesports.com/tourney/match/3344
-SUMMARY:GE Tigers vs SK Telecom T1
-DESCRIPTION:KOO Tigers (KOO) vs SKTelecom T1 (SKT)\nType : BO3\nTournament 
- : 2015 LCK Spring Split\nWeek : 12\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/3344
-CATEGORIES:2015 LCK Spring Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4535
-DTSTART:20150502T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150502T090000Z
-URL:http://www.lolesports.com/tourney/match/4535
-SUMMARY:SK Telecom T1 vs GE Tigers
-DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO5\nTournament 
- : 2015 LCK Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/4535
-CATEGORIES:2015 LCK Spring Playoffs
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4940
-DTSTART:20150523T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150523T110000Z
-URL:http://www.lolesports.com/tourney/match/4940
-SUMMARY:KOO Tigers vs Najin e-mFire
-DESCRIPTION:KOO Tigers (KOO) vs Najin e-mFire (NJE)\nType : BO3\nTournament
-  : 2015 LCK Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4940
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4943
-DTSTART:20150528T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150528T060000Z
-URL:http://www.lolesports.com/tourney/match/4943
-SUMMARY:KOO Tigers vs Samsung Galaxy
-DESCRIPTION:KOO Tigers (KOO) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
- t : 2015 LCK Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/4943
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4948
-DTSTART:20150603T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150603T090000Z
-URL:http://www.lolesports.com/tourney/match/4948
-SUMMARY:SKTelecom T1 vs KOO Tigers
-DESCRIPTION:SKTelecom T1 (SKT) vs KOO Tigers (KOO)\nType : BO3\nTournament 
- : 2015 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4948
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4951
-DTSTART:20150605T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T090000Z
-URL:http://www.lolesports.com/tourney/match/4951
-SUMMARY:KOO Tigers vs CJ ENTUS
-DESCRIPTION:KOO Tigers (KOO) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 201
- 5 LCK Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4951
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4957
-DTSTART:20150611T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T040000Z
-URL:http://www.lolesports.com/tourney/match/4957
-SUMMARY:KT Rolster vs KOO Tigers
-DESCRIPTION:KT Rolster (KT) vs KOO Tigers (KOO)\nType : BO3\nTournament : 2
- 015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/4957
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4961
-DTSTART:20150613T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150613T090000Z
-URL:http://www.lolesports.com/tourney/match/4961
-SUMMARY:KOO Tigers vs Jin Air Green Wings
-DESCRIPTION:KOO Tigers (KOO) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
- nament : 2015 LCK Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/4961
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4964
-DTSTART:20150617T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150617T110000Z
-URL:http://www.lolesports.com/tourney/match/4964
-SUMMARY:SBENU SONICBOOM vs KOO Tigers
-DESCRIPTION:SBENU SONICBOOM (SBE) vs KOO Tigers (KOO)\nType : BO3\nTourname
- nt : 2015 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/4964
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4970
-DTSTART:20150620T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T110000Z
-URL:http://www.lolesports.com/tourney/match/4970
-SUMMARY:KOO Tigers vs Anarchy
-DESCRIPTION:KOO Tigers (KOO) vs Anarchy (ANC)\nType : BO3\nTournament : 201
- 5 LCK Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4970
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4976
-DTSTART:20150626T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T110000Z
-URL:http://www.lolesports.com/tourney/match/4976
-SUMMARY:Incredible Miracle vs KOO Tigers
-DESCRIPTION:Longzhu Incredible Miracle (IM) vs KOO Tigers (KOO)\nType : BO3
- \nTournament : 2015 LCK Summer Split\nWeek : 6\nStream : No\nUrl : http://
- www.lolesports.com/tourney/match/4976
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5283
+UID:match-01946c46-4086-49b8-8771-c95795bea061
 DTSTART:20150701T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150701T090000Z
-URL:http://www.lolesports.com/tourney/match/5283
-SUMMARY:CJ ENTUS vs KOO Tigers
-DESCRIPTION:CJ ENTUS (CJ) vs KOO Tigers (KOO)\nType : BO3\nTournament : 201
- 5 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/5283
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/7
+SUMMARY:CJE vs ROX
+DESCRIPTION:CJ ENTUS (CJE) vs ROX Tigers (ROX)\nType : BO2\nTournament : Mi
+ grated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers\nLoos
+ er : CJ ENTUS\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5289
-DTSTART:20150704T100000Z
+UID:match-5571bc51-cd0c-4b4d-a496-223e8ceef8f4
+DTSTART:20150603T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150704T110000Z
-URL:http://www.lolesports.com/tourney/match/5289
-SUMMARY:KOO Tigers vs Samsung Galaxy
-DESCRIPTION:KOO Tigers (KOO) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
- t : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/5289
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
+DTEND:20150603T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/3
+SUMMARY:SKT vs ROX
+DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO2\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTelecom T1
+ \nLooser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5296
-DTSTART:20150711T100000Z
+UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
+DTSTART:20150611T030000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150711T110000Z
-URL:http://www.lolesports.com/tourney/match/5296
-SUMMARY:KOO Tigers vs Longzhu Incredible Miracle
-DESCRIPTION:KOO Tigers (KOO) vs Longzhu Incredible Miracle (IM)\nType : BO3
- \nTournament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://
- www.lolesports.com/tourney/match/5296
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
+DTEND:20150611T040000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/4
+SUMMARY:KT vs ROX
+DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
+ igrated tournament for lck_2015_summer\nWeek : 4\nWinner : KT Rolster\nLoo
+ ser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5299
-DTSTART:20150716T050000Z
+UID:match-698f2c31-c7cc-4062-b89d-5f9be92c0618
+DTSTART:20150620T100000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150716T060000Z
-URL:http://www.lolesports.com/tourney/match/5299
-SUMMARY:KOO Tigers vs SKTelecom T1
-DESCRIPTION:KOO Tigers (KOO) vs SKTelecom T1 (SKT)\nType : BO3\nTournament 
- : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/5299
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
+DTEND:20150620T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:ROX vs ANC
+DESCRIPTION:ROX Tigers (ROX) vs Rebels Anarchy (ANC)\nType : BO2\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tigers
+ \nLooser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5305
-DTSTART:20150722T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150722T110000Z
-URL:http://www.lolesports.com/tourney/match/5305
-SUMMARY:KOO Tigers vs Anarchy
-DESCRIPTION:KOO Tigers (KOO) vs Anarchy (ANC)\nType : BO3\nTournament : 201
- 5 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/5305
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5309
-DTSTART:20150725T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150725T090000Z
-URL:http://www.lolesports.com/tourney/match/5309
-SUMMARY:KOO Tigers vs Najin e-mFire
-DESCRIPTION:KOO Tigers (KOO) vs Najin e-mFire (NJE)\nType : BO3\nTournament
-  : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/5309
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5315
-DTSTART:20150731T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150731T110000Z
-URL:http://www.lolesports.com/tourney/match/5315
-SUMMARY:KT Rolster vs KOO Tigers
-DESCRIPTION:KT Rolster (KT) vs KOO Tigers (KOO)\nType : BO3\nTournament : 2
- 015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/5315
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5321
+UID:match-db333bfe-c8af-4edd-9461-b4224aefdb61
 DTSTART:20150807T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150807T090000Z
-URL:http://www.lolesports.com/tourney/match/5321
-SUMMARY:Jin Air Green Wings vs KOO Tigers
-DESCRIPTION:Jin Air Green Wings (JAG) vs KOO Tigers (KOO)\nType : BO3\nTour
- nament : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/5321
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:JAG vs ROX
+DESCRIPTION:Jin Air Green Wings (JAG) vs ROX Tigers (ROX)\nType : BO2\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 12\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5327
+UID:match-00ef436b-01d9-4f42-b436-59b431da7bd1
+DTSTART:20150711T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/8
+SUMMARY:ROX vs LZ
+DESCRIPTION:ROX Tigers (ROX) vs Longzhu Gaming (LZ)\nType : BO2\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : ROX Tigers\
+ nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-312140e7-5e75-4f32-abe9-da84f83cef9f
+DTSTART:20150605T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/3
+SUMMARY:ROX vs CJE
+DESCRIPTION:ROX Tigers (ROX) vs CJ ENTUS (CJE)\nType : BO3\nTournament : Mi
+ grated tournament for lck_2015_summer\nWeek : 3\nWinner : CJ ENTUS\nLooser
+  : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
 DTSTART:20150813T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150813T060000Z
-URL:http://www.lolesports.com/tourney/match/5327
-SUMMARY:SBENU SONICBOOM vs KOO Tigers
-DESCRIPTION:SBENU SONICBOOM (SBE) vs KOO Tigers (KOO)\nType : BO3\nTourname
- nt : 2015 LCK Summer Split\nWeek : 0\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/5327
-CATEGORIES:2015 LCK Summer Split
-DTSTAMP:20151002T130212Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/13
+SUMMARY:SSB vs ROX
+DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : ROX Tige
+ rs\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5351
-DTSTART:20150816T090000Z
+UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
+DTSTART:20150617T100000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150816T100000Z
-URL:http://www.lolesports.com/tourney/match/5351
-SUMMARY:KOO Tigers vs Najin e-mFire
-DESCRIPTION:KOO Tigers (KOO) vs NaJin e-mFire (NJF)\nType : BO3\nTournament
-  : 2015 LCK Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/5351
-CATEGORIES:2015 LCK Summer Playoffs
-DTSTAMP:20151002T130212Z
+DTEND:20150617T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:SSB vs ROX
+DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tiger
+ s\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
+DTSTART:20150731T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/11
+SUMMARY:KT vs ROX
+DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
+ igrated tournament for lck_2015_summer\nWeek : 11\nWinner : KT Rolster\nLo
+ oser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-230e43bf-c048-4091-9586-91161e2bdea3
+DTSTART:20150626T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:LZ vs ROX
+DESCRIPTION:Longzhu Gaming (LZ) vs ROX Tigers (ROX)\nType : BO2\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : ROX Tigers\
+ nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
+DTSTART:20150528T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/2
+SUMMARY:ROX vs SSG
+DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : ROX Tigers
+ \nLooser : Samsung Galaxy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
+DTSTART:20150704T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/7
+SUMMARY:ROX vs SSG
+DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers
+ \nLooser : Samsung Galaxy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-916ba9d9-2923-4aab-9293-c3f7043fd5ea
+DTSTART:20150716T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/9
+SUMMARY:ROX vs SKT
+DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO2\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : SKTelecom T1
+ \nLooser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-57f96889-288f-44e9-abce-1392ca9e5682
+DTSTART:20150523T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/1
+SUMMARY:ROX vs EMF
+DESCRIPTION:ROX Tigers (ROX) vs e-mFire (EMF)\nType : BO3\nTournament : Mig
+ rated tournament for lck_2015_summer\nWeek : 1\nWinner : e-mFire\nLooser :
+  ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-85f98a6e-fa66-447c-8a7d-29ef79609d2b
+DTSTART:20150613T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/4
+SUMMARY:ROX vs JAG
+DESCRIPTION:ROX Tigers (ROX) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : ROX T
+ igers\nLooser : Jin Air Green Wings\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-698f2c31-c7cc-4062-b89d-5f9be92c0618
+DTSTART:20150722T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150722T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/10
+SUMMARY:ROX vs ANC
+DESCRIPTION:ROX Tigers (ROX) vs Rebels Anarchy (ANC)\nType : BO2\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : ROX Tiger
+ s\nLooser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-57f96889-288f-44e9-abce-1392ca9e5682
+DTSTART:20150725T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/10
+SUMMARY:ROX vs EMF
+DESCRIPTION:ROX Tigers (ROX) vs e-mFire (EMF)\nType : BO3\nTournament : Mig
+ rated tournament for lck_2015_summer\nWeek : 10\nWinner : e-mFire\nLooser 
+ : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ae7620ed-f117-483a-9844-a3d285e71f8a
+DTSTART:20151002T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151002T190000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-2
+SUMMARY:FW vs ROX
+DESCRIPTION:Flash Wolves (FW) vs ROX Tigers (ROX)\nType : BO1\nTournament :
+  The 2015 World Championship\nWeek : paris-day-2\nWinner : Flash Wolves\nL
+ ooser : ROX Tigers\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-adc2b46b-5df6-4bcc-b931-65e3c605499a
+DTSTART:20151031T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151031T130000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /elimination/berlin-day-1
+SUMMARY:SKT vs ROX
+DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO5\nTournament 
+ : The 2015 World Championship\nWeek : berlin-day-1\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c256d8e7-5724-41a8-9f66-2eb33106a97b
+DTSTART:20151004T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151004T170000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-4
+SUMMARY:ROX vs CLG
+DESCRIPTION:ROX Tigers (ROX) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
+ rnament : The 2015 World Championship\nWeek : paris-day-4\nWinner : ROX Ti
+ gers\nLooser : Counter Logic Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ef5c4f4a-6a05-423e-b51e-21a21c13bb9f
+DTSTART:20151008T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151008T130000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-5
+SUMMARY:CLG vs ROX
+DESCRIPTION:Counter Logic Gaming (CLG) vs ROX Tigers (ROX)\nType : BO1\nTou
+ rnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Ti
+ gers\nLooser : Counter Logic Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b70f89d3-d4a6-41ab-a978-72a395e92970
+DTSTART:20151001T193000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151001T203000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-1
+SUMMARY:PNG vs ROX
+DESCRIPTION:paiN Gaming (PNG) vs ROX Tigers (ROX)\nType : BO1\nTournament :
+  The 2015 World Championship\nWeek : paris-day-1\nWinner : ROX Tigers\nLoo
+ ser : paiN Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-84181fd4-2704-4a04-91dd-88efe430074a
+DTSTART:20151008T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151008T150000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-5
+SUMMARY:ROX vs PNG
+DESCRIPTION:ROX Tigers (ROX) vs paiN Gaming (PNG)\nType : BO1\nTournament :
+  The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Tigers\nLoo
+ ser : paiN Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fecf171a-ae6c-4699-95e2-654f15153139
+DTSTART:20151025T133000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151025T143000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /elimination/brussels-day-2
+SUMMARY:FNC vs ROX
+DESCRIPTION:Fnatic (FNC) vs ROX Tigers (ROX)\nType : BO5\nTournament : The 
+ 2015 World Championship\nWeek : brussels-day-2\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f4f15861-27e7-4b86-8dc6-24d6fe34504e
+DTSTART:20151008T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151008T170000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-5
+SUMMARY:ROX vs FW
+DESCRIPTION:ROX Tigers (ROX) vs Flash Wolves (FW)\nType : BO1\nTournament :
+  The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\nL
+ ooser : ROX Tigers\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3863275c-31e7-4eaf-a15a-34c3a342a275
+DTSTART:20151018T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151018T140000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /elimination/london-day-4
+SUMMARY:KT vs ROX
+DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO5\nTournament : T
+ he 2015 World Championship\nWeek : london-day-4\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011025Z
 END:VEVENT
 END:VCALENDAR

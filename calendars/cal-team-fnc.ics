@@ -1,2590 +1,657 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-fnc
+PRODID:www.lolesports.com|cal-team-FNC
 X-WR-CALNAME:LoL eSports FNC
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-653
-DTSTART:20130209T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130209T170000Z
-URL:http://www.lolesports.com/tourney/match/653
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/653
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-655
-DTSTART:20130209T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130209T190000Z
-URL:http://www.lolesports.com/tourney/match/655
-SUMMARY:Fnatic vs Ozone GIANTS
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/655
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-657
-DTSTART:20130210T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130210T170000Z
-URL:http://www.lolesports.com/tourney/match/657
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/657
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-669
-DTSTART:20130223T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130223T170000Z
-URL:http://www.lolesports.com/tourney/match/669
-SUMMARY:Ninjas in Pyjamas vs Fnatic
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Fnatic (FNC)\nType : BO1\nTournament
-  : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/669
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-672
-DTSTART:20130223T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130223T200000Z
-URL:http://www.lolesports.com/tourney/match/672
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/672
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-674
-DTSTART:20130224T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130224T180000Z
-URL:http://www.lolesports.com/tourney/match/674
-SUMMARY:Fnatic vs Against All Authority
-DESCRIPTION:Fnatic (FNC) vs Against All Authority ()\nType : BO1\nTournamen
- t : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/674
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-680
-DTSTART:20130301T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130301T120000Z
-URL:http://www.lolesports.com/tourney/match/680
-SUMMARY:Ozone GIANTS vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/680
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-684
-DTSTART:20130301T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130301T150000Z
-URL:http://www.lolesports.com/tourney/match/684
-SUMMARY:Fnatic vs Dragonborns
-DESCRIPTION:Fnatic (FNC) vs Dragonborns ()\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/684
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-677
-DTSTART:20130302T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130302T160000Z
-URL:http://www.lolesports.com/tourney/match/677
-SUMMARY:Fnatic vs Ninjas in Pyjamas
-DESCRIPTION:Fnatic (FNC) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament
-  : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/677
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-689
-DTSTART:20130302T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130302T180000Z
-URL:http://www.lolesports.com/tourney/match/689
-SUMMARY:TBD vs Fnatic
-DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Sprin
- g Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/689
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-694
-DTSTART:20130303T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130303T160000Z
-URL:http://www.lolesports.com/tourney/match/694
-SUMMARY:Against All Authority vs Fnatic
-DESCRIPTION:Against All Authority () vs Fnatic (FNC)\nType : BO1\nTournamen
- t : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/694
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-699
-DTSTART:20130317T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130317T120000Z
-URL:http://www.lolesports.com/tourney/match/699
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/699
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-701
-DTSTART:20130317T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130317T150000Z
-URL:http://www.lolesports.com/tourney/match/701
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/701
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-703
-DTSTART:20130317T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130317T170000Z
-URL:http://www.lolesports.com/tourney/match/703
-SUMMARY:Ninjas in Pyjamas vs Fnatic
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Fnatic (FNC)\nType : BO1\nTournament
-  : EU Season 3 Spring Split\nWeek : 5\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/703
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-707
-DTSTART:20130323T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130323T170000Z
-URL:http://www.lolesports.com/tourney/match/707
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/707
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-712
-DTSTART:20130324T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130324T150000Z
-URL:http://www.lolesports.com/tourney/match/712
-SUMMARY:Dragonborns vs Fnatic
-DESCRIPTION:Dragonborns () vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/712
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-715
-DTSTART:20130324T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130324T180000Z
-URL:http://www.lolesports.com/tourney/match/715
-SUMMARY:Fnatic vs Ozone GIANTS
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/715
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-718
-DTSTART:20130330T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130330T140000Z
-URL:http://www.lolesports.com/tourney/match/718
-SUMMARY:Against All Authority vs Fnatic
-DESCRIPTION:Against All Authority () vs Fnatic (FNC)\nType : BO1\nTournamen
- t : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/718
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-725
-DTSTART:20130406T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130406T130000Z
-URL:http://www.lolesports.com/tourney/match/725
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/725
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-730
-DTSTART:20130406T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130406T180000Z
-URL:http://www.lolesports.com/tourney/match/730
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/730
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-734
-DTSTART:20130407T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130407T160000Z
-URL:http://www.lolesports.com/tourney/match/734
-SUMMARY:Fnatic vs Against All Authority
-DESCRIPTION:Fnatic (FNC) vs Against All Authority ()\nType : BO1\nTournamen
- t : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/734
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-738
-DTSTART:20130413T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130413T180000Z
-URL:http://www.lolesports.com/tourney/match/738
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/738
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-742
-DTSTART:20130414T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130414T180000Z
-URL:http://www.lolesports.com/tourney/match/742
-SUMMARY:Fnatic vs Dragonborns
-DESCRIPTION:Fnatic (FNC) vs Dragonborns ()\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/742
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-748
-DTSTART:20130419T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130419T160000Z
-URL:http://www.lolesports.com/tourney/match/748
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/748
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-750
-DTSTART:20130419T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130419T180000Z
-URL:http://www.lolesports.com/tourney/match/750
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/750
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-756
-DTSTART:20130420T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130420T180000Z
-URL:http://www.lolesports.com/tourney/match/756
-SUMMARY:Fnatic vs Ninjas in Pyjamas
-DESCRIPTION:Fnatic (FNC) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament
-  : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/756
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-757
-DTSTART:20130421T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130421T130000Z
-URL:http://www.lolesports.com/tourney/match/757
-SUMMARY:Dragonborns vs Fnatic
-DESCRIPTION:Dragonborns () vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/757
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-761
-DTSTART:20130421T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130421T170000Z
-URL:http://www.lolesports.com/tourney/match/761
-SUMMARY:Ozone GIANTS vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/761
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-767
-DTSTART:20130427T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130427T120000Z
-URL:http://www.lolesports.com/tourney/match/767
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO3\nTournament : EU Spr
- ing Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/767
-CATEGORIES:EU Spring Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-769
-DTSTART:20130428T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130428T150000Z
-URL:http://www.lolesports.com/tourney/match/769
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO5\nTournament : E
- U Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/769
-CATEGORIES:EU Spring Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1477
-DTSTART:20130615T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130615T140000Z
-URL:http://www.lolesports.com/tourney/match/1477
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1477
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1481
-DTSTART:20130615T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130615T190000Z
-URL:http://www.lolesports.com/tourney/match/1481
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1481
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1486
-DTSTART:20130616T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130616T113000Z
-URL:http://www.lolesports.com/tourney/match/1486
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1486
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1492
-DTSTART:20130616T184500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130616T194500Z
-URL:http://www.lolesports.com/tourney/match/1492
-SUMMARY:Meet Your Makers vs Fnatic
-DESCRIPTION:Mousesports (MOU) vs Fnatic (FNC)\nType : BO1\nTournament : EU 
- Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1492
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1493
-DTSTART:20130617T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130617T180000Z
-URL:http://www.lolesports.com/tourney/match/1493
-SUMMARY:Fnatic vs Ninjas in Pyjamas
-DESCRIPTION:Fnatic (FNC) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament
-  : EU Season 3 Summer Split\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1493
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1503
-DTSTART:20130621T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130621T140000Z
-URL:http://www.lolesports.com/tourney/match/1503
-SUMMARY:Ninjas in Pyjamas vs Fnatic
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Fnatic (FNC)\nType : BO1\nTournament
-  : EU Season 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1503
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1497
-DTSTART:20130622T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130622T150000Z
-URL:http://www.lolesports.com/tourney/match/1497
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1497
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1507
-DTSTART:20130623T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130623T160000Z
-URL:http://www.lolesports.com/tourney/match/1507
-SUMMARY:Millenium vs Fnatic
-DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Summe
- r Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/1507
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1510
-DTSTART:20130629T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130629T180000Z
-URL:http://www.lolesports.com/tourney/match/1510
-SUMMARY:Fnatic vs Lemondogs
-DESCRIPTION:Fnatic (FNC) vs Lemondogs (LD)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1510
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1513
-DTSTART:20130630T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130630T170000Z
-URL:http://www.lolesports.com/tourney/match/1513
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1513
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1517
-DTSTART:20130706T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130706T170000Z
-URL:http://www.lolesports.com/tourney/match/1517
-SUMMARY:Fnatic vs Meet Your Makers
-DESCRIPTION:Fnatic (FNC) vs Mousesports (MOU)\nType : BO1\nTournament : EU 
- Season 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1517
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1521
-DTSTART:20130706T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130706T210000Z
-URL:http://www.lolesports.com/tourney/match/1521
-SUMMARY:Lemondogs vs Fnatic
-DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1521
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1526
-DTSTART:20130707T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130707T180000Z
-URL:http://www.lolesports.com/tourney/match/1526
-SUMMARY:Fnatic vs Millenium
-DESCRIPTION:Fnatic (FNC) vs  ()\nType : BO1\nTournament : EU Season 3 Summe
- r Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/1526
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1530
-DTSTART:20130713T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130713T170000Z
-URL:http://www.lolesports.com/tourney/match/1530
-SUMMARY:Millenium vs Fnatic
-DESCRIPTION: () vs Fnatic (FNC)\nType : BO1\nTournament : EU Season 3 Summe
- r Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/1530
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1534
-DTSTART:20130714T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130714T180000Z
-URL:http://www.lolesports.com/tourney/match/1534
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1534
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1538
-DTSTART:20130718T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130718T180000Z
-URL:http://www.lolesports.com/tourney/match/1538
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1538
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1541
-DTSTART:20130719T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130719T170000Z
-URL:http://www.lolesports.com/tourney/match/1541
-SUMMARY:Meet Your Makers vs Fnatic
-DESCRIPTION:Mousesports (MOU) vs Fnatic (FNC)\nType : BO1\nTournament : EU 
- Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1541
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1545
-DTSTART:20130720T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130720T170000Z
-URL:http://www.lolesports.com/tourney/match/1545
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1545
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1550
-DTSTART:20130727T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130727T180000Z
-URL:http://www.lolesports.com/tourney/match/1550
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1550
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1554
-DTSTART:20130728T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130728T180000Z
-URL:http://www.lolesports.com/tourney/match/1554
-SUMMARY:Fnatic vs Lemondogs
-DESCRIPTION:Fnatic (FNC) vs Lemondogs (LD)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1554
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1560
-DTSTART:20130803T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130803T200000Z
-URL:http://www.lolesports.com/tourney/match/1560
-SUMMARY:Fnatic vs Ninjas in Pyjamas
-DESCRIPTION:Fnatic (FNC) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTournament
-  : EU Season 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1560
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1563
-DTSTART:20130804T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130804T150000Z
-URL:http://www.lolesports.com/tourney/match/1563
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1563
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1567
-DTSTART:20130804T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130804T170000Z
-URL:http://www.lolesports.com/tourney/match/1567
-SUMMARY:Fnatic vs Millenium
-DESCRIPTION:Fnatic (FNC) vs  ()\nType : BO1\nTournament : EU Season 3 Summe
- r Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/1567
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1572
-DTSTART:20130815T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130815T160000Z
-URL:http://www.lolesports.com/tourney/match/1572
-SUMMARY:Lemondogs vs Fnatic
-DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1572
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1574
-DTSTART:20130815T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130815T180000Z
-URL:http://www.lolesports.com/tourney/match/1574
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU Sea
- son 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1574
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1580
-DTSTART:20130816T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130816T160000Z
-URL:http://www.lolesports.com/tourney/match/1580
-SUMMARY:Ninjas in Pyjamas vs Fnatic
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Fnatic (FNC)\nType : BO1\nTournament
-  : EU Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/1580
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1583
-DTSTART:20130817T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130817T130000Z
-URL:http://www.lolesports.com/tourney/match/1583
-SUMMARY:Fnatic vs Meet Your Makers
-DESCRIPTION:Fnatic (FNC) vs Mousesports (MOU)\nType : BO1\nTournament : EU 
- Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1583
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1588
-DTSTART:20130817T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130817T180000Z
-URL:http://www.lolesports.com/tourney/match/1588
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U Season 3 Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1588
-CATEGORIES:EU Season 3 Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1592
-DTSTART:20130824T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130824T120000Z
-URL:http://www.lolesports.com/tourney/match/1592
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO3\nTournament : EU Reg
- ionals 2013\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/1592
-CATEGORIES:EU Regionals 2013
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1593
-DTSTART:20130825T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130825T110000Z
-URL:http://www.lolesports.com/tourney/match/1593
-SUMMARY:Lemondogs vs Fnatic
-DESCRIPTION:Lemondogs (LD) vs Fnatic (FNC)\nType : BO5\nTournament : EU Reg
- ionals 2013\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/1593
-CATEGORIES:EU Regionals 2013
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1621
-DTSTART:20130916T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130916T010000Z
-URL:http://www.lolesports.com/tourney/match/1621
-SUMMARY:XDG vs Fnatic
-DESCRIPTION:XDG (XDG) vs Fnatic (FNC)\nType : BO1\nTournament : Group B\nWe
- ek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1621
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1624
-DTSTART:20130916T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130916T040000Z
-URL:http://www.lolesports.com/tourney/match/1624
-SUMMARY:Team Mineski vs Fnatic
-DESCRIPTION:Team Mineski () vs Fnatic (FNC)\nType : BO1\nTournament : Group
-  B\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
- 624
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1628
-DTSTART:20130917T040000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130917T050000Z
-URL:http://www.lolesports.com/tourney/match/1628
-SUMMARY:Samsung Galaxy Ozone vs Fnatic
-DESCRIPTION:Samsung White (SSW) vs Fnatic (FNC)\nType : BO1\nTournament : G
- roup B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/1628
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1630
-DTSTART:20130917T060000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130917T070000Z
-URL:http://www.lolesports.com/tourney/match/1630
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : G
- roup B\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/1630
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1632
-DTSTART:20130920T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130920T040000Z
-URL:http://www.lolesports.com/tourney/match/1632
-SUMMARY:Fnatic vs XDG
-DESCRIPTION:Fnatic (FNC) vs XDG (XDG)\nType : BO1\nTournament : Group B\nWe
- ek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1632
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1634
-DTSTART:20130920T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130920T060000Z
-URL:http://www.lolesports.com/tourney/match/1634
-SUMMARY:Fnatic vs Samsung Galaxy Ozone
-DESCRIPTION:Fnatic (FNC) vs Samsung White (SSW)\nType : BO1\nTournament : G
- roup B\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/1634
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1636
-DTSTART:20130921T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130921T200000Z
-URL:http://www.lolesports.com/tourney/match/1636
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : G
- roup B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/1636
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1638
-DTSTART:20130921T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130921T220000Z
-URL:http://www.lolesports.com/tourney/match/1638
-SUMMARY:Fnatic vs Team Mineski
-DESCRIPTION:Fnatic (FNC) vs Team Mineski ()\nType : BO1\nTournament : Group
-  B\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/match/1
- 638
-CATEGORIES:Group B
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1644
-DTSTART:20130923T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130923T200000Z
-URL:http://www.lolesports.com/tourney/match/1644
-SUMMARY:Fnatic vs Cloud 9 
-DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO3\nTournament : World Pl
- ayoffs\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/1644
-CATEGORIES:World Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1646
-DTSTART:20130928T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130928T200000Z
-URL:http://www.lolesports.com/tourney/match/1646
-SUMMARY:Royal Club vs Fnatic
-DESCRIPTION:Star Horn Royal Club (SHR) vs Fnatic (FNC)\nType : BO5\nTournam
- ent : World Playoffs\nWeek : 8\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/1646
-CATEGORIES:World Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1800
-DTSTART:20140114T173000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140114T183000Z
-URL:http://www.lolesports.com/tourney/match/1800
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1800
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1803
-DTSTART:20140114T203000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140114T213000Z
-URL:http://www.lolesports.com/tourney/match/1803
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1803
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1807
-DTSTART:20140115T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140115T200000Z
-URL:http://www.lolesports.com/tourney/match/1807
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1807
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1812
-DTSTART:20140116T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140116T200000Z
-URL:http://www.lolesports.com/tourney/match/1812
-SUMMARY:Millenium vs Fnatic
-DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
- S Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1812
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1822
-DTSTART:20140124T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140124T210000Z
-URL:http://www.lolesports.com/tourney/match/1822
-SUMMARY:Fnatic vs Supa Hot Crew
-DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1822
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1825
-DTSTART:20140130T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140130T200000Z
-URL:http://www.lolesports.com/tourney/match/1825
-SUMMARY:ROCCAT vs Fnatic
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
- pring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/1825
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1827
-DTSTART:20140130T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140130T220000Z
-URL:http://www.lolesports.com/tourney/match/1827
-SUMMARY:Copenhagen Wolves vs Fnatic
-DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1827
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1831
-DTSTART:20140131T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140131T220000Z
-URL:http://www.lolesports.com/tourney/match/1831
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1831
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1832
-DTSTART:20140206T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140206T190000Z
-URL:http://www.lolesports.com/tourney/match/1832
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1832
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1838
-DTSTART:20140207T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140207T210000Z
-URL:http://www.lolesports.com/tourney/match/1838
-SUMMARY:Fnatic vs ROCCAT
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
- pring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/1838
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1840
-DTSTART:20140213T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140213T190000Z
-URL:http://www.lolesports.com/tourney/match/1840
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1840
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1845
-DTSTART:20140214T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140214T180000Z
-URL:http://www.lolesports.com/tourney/match/1845
-SUMMARY:Fnatic vs Millenium
-DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
- S Spring Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1845
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1850
-DTSTART:20140220T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140220T210000Z
-URL:http://www.lolesports.com/tourney/match/1850
-SUMMARY:Supa Hot Crew vs Fnatic
-DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1850
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1852
-DTSTART:20140221T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140221T190000Z
-URL:http://www.lolesports.com/tourney/match/1852
-SUMMARY:Fnatic vs Copenhagen Wolves
-DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1852
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1856
-DTSTART:20140227T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140227T190000Z
-URL:http://www.lolesports.com/tourney/match/1856
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1856
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1860
-DTSTART:20140228T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140228T190000Z
-URL:http://www.lolesports.com/tourney/match/1860
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/1860
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1864
-DTSTART:20140304T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140304T170000Z
-URL:http://www.lolesports.com/tourney/match/1864
-SUMMARY:Copenhagen Wolves vs Fnatic
-DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1864
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1871
-DTSTART:20140305T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140305T190000Z
-URL:http://www.lolesports.com/tourney/match/1871
-SUMMARY:Fnatic vs Supa Hot Crew
-DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1871
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1874
-DTSTART:20140305T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140305T220000Z
-URL:http://www.lolesports.com/tourney/match/1874
-SUMMARY:Millenium vs Fnatic
-DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
- S Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1874
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1878
-DTSTART:20140306T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140306T200000Z
-URL:http://www.lolesports.com/tourney/match/1878
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/1878
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1882
-DTSTART:20140320T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140320T210000Z
-URL:http://www.lolesports.com/tourney/match/1882
-SUMMARY:ROCCAT vs Fnatic
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
- pring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/1882
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1887
-DTSTART:20140321T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140321T220000Z
-URL:http://www.lolesports.com/tourney/match/1887
-SUMMARY:Fnatic vs Copenhagen Wolves
-DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/1887
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1891
-DTSTART:20140327T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140327T220000Z
-URL:http://www.lolesports.com/tourney/match/1891
-SUMMARY:Supa Hot Crew vs Fnatic
-DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/1891
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1894
-DTSTART:20140328T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140328T190000Z
-URL:http://www.lolesports.com/tourney/match/1894
-SUMMARY:Fnatic vs Millenium
-DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
- S Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/1894
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1896
-DTSTART:20140401T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140401T160000Z
-URL:http://www.lolesports.com/tourney/match/1896
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1896
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1898
-DTSTART:20140401T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140401T180000Z
-URL:http://www.lolesports.com/tourney/match/1898
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/1898
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1906
-DTSTART:20140402T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140402T210000Z
-URL:http://www.lolesports.com/tourney/match/1906
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/1906
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1910
-DTSTART:20140403T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140403T190000Z
-URL:http://www.lolesports.com/tourney/match/1910
-SUMMARY:Fnatic vs ROCCAT
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
- pring Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/1910
-CATEGORIES:EU LCS Spring Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2165
-DTSTART:20140416T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140416T160000Z
-URL:http://www.lolesports.com/tourney/match/2165
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO3\nTournament : EU LCS
-  Spring Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/2165
-CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2166
-DTSTART:20140417T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140417T180000Z
-URL:http://www.lolesports.com/tourney/match/2166
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO5\nTournament : EU LCS
-  Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/2166
-CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2278
-DTSTART:20140508T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140508T150000Z
-URL:http://www.lolesports.com/tourney/match/2278
-SUMMARY:OMG vs Fnatic
-DESCRIPTION:OMG (OMG) vs Fnatic (FNC)\nType : BO1\nTournament : All-Star 20
- 14 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/2278
-CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2280
-DTSTART:20140508T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140508T170000Z
-URL:http://www.lolesports.com/tourney/match/2280
-SUMMARY:Fnatic vs Cloud 9 
-DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO1\nTournament : All-Star
-  2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/2280
-CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2285
-DTSTART:20140509T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140509T150000Z
-URL:http://www.lolesports.com/tourney/match/2285
-SUMMARY:Fnatic vs SK Telecom T1 K
-DESCRIPTION:Fnatic (FNC) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : Al
- l-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/2285
-CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2287
-DTSTART:20140509T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140509T170000Z
-URL:http://www.lolesports.com/tourney/match/2287
-SUMMARY:Azubu Taipei Assassins vs Fnatic
-DESCRIPTION:Taipei Assassins (TPA) vs Fnatic (FNC)\nType : BO1\nTournament 
- : All-Star 2014 Group Stage\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/2287
-CATEGORIES:All-Star 2014 Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2289
-DTSTART:20140510T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140510T160000Z
-URL:http://www.lolesports.com/tourney/match/2289
-SUMMARY:SK Telecom T1 K vs Fnatic
-DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO3\nTournament : Al
- l-Star 2014 Playoffs\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/2289
-CATEGORIES:All-Star 2014 Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2291
-DTSTART:20140520T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140520T160000Z
-URL:http://www.lolesports.com/tourney/match/2291
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/2291
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2301
-DTSTART:20140521T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140521T210000Z
-URL:http://www.lolesports.com/tourney/match/2301
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/2301
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2303
-DTSTART:20140522T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140522T170000Z
-URL:http://www.lolesports.com/tourney/match/2303
-SUMMARY:Fnatic vs Copenhagen Wolves
-DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2303
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2305
-DTSTART:20140522T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140522T190000Z
-URL:http://www.lolesports.com/tourney/match/2305
-SUMMARY:ROCCAT vs Fnatic
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
- ummer Split\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/2305
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2307
-DTSTART:20140529T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140529T170000Z
-URL:http://www.lolesports.com/tourney/match/2307
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2307
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2312
-DTSTART:20140530T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140530T180000Z
-URL:http://www.lolesports.com/tourney/match/2312
-SUMMARY:Millenium vs Fnatic
-DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
- S Summer Split\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/2312
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2317
-DTSTART:20140605T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140605T190000Z
-URL:http://www.lolesports.com/tourney/match/2317
-SUMMARY:Supa Hot Crew vs Fnatic
-DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2317
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2322
-DTSTART:20140606T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140606T200000Z
-URL:http://www.lolesports.com/tourney/match/2322
-SUMMARY:Fnatic vs ROCCAT
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
- ummer Split\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/2322
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2323
-DTSTART:20140612T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140612T170000Z
-URL:http://www.lolesports.com/tourney/match/2323
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/2323
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2329
-DTSTART:20140613T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140613T190000Z
-URL:http://www.lolesports.com/tourney/match/2329
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/2329
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2334
-DTSTART:20140621T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140621T200000Z
-URL:http://www.lolesports.com/tourney/match/2334
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2334
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2337
-DTSTART:20140622T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140622T190000Z
-URL:http://www.lolesports.com/tourney/match/2337
-SUMMARY:Fnatic vs Millenium
-DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
- S Summer Split\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/2337
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2339
-DTSTART:20140626T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140626T170000Z
-URL:http://www.lolesports.com/tourney/match/2339
-SUMMARY:Copenhagen Wolves vs Fnatic
-DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2339
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2345
-DTSTART:20140627T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140627T190000Z
-URL:http://www.lolesports.com/tourney/match/2345
-SUMMARY:Fnatic vs Supa Hot Crew
-DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 6\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2345
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2347
-DTSTART:20140701T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140701T160000Z
-URL:http://www.lolesports.com/tourney/match/2347
-SUMMARY:ROCCAT vs Fnatic
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
- ummer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/2347
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2350
-DTSTART:20140701T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140701T190000Z
-URL:http://www.lolesports.com/tourney/match/2350
-SUMMARY:Millenium vs Fnatic
-DESCRIPTION:Millenium (MIL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LC
- S Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/2350
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2357
-DTSTART:20140702T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140702T210000Z
-URL:http://www.lolesports.com/tourney/match/2357
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2357
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2361
-DTSTART:20140703T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140703T190000Z
-URL:http://www.lolesports.com/tourney/match/2361
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/2361
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2364
-DTSTART:20140710T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140710T190000Z
-URL:http://www.lolesports.com/tourney/match/2364
-SUMMARY:Supa Hot Crew vs Fnatic
-DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2364
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2368
-DTSTART:20140711T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140711T200000Z
-URL:http://www.lolesports.com/tourney/match/2368
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/2368
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2372
-DTSTART:20140717T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140717T190000Z
-URL:http://www.lolesports.com/tourney/match/2372
-SUMMARY:Fnatic vs Copenhagen Wolves
-DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2372
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2375
-DTSTART:20140718T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140718T200000Z
-URL:http://www.lolesports.com/tourney/match/2375
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Summer Split\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/2375
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2379
-DTSTART:20140724T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140724T190000Z
-URL:http://www.lolesports.com/tourney/match/2379
-SUMMARY:Fnatic vs Alliance
-DESCRIPTION:Fnatic (FNC) vs Alliance (ALL)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/2379
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2384
-DTSTART:20140725T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140725T200000Z
-URL:http://www.lolesports.com/tourney/match/2384
-SUMMARY:Fnatic vs Millenium
-DESCRIPTION:Fnatic (FNC) vs Millenium (MIL)\nType : BO1\nTournament : EU LC
- S Summer Split\nWeek : 10\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/2384
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2390
-DTSTART:20140729T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140729T180000Z
-URL:http://www.lolesports.com/tourney/match/2390
-SUMMARY:Copenhagen Wolves vs Fnatic
-DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2390
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2388
-DTSTART:20140729T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140729T200000Z
-URL:http://www.lolesports.com/tourney/match/2388
-SUMMARY:Fnatic vs Supa Hot Crew
-DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
- : EU LCS Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/2388
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2395
-DTSTART:20140730T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140730T210000Z
-URL:http://www.lolesports.com/tourney/match/2395
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Summer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/2395
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2399
-DTSTART:20140731T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140731T180000Z
-URL:http://www.lolesports.com/tourney/match/2399
-SUMMARY:Fnatic vs ROCCAT
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
- ummer Split\nWeek : 11\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/2399
-CATEGORIES:EU LCS Summer Split
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3045
-DTSTART:20140815T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140815T100000Z
-URL:http://www.lolesports.com/tourney/match/3045
-SUMMARY:Fnatic vs ROCCAT
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
- ummer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/3045
-CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3046
-DTSTART:20140817T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140817T140000Z
-URL:http://www.lolesports.com/tourney/match/3046
-SUMMARY:Alliance vs Fnatic
-DESCRIPTION:Alliance (ALL) vs Fnatic (FNC)\nType : BO5\nTournament : EU LCS
-  Summer Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/3046
-CATEGORIES:EU LCS Summer Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3110
-DTSTART:20140925T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140925T140000Z
-URL:http://www.lolesports.com/tourney/match/3110
-SUMMARY:Fnatic vs LMQ
-DESCRIPTION:Fnatic (FNC) vs LMQ (LMQ)\nType : BO1\nTournament : Group C\nWe
- ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3110
-CATEGORIES:Group C
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3111
-DTSTART:20140926T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140926T110000Z
-URL:http://www.lolesports.com/tourney/match/3111
-SUMMARY:Samsung Blue vs Fnatic
-DESCRIPTION:Samsung Blue (SSB) vs Fnatic (FNC)\nType : BO1\nTournament : Gr
- oup C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/3111
-CATEGORIES:Group C
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3112
-DTSTART:20140926T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140926T130000Z
-URL:http://www.lolesports.com/tourney/match/3112
-SUMMARY:OMG vs Fnatic
-DESCRIPTION:OMG (OMG) vs Fnatic (FNC)\nType : BO1\nTournament : Group C\nWe
- ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3112
-CATEGORIES:Group C
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3114
-DTSTART:20140927T061500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140927T071500Z
-URL:http://www.lolesports.com/tourney/match/3114
-SUMMARY:Fnatic vs OMG
-DESCRIPTION:Fnatic (FNC) vs OMG (OMG)\nType : BO1\nTournament : Group C\nWe
- ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3114
-CATEGORIES:Group C
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3115
-DTSTART:20140927T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140927T090000Z
-URL:http://www.lolesports.com/tourney/match/3115
-SUMMARY:LMQ vs Fnatic
-DESCRIPTION:LMQ (LMQ) vs Fnatic (FNC)\nType : BO1\nTournament : Group C\nWe
- ek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3115
-CATEGORIES:Group C
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3118
-DTSTART:20140928T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20140928T100000Z
-URL:http://www.lolesports.com/tourney/match/3118
-SUMMARY:Fnatic vs Samsung Blue
-DESCRIPTION:Fnatic (FNC) vs Samsung Blue (SSB)\nType : BO1\nTournament : Gr
- oup C\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/3118
-CATEGORIES:Group C
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3346
-DTSTART:20150122T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150122T180000Z
-URL:http://www.lolesports.com/tourney/match/3346
-SUMMARY:Elements vs Fnatic
-DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS 
- Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/3346
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3354
-DTSTART:20150123T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150123T210000Z
-URL:http://www.lolesports.com/tourney/match/3354
-SUMMARY:Fnatic vs H2k
-DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : EU LCS Spri
- ng\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
- 354
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3358
-DTSTART:20150129T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150129T200000Z
-URL:http://www.lolesports.com/tourney/match/3358
-SUMMARY:Fnatic vs ROCCAT
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU LCS S
- pring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/3358
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3361
-DTSTART:20150130T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150130T180000Z
-URL:http://www.lolesports.com/tourney/match/3361
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3361
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3367
-DTSTART:20150205T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150205T190000Z
-URL:http://www.lolesports.com/tourney/match/3367
-SUMMARY:Fnatic vs Unicorns Of Love
-DESCRIPTION:Fnatic (FNC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament 
- : EU LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3367
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3371
-DTSTART:20150206T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150206T180000Z
-URL:http://www.lolesports.com/tourney/match/3371
-SUMMARY:Fnatic vs GIANTS GAMING
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3371
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3378
-DTSTART:20150212T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150212T200000Z
-URL:http://www.lolesports.com/tourney/match/3378
-SUMMARY:Meet Your Makers vs Fnatic
-DESCRIPTION:Meet Your Makers (MYM) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3378
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3384
-DTSTART:20150213T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150213T210000Z
-URL:http://www.lolesports.com/tourney/match/3384
-SUMMARY:Copenhagen Wolves vs Fnatic
-DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3384
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3388
-DTSTART:20150219T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150219T200000Z
-URL:http://www.lolesports.com/tourney/match/3388
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : EU LCS
-  Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/3388
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3391
-DTSTART:20150220T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150220T180000Z
-URL:http://www.lolesports.com/tourney/match/3391
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3391
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3396
-DTSTART:20150226T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150226T180000Z
-URL:http://www.lolesports.com/tourney/match/3396
-SUMMARY:GIANTS GAMING vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3396
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3402
-DTSTART:20150227T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150227T190000Z
-URL:http://www.lolesports.com/tourney/match/3402
-SUMMARY:Fnatic vs Copenhagen Wolves
-DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : EU LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3402
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3409
-DTSTART:20150305T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150305T210000Z
-URL:http://www.lolesports.com/tourney/match/3409
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS
-  Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/3409
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3413
-DTSTART:20150306T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150306T200000Z
-URL:http://www.lolesports.com/tourney/match/3413
-SUMMARY:Fnatic vs Meet Your Makers
-DESCRIPTION:Fnatic (FNC) vs Meet Your Makers (MYM)\nType : BO1\nTournament 
- : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3413
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3418
-DTSTART:20150319T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150319T190000Z
-URL:http://www.lolesports.com/tourney/match/3418
-SUMMARY:ROCCAT vs Fnatic
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS S
- pring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney/matc
- h/3418
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3425
-DTSTART:20150320T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150320T190000Z
-URL:http://www.lolesports.com/tourney/match/3425
-SUMMARY:Unicorns Of Love vs Fnatic
-DESCRIPTION:Unicorns Of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament 
- : EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3425
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3426
-DTSTART:20150326T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150326T190000Z
-URL:http://www.lolesports.com/tourney/match/3426
-SUMMARY:H2k vs Fnatic
-DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : EU LCS Spri
- ng\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/match/3
- 426
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3433
-DTSTART:20150327T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150327T190000Z
-URL:http://www.lolesports.com/tourney/match/3433
-SUMMARY:Fnatic vs Elements
-DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : EU LCS 
- Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourney/mat
- ch/3433
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4509
-DTSTART:20150411T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150411T160000Z
-URL:http://www.lolesports.com/tourney/match/4509
-SUMMARY:Fnatic vs H2k
-DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO5\nTournament : EU LCS Spri
- ng Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/4509
-CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4510
-DTSTART:20150419T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150419T160000Z
-URL:http://www.lolesports.com/tourney/match/4510
-SUMMARY:Unicorns Of Love vs Fnatic
-DESCRIPTION:Unicorns Of Love (UOL) vs Fnatic (FNC)\nType : BO5\nTournament 
- : EU LCS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4510
-CATEGORIES:EU LCS Spring Playoffs
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4562
-DTSTART:20150507T203000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150507T213000Z
-URL:http://www.lolesports.com/tourney/match/4562
-SUMMARY:Fnatic vs Team SoloMid
-DESCRIPTION:Fnatic (FNC) vs Team SoloMid (TSM)\nType : BO1\nTournament : 20
- 15 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4562
-CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4566
-DTSTART:20150508T003000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150508T013000Z
-URL:http://www.lolesports.com/tourney/match/4566
-SUMMARY:Fnatic vs Ahq e-Sports Club
-DESCRIPTION:Fnatic (FNC) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
-  : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4566
-CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4570
-DTSTART:20150508T201500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150508T211500Z
-URL:http://www.lolesports.com/tourney/match/4570
-SUMMARY:EDward Gaming vs Fnatic
-DESCRIPTION:Edward Gaming (EDG) vs Fnatic (FNC)\nType : BO1\nTournament : 2
- 015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/4570
-CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4573
-DTSTART:20150508T231500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150509T001500Z
-URL:http://www.lolesports.com/tourney/match/4573
-SUMMARY:SK Telecom T1 vs Fnatic
-DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO1\nTournament : 20
- 15 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4573
-CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4575
-DTSTART:20150509T011500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150509T021500Z
-URL:http://www.lolesports.com/tourney/match/4575
-SUMMARY:Fnatic vs Besiktas e-Sports Club
-DESCRIPTION:Fnatic (FNC) vs Besiktas e-Sports Club (BJK)\nType : BO1\nTourn
- ament : 2015 MSI Group Stage\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4575
-CATEGORIES:2015 MSI Group Stage
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4577
-DTSTART:20150509T201500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150509T211500Z
-URL:http://www.lolesports.com/tourney/match/4577
-SUMMARY:SK Telecom T1 vs Fnatic
-DESCRIPTION:SKTelecom T1 (SKT) vs Fnatic (FNC)\nType : BO5\nTournament : 20
- 15 MSI Knockout\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/4577
-CATEGORIES:2015 MSI Knockout
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4586
+UID:match-d124737a-cf26-4e98-a5fa-1b4e35f2118b
 DTSTART:20150528T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150528T170000Z
-URL:http://www.lolesports.com/tourney/match/4586
-SUMMARY:Unicorns Of Love vs Fnatic
-DESCRIPTION:Unicorns Of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament 
- : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/4586
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130130Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:UOL vs FNC
+DESCRIPTION:Unicorns of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLoose
+ r : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4594
+UID:match-4e45e554-20a7-48fa-8bd6-1bed9345be3f
+DTSTART:20150816T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
+ /eu_2015_summer_playoffs/semifinals
+SUMMARY:FNC vs UOL
+DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO3\nTournament 
+ : Generated tournament for the 2015 summer playoffs\nWeek : semifinals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-628326ae-046b-4a2e-a050-18bfe2b3394b
+DTSTART:20160129T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160129T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/3
+SUMMARY:FNC vs SPY
+DESCRIPTION:Fnatic (FNC) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ee38df28-79a8-4471-90db-8d819f61f49f
+DTSTART:20160115T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160115T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:VIT vs FNC
+DESCRIPTION:Team Vitality (VIT) vs Fnatic (FNC)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d61f0bd8-417d-4096-a41c-f443ed5e61c4
 DTSTART:20150529T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150529T200000Z
-URL:http://www.lolesports.com/tourney/match/4594
-SUMMARY:Fnatic vs SK Gaming
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : 2015 E
- U LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/4594
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130130Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:FNC vs SK
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4597
-DTSTART:20150604T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150604T180000Z
-URL:http://www.lolesports.com/tourney/match/4597
-SUMMARY:Fnatic vs ROCCAT
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : 2015 EU 
- LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney
- /match/4597
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4601
-DTSTART:20150605T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T170000Z
-URL:http://www.lolesports.com/tourney/match/4601
-SUMMARY:Gambit Gaming vs Fnatic
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4601
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4609
-DTSTART:20150611T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T200000Z
-URL:http://www.lolesports.com/tourney/match/4609
-SUMMARY:Fnatic vs Elements
-DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : 2015 EU
-  LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/4609
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4611
-DTSTART:20150612T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T170000Z
-URL:http://www.lolesports.com/tourney/match/4611
-SUMMARY:Fnatic vs Giants Gaming
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4611
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4618
-DTSTART:20150618T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T190000Z
-URL:http://www.lolesports.com/tourney/match/4618
-SUMMARY:Origen vs Fnatic
-DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 EU L
- CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/4618
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4623
-DTSTART:20150619T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T190000Z
-URL:http://www.lolesports.com/tourney/match/4623
-SUMMARY:Copenhagen Wolves vs Fnatic
-DESCRIPTION:Copenhagen Wolves (CW) vs Fnatic (FNC)\nType : BO1\nTournament 
- : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/4623
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4629
-DTSTART:20150625T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T200000Z
-URL:http://www.lolesports.com/tourney/match/4629
-SUMMARY:Fnatic vs H2K
-DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : 2015 EU LCS
-  Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4629
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4631
-DTSTART:20150626T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T170000Z
-URL:http://www.lolesports.com/tourney/match/4631
-SUMMARY:Fnatic vs Gambit Gaming
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4631
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4636
-DTSTART:20150702T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150702T190000Z
-URL:http://www.lolesports.com/tourney/match/4636
-SUMMARY:GIANTS GAMING vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4636
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4642
+UID:match-3a488add-64ea-4b4b-947c-6b757dd10f2c
 DTSTART:20150703T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150703T190000Z
-URL:http://www.lolesports.com/tourney/match/4642
-SUMMARY:Fnatic vs Copenhagen Wolves
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:FNC vs CW
 DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : 2015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/4642
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
+ : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4649
+UID:match-7cafbf72-0041-4444-a023-b1b2e3ec0820
+DTSTART:20150612T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:FNC vs GIA
+DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-086c8e9b-d976-4eeb-b461-7c4e06fc9ef4
+DTSTART:20150823T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
+ /eu_2015_summer_playoffs/finals
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO5\nTournament : Generated
+  tournament for the 2015 summer playoffs\nWeek : finals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-be0024a8-1e6a-4cd6-8f2b-ac93fe1607f5
+DTSTART:20160128T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/3
+SUMMARY:G2 vs FNC
+DESCRIPTION:G2 Esports (G2) vs Fnatic (FNC)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5a5ad78a-d9b3-4a39-aac5-bf2fab02e950
+DTSTART:20160211T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160211T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:FNC vs EL
+DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : EU 2016
+  Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3547016f-eedc-4392-9271-99633d16ea09
+DTSTART:20160205T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:ROC vs FNC
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41a3aae2-5fce-4f41-a4f9-5eb6093d4a73
+DTSTART:20160310T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/8
+SUMMARY:FNC vs GIA
+DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 8\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e152e312-6cae-45a7-83c8-bb1acaa60fcc
+DTSTART:20160122T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:FNC vs UOL
+DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6c6f71ca-a83d-411b-9206-d64c8c447c43
+DTSTART:20150710T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : Origen\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-09a138cd-c1f4-47b5-a303-39f541583ee4
+DTSTART:20160311T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160311T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/8
+SUMMARY:FNC vs VIT
+DESCRIPTION:Fnatic (FNC) vs Team Vitality (VIT)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 8\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-14805e5b-ea1d-4b69-ab23-6c6edf539b23
+DTSTART:20160218T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:FNC vs G2
+DESCRIPTION:Fnatic (FNC) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-80505e12-b31e-4c7f-94d0-3db27f1f2cc8
+DTSTART:20160226T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160226T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:FNC vs ROC
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d24bff4e-d81e-45a3-8f11-a6d04f2d6ee3
+DTSTART:20150625T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:FNC vs H2K
+DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser : H2K\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-07ef9530-69c2-4116-85c6-d9894c9b7068
+DTSTART:20150605T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:GMB vs FNC
+DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4adc8c6b-3008-4a9c-a9e3-85adc5b4d1c6
+DTSTART:20150717T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:EL vs FNC
+DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : Eleme
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-06448f6f-a4fa-44a0-aab3-557b3667897f
+DTSTART:20150716T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:ROC vs FNC
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : ROCCAT
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f40cb2f1-9fd6-47ac-ac8b-72d71da68d60
+DTSTART:20150723T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:SK vs FNC
+DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ce43758d-4450-440f-b9cc-a69dd2060c2a
+DTSTART:20160204T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160204T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:GIA vs FNC
+DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d13671bc-a0dd-4520-a617-43f7f67a002d
+DTSTART:20160225T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:H2K vs FNC
+DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 Spr
+ ing Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d03bd4c7-857b-4917-a085-13ddfafb92ce
+DTSTART:20150604T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:FNC vs ROC
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser : ROCCAT
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ada4c537-f698-4df0-b323-2d70ebea4b42
+DTSTART:20150618T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:OG vs FNC
+DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 4\nWinner : Fnatic\nLooser : Origen\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e5fe9677-9a58-4b10-86f9-422fce9ee234
+DTSTART:20150611T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:FNC vs EL
+DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Eleme
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7f677e9f-f18f-45cb-b75e-ba9d7914ce88
+DTSTART:20150626T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:FNC vs GMB
+DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c57d6214-7e8a-4bbc-a0c5-f8ff1a3a4f2a
+DTSTART:20150702T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:GIA vs FNC
+DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a06b1974-1553-4c61-92f8-04f0d5fb3735
 DTSTART:20150709T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150709T200000Z
-URL:http://www.lolesports.com/tourney/match/4649
-SUMMARY:H2K vs Fnatic
-DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 EU LCS
-  Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/4649
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:H2K vs FNC
+DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : H2K\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4653
-DTSTART:20150710T180000Z
+UID:match-f0c8b2f3-b981-4ba8-bcd6-b6f76c7b6c60
+DTSTART:20150724T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150710T190000Z
-URL:http://www.lolesports.com/tourney/match/4653
-SUMMARY:Fnatic vs ORIGEN
-DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : 2015 EU L
- CS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/4653
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
+DTEND:20150724T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:FNC vs UOL
+DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLoose
+ r : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4658
-DTSTART:20150716T180000Z
+UID:match-1c0b8175-974e-4f08-bccb-d03fd43c2d9d
+DTSTART:20160318T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150716T190000Z
-URL:http://www.lolesports.com/tourney/match/4658
-SUMMARY:ROCCAT vs Fnatic
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 EU 
- LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourney
- /match/4658
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
+DTEND:20160318T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:OG vs FNC
+DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4665
-DTSTART:20150717T200000Z
+UID:match-e0cae384-2d17-4322-90bf-49bf257d0d31
+DTSTART:20160317T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150717T210000Z
-URL:http://www.lolesports.com/tourney/match/4665
-SUMMARY:Elements vs Fnatic
-DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 EU
-  LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourne
- y/match/4665
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
+DTEND:20160317T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:EL vs FNC
+DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016
+  Spring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4666
-DTSTART:20150723T160000Z
+UID:match-11e4354b-b0a7-4e61-a05c-e313d00cc882
+DTSTART:20160114T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150723T170000Z
-URL:http://www.lolesports.com/tourney/match/4666
-SUMMARY:SK Gaming vs Fnatic
-DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : 2015 E
- U LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/4666
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
+DTEND:20160114T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4673
-DTSTART:20150724T180000Z
+UID:match-1fa16104-1fe1-46f9-bdff-9dbe28321326
+DTSTART:20160212T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150724T190000Z
-URL:http://www.lolesports.com/tourney/match/4673
-SUMMARY:Fnatic vs Unicorns Of Love
-DESCRIPTION:Fnatic (FNC) vs Unicorns Of Love (UOL)\nType : BO1\nTournament 
- : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.lolesports.c
- om/tourney/match/4673
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130131Z
+DTEND:20160212T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:UOL vs FNC
+DESCRIPTION:Unicorns of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5836bd8e-b41e-4bbe-aa29-4ba869effd5a
+DTSTART:20160121T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160121T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:FNC vs H2K
+DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
+ ing Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-231dc995-c1fb-454d-8961-b47c9ed8e094
+DTSTART:20160219T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160219T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:SPY vs FNC
+DESCRIPTION:Splyce (SPY) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5d67b8a0-dcd0-4e71-b339-5fe46f04ac14
+DTSTART:20151011T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151011T120000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-8
+SUMMARY:IG vs FNC
+DESCRIPTION:Invictus Gaming (IG) vs Fnatic (FNC)\nType : BO1\nTournament : 
+ The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser :
+  Invictus Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5deddc1b-8a0d-421b-8784-449fb5053e35
+DTSTART:20151004T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151004T160000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-4
+SUMMARY:C9 vs FNC
+DESCRIPTION:Cloud9  (C9) vs Fnatic (FNC)\nType : BO1\nTournament : The 2015
+  World Championship\nWeek : paris-day-4\nWinner : Cloud9 \nLooser : Fnatic
+ \n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f6d7d736-56c1-4eaa-b9d0-28a92f994503
+DTSTART:20151017T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151017T140000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /elimination/london-day-3
+SUMMARY:FNC vs EDG
+DESCRIPTION:Fnatic (FNC) vs Edward Gaming (EDG)\nType : BO5\nTournament : T
+ he 2015 World Championship\nWeek : london-day-3\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-22851f97-7555-494d-b234-1e4bbeaf8dd5
+DTSTART:20151001T143000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151001T153000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-1
+SUMMARY:FNC vs IG
+DESCRIPTION:Fnatic (FNC) vs Invictus Gaming (IG)\nType : BO1\nTournament : 
+ The 2015 World Championship\nWeek : paris-day-1\nWinner : Fnatic\nLooser :
+  Invictus Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fc87a054-6895-4db3-a0ad-63aba1332206
+DTSTART:20151011T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151011T140000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-8
+SUMMARY:FNC vs AHQ
+DESCRIPTION:Fnatic (FNC) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
+  : The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLoose
+ r : ahq e-Sports Club\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fecf171a-ae6c-4699-95e2-654f15153139
+DTSTART:20151025T133000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151025T143000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /elimination/brussels-day-2
+SUMMARY:FNC vs ROX
+DESCRIPTION:Fnatic (FNC) vs ROX Tigers (ROX)\nType : BO5\nTournament : The 
+ 2015 World Championship\nWeek : brussels-day-2\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-dd7bfe7d-cd4c-4b33-99a7-ee014c14aff7
+DTSTART:20151011T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151011T100000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-8
+SUMMARY:FNC vs C9
+DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO1\nTournament : The 2015
+  World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser : Cloud9 
+ \n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-16689429-96bd-47f2-9429-275eb08064b6
+DTSTART:20151003T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151003T180000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-3
+SUMMARY:AHQ vs FNC
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Fnatic (FNC)\nType : BO1\nTournament
+  : The 2015 World Championship\nWeek : paris-day-3\nWinner : ahq e-Sports 
+ Club\nLooser : Fnatic\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160117T011023Z
 END:VEVENT
 END:VCALENDAR

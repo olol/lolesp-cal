@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-LOO
+X-WR-CALNAME:LoL eSports LOO
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-1d2a3e85-b746-4c4a-9783-421a862600f4
+DTSTART:20151122T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151122T160000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_allstar_br_2015/sche
+ dule/cblol_allstar_br_2015_playoffs/rodada%20%C3%BAnica
+SUMMARY:ESP vs LOO
+DESCRIPTION:Time Espeon (ESP) vs Time Loop (LOO)\nType : BO1\nTournament : 
+ Generated tournament for the cblol allstar 2015\nWeek : rodada única\n
+CATEGORIES:Generated tournament for the cblol allstar 2015
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

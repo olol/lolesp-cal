@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TFO
+X-WR-CALNAME:LoL eSports TFO
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-233f7699-1db4-4e30-bd19-baffb785a2f5
+DTSTART:20151213T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151213T010000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-3
+SUMMARY:TFO vs TIO
+DESCRIPTION:Team Fire One For All (TFO) vs Team Ice One For All (TIO)\nType
+  : BO1\nTournament : Initial All-Star format\nWeek : ase-day-3\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

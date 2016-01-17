@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-DID
+X-WR-CALNAME:LoL eSports DID
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-69a12fa9-7363-4020-8d4e-332752958cf8
+DTSTART:20151122T140000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151122T150000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_allstar_br_2015/sche
+ dule/cblol_allstar_br_2015_playoffs/rodada%20%C3%BAnica
+SUMMARY:DID vs ALC
+DESCRIPTION:Time Dioud (DID) vs Time Alocs (ALC)\nType : BO1\nTournament : 
+ Generated tournament for the cblol allstar 2015\nWeek : rodada única\n
+CATEGORIES:Generated tournament for the cblol allstar 2015
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

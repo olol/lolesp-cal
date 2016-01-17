@@ -1,20 +1,20 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-tfs
+PRODID:www.lolesports.com|cal-team-TFS
 X-WR-CALNAME:LoL eSports TFS
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-2077
-DTSTART:20140227T220000Z
+UID:match-20e18fcb-34c9-4918-a059-b1beced690ba
+DTSTART:20151214T004500Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140227T230000Z
-URL:http://www.lolesports.com/tourney/match/2077
-SUMMARY:The Fox Sound vs Steve Bakes Cookies
-DESCRIPTION:The Fox Sound (TFS) vs Steve Bakes Cookies (SBC)\nType : BO1\nT
- ournament : EU CS 2 Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2077
-CATEGORIES:EU CS 2 Play In 2
-DTSTAMP:20151002T130159Z
+DTEND:20151214T014500Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-4
+SUMMARY:TFS vs TIS
+DESCRIPTION:Team Fire All-Stars (TFS) vs Team Ice All-Stars (TIS)\nType : B
+ O1\nTournament : Initial All-Star format\nWeek : ase-day-4\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
 END:VEVENT
 END:VCALENDAR

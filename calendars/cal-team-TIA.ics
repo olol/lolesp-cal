@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TIA
+X-WR-CALNAME:LoL eSports TIA
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-6183d956-9086-4851-b624-f8348fbe25d0
+DTSTART:20151213T022000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151213T032000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-3
+SUMMARY:TFA vs TIA
+DESCRIPTION:Team Fire Assassins (TFA) vs Team Ice Assassins (TIA)\nType : B
+ O1\nTournament : Initial All-Star format\nWeek : ase-day-3\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

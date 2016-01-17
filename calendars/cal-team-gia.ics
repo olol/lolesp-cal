@@ -1,1028 +1,569 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-gia
+PRODID:www.lolesports.com|cal-team-GIA
 X-WR-CALNAME:LoL eSports GIA
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-655
-DTSTART:20130209T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130209T190000Z
-URL:http://www.lolesports.com/tourney/match/655
-SUMMARY:Fnatic vs Ozone GIANTS
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/655
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-659
-DTSTART:20130210T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130210T190000Z
-URL:http://www.lolesports.com/tourney/match/659
-SUMMARY:Ozone GIANTS vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 1\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/659
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-666
-DTSTART:20130217T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130217T170000Z
-URL:http://www.lolesports.com/tourney/match/666
-SUMMARY:Alliance vs Ozone GIANTS
-DESCRIPTION:Alliance (ALL) vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/666
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-668
-DTSTART:20130217T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130217T200000Z
-URL:http://www.lolesports.com/tourney/match/668
-SUMMARY:Ozone GIANTS vs Ninjas in Pyjamas
-DESCRIPTION:Giants Gaming (GIA) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 2\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/668
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-670
-DTSTART:20130223T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130223T180000Z
-URL:http://www.lolesports.com/tourney/match/670
-SUMMARY:Gambit Gaming vs Ozone GIANTS
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/670
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-673
-DTSTART:20130224T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130224T170000Z
-URL:http://www.lolesports.com/tourney/match/673
-SUMMARY:Dragonborns vs Ozone GIANTS
-DESCRIPTION:Dragonborns () vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/673
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-676
-DTSTART:20130224T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130224T200000Z
-URL:http://www.lolesports.com/tourney/match/676
-SUMMARY:Ozone GIANTS vs Against All Authority
-DESCRIPTION:Giants Gaming (GIA) vs Against All Authority ()\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 3\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/676
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-680
-DTSTART:20130301T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130301T120000Z
-URL:http://www.lolesports.com/tourney/match/680
-SUMMARY:Ozone GIANTS vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/680
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-682
-DTSTART:20130301T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130301T140000Z
-URL:http://www.lolesports.com/tourney/match/682
-SUMMARY:Ozone GIANTS vs SK Gaming
-DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/682
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-691
-DTSTART:20130302T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130302T190000Z
-URL:http://www.lolesports.com/tourney/match/691
-SUMMARY:Ozone GIANTS vs Dragonborns
-DESCRIPTION:Giants Gaming (GIA) vs Dragonborns ()\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/691
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-696
-DTSTART:20130303T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130303T190000Z
-URL:http://www.lolesports.com/tourney/match/696
-SUMMARY:Ninjas in Pyjamas vs Ozone GIANTS
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Giants Gaming (GIA)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/696
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-687
-DTSTART:20130303T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130303T210000Z
-URL:http://www.lolesports.com/tourney/match/687
-SUMMARY:Ozone GIANTS vs Alliance
-DESCRIPTION:Giants Gaming (GIA) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 4\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/687
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-705
-DTSTART:20130323T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130323T150000Z
-URL:http://www.lolesports.com/tourney/match/705
-SUMMARY:SK Gaming vs Ozone GIANTS
-DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/705
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-710
-DTSTART:20130324T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130324T130000Z
-URL:http://www.lolesports.com/tourney/match/710
-SUMMARY:Alliance vs Ozone GIANTS
-DESCRIPTION:Alliance (ALL) vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/710
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-715
-DTSTART:20130324T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130324T180000Z
-URL:http://www.lolesports.com/tourney/match/715
-SUMMARY:Fnatic vs Ozone GIANTS
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/715
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-717
-DTSTART:20130330T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130330T130000Z
-URL:http://www.lolesports.com/tourney/match/717
-SUMMARY:Ozone GIANTS vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/717
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-723
-DTSTART:20130331T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130331T150000Z
-URL:http://www.lolesports.com/tourney/match/723
-SUMMARY:Dragonborns vs Ozone GIANTS
-DESCRIPTION:Dragonborns () vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 7\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/723
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-727
-DTSTART:20130406T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130406T150000Z
-URL:http://www.lolesports.com/tourney/match/727
-SUMMARY:Ozone GIANTS vs Ninjas in Pyjamas
-DESCRIPTION:Giants Gaming (GIA) vs Ninjas in Pyjamas (NIP)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://ww
- w.lolesports.com/tourney/match/727
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-732
-DTSTART:20130407T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130407T140000Z
-URL:http://www.lolesports.com/tourney/match/732
-SUMMARY:Against All Authority vs Ozone GIANTS
-DESCRIPTION:Against All Authority () vs Giants Gaming (GIA)\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/732
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-735
-DTSTART:20130407T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130407T170000Z
-URL:http://www.lolesports.com/tourney/match/735
-SUMMARY:Ozone GIANTS vs SK Gaming
-DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 8\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/735
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-740
-DTSTART:20130413T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130413T200000Z
-URL:http://www.lolesports.com/tourney/match/740
-SUMMARY:Ozone GIANTS vs Dragonborns
-DESCRIPTION:Giants Gaming (GIA) vs Dragonborns ()\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/740
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-741
-DTSTART:20130414T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130414T170000Z
-URL:http://www.lolesports.com/tourney/match/741
-SUMMARY:Ozone GIANTS vs Alliance
-DESCRIPTION:Giants Gaming (GIA) vs Alliance (ALL)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://www.lolespo
- rts.com/tourney/match/741
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-743
-DTSTART:20130414T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130414T190000Z
-URL:http://www.lolesports.com/tourney/match/743
-SUMMARY:Ozone GIANTS vs Against All Authority
-DESCRIPTION:Giants Gaming (GIA) vs Against All Authority ()\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 9\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/743
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-747
-DTSTART:20130419T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130419T150000Z
-URL:http://www.lolesports.com/tourney/match/747
-SUMMARY:Against All Authority vs Ozone GIANTS
-DESCRIPTION:Against All Authority () vs Giants Gaming (GIA)\nType : BO1\nTo
- urnament : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://
- www.lolesports.com/tourney/match/747
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-749
-DTSTART:20130419T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130419T170000Z
-URL:http://www.lolesports.com/tourney/match/749
-SUMMARY:Gambit Gaming vs Ozone GIANTS
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/749
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-754
-DTSTART:20130420T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130420T160000Z
-URL:http://www.lolesports.com/tourney/match/754
-SUMMARY:Ninjas in Pyjamas vs Ozone GIANTS
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Giants Gaming (GIA)\nType : BO1\nTou
- rnament : EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/754
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-759
-DTSTART:20130421T140000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130421T150000Z
-URL:http://www.lolesports.com/tourney/match/759
-SUMMARY:SK Gaming vs Ozone GIANTS
-DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  EU Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/759
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-761
-DTSTART:20130421T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130421T170000Z
-URL:http://www.lolesports.com/tourney/match/761
-SUMMARY:Ozone GIANTS vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U Season 3 Spring Split\nWeek : 10\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/761
-CATEGORIES:EU Season 3 Spring Split
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-784
-DTSTART:20130505T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20130505T170000Z
-URL:http://www.lolesports.com/tourney/match/784
-SUMMARY:Ozone GIANTS vs Millenium
-DESCRIPTION:Giants Gaming (GIA) vs  ()\nType : BO5\nTournament : EU Summer 
- Promotion\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/784
-CATEGORIES:EU Summer Promotion
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3178
-DTSTART:20141122T183000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20141122T193000Z
-URL:http://www.lolesports.com/tourney/match/3178
-SUMMARY:Ascension vs GIANTS
-DESCRIPTION:Ascension (ASC) vs Giants Gaming (GIA)\nType : BO3\nTournament 
- : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/3178
-CATEGORIES:Single Elimination Bracket
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3184
-DTSTART:20141130T173000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20141130T183000Z
-URL:http://www.lolesports.com/tourney/match/3184
-SUMMARY:Millenium vs GIANTS
-DESCRIPTION:Millenium (MIL) vs Giants Gaming (GIA)\nType : BO3\nTournament 
- : Single Elimination Bracket\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/3184
-CATEGORIES:Single Elimination Bracket
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3191
-DTSTART:20141218T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20141218T130000Z
-URL:http://www.lolesports.com/tourney/match/3191
-SUMMARY:GIANTS vs Reason Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Reason Gaming (RG)\nType : BO5\nTourname
- nt : Upper Bracket\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3191
-CATEGORIES:Upper Bracket
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3193
-DTSTART:20141220T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20141220T130000Z
-URL:http://www.lolesports.com/tourney/match/3193
-SUMMARY:GIANTS vs H2k Gaming
-DESCRIPTION:Giants Gaming (GIA) vs H2K (H2K)\nType : BO5\nTournament : Uppe
- r Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/3193
-CATEGORIES:Upper Bracket
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3195
-DTSTART:20141221T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20141221T130000Z
-URL:http://www.lolesports.com/tourney/match/3195
-SUMMARY:GIANTS vs Reason Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Reason Gaming (RG)\nType : BO5\nTourname
- nt : Lower Bracket\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3195
-CATEGORIES:Lower Bracket
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3347
-DTSTART:20150122T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150122T190000Z
-URL:http://www.lolesports.com/tourney/match/3347
-SUMMARY:GIANTS GAMING vs Meet Your Makers
-DESCRIPTION:Giants Gaming (GIA) vs Meet Your Makers (MYM)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3347
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3352
-DTSTART:20150123T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150123T190000Z
-URL:http://www.lolesports.com/tourney/match/3352
-SUMMARY:GIANTS GAMING vs Copenhagen Wolves
-DESCRIPTION:Giants Gaming (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3352
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3357
-DTSTART:20150129T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150129T190000Z
-URL:http://www.lolesports.com/tourney/match/3357
-SUMMARY:Unicorns Of Love vs GIANTS GAMING
-DESCRIPTION:Unicorns Of Love (UOL) vs Giants Gaming (GIA)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3357
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3362
-DTSTART:20150130T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150130T190000Z
-URL:http://www.lolesports.com/tourney/match/3362
-SUMMARY:GIANTS GAMING vs H2k
-DESCRIPTION:Giants Gaming (GIA) vs H2K (H2K)\nType : BO1\nTournament : EU L
- CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/3362
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3369
-DTSTART:20150205T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150205T210000Z
-URL:http://www.lolesports.com/tourney/match/3369
-SUMMARY:ROCCAT vs GIANTS GAMING
-DESCRIPTION:ROCCAT (ROC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3369
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3371
-DTSTART:20150206T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150206T180000Z
-URL:http://www.lolesports.com/tourney/match/3371
-SUMMARY:Fnatic vs GIANTS GAMING
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3371
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3376
-DTSTART:20150212T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150212T180000Z
-URL:http://www.lolesports.com/tourney/match/3376
-SUMMARY:GIANTS GAMING vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3376
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3382
-DTSTART:20150213T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150213T190000Z
-URL:http://www.lolesports.com/tourney/match/3382
-SUMMARY:SK Gaming vs GIANTS GAMING
-DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  EU LCS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/3382
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3387
-DTSTART:20150219T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150219T190000Z
-URL:http://www.lolesports.com/tourney/match/3387
-SUMMARY:Elements vs GIANTS GAMING
-DESCRIPTION:Elements (EL) vs Giants Gaming (GIA)\nType : BO1\nTournament : 
- EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/3387
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3394
-DTSTART:20150220T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150220T210000Z
-URL:http://www.lolesports.com/tourney/match/3394
-SUMMARY:GIANTS GAMING vs Unicorns Of Love
-DESCRIPTION:Giants Gaming (GIA) vs Unicorns Of Love (UOL)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3394
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3396
-DTSTART:20150226T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150226T180000Z
-URL:http://www.lolesports.com/tourney/match/3396
-SUMMARY:GIANTS GAMING vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3396
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3401
-DTSTART:20150227T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150227T180000Z
-URL:http://www.lolesports.com/tourney/match/3401
-SUMMARY:H2k vs GIANTS GAMING
-DESCRIPTION:H2K (H2K) vs Giants Gaming (GIA)\nType : BO1\nTournament : EU L
- CS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/tourney/
- match/3401
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3406
-DTSTART:20150305T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150305T180000Z
-URL:http://www.lolesports.com/tourney/match/3406
-SUMMARY:Meet Your Makers vs GIANTS GAMING
-DESCRIPTION:Meet Your Makers (MYM) vs Giants Gaming (GIA)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3406
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3415
-DTSTART:20150306T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150306T220000Z
-URL:http://www.lolesports.com/tourney/match/3415
-SUMMARY:Gambit Gaming vs GIANTS GAMING
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : EU LCS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3415
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3420
-DTSTART:20150319T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150319T220000Z
-URL:http://www.lolesports.com/tourney/match/3420
-SUMMARY:GIANTS GAMING vs SK Gaming
-DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
-  EU LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/3420
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3422
-DTSTART:20150320T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150320T210000Z
-URL:http://www.lolesports.com/tourney/match/3422
-SUMMARY:GIANTS GAMING vs ROCCAT
-DESCRIPTION:Giants Gaming (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U LCS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/3422
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3427
-DTSTART:20150326T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150326T210000Z
-URL:http://www.lolesports.com/tourney/match/3427
-SUMMARY:GIANTS GAMING vs Elements
-DESCRIPTION:Giants Gaming (GIA) vs Elements (EL)\nType : BO1\nTournament : 
- EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/3427
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3431
-DTSTART:20150327T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150327T180000Z
-URL:http://www.lolesports.com/tourney/match/3431
-SUMMARY:Copenhagen Wolves vs GIANTS GAMING
-DESCRIPTION:Copenhagen Wolves (CW) vs Giants Gaming (GIA)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/3431
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4530
-DTSTART:20150327T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150327T230000Z
-URL:http://www.lolesports.com/tourney/match/4530
-SUMMARY:Meet Your Makers vs GIANTS GAMING
-DESCRIPTION:Meet Your Makers (MYM) vs Giants Gaming (GIA)\nType : BO1\nTour
- nament : EU LCS Spring\nWeek : 0\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/4530
-CATEGORIES:EU LCS Spring
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4558
-DTSTART:20150425T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150425T130000Z
-URL:http://www.lolesports.com/tourney/match/4558
-SUMMARY:GIANTS GAMING vs Reason Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Reason Gaming (RG)\nType : BO5\nTourname
- nt : EU LCS Summer Promotion\nWeek : 1\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4558
-CATEGORIES:EU LCS Summer Promotion
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4587
+UID:match-cbf4f194-fe10-490f-9e73-4cb7a0d71a3d
 DTSTART:20150528T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150528T180000Z
-URL:http://www.lolesports.com/tourney/match/4587
-SUMMARY:Giants Gaming vs Origen
-DESCRIPTION:Giants Gaming (GIA) vs Origen (OG)\nType : BO1\nTournament : 20
- 15 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/4587
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:GIA vs OG
+DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : Giants\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4592
-DTSTART:20150529T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T180000Z
-URL:http://www.lolesports.com/tourney/match/4592
-SUMMARY:Giants Gaming vs Copenhagen Wolves
-DESCRIPTION:Giants Gaming (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 1\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4592
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4596
-DTSTART:20150604T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150604T170000Z
-URL:http://www.lolesports.com/tourney/match/4596
-SUMMARY:Elements vs Giants Gaming
-DESCRIPTION:Elements (EL) vs Giants Gaming (GIA)\nType : BO1\nTournament : 
- 2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4596
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4602
-DTSTART:20150605T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T180000Z
-URL:http://www.lolesports.com/tourney/match/4602
-SUMMARY:Giants Gaming vs SK Gaming
-DESCRIPTION:Giants Gaming (GIA) vs SK Gaming (SK)\nType : BO1\nTournament :
-  2015 EU LCS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/4602
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4607
-DTSTART:20150611T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T180000Z
-URL:http://www.lolesports.com/tourney/match/4607
-SUMMARY:ROCCAT vs Giants Gaming
-DESCRIPTION:ROCCAT (ROC) vs Giants Gaming (GIA)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4607
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4611
-DTSTART:20150612T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T170000Z
-URL:http://www.lolesports.com/tourney/match/4611
-SUMMARY:Fnatic vs Giants Gaming
-DESCRIPTION:Fnatic (FNC) vs Giants Gaming (GIA)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4611
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4616
-DTSTART:20150618T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T170000Z
-URL:http://www.lolesports.com/tourney/match/4616
-SUMMARY:Giants Gaming vs Gambit Gaming
-DESCRIPTION:Giants Gaming (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournam
- ent : 2015 EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4616
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4622
+UID:match-46f94c6c-3fec-4ca2-a4f0-bf20168debb1
 DTSTART:20150619T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150619T180000Z
-URL:http://www.lolesports.com/tourney/match/4622
-SUMMARY:H2K vs Giants Gaming
-DESCRIPTION:H2K (H2K) vs Giants Gaming (GIA)\nType : BO1\nTournament : 2015
-  EU LCS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4622
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:H2K vs GIA
+DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4627
+UID:match-dc2d2cb0-643d-4d46-819b-81e831aff46e
+DTSTART:20150716T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:GIA vs H2K
+DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 8\nWinner : H2K\nLooser : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c406e996-8932-4b15-8258-087d964af2e1
+DTSTART:20150717T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 8\nWinner : ROCCAT\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-523a2270-5708-455e-82a9-2324537ca805
+DTSTART:20160212T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160212T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:SPY vs GIA
+DESCRIPTION:Splyce (SPY) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-eeeb5e96-5dc5-45ed-bead-2fa2b5f2a6db
+DTSTART:20160122T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:EL vs GIA
+DESCRIPTION:Elements (EL) vs Giants (GIA)\nType : BO1\nTournament : EU 2016
+  Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-13a6f14d-d467-45f1-865a-a88dbab99212
 DTSTART:20150625T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150625T180000Z
-URL:http://www.lolesports.com/tourney/match/4627
-SUMMARY:Unicorns Of Love vs GIANTS GAMING
-DESCRIPTION:Unicorns Of Love (UOL) vs Giants Gaming (GIA)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4627
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:UOL vs GIA
+DESCRIPTION:Unicorns of Love (UOL) vs Giants (GIA)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : Giants\nLoose
+ r : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4634
-DTSTART:20150626T190000Z
+UID:match-7cafbf72-0041-4444-a023-b1b2e3ec0820
+DTSTART:20150612T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150626T200000Z
-URL:http://www.lolesports.com/tourney/match/4634
-SUMMARY:GIANTS GAMING vs Elements
-DESCRIPTION:Giants Gaming (GIA) vs Elements (EL)\nType : BO1\nTournament : 
- 2015 EU LCS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/4634
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
+DTEND:20150612T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:FNC vs GIA
+DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4636
-DTSTART:20150702T180000Z
+UID:match-7d92cf9f-54dd-4edf-95df-41590fcea2e3
+DTSTART:20150710T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150702T190000Z
-URL:http://www.lolesports.com/tourney/match/4636
-SUMMARY:GIANTS GAMING vs Fnatic
-DESCRIPTION:Giants Gaming (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4636
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
+DTEND:20150710T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:GMB vs GIA
+DESCRIPTION:Gambit Gaming (GMB) vs Giants (GIA)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 7\nWinner : Giants\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4641
-DTSTART:20150703T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T170000Z
-URL:http://www.lolesports.com/tourney/match/4641
-SUMMARY:SK Gaming vs GIANTS GAMING
-DESCRIPTION:SK Gaming (SK) vs Giants Gaming (GIA)\nType : BO1\nTournament :
-  2015 EU LCS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/4641
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4646
-DTSTART:20150709T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150709T170000Z
-URL:http://www.lolesports.com/tourney/match/4646
-SUMMARY:ORIGEN vs GIANTS GAMING
-DESCRIPTION:Origen (OG) vs Giants Gaming (GIA)\nType : BO1\nTournament : 20
- 15 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/4646
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4655
-DTSTART:20150710T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150710T210000Z
-URL:http://www.lolesports.com/tourney/match/4655
-SUMMARY:Gambit Gaming vs GIANTS GAMING
-DESCRIPTION:Gambit Gaming (GMB) vs Giants Gaming (GIA)\nType : BO1\nTournam
- ent : 2015 EU LCS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4655
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4660
-DTSTART:20150716T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150716T210000Z
-URL:http://www.lolesports.com/tourney/match/4660
-SUMMARY:GIANTS GAMING vs H2K
-DESCRIPTION:Giants Gaming (GIA) vs H2K (H2K)\nType : BO1\nTournament : 2015
-  EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4660
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4662
-DTSTART:20150717T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T180000Z
-URL:http://www.lolesports.com/tourney/match/4662
-SUMMARY:GIANTS GAMING vs ROCCAT
-DESCRIPTION:Giants Gaming (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/4662
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4667
-DTSTART:20150723T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150723T180000Z
-URL:http://www.lolesports.com/tourney/match/4667
-SUMMARY:GIANTS GAMING vs Unicorns Of Love
-DESCRIPTION:Giants Gaming (GIA) vs Unicorns Of Love (UOL)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4667
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4671
-DTSTART:20150724T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T170000Z
-URL:http://www.lolesports.com/tourney/match/4671
-SUMMARY:Copenhagen Wolves vs GIANTS GAMING
-DESCRIPTION:Copenhagen Wolves (CW) vs Giants Gaming (GIA)\nType : BO1\nTour
- nament : 2015 EU LCS Summer\nWeek : 9\nStream : No\nUrl : http://www.loles
- ports.com/tourney/match/4671
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5356
+UID:match-c406e996-8932-4b15-8258-087d964af2e1
 DTSTART:20150724T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150724T230000Z
-URL:http://www.lolesports.com/tourney/match/5356
-SUMMARY:Giants Gaming vs ROCCAT
-DESCRIPTION:Giants Gaming (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : 2
- 015 EU LCS Summer\nWeek : 0\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/5356
-CATEGORIES:2015 EU LCS Summer
-DTSTAMP:20151002T130135Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/Tiebreaker
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : Tiebreaker\nWinner : ROCCAT\nLooser
+  : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-77028ae8-ce8a-419c-87c7-4cda6894a100
+DTSTART:20150709T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:OG vs GIA
+DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 7\nWinner : Origen\nLooser : Giants\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-afc73a54-a857-4542-9263-aa9ea2814522
+DTSTART:20160129T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160129T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/3
+SUMMARY:VIT vs GIA
+DESCRIPTION:Team Vitality (VIT) vs Giants (GIA)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2a9b2246-45e1-48c5-a5c1-60cbcba6b526
+DTSTART:20160121T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160121T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:GIA vs G2
+DESCRIPTION:Giants (GIA) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b3e92b4b-c7a3-40c9-9fdd-e9fa2726205f
+DTSTART:20160311T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160311T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/8
+SUMMARY:G2 vs GIA
+DESCRIPTION:G2 Esports (G2) vs Giants (GIA)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 8\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-577425d6-d1e7-4d0e-b50d-1c71bc34f475
+DTSTART:20160211T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160211T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:ROC vs GIA
+DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41a3aae2-5fce-4f41-a4f9-5eb6093d4a73
+DTSTART:20160310T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/8
+SUMMARY:FNC vs GIA
+DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 8\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-54a615aa-b263-4f6e-a211-ff19b84af89e
+DTSTART:20150611T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:ROC vs GIA
+DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 3\nWinner : Giants\nLooser : ROCCAT
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0902a8ce-b939-4eed-b38f-d3037a906d40
+DTSTART:20160218T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:UOL vs GIA
+DESCRIPTION:Unicorns of Love (UOL) vs Giants (GIA)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6efb86b5-f9dd-47d4-8172-34d805b43a1f
+DTSTART:20160225T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:GIA vs VIT
+DESCRIPTION:Giants (GIA) vs Team Vitality (VIT)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-71884799-3396-400f-845e-28bebc1b1a71
+DTSTART:20150618T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:GIA vs GMB
+DESCRIPTION:Giants (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 4\nWinner : Gambit Gaming\nL
+ ooser : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4ecb0f39-5fc6-4fd6-8b5d-9f8d116b5d46
+DTSTART:20150604T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:EL vs GIA
+DESCRIPTION:Elements (EL) vs Giants (GIA)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : Eleme
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f6dbd720-1e82-408b-bb13-6444a915ac36
+DTSTART:20150703T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:SK vs GIA
+DESCRIPTION:SK Gaming (SK) vs Giants (GIA)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 6\nWinner : Giants\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b82922c0-61d6-4914-b15d-a972f8c3dbf3
+DTSTART:20150723T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:GIA vs UOL
+DESCRIPTION:Giants (GIA) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Unicorns of L
+ ove\nLooser : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-88fef2cf-9289-427d-852f-6034ac2ba8d3
+DTSTART:20150808T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
+ /eu_2015_summer_playoffs/quarterfinals
+SUMMARY:H2K vs GIA
+DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO3\nTournament : Generated t
+ ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ab8ff511-f17b-4dba-8169-25c5f2d05ee2
+DTSTART:20150831T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_regionals/schedule/eu_20
+ 15_regionals/quarterfinals
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
+ ummer regional playoffs\nWeek : quarterfinals\n
+CATEGORIES:EU LCS Summer regional playoffs
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-81228b06-e582-40e8-99f7-da49ba47384c
+DTSTART:20160128T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/3
+SUMMARY:GIA vs SPY
+DESCRIPTION:Giants (GIA) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ce43758d-4450-440f-b9cc-a69dd2060c2a
+DTSTART:20160204T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160204T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:GIA vs FNC
+DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-786f3e3f-0abe-4c52-8f3a-c3b854bfcde8
+DTSTART:20160114T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160114T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:H2K vs GIA
+DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 Spr
+ ing Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cef39e73-8377-49b5-95fc-28e938537841
+DTSTART:20160115T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160115T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:GIA vs UOL
+DESCRIPTION:Giants (GIA) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ee37ccaf-b6b0-4a06-9307-426255706e87
+DTSTART:20150529T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:GIA vs CW
+DESCRIPTION:Giants (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Giants\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-53db8379-e23c-4533-9b98-f5f0237c950a
+DTSTART:20150605T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:GIA vs SK
+DESCRIPTION:Giants (GIA) vs SK Gaming (SK)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cd272475-23d1-4a5c-8dbb-fa9526697ca8
+DTSTART:20150626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:GIA vs EL
+DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : Gia
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c57d6214-7e8a-4bbc-a0c5-f8ff1a3a4f2a
+DTSTART:20150702T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:GIA vs FNC
+DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-31fca2ea-41cf-4e20-89b3-683ce139c4e4
+DTSTART:20150724T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:CW vs GIA
+DESCRIPTION:Copenhagen Wolves (CW) vs Giants (GIA)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Giants\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e0db3189-332c-44e8-b307-b6421116cdd0
+DTSTART:20160317T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:GIA vs OG
+DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4734a140-e3a4-4ce0-a65e-c1ae82cef637
+DTSTART:20160318T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160318T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7214d9f8-9730-4299-8d6e-692ac66679c2
+DTSTART:20160205T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:OG vs GIA
+DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-dcbd191e-a3c2-4a68-ba1e-cd0e3f3750f4
+DTSTART:20160219T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160219T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:GIA vs EL
+DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : EU 2016
+  Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ac838c76-04a2-4350-adef-df304cd702c6
+DTSTART:20160226T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160226T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:GIA vs H2K
+DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
+ ing Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011023Z
 END:VEVENT
 END:VCALENDAR

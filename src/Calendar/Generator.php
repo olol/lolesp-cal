@@ -33,7 +33,7 @@ class Generator
             ->setICalendar($iCalendar)
             ->setType($type)
             ->setName($name)
-            ->setFilename($this->calendarFilename($this->getFullName($type, $name)))
+            ->setFilename(str_replace(' ', '-', $this->calendarFilename($this->getFullName($type, $name))))
         ;
 
         return $calendar;

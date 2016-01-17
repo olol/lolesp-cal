@@ -1,552 +1,216 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-yfw
+PRODID:www.lolesports.com|cal-team-YFW
 X-WR-CALNAME:LoL eSports YFW
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-3688
-DTSTART:20150110T120000Z
+UID:match-92090663-0ca9-4d12-b0ac-1c60e2d83574
+DTSTART:20150618T103000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150110T130000Z
-URL:http://www.lolesports.com/tourney/match/3688
-SUMMARY:Midnight Sun e-Sports vs yoe Flash Wolves
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO1\n
- Tournament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/3688
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
+DTEND:20150618T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/5
+SUMMARY:FW vs M17
+DESCRIPTION:Flash Wolves (FW) vs Machi17 (M17)\nType : BO2\nTournament : Mi
+ grated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash Wolves\nLo
+ oser : Machi17\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3689
-DTSTART:20150110T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150110T140000Z
-URL:http://www.lolesports.com/tourney/match/3689
-SUMMARY:yoe Flash Wolves vs Taipei Assassins
-DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO1\nTourn
- ament : LMS Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3689
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3692
-DTSTART:20150115T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150115T120000Z
-URL:http://www.lolesports.com/tourney/match/3692
-SUMMARY:Dream or Reality vs yoe Flash Wolves
-DESCRIPTION:Dream or Reality (DOR) vs Flash Wolves (YFW)\nType : BO1\nTourn
- ament : LMS Spring\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3692
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3703
-DTSTART:20150122T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150122T130000Z
-URL:http://www.lolesports.com/tourney/match/3703
-SUMMARY:yoe Flash Wolves vs Never Give Up
-DESCRIPTION:Flash Wolves (YFW) vs Never Give Up (NGU)\nType : BO1\nTourname
- nt : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3703
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3704
-DTSTART:20150122T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150122T140000Z
-URL:http://www.lolesports.com/tourney/match/3704
-SUMMARY:Ahq e-Sports Club vs yoe Flash Wolves
-DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3704
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3708
-DTSTART:20150124T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150124T130000Z
-URL:http://www.lolesports.com/tourney/match/3708
-SUMMARY:Logitech Sniper vs yoe Flash Wolves
-DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3708
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3709
-DTSTART:20150124T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150124T140000Z
-URL:http://www.lolesports.com/tourney/match/3709
-SUMMARY:yoe Flash Wolves vs Hong Kong Esports
-DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3709
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3717
-DTSTART:20150211T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150211T120000Z
-URL:http://www.lolesports.com/tourney/match/3717
-SUMMARY:Never Give Up vs yoe Flash Wolves
-DESCRIPTION:Never Give Up (NGU) vs Flash Wolves (YFW)\nType : BO1\nTourname
- nt : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3717
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3732
-DTSTART:20150211T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150211T130000Z
-URL:http://www.lolesports.com/tourney/match/3732
-SUMMARY:yoe Flash Wolves vs Dream or Reality
-DESCRIPTION:Flash Wolves (YFW) vs Dream or Reality (DOR)\nType : BO1\nTourn
- ament : LMS Spring\nWeek : 6\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3732
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3715
-DTSTART:20150212T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150212T130000Z
-URL:http://www.lolesports.com/tourney/match/3715
-SUMMARY:Taipei Assassins vs yoe Flash Wolves
-DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (YFW)\nType : BO1\nTourn
- ament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3715
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3714
-DTSTART:20150225T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150225T140000Z
-URL:http://www.lolesports.com/tourney/match/3714
-SUMMARY:yoe Flash Wolves vs Midnight Sun e-Sports
-DESCRIPTION:Flash Wolves (YFW) vs Midnight Sun e-Sports (MSE)\nType : BO1\n
- Tournament : LMS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/3714
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3718
-DTSTART:20150226T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150226T120000Z
-URL:http://www.lolesports.com/tourney/match/3718
-SUMMARY:yoe Flash Wolves vs Logitech Sniper
-DESCRIPTION:Flash Wolves (YFW) vs Logitech G Sniper (LGS)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3718
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3725
-DTSTART:20150226T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150226T130000Z
-URL:http://www.lolesports.com/tourney/match/3725
-SUMMARY:Hong Kong Esports vs yoe Flash Wolves
-DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (YFW)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3725
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3724
-DTSTART:20150227T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150227T120000Z
-URL:http://www.lolesports.com/tourney/match/3724
-SUMMARY:yoe Flash Wolves vs Ahq e-Sports Club
-DESCRIPTION:Flash Wolves (YFW) vs ahq e-Sports Club (AHQ)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3724
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3757
-DTSTART:20150304T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150304T140000Z
-URL:http://www.lolesports.com/tourney/match/3757
-SUMMARY:Never Give Up vs yoe Flash Wolves
-DESCRIPTION:Never Give Up (NGU) vs Flash Wolves (YFW)\nType : BO1\nTourname
- nt : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/3757
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3739
-DTSTART:20150305T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150305T130000Z
-URL:http://www.lolesports.com/tourney/match/3739
-SUMMARY:yoe Flash Wolves vs Dream or Reality
-DESCRIPTION:Flash Wolves (YFW) vs Dream or Reality (DOR)\nType : BO1\nTourn
- ament : LMS Spring\nWeek : 7\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3739
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3753
-DTSTART:20150305T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150305T140000Z
-URL:http://www.lolesports.com/tourney/match/3753
-SUMMARY:yoe Flash Wolves vs Taipei Assassins
-DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO1\nTourn
- ament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com
- /tourney/match/3753
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3752
-DTSTART:20150318T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150318T130000Z
-URL:http://www.lolesports.com/tourney/match/3752
-SUMMARY:Midnight Sun e-Sports vs yoe Flash Wolves
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO1\n
- Tournament : LMS Spring\nWeek : 8\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/3752
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3764
-DTSTART:20150320T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150320T130000Z
-URL:http://www.lolesports.com/tourney/match/3764
-SUMMARY:Logitech Sniper vs yoe Flash Wolves
-DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3764
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3765
-DTSTART:20150320T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150320T140000Z
-URL:http://www.lolesports.com/tourney/match/3765
-SUMMARY:yoe Flash Wolves vs Hong Kong Esports
-DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3765
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3758
-DTSTART:20150322T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150322T130000Z
-URL:http://www.lolesports.com/tourney/match/3758
-SUMMARY:Ahq e-Sports Club vs yoe Flash Wolves
-DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO1\nTour
- nament : LMS Spring\nWeek : 9\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/3758
-CATEGORIES:LMS Spring
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4520
-DTSTART:20150412T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150412T120000Z
-URL:http://www.lolesports.com/tourney/match/4520
-SUMMARY:Ahq e-Sports Club vs yoe Flash Wolves
-DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO5\nTour
- nament : 2015 LMS Spring Playoffs\nWeek : 3\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/4520
-CATEGORIES:2015 LMS Spring Playoffs
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4880
-DTSTART:20150521T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150521T113000Z
-URL:http://www.lolesports.com/tourney/match/4880
-SUMMARY:Taipei Assassins vs yoe Flash Wolves
-DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (YFW)\nType : BO2\nTourn
- ament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4880
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4883
-DTSTART:20150522T123000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150522T133000Z
-URL:http://www.lolesports.com/tourney/match/4883
-SUMMARY:Logitech G Sniper vs yoe Flash Wolves
-DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (YFW)\nType : BO2\nTour
- nament : 2015 LMS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4883
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4887
+UID:match-40aa73f5-f133-40bb-954c-d0f25ad0a77a
 DTSTART:20150528T123000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150528T133000Z
-URL:http://www.lolesports.com/tourney/match/4887
-SUMMARY:Midnight Sun e-Sports vs yoe Flash Wolves
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (YFW)\nType : BO2\n
- Tournament : 2015 LMS Summer\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4887
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/2
+SUMMARY:MSE vs FW
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (FW)\nType : BO2\nT
+ ournament : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : Fl
+ ash Wolves\nLooser : Flash Wolves\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4890
+UID:match-001af1b2-cd42-4319-9a16-2757b417cd5d
 DTSTART:20150603T103000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150603T113000Z
-URL:http://www.lolesports.com/tourney/match/4890
-SUMMARY:yoe Flash Wolves vs Hong Kong Esports
-DESCRIPTION:Flash Wolves (YFW) vs Hong Kong Esports (HKE)\nType : BO2\nTour
- nament : 2015 LMS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4890
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/3
+SUMMARY:FW vs HKE
+DESCRIPTION:Flash Wolves (FW) vs Hong Kong Esports (HKE)\nType : BO2\nTourn
+ ament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Hong K
+ ong Esports\nLooser : Hong Kong Esports\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4897
+UID:match-129c296d-c61f-44f0-bd8e-4b8175adbd5d
+DTSTART:20150522T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/1
+SUMMARY:LGS vs FW
+DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (FW)\nType : BO2\nTourn
+ ament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : Flash 
+ Wolves\nLooser : Logitech G Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b350be46-b802-4bdb-8b24-028f7046e059
+DTSTART:20150701T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/7
+SUMMARY:FW vs MSE
+DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
+ ournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Fl
+ ash Wolves\nLooser : Midnight Sun e-Sports\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f5b16d8a-7986-4dfd-b898-defbe38c7476
+DTSTART:20150619T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/5
+SUMMARY:FW vs TPA
+DESCRIPTION:Flash Wolves (FW) vs Taipei Assassins (TPA)\nType : BO2\nTourna
+ ment : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash W
+ olves\nLooser : Taipei Assassins\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d7fb15fa-5326-4b0e-a9c5-2ef1120740be
 DTSTART:20150610T123000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150610T133000Z
-URL:http://www.lolesports.com/tourney/match/4897
-SUMMARY:Flash Wolves vs Assassin Sniper
-DESCRIPTION:Flash Wolves (YFW) vs Assassin Sniper (AS)\nType : BO2\nTournam
- ent : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/4897
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/4
+SUMMARY:FW vs AS
+DESCRIPTION:Flash Wolves (FW) vs Assassin Sniper (AS)\nType : BO2\nTourname
+ nt : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : Flash Wol
+ ves\nLooser : Assassin Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4901
+UID:match-ade03247-a681-4636-9191-80cf8829c8fe
+DTSTART:20150625T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/6
+SUMMARY:FW vs LGS
+DESCRIPTION:Flash Wolves (FW) vs Logitech G Sniper (LGS)\nType : BO2\nTourn
+ ament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Flash 
+ Wolves\nLooser : Logitech G Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-71f467d9-0db1-4da5-98a4-ca19b79ed5c2
 DTSTART:20150612T123000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150612T133000Z
-URL:http://www.lolesports.com/tourney/match/4901
-SUMMARY:Flash Wolves vs ahq e-Sports Club
-DESCRIPTION:Flash Wolves (YFW) vs ahq e-Sports Club (AHQ)\nType : BO2\nTour
- nament : 2015 LMS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4901
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/4
+SUMMARY:FW vs AHQ
+DESCRIPTION:Flash Wolves (FW) vs ahq e-Sports Club (AHQ)\nType : BO2\nTourn
+ ament : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : ahq e-
+ Sports Club\nLooser : Flash Wolves\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4904
-DTSTART:20150618T110000Z
+UID:match-f440812e-ed14-45df-9789-a896b453c401
+DTSTART:20150704T123000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150618T120000Z
-URL:http://www.lolesports.com/tourney/match/4904
-SUMMARY:Flash Wolves vs Machi
-DESCRIPTION:Flash Wolves (YFW) vs Machi (MAC)\nType : BO2\nTournament : 201
- 5 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/4904
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+DTEND:20150704T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/7
+SUMMARY:HKE vs FW
+DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (FW)\nType : BO2\nTourn
+ ament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Flash 
+ Wolves\nLooser : Flash Wolves\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4907
-DTSTART:20150619T130000Z
+UID:match-e9287451-66bd-45cd-ab4f-595ae644df0d
+DTSTART:20150521T103000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150619T140000Z
-URL:http://www.lolesports.com/tourney/match/4907
-SUMMARY:Flash Wolves vs Taipei Assassins
-DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO2\nTourn
- ament : 2015 LMS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4907
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+DTEND:20150521T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/1
+SUMMARY:TPA vs FW
+DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (FW)\nType : BO2\nTourna
+ ment : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : Flash W
+ olves\nLooser : Taipei Assassins\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4909
-DTSTART:20150624T130000Z
+UID:match-f2b93351-68ee-4dce-aa44-d036ed397415
+DTSTART:20150708T103000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150624T140000Z
-URL:http://www.lolesports.com/tourney/match/4909
-SUMMARY:yoe Flash Wolves vs Taipei Assassins
-DESCRIPTION:Flash Wolves (YFW) vs Taipei Assassins (TPA)\nType : BO2\nTourn
- ament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/4909
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+DTEND:20150708T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/8
+SUMMARY:AS vs FW
+DESCRIPTION:Assassin Sniper (AS) vs Flash Wolves (FW)\nType : BO2\nTourname
+ nt : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wol
+ ves\nLooser : Assassin Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4911
-DTSTART:20150625T130000Z
+UID:match-ae808b15-3cb3-4793-9c95-9064092f78ef
+DTSTART:20150712T103000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150625T140000Z
-URL:http://www.lolesports.com/tourney/match/4911
-SUMMARY:yoe Flash Wolves vs Logitech G Sniper
-DESCRIPTION:Flash Wolves (YFW) vs Logitech G Sniper (LGS)\nType : BO2\nTour
- nament : 2015 LMS Summer\nWeek : 6\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4911
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
+DTEND:20150712T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/8
+SUMMARY:M17 vs FW
+DESCRIPTION:Machi17 (M17) vs Flash Wolves (FW)\nType : BO2\nTournament : Mi
+ grated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wolves\nLo
+ oser : Machi17\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4914
-DTSTART:20150701T110000Z
+UID:match-4372734f-b17a-4a65-ad87-7c595cff0b08
+DTSTART:20150710T123000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150701T120000Z
-URL:http://www.lolesports.com/tourney/match/4914
-SUMMARY:yoe Flash Wolves vs Midnight Sun e-Sports
-DESCRIPTION:Flash Wolves (YFW) vs Midnight Sun e-Sports (MSE)\nType : BO2\n
- Tournament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4914
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4921
-DTSTART:20150704T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150704T140000Z
-URL:http://www.lolesports.com/tourney/match/4921
-SUMMARY:Hong Kong Esports vs yoe Flash Wolves
-DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (YFW)\nType : BO2\nTour
- nament : 2015 LMS Summer\nWeek : 7\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4921
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4924
-DTSTART:20150708T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150708T120000Z
-URL:http://www.lolesports.com/tourney/match/4924
-SUMMARY:Assassin Sniper vs yoe Flash Wolves
-DESCRIPTION:Assassin Sniper (AS) vs Flash Wolves (YFW)\nType : BO2\nTournam
- ent : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/4924
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4929
-DTSTART:20150710T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150710T140000Z
-URL:http://www.lolesports.com/tourney/match/4929
-SUMMARY:ahq e-Sports Club vs yoe Flash Wolves
-DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (YFW)\nType : BO2\nTour
- nament : 2015 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolespor
- ts.com/tourney/match/4929
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4932
-DTSTART:20150712T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150712T120000Z
-URL:http://www.lolesports.com/tourney/match/4932
-SUMMARY:Machi vs yoe Flash Wolves
-DESCRIPTION:Machi (MAC) vs Flash Wolves (YFW)\nType : BO2\nTournament : 201
- 5 LMS Summer\nWeek : 8\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/4932
-CATEGORIES:2015 LMS Summer
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5349
-DTSTART:20150725T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150725T100000Z
-URL:http://www.lolesports.com/tourney/match/5349
-SUMMARY:TBD vs Flash Wolves
-DESCRIPTION: () vs Flash Wolves (YFW)\nType : BO5\nTournament : 2015 LMS Su
- mmer Playoffs\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tour
- ney/match/5349
-CATEGORIES:2015 LMS Summer Playoffs
-DTSTAMP:20151002T130214Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5361
-DTSTART:20150815T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150815T060000Z
-URL:http://www.lolesports.com/tourney/match/5361
-SUMMARY:Flash Wolves vs Midnight Sun e-Sports
-DESCRIPTION:Flash Wolves (YFW) vs Midnight Sun e-Sports (MSE)\nType : BO5\n
- Tournament : 2015 LMS Regional Qualifier\nWeek : 1\nStream : No\nUrl : htt
- p://www.lolesports.com/tourney/match/5361
-CATEGORIES:2015 LMS Regional Qualifier
-DTSTAMP:20151002T130214Z
+DTEND:20150710T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/8
+SUMMARY:AHQ vs FW
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (FW)\nType : BO2\nTourn
+ ament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : ahq e-
+ Sports Club\nLooser : Flash Wolves\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160117T011027Z
 END:VEVENT
 END:VCALENDAR

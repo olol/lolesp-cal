@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TFM
+X-WR-CALNAME:LoL eSports TFM
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-3b82f1c4-a9d2-4b96-b50d-ef0b0eb75756
+DTSTART:20151212T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151212T030000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-2
+SUMMARY:TFM vs TIM
+DESCRIPTION:Team Fire Marksmen (TFM) vs Team Ice Marksmen (TIM)\nType : BO1
+ \nTournament : Initial All-Star format\nWeek : ase-day-2\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160117T011028Z
+END:VEVENT
+END:VCALENDAR

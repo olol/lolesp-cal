@@ -1,0 +1,203 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-HW
+X-WR-CALNAME:LoL eSports HW
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-b251733c-4da0-491a-b388-d123004cd61e
+DTSTART:20160205T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/4
+SUMMARY:XG vs AHQ
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs ahq e-Sports Club (AHQ)\nTy
+ pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-57f173bc-0f5e-437e-859c-a2c0df5b6eef
+DTSTART:20160116T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/1
+SUMMARY:XG vs MSE
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Midnight Sun e-Sports (MSE)
+ \nType : BO2\nTournament : LMS 2016 Spring Split\nWeek : 1\nWinner : Midni
+ ght Sun e-Sports\nLooser : Midnight Sun e-Sports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-943d7056-ce5d-43cc-b9ae-f31d0bea8c5e
+DTSTART:20160122T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/2
+SUMMARY:CGE vs XG
+DESCRIPTION:Cougar eSports (CGE) vs eXtreme Gamers eSports Club (XG)\nType 
+ : BO2\nTournament : LMS 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-49f51e72-33ce-46af-834c-fad039f3bc7f
+DTSTART:20160128T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/3
+SUMMARY:XG vs M17
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Machi17 (M17)\nType : BO2\n
+ Tournament : LMS 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-acf06ba4-77a4-4c93-abcc-677337c934a2
+DTSTART:20160203T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160203T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/4
+SUMMARY:TPA vs XG
+DESCRIPTION:Taipei Assassins (TPA) vs eXtreme Gamers eSports Club (XG)\nTyp
+ e : BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8adf031a-72dc-44ed-b900-0d2c3cdbf8d7
+DTSTART:20160226T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160226T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/6
+SUMMARY:AHQ vs XG
+DESCRIPTION:ahq e-Sports Club (AHQ) vs eXtreme Gamers eSports Club (XG)\nTy
+ pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-01765992-27ca-4ce4-8112-6bed8e74d291
+DTSTART:20160310T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/7
+SUMMARY:XG vs FW
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Flash Wolves (FW)\nType : B
+ O2\nTournament : LMS 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ae30c0e7-eb02-4bea-89e3-3985b25aa17f
+DTSTART:20160325T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160325T110000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/9
+SUMMARY:XG vs HKE
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Hong Kong Esports (HKE)\nTy
+ pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-541f131a-db6d-452d-ab3f-4291931cec9c
+DTSTART:20160123T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/2
+SUMMARY:FW vs XG
+DESCRIPTION:Flash Wolves (FW) vs eXtreme Gamers eSports Club (XG)\nType : B
+ O2\nTournament : LMS 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fe9f8263-f8b8-48a0-94b8-652627ad2ef7
+DTSTART:20160227T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/6
+SUMMARY:M17 vs XG
+DESCRIPTION:Machi17 (M17) vs eXtreme Gamers eSports Club (XG)\nType : BO2\n
+ Tournament : LMS 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-411b62d3-65eb-41c9-856e-abe2e5c3e6a3
+DTSTART:20160324T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160324T110000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/9
+SUMMARY:XG vs CGE
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Cougar eSports (CGE)\nType 
+ : BO2\nTournament : LMS 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a0e96698-808b-4261-9e00-0281b254a424
+DTSTART:20160320T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T110000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/8
+SUMMARY:MSE vs XG
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs eXtreme Gamers eSports Club (XG)
+ \nType : BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a0e2591f-3957-4dfb-9650-b1563dbacf3b
+DTSTART:20160218T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/5
+SUMMARY:HKE vs XG
+DESCRIPTION:Hong Kong Esports (HKE) vs eXtreme Gamers eSports Club (XG)\nTy
+ pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3d362ddd-cdbe-4728-bd01-5221a1172cf0
+DTSTART:20160318T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160318T110000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/8
+SUMMARY:XG vs TPA
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Taipei Assassins (TPA)\nTyp
+ e : BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160117T011027Z
+END:VEVENT
+END:VCALENDAR

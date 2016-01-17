@@ -1,538 +1,258 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:www.lolesports.com|cal-team-g2
+PRODID:www.lolesports.com|cal-team-G2
 X-WR-CALNAME:LoL eSports G2
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-1936
-DTSTART:20140117T000000Z
+UID:match-d9a36bf8-c448-4f09-b289-d158d20879eb
+DTSTART:20160129T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140117T010000Z
-URL:http://www.lolesports.com/tourney/match/1936
-SUMMARY:Gamers2 vs SK Gaming Prime
-DESCRIPTION:Gamers2 (defunct) (G2) vs SK Gaming Prime (SKP)\nType : BO1\nTo
- urnament : EU Play in 6\nWeek : 2\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/1936
-CATEGORIES:EU Play in 6
-DTSTAMP:20151002T130152Z
+DTEND:20160129T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/3
+SUMMARY:UOL vs G2
+DESCRIPTION:Unicorns of Love (UOL) vs G2 Esports (G2)\nType : BO1\nTourname
+ nt : EU 2016 Spring Split\nWeek : 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2083
-DTSTART:20140228T220000Z
+UID:match-2a9b2246-45e1-48c5-a5c1-60cbcba6b526
+DTSTART:20160121T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140228T230000Z
-URL:http://www.lolesports.com/tourney/match/2083
-SUMMARY:Gamers2 vs Storm Games Clan
-DESCRIPTION:Gamers2 (defunct) (G2) vs Storm Games Clan (SGC)\nType : BO1\nT
- ournament : EU CS 2 Play In 4\nWeek : 2\nStream : No\nUrl : http://www.lol
- esports.com/tourney/match/2083
-CATEGORIES:EU CS 2 Play In 4
-DTSTAMP:20151002T130152Z
+DTEND:20160121T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:GIA vs G2
+DESCRIPTION:Giants (GIA) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2090
-DTSTART:20140312T190000Z
+UID:match-b3e92b4b-c7a3-40c9-9fdd-e9fa2726205f
+DTSTART:20160311T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140312T200000Z
-URL:http://www.lolesports.com/tourney/match/2090
-SUMMARY:Ninjas in Pyjamas vs Gamers2
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gamers2 (defunct) (G2)\nType : BO3\n
- Tournament : EU CS 2 Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesp
- orts.com/tourney/match/2090
-CATEGORIES:EU CS 2 Top 8
-DTSTAMP:20151002T130152Z
+DTEND:20160311T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/8
+SUMMARY:G2 vs GIA
+DESCRIPTION:G2 Esports (G2) vs Giants (GIA)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 8\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2647
-DTSTART:20140516T170000Z
+UID:match-ba86c3c6-ed79-4b82-8ae1-05f2ef93157e
+DTSTART:20160318T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140516T180000Z
-URL:http://www.lolesports.com/tourney/match/2647
-SUMMARY:Gamers2 vs Heavy Botlane
-DESCRIPTION:Gamers2 (defunct) (G2) vs Heavy Botlane (HB)\nType : BO1\nTourn
- ament : EU CS Play In 2\nWeek : 2\nStream : No\nUrl : http://www.lolesport
- s.com/tourney/match/2647
-CATEGORIES:EU CS Play In 2
-DTSTAMP:20151002T130152Z
+DTEND:20160318T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:G2 vs UOL
+DESCRIPTION:G2 Esports (G2) vs Unicorns of Love (UOL)\nType : BO1\nTourname
+ nt : EU 2016 Spring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2666
-DTSTART:20140530T200000Z
+UID:match-55a0d133-ea3b-481d-8915-560e327440ed
+DTSTART:20160204T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140530T210000Z
-URL:http://www.lolesports.com/tourney/match/2666
-SUMMARY:Shantao macht Wau vs Gamers2
-DESCRIPTION:Shantao macht Wau (SMW) vs Gamers2 (defunct) (G2)\nType : BO3\n
- Tournament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2666
-CATEGORIES:EU Top 8
-DTSTAMP:20151002T130152Z
+DTEND:20160204T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:G2 vs OG
+DESCRIPTION:G2 Esports (G2) vs Origen (OG)\nType : BO1\nTournament : EU 201
+ 6 Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2669
-DTSTART:20140612T200000Z
+UID:match-be0024a8-1e6a-4cd6-8f2b-ac93fe1607f5
+DTSTART:20160128T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140612T210000Z
-URL:http://www.lolesports.com/tourney/match/2669
-SUMMARY:Ninjas in Pyjamas vs Gamers2
-DESCRIPTION:Ninjas in Pyjamas (NIP) vs Gamers2 (defunct) (G2)\nType : BO3\n
- Tournament : EU Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2669
-CATEGORIES:EU Top 8
-DTSTAMP:20151002T130152Z
+DTEND:20160128T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/3
+SUMMARY:G2 vs FNC
+DESCRIPTION:G2 Esports (G2) vs Fnatic (FNC)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2672
-DTSTART:20140620T160000Z
+UID:match-e73b1474-86cc-4fe6-baf1-245891f5b35a
+DTSTART:20160115T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140620T170000Z
-URL:http://www.lolesports.com/tourney/match/2672
-SUMMARY:Gamers2 vs Lublin Shore
-DESCRIPTION:Gamers2 (defunct) (G2) vs Lublin Shore (LBS)\nType : BO3\nTourn
- ament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/2672
-CATEGORIES:EU Top 8
-DTSTAMP:20151002T130152Z
+DTEND:20160115T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:G2 vs ROC
+DESCRIPTION:G2 Esports (G2) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2977
-DTSTART:20140718T200000Z
+UID:match-af35adbc-6a6a-4769-9b59-8257f21d3bd6
+DTSTART:20160212T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140718T210000Z
-URL:http://www.lolesports.com/tourney/match/2977
-SUMMARY:Gamers2 vs Playing Ducks
-DESCRIPTION:Gamers2 (defunct) (G2) vs Playing Ducks (PD)\nType : BO3\nTourn
- ament : EU Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/t
- ourney/match/2977
-CATEGORIES:EU Top 8
-DTSTAMP:20151002T130152Z
+DTEND:20160212T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:H2K vs G2
+DESCRIPTION:H2K (H2K) vs G2 Esports (G2)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2980
-DTSTART:20140725T200000Z
+UID:match-89d68eab-4b91-410c-b24c-2813aedff4e1
+DTSTART:20160205T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140725T210000Z
-URL:http://www.lolesports.com/tourney/match/2980
-SUMMARY:Gamers2 vs Ninjas in Pyjamas
-DESCRIPTION:Gamers2 (defunct) (G2) vs Ninjas in Pyjamas (NIP)\nType : BO3\n
- Tournament : EU Top 8\nWeek : 2\nStream : No\nUrl : http://www.lolesports.
- com/tourney/match/2980
-CATEGORIES:EU Top 8
-DTSTAMP:20151002T130152Z
+DTEND:20160205T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:G2 vs SPY
+DESCRIPTION:G2 Esports (G2) vs Splyce (SPY)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2982
-DTSTART:20140729T200000Z
+UID:match-c7b08d6e-4108-4f71-8af9-6d839222ab8b
+DTSTART:20160211T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140729T210000Z
-URL:http://www.lolesports.com/tourney/match/2982
-SUMMARY:H2k Gaming vs Gamers2
-DESCRIPTION:H2K (H2K) vs Gamers2 (defunct) (G2)\nType : BO3\nTournament : E
- U Top 8\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/ma
- tch/2982
-CATEGORIES:EU Top 8
-DTSTAMP:20151002T130152Z
+DTEND:20160211T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:G2 vs VIT
+DESCRIPTION:G2 Esports (G2) vs Team Vitality (VIT)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2678
-DTSTART:20140805T180000Z
+UID:match-f722f038-0927-44b3-936f-aeae817de761
+DTSTART:20160310T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20140805T190000Z
-URL:http://www.lolesports.com/tourney/match/2678
-SUMMARY:Gamers2 vs Unicorns Of Love
-DESCRIPTION:Gamers2 (defunct) (G2) vs Unicorns Of Love (UOL)\nType : BO3\nT
- ournament : EU CS Summer Playoffs\nWeek : 1\nStream : No\nUrl : http://www
- .lolesports.com/tourney/match/2678
-CATEGORIES:EU CS Summer Playoffs
-DTSTAMP:20151002T130152Z
+DTEND:20160310T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/8
+SUMMARY:VIT vs G2
+DESCRIPTION:Team Vitality (VIT) vs G2 Esports (G2)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 8\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3182
-DTSTART:20141122T223000Z
+UID:match-14805e5b-ea1d-4b69-ab23-6c6edf539b23
+DTSTART:20160218T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20141122T233000Z
-URL:http://www.lolesports.com/tourney/match/3182
-SUMMARY:Gamers2 vs Team Strix
-DESCRIPTION:Gamers2 (defunct) (G2) vs Team Strix (TS)\nType : BO3\nTourname
- nt : Single Elimination Bracket\nWeek : 1\nStream : No\nUrl : http://www.l
- olesports.com/tourney/match/3182
-CATEGORIES:Single Elimination Bracket
-DTSTAMP:20151002T130152Z
+DTEND:20160218T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:FNC vs G2
+DESCRIPTION:Fnatic (FNC) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3187
-DTSTART:20141130T153000Z
+UID:match-f96bb4e0-180e-4921-a6e8-2bb9cd84c22b
+DTSTART:20160122T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20141130T163000Z
-URL:http://www.lolesports.com/tourney/match/3187
-SUMMARY:Gamers2 vs n!faculty
-DESCRIPTION:Gamers2 (defunct) (G2) vs n!faculty (NF)\nType : BO3\nTournamen
- t : Single Elimination Bracket\nWeek : 2\nStream : No\nUrl : http://www.lo
- lesports.com/tourney/match/3187
-CATEGORIES:Single Elimination Bracket
-DTSTAMP:20151002T130152Z
+DTEND:20160122T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:G2 vs H2K
+DESCRIPTION:G2 Esports (G2) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4403
-DTSTART:20150128T170000Z
+UID:match-8834a9cd-465f-4f1d-921b-17cf3320d0d3
+DTSTART:20160225T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150128T180000Z
-URL:http://www.lolesports.com/tourney/match/4403
-SUMMARY:Team Refuse vs Gamers2
-DESCRIPTION:Team Refuse (RFS) vs Gamers2 (defunct) (G2)\nType : BO3\nTourna
- ment : 2015 EU Spring Challenger Qualifier\nWeek : 1\nStream : No\nUrl : h
- ttp://www.lolesports.com/tourney/match/4403
-CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20151002T130152Z
+DTEND:20160225T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:G2 vs EL
+DESCRIPTION:G2 Esports (G2) vs Elements (EL)\nType : BO1\nTournament : EU 2
+ 016 Spring Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4410
-DTSTART:20150204T180000Z
+UID:match-f209cb04-b550-4134-ba58-794f713433f0
+DTSTART:20160219T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150204T190000Z
-URL:http://www.lolesports.com/tourney/match/4410
-SUMMARY:Gamers2 vs Nevo
-DESCRIPTION:Gamers2 (defunct) (G2) vs Nevo (NVO)\nType : BO3\nTournament : 
- 2015 EU Spring Challenger Qualifier\nWeek : 2\nStream : No\nUrl : http://w
- ww.lolesports.com/tourney/match/4410
-CATEGORIES:2015 EU Spring Challenger Qualifier
-DTSTAMP:20151002T130152Z
+DTEND:20160219T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:ROC vs G2
+DESCRIPTION:ROCCAT (ROC) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4448
-DTSTART:20150217T190000Z
+UID:match-57ad051a-5264-46c4-8932-6994e9f0df61
+DTSTART:20160226T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150217T200000Z
-URL:http://www.lolesports.com/tourney/match/4448
-SUMMARY:ORIGEN vs Gamers2
-DESCRIPTION:Origen (OG) vs Gamers2 (G2)\nType : BO1\nTournament : 2015 EU C
- S Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
- atch/4448
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130152Z
+DTEND:20160226T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:OG vs G2
+DESCRIPTION:Origen (OG) vs G2 Esports (G2)\nType : BO1\nTournament : EU 201
+ 6 Spring Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4451
-DTSTART:20150218T190000Z
+UID:match-9616f29b-0c39-4495-8192-21a9b223dbd9
+DTSTART:20160114T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150218T200000Z
-URL:http://www.lolesports.com/tourney/match/4451
-SUMMARY:Gamers2 vs ORIGEN
-DESCRIPTION:Gamers2 (G2) vs Origen (OG)\nType : BO1\nTournament : 2015 EU C
- S Spring\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/tourney/m
- atch/4451
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130152Z
+DTEND:20160114T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:EL vs G2
+DESCRIPTION:Elements (EL) vs G2 Esports (G2)\nType : BO1\nTournament : EU 2
+ 016 Spring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4452
-DTSTART:20150224T170000Z
+UID:match-7db39c45-afec-4eb2-b837-594280044c5b
+DTSTART:20160317T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150224T180000Z
-URL:http://www.lolesports.com/tourney/match/4452
-SUMMARY:Gamers2 vs LowLandLions White
-DESCRIPTION:Gamers2 (G2) vs Copenhagen Wolves Academy (CWA)\nType : BO1\nTo
- urnament : 2015 EU CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4452
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130152Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4455
-DTSTART:20150225T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150225T180000Z
-URL:http://www.lolesports.com/tourney/match/4455
-SUMMARY:LowLandLions White vs Gamers2
-DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Gamers2 (G2)\nType : BO1\nTo
- urnament : 2015 EU CS Spring\nWeek : 2\nStream : No\nUrl : http://www.lole
- sports.com/tourney/match/4455
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4459
-DTSTART:20150303T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150303T190000Z
-URL:http://www.lolesports.com/tourney/match/4459
-SUMMARY:Reason Gaming vs Gamers2
-DESCRIPTION:Reason Gaming (RG) vs Gamers2 (G2)\nType : BO1\nTournament : 20
- 15 EU CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/4459
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4462
-DTSTART:20150304T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150304T190000Z
-URL:http://www.lolesports.com/tourney/match/4462
-SUMMARY:Gamers2 vs Reason Gaming
-DESCRIPTION:Gamers2 (G2) vs Reason Gaming (RG)\nType : BO1\nTournament : 20
- 15 EU CS Spring\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/to
- urney/match/4462
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4466
-DTSTART:20150317T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150317T200000Z
-URL:http://www.lolesports.com/tourney/match/4466
-SUMMARY:Team Dignitas EU vs Gamers2
-DESCRIPTION:Team Dignitas EU (DEU) vs Gamers2 (G2)\nType : BO1\nTournament 
- : 2015 EU CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/4466
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4469
-DTSTART:20150318T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150318T200000Z
-URL:http://www.lolesports.com/tourney/match/4469
-SUMMARY:Gamers2 vs Team Dignitas EU
-DESCRIPTION:Gamers2 (G2) vs Team Dignitas EU (DEU)\nType : BO1\nTournament 
- : 2015 EU CS Spring\nWeek : 4\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/4469
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4472
-DTSTART:20150324T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150324T200000Z
-URL:http://www.lolesports.com/tourney/match/4472
-SUMMARY:Gamers2 vs Mousesports
-DESCRIPTION:Gamers2 (G2) vs Mousesports (MOU)\nType : BO1\nTournament : 201
- 5 EU CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4472
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4475
-DTSTART:20150325T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150325T200000Z
-URL:http://www.lolesports.com/tourney/match/4475
-SUMMARY:Mousesports vs Gamers2
-DESCRIPTION:Mousesports (MOU) vs Gamers2 (G2)\nType : BO1\nTournament : 201
- 5 EU CS Spring\nWeek : 5\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/4475
-CATEGORIES:2015 EU CS Spring
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4522
-DTSTART:20150331T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150331T170000Z
-URL:http://www.lolesports.com/tourney/match/4522
-SUMMARY:Copenhagen Wolves Academy vs Gamers2
-DESCRIPTION:Copenhagen Wolves Academy (CWA) vs Gamers2 (G2)\nType : BO3\nTo
- urnament : 2015 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl 
- : http://www.lolesports.com/tourney/match/4522
-CATEGORIES:2015 EU Challenger Spring Playoffs
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4524
-DTSTART:20150407T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150407T170000Z
-URL:http://www.lolesports.com/tourney/match/4524
-SUMMARY:Reason Gaming vs Gamers2
-DESCRIPTION:Reason Gaming (RG) vs Gamers2 (G2)\nType : BO3\nTournament : 20
- 15 EU Challenger Spring Playoffs\nWeek : 1\nStream : No\nUrl : http://www.
- lolesports.com/tourney/match/4524
-CATEGORIES:2015 EU Challenger Spring Playoffs
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5253
-DTSTART:20150623T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150623T170000Z
-URL:http://www.lolesports.com/tourney/match/5253
-SUMMARY:Overclockers UK vs Gamers2
-DESCRIPTION:Overclockers UK (OC) vs Gamers2 (G2)\nType : BO1\nTournament : 
- 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/5253
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5256
-DTSTART:20150624T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150624T170000Z
-URL:http://www.lolesports.com/tourney/match/5256
-SUMMARY:Gamers2 vs Overclockers UK
-DESCRIPTION:Gamers2 (G2) vs Overclockers UK (OC)\nType : BO1\nTournament : 
- 2015 EU CS Summer\nWeek : 1\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/5256
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5261
-DTSTART:20150630T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150630T190000Z
-URL:http://www.lolesports.com/tourney/match/5261
-SUMMARY:Mousesports vs Gamers2
-DESCRIPTION:Mousesports (MOU) vs Gamers2 (G2)\nType : BO1\nTournament : 201
- 5 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/5261
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5264
-DTSTART:20150701T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150701T190000Z
-URL:http://www.lolesports.com/tourney/match/5264
-SUMMARY:Gamers2 vs Mousesports
-DESCRIPTION:Gamers2 (G2) vs Mousesports (MOU)\nType : BO1\nTournament : 201
- 5 EU CS Summer\nWeek : 2\nStream : No\nUrl : http://www.lolesports.com/tou
- rney/match/5264
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5266
-DTSTART:20150707T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150707T180000Z
-URL:http://www.lolesports.com/tourney/match/5266
-SUMMARY:Gamers2 vs Ex Nihilo
-DESCRIPTION:Gamers2 (G2) vs Ex Nihilo (EXN)\nType : BO1\nTournament : 2015 
- EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/5266
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5269
-DTSTART:20150708T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150708T180000Z
-URL:http://www.lolesports.com/tourney/match/5269
-SUMMARY:Ex Nihilo vs Gamers2
-DESCRIPTION:Ex Nihilo (EXN) vs Gamers2 (G2)\nType : BO1\nTournament : 2015 
- EU CS Summer\nWeek : 3\nStream : No\nUrl : http://www.lolesports.com/tourn
- ey/match/5269
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5272
-DTSTART:20150714T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150714T180000Z
-URL:http://www.lolesports.com/tourney/match/5272
-SUMMARY:Gamers2 vs Denial eSports EU
-DESCRIPTION:Gamers2 (G2) vs Denial eSports (DNE)\nType : BO1\nTournament : 
- 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/5272
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5275
-DTSTART:20150715T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150715T180000Z
-URL:http://www.lolesports.com/tourney/match/5275
-SUMMARY:Denial eSports EU vs Gamers2
-DESCRIPTION:Denial eSports (DNE) vs Gamers2 (G2)\nType : BO1\nTournament : 
- 2015 EU CS Summer\nWeek : 4\nStream : No\nUrl : http://www.lolesports.com/
- tourney/match/5275
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5277
-DTSTART:20150721T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150721T170000Z
-URL:http://www.lolesports.com/tourney/match/5277
-SUMMARY:Gamers2 vs Team Dignitas EU
-DESCRIPTION:Gamers2 (G2) vs Team Dignitas EU (DEU)\nType : BO1\nTournament 
- : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/5277
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5280
-DTSTART:20150722T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150722T170000Z
-URL:http://www.lolesports.com/tourney/match/5280
-SUMMARY:Team Dignitas EU vs Gamers2
-DESCRIPTION:Team Dignitas EU (DEU) vs Gamers2 (G2)\nType : BO1\nTournament 
- : 2015 EU CS Summer\nWeek : 5\nStream : No\nUrl : http://www.lolesports.co
- m/tourney/match/5280
-CATEGORIES:2015 EU CS Summer
-DTSTAMP:20151002T130153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5394
-DTSTART:20150905T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150905T130000Z
-URL:http://www.lolesports.com/tourney/match/5394
-SUMMARY:SK Gaming vs Gamers2
-DESCRIPTION:SK Gaming (SK) vs Gamers2 (G2)\nType : BO5\nTournament : 2016 E
- U LCS Spring Promotion\nWeek : 1\nStream : No\nUrl : http://www.lolesports
- .com/tourney/match/5394
-CATEGORIES:2016 EU LCS Spring Promotion
-DTSTAMP:20151002T130153Z
+DTEND:20160317T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:SPY vs G2
+DESCRIPTION:Splyce (SPY) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160117T011024Z
 END:VEVENT
 END:VCALENDAR
