@@ -2,7 +2,7 @@ lolespcal = {
     search: function(type, val) {
         $('#calendar-' + type + '-list a').each(function() {
             $this = $(this);
-            if ($this.text().indexOf(val) == -1) {
+            if ($this.text().toLowerCase().indexOf(val.toLowerCase()) === -1) {
                 $this.hide();
             } else {
                 $this.show();
@@ -16,7 +16,6 @@ $(document).ready(function() {
     $.ajax({
         url: 'web/js/calendars.json',
         success: function(calendars) {
-            var $link = $();
             $.each(['team', 'region', 'tournament'], function(tidx, type) {
                 var $list = $('#calendar-' + type + '-list');
                 var s = type == 'tournament' ? 's5' : 's2';
