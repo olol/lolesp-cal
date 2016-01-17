@@ -143,7 +143,7 @@ class Exec
         if (true === $this->getOption('generate.all')) {
             // Does this calendar already exists ?
             if (false === $this->getCalendars()->containsKey('all')) {
-                $calendar = $calendarGenerator->create('all');
+                $calendar = $calendarGenerator->create('all', null, 'https://lolstatic-a.akamaihd.net/frontpage/apps/prod/lolesports_feapp/en_US/f2c8dc256c9e95c783215343288c8d234bcf83ad/assets/img/sprites/site-logo.png');
                 $this->getCalendars()->set('all', $calendar);
             }
         }
@@ -155,12 +155,16 @@ class Exec
                     if (!isset($roster['team']) || strlen($roster['name']) > 3) {
                         continue;
                     }
-                    $team = $roster['name'];
+                    $teamName = $roster['name'];
                     // Do we want to generate the team specific calendar for this team and does it already exists ?
-                    if ((true === $this->getOption('generate.team') || (is_array($this->getOption('generate.team')) && in_array($team, $this->getOption('generate.team')))) &&
-                         false === $this->getCalendars()->containsKey('team-' . $team)) {
-                        $calendar = $calendarGenerator->create('team', $team);
-                        $this->getCalendars()->set('team-' . $team, $calendar);
+                    if ((true === $this->getOption('generate.team') || (is_array($this->getOption('generate.team')) && in_array($teamName, $this->getOption('generate.team')))) &&
+                         false === $this->getCalendars()->containsKey('team-' . $teamName)) {
+                        $team = $this->findTeamFromSchedules($schedules, $roster['team']);
+                        $calendar = $calendarGenerator->create('team', $teamName);
+                        if ($team) {
+                            $calendar->setImageUrl(isset($team['altLogoUrl']) ? $team['altLogoUrl'] : $team['logoUrl']);
+                        }
+                        $this->getCalendars()->set('team-' . $teamName, $calendar);
                     }
                 }
             }
@@ -174,6 +178,9 @@ class Exec
                 if ((true === $this->getOption('generate.tournament') || (is_array($this->getOption('generate.tournament')) && in_array($tournament, $this->getOption('generate.tournament')))) &&
                      false === $this->getCalendars()->containsKey('tournament-' . $tournament)) {
                     $calendar = $calendarGenerator->create('tournament', $tournament);
+                    if (isset($league['logoUrl'])) {
+                        $calendar->setImageUrl($league['logoUrl']);
+                    }
                     $this->getCalendars()->set('tournament-' . $tournament, $calendar);
                 }
             }

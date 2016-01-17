@@ -49,6 +49,7 @@ class Web extends AbstractExporter
             $this->calendars[$calendar->getType()][] = [
                 'url'   => $this->getUrl($calendar->getFilename()),
                 'name'  => str_replace('-', ' ', $calendar->getName()),
+                'image' => $calendar->getImageUrl(),
             ];
         }
     }

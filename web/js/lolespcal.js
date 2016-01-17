@@ -20,7 +20,7 @@ $(document).ready(function() {
                 var $list = $('#calendar-' + type + '-list');
                 var s = type == 'tournament' ? 's5' : 's2';
                 $.each(calendars[type], function(lidx, link) {
-                    $list.append('<a class="col ' + s + ' waves-effect waves-light btn-large purple lighten-1 modal-trigger" href="#modal-download" style="margin:2px" data-ics="' + link.url + '">' + link.name + '</a>');
+                    $list.append('<a class="col ' + s + ' waves-effect waves-light btn-large purple lighten-1 modal-trigger" href="#modal-download" style="margin:2px" data-ics="' + link.url + '" data-image="' + link.image + '">' + link.name + '</a>');
                 });
             });
 
@@ -31,6 +31,14 @@ $(document).ready(function() {
                 $('#ical-url').html(url);
                 $('#gcal-url').attr('href', 'http://www.google.com/calendar/render?cid=' + url);
                 $('#dl-url').attr('href', url);
+
+                $('#modal-download .modal-content')
+                    .css('background-image', 'url("' + ($(this).attr('data-image')) + '")')
+                    .css('background-size', 'contain')
+                    .css('background-repeat', 'no-repeat')
+                    .css('background-position', 'center right')
+                ;
+                $('#modal-download .modal-content .collection').css('opacity', '0.90');
             });
 
             $.each(['team', 'tournament'], function(idx, type) {

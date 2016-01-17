@@ -32,6 +32,11 @@ class Calendar
     private $filename;
 
     /**
+     * @var string
+     */
+    private $imageUrl;
+
+    /**
      * @param \Eluceo\iCal\Component\Calendar   $iCalendar
      */
     public function __construct(iCalendar $iCalendar = null)
@@ -117,5 +122,25 @@ class Calendar
     public function getFilename()
     {
         return $this->filename;
+    }
+
+    /**
+     * @param string    $imageUrl
+     *
+     * @return \LolEspCal\Calendar
+     */
+    public function setImageUrl($imageUrl = null)
+    {
+        $this->imageUrl = $imageUrl;
+
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getImageUrl()
+    {
+        return $this->imageUrl;
     }
 }

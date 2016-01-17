@@ -20,10 +20,11 @@ class Generator
     /**
      * @param string    $type
      * @param string    $name
+     * @param string    $imageUrl
      *
      * @return \LolEspCal\Calendar
      */
-    function create($type = 'all', $name = null)
+    function create($type = 'all', $name = null, $imageUrl = null)
     {
         $iCalendar = new iCalendar('www.lolesports.com|' . $this->calendarName($this->getFullName($type, $name)));
         $iCalendar->setName($this->getReadableName($type, $name));
@@ -34,6 +35,7 @@ class Generator
             ->setType($type)
             ->setName($name)
             ->setFilename(str_replace(' ', '-', $this->calendarFilename($this->getFullName($type, $name))))
+            ->setImageUrl($imageUrl)
         ;
 
         return $calendar;
