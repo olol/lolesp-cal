@@ -4,94 +4,6 @@ PRODID:www.lolesports.com|cal-team-VG
 X-WR-CALNAME:LoL eSports VG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-89616530-d931-414e-8538-5fa426d8fdbe
-DTSTART:20150619T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/5
-SUMMARY:VG vs LGD
-DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO2\nTournament : 
- Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Vici Gaming\nL
- ooser : LGD Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f8e73f16-2c94-4a4d-9520-fa4ea80c317d
-DTSTART:20150531T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150531T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/2
-SUMMARY:IG vs VG
-DESCRIPTION:Invictus Gaming (IG) vs Vici Gaming (VG)\nType : BO2\nTournamen
- t : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Invictus G
- aming\nLooser : Vici Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8b07e7a7-c7cc-4d05-a5ae-e15401ef9f85
-DTSTART:20150724T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/9
-SUMMARY:KNG vs VG
-DESCRIPTION:King (KNG) vs Vici Gaming (VG)\nType : BO2\nTournament : Migrat
- ed tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\nLooser 
- : King\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9b489697-4e85-4519-9921-d9cb77b84f44
-DTSTART:20150705T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/7
-SUMMARY:QG vs VG
-DESCRIPTION:Qiao Gu Reapers (QG) vs Vici Gaming (VG)\nType : BO2\nTournamen
- t : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Qiao Gu Re
- apers\nLooser : Vici Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-600d2f63-6137-478b-ad9d-cb47654379ce
-DTSTART:20160318T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160318T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:VG vs EPA
-DESCRIPTION:Vici Gaming (VG) vs Energy Pace Maker (EPA)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0d00ca0f-beeb-4437-a65e-dbb4918152f8
-DTSTART:20160320T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:VG vs SS
-DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-07c7c401-2bbb-46a5-a376-e6f264bd0479
 DTSTART:20150607T070000Z
 SEQUENCE:0
@@ -104,7 +16,7 @@ DESCRIPTION:Vici Gaming (VG) vs King (KNG)\nType : BO2\nTournament : Migrat
  ed tournament for lpl_2015_summer\nWeek : 3\nWinner : King\nLooser : King\
  n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-38f522c4-de01-4eb8-b5ee-612a9e8c5213
@@ -119,7 +31,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : Migrate
  d tournament for lpl_2015_summer\nWeek : 1\nWinner : Vici Gaming\nLooser :
   Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-93da5597-efd4-4d18-9c93-8972694d58b3
@@ -134,7 +46,7 @@ DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Vici Gaming\
  nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d94960bd-d696-4a3d-997d-f114396ba06d
@@ -149,7 +61,7 @@ DESCRIPTION:Vici Gaming (VG) vs Qiao Gu Reapers (QG)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Qiao Gu Re
  apers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6c7a1339-00e0-4190-8e05-3c6e6ac8e3b6
@@ -164,7 +76,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Vici Gaming (VG)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Vici 
  Gaming\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8bd15e8d-cba5-4208-bcb0-eeec829659e6
@@ -178,7 +90,7 @@ SUMMARY:VG vs RNG
 DESCRIPTION:Vici Gaming (VG) vs Royal Never Give Up (RNG)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d355936-d111-4149-a00c-36a8f8a1ea17
@@ -193,7 +105,7 @@ DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Edward Gami
  ng\nLooser : Edward Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bb1cb9d8-53c7-4702-932e-b7192a74b4f9
@@ -208,21 +120,7 @@ DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Team Worl
  d Elite\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-42df839a-9d6f-4738-901e-058f74fcdca5
-DTSTART:20160312T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160312T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:VG vs LGD
-DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO3\nTournament : 
- LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1be3c54c-b0b1-498d-8ba3-66fc3181850b
@@ -236,124 +134,109 @@ SUMMARY:VG vs RNG
 DESCRIPTION:Vici Gaming (VG) vs Royal Never Give Up (RNG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-352e795a-7c34-4736-b8d0-778eb0ca12b7
-DTSTART:20150523T050000Z
+UID:match-42df839a-9d6f-4738-901e-058f74fcdca5
+DTSTART:20160312T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150523T060000Z
+DTEND:20160312T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:VG vs LGD
+DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO3\nTournament : 
+ LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-89616530-d931-414e-8538-5fa426d8fdbe
+DTSTART:20150619T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/1
-SUMMARY:VG vs UP
-DESCRIPTION:Vici Gaming (VG) vs Unlimited Potential (UP)\nType : BO2\nTourn
- ament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Unlimi
- ted Potential\nLooser : Unlimited Potential\n
+ -lpl-summer/5
+SUMMARY:VG vs LGD
+DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO2\nTournament : 
+ Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Vici Gaming\nL
+ ooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1de01a89-663b-499f-b615-e62b0d340036
-DTSTART:20150612T090000Z
+UID:match-f8e73f16-2c94-4a4d-9520-fa4ea80c317d
+DTSTART:20150531T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150612T100000Z
+DTEND:20150531T120000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/4
-SUMMARY:RNG vs VG
-DESCRIPTION:Royal Never Give Up (RNG) vs Vici Gaming (VG)\nType : BO2\nTour
- nament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Vici 
- Gaming\nLooser : Vici Gaming\n
+ -lpl-summer/2
+SUMMARY:IG vs VG
+DESCRIPTION:Invictus Gaming (IG) vs Vici Gaming (VG)\nType : BO2\nTournamen
+ t : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Invictus G
+ aming\nLooser : Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-a349688c-a8fd-45fd-a841-6a38f29e4801
-DTSTART:20150606T110000Z
+UID:match-8b07e7a7-c7cc-4d05-a5ae-e15401ef9f85
+DTSTART:20150724T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150606T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:WE vs VG
-DESCRIPTION:Team World Elite (WE) vs Vici Gaming (VG)\nType : BO2\nTourname
- nt : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Vici Gami
- ng\nLooser : Vici Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a43dcb74-9700-4b72-8f53-619f7a6f985c
-DTSTART:20150717T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/8
-SUMMARY:VG vs IG
-DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (IG)\nType : BO2\nTournamen
- t : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Invictus G
- aming\nLooser : Invictus Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8f08e23b-06c5-4a18-9961-0286240e9d28
-DTSTART:20150809T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150809T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/11
-SUMMARY:LGD vs VG
-DESCRIPTION:LGD Gaming (LGD) vs Vici Gaming (VG)\nType : BO2\nTournament : 
- Migrated tournament for lpl_2015_summer\nWeek : 11\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1abe8ab8-d8d8-4577-bf38-82d4e0368dbf
-DTSTART:20150726T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150726T080000Z
+DTEND:20150724T080000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
  -lpl-summer/9
-SUMMARY:M3 vs VG
-DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO2\nTournament : Migr
- ated tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\nLoose
- r : Vici Gaming\n
+SUMMARY:KNG vs VG
+DESCRIPTION:King (KNG) vs Vici Gaming (VG)\nType : BO2\nTournament : Migrat
+ ed tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\nLooser 
+ : King\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-b85286bd-aadc-4255-9969-1f897b248d86
-DTSTART:20160227T070000Z
+UID:match-9b489697-4e85-4519-9921-d9cb77b84f44
+DTSTART:20150705T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160227T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:VG vs WE
-DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTEND:20150705T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:QG vs VG
+DESCRIPTION:Qiao Gu Reapers (QG) vs Vici Gaming (VG)\nType : BO2\nTournamen
+ t : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Qiao Gu Re
+ apers\nLooser : Vici Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-19f3166e-951d-4044-9510-40ef96e5104e
-DTSTART:20160324T110000Z
+UID:match-600d2f63-6137-478b-ad9d-cb47654379ce
+DTSTART:20160318T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160324T120000Z
+DTEND:20160318T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/8
-SUMMARY:VG vs IG
-DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (IG)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 8\n
+ group_ab/7
+SUMMARY:VG vs EPA
+DESCRIPTION:Vici Gaming (VG) vs Energy Pace Maker (EPA)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0d00ca0f-beeb-4437-a65e-dbb4918152f8
+DTSTART:20160320T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:VG vs SS
+DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-490e29dc-bc96-4867-8121-ff0e3a8009b8
@@ -368,49 +251,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Vici Gaming
  \nLooser : Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-02b0d4b2-fd4e-4336-9519-2681afc3a245
-DTSTART:20160128T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160128T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/3
-SUMMARY:IG vs VG
-DESCRIPTION:Invictus Gaming (IG) vs Vici Gaming (VG)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e296fb6f-1cea-4461-99e7-f4b9d78e55a5
-DTSTART:20160409T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160409T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:HYG vs VG
-DESCRIPTION:Hyper Youth Gaming (HYG) vs Vici Gaming (VG)\nType : BO3\nTourn
- ament : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5c593c43-fedb-48c8-ab3a-6809c8620372
-DTSTART:20160221T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:VG vs QG
-DESCRIPTION:Vici Gaming (VG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c64fa8f-e8fd-4b6b-83ee-b812f96e8453
@@ -424,7 +265,166 @@ SUMMARY:VG vs EDG
 DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-02b0d4b2-fd4e-4336-9519-2681afc3a245
+DTSTART:20160128T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/3
+SUMMARY:IG vs VG
+DESCRIPTION:Invictus Gaming (IG) vs Vici Gaming (VG)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e296fb6f-1cea-4461-99e7-f4b9d78e55a5
+DTSTART:20160409T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160409T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:HYG vs VG
+DESCRIPTION:Hyper Youth Gaming (HYG) vs Vici Gaming (VG)\nType : BO3\nTourn
+ ament : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5c593c43-fedb-48c8-ab3a-6809c8620372
+DTSTART:20160221T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:VG vs QG
+DESCRIPTION:Vici Gaming (VG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-352e795a-7c34-4736-b8d0-778eb0ca12b7
+DTSTART:20150523T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/1
+SUMMARY:VG vs UP
+DESCRIPTION:Vici Gaming (VG) vs Unlimited Potential (UP)\nType : BO2\nTourn
+ ament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Unlimi
+ ted Potential\nLooser : Unlimited Potential\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1de01a89-663b-499f-b615-e62b0d340036
+DTSTART:20150612T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:RNG vs VG
+DESCRIPTION:Royal Never Give Up (RNG) vs Vici Gaming (VG)\nType : BO2\nTour
+ nament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Vici 
+ Gaming\nLooser : Vici Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a349688c-a8fd-45fd-a841-6a38f29e4801
+DTSTART:20150606T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:WE vs VG
+DESCRIPTION:Team World Elite (WE) vs Vici Gaming (VG)\nType : BO2\nTourname
+ nt : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Vici Gami
+ ng\nLooser : Vici Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a43dcb74-9700-4b72-8f53-619f7a6f985c
+DTSTART:20150717T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/8
+SUMMARY:VG vs IG
+DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (IG)\nType : BO2\nTournamen
+ t : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Invictus G
+ aming\nLooser : Invictus Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8f08e23b-06c5-4a18-9961-0286240e9d28
+DTSTART:20150809T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/11
+SUMMARY:LGD vs VG
+DESCRIPTION:LGD Gaming (LGD) vs Vici Gaming (VG)\nType : BO2\nTournament : 
+ Migrated tournament for lpl_2015_summer\nWeek : 11\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1abe8ab8-d8d8-4577-bf38-82d4e0368dbf
+DTSTART:20150726T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/9
+SUMMARY:M3 vs VG
+DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO2\nTournament : Migr
+ ated tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\nLoose
+ r : Vici Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b85286bd-aadc-4255-9969-1f897b248d86
+DTSTART:20160227T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:VG vs WE
+DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-19f3166e-951d-4044-9510-40ef96e5104e
+DTSTART:20160324T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160324T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/8
+SUMMARY:VG vs IG
+DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (IG)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53a2c5ac-3865-4679-be05-70a85279980f
@@ -439,7 +439,7 @@ DESCRIPTION:Vici Gaming (VG) vs Master3 (M3)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 5\nWinner : Master3\nLooser : 
  Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b52f9f33-97da-4313-81a4-d6d8d6f15090
@@ -454,7 +454,7 @@ DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO2\nTournament : Migrate
  d tournament for lpl_2015_summer\nWeek : 7\nWinner : OMG\nLooser : Vici Ga
  ming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57a7e632-f6bf-434a-b54d-e71951a8a785
@@ -469,7 +469,7 @@ DESCRIPTION:Snake Esports (SS) vs Vici Gaming (VG)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\
  nLooser : Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-41863ee4-b2a2-472a-afdb-f9e23c73b46b
@@ -483,7 +483,7 @@ SUMMARY:VG vs OMG
 DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
  6 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9c4fd6f9-79c9-42e0-b52e-1e1fb4b6c63b
@@ -497,7 +497,7 @@ SUMMARY:VG vs HYG
 DESCRIPTION:Vici Gaming (VG) vs Hyper Youth Gaming (HYG)\nType : BO3\nTourn
  ament : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-11322be2-822c-4812-9cdf-ab350b6c98cc
@@ -511,7 +511,7 @@ SUMMARY:M3 vs VG
 DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-03f2ace7-0016-45bf-83bc-dbc06a4dc231
@@ -525,7 +525,7 @@ SUMMARY:RNG vs VG
 DESCRIPTION:Royal Never Give Up (RNG) vs Vici Gaming (VG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5560d29a-30a3-4b14-9a38-b398ee2dd640
@@ -539,7 +539,7 @@ SUMMARY:VG vs EDG
 DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-000799fe-19ff-4d71-9ae6-8c213e23af6c
@@ -553,6 +553,6 @@ SUMMARY:OMG vs VG
 DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 201
  6 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160117T011026Z
+DTSTAMP:20160117T120043Z
 END:VEVENT
 END:VCALENDAR

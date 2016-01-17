@@ -15,7 +15,7 @@ SUMMARY:LMS vs LPL
 DESCRIPTION:LMS All-Stars (LMS) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160117T011028Z
+DTSTAMP:20160117T120044Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c105f7e1-9068-432f-b508-439d61289da0
@@ -29,7 +29,7 @@ SUMMARY:LCK vs LPL
 DESCRIPTION:LCK All-Stars (LCK) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160117T011028Z
+DTSTAMP:20160117T120044Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c641a74-9800-4e8b-a48f-926b65bf2d3e
@@ -43,7 +43,7 @@ SUMMARY:LCK vs LPL
 DESCRIPTION:LCK All-Stars (LCK) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160117T011028Z
+DTSTAMP:20160117T120044Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-859a2bc8-b70f-4427-aaa6-c3fc463c6e6e
@@ -57,6 +57,6 @@ SUMMARY:NAA vs LPL
 DESCRIPTION:NA LCS All-Stars (NAA) vs LPL All-Stars (LPL)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160117T011028Z
+DTSTAMP:20160117T120044Z
 END:VEVENT
 END:VCALENDAR
