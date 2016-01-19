@@ -15,119 +15,7 @@ SUMMARY:M17 vs FW
 DESCRIPTION:Machi17 (M17) vs Flash Wolves (FW)\nType : BO2\nTournament : LM
  S 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1d7ece99-86a8-4d4d-a408-3521a9aa4f58
-DTSTART:20160227T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/6
-SUMMARY:FW vs MSE
-DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
- ournament : LMS 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d31c8c00-7228-401f-87ad-ae3ab02f9395
-DTSTART:20160218T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T140000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/5
-SUMMARY:FW vs M17
-DESCRIPTION:Flash Wolves (FW) vs Machi17 (M17)\nType : BO2\nTournament : LM
- S 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1333cec7-2a8e-4584-8bc5-c077c08a6262
-DTSTART:20160325T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160325T130000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/9
-SUMMARY:FW vs TPA
-DESCRIPTION:Flash Wolves (FW) vs Taipei Assassins (TPA)\nType : BO2\nTourna
- ment : LMS 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-133e3aac-8fc2-40d4-aae9-0c8f773d2f89
-DTSTART:20160205T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160205T140000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/4
-SUMMARY:HKE vs FW
-DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (FW)\nType : BO2\nTourn
- ament : LMS 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4e027a78-8f60-4941-adb3-6f54ec0ced42
-DTSTART:20160122T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160122T140000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/2
-SUMMARY:TPA vs FW
-DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (FW)\nType : BO2\nTourna
- ment : LMS 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-01765992-27ca-4ce4-8112-6bed8e74d291
-DTSTART:20160310T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160310T140000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/7
-SUMMARY:XG vs FW
-DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Flash Wolves (FW)\nType : B
- O2\nTournament : LMS 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7ee1522f-1407-469d-a253-6796c22e4139
-DTSTART:20160319T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T110000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/8
-SUMMARY:FW vs HKE
-DESCRIPTION:Flash Wolves (FW) vs Hong Kong Esports (HKE)\nType : BO2\nTourn
- ament : LMS 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-12dc032e-cf2a-490b-9ff4-0e47202cd5c2
-DTSTART:20160327T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T110000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/9
-SUMMARY:AHQ vs FW
-DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (FW)\nType : BO2\nTourn
- ament : LMS 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-541f131a-db6d-452d-ab3f-4291931cec9c
@@ -141,7 +29,7 @@ SUMMARY:FW vs XG
 DESCRIPTION:Flash Wolves (FW) vs eXtreme Gamers eSports Club (XG)\nType : B
  O2\nTournament : LMS 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-38076292-df2a-4f7d-b84a-a52bb348272a
@@ -155,7 +43,7 @@ SUMMARY:MSE vs FW
 DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (FW)\nType : BO2\nT
  ournament : LMS 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f334021-30b6-485f-b993-d56ed9a13ddc
@@ -169,7 +57,119 @@ SUMMARY:FW vs CGE
 DESCRIPTION:Flash Wolves (FW) vs Cougar eSports (CGE)\nType : BO2\nTourname
  nt : LMS 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1d7ece99-86a8-4d4d-a408-3521a9aa4f58
+DTSTART:20160227T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/6
+SUMMARY:FW vs MSE
+DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
+ ournament : LMS 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d31c8c00-7228-401f-87ad-ae3ab02f9395
+DTSTART:20160218T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/5
+SUMMARY:FW vs M17
+DESCRIPTION:Flash Wolves (FW) vs Machi17 (M17)\nType : BO2\nTournament : LM
+ S 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1333cec7-2a8e-4584-8bc5-c077c08a6262
+DTSTART:20160325T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160325T130000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/9
+SUMMARY:FW vs TPA
+DESCRIPTION:Flash Wolves (FW) vs Taipei Assassins (TPA)\nType : BO2\nTourna
+ ment : LMS 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-133e3aac-8fc2-40d4-aae9-0c8f773d2f89
+DTSTART:20160205T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/4
+SUMMARY:HKE vs FW
+DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (FW)\nType : BO2\nTourn
+ ament : LMS 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4e027a78-8f60-4941-adb3-6f54ec0ced42
+DTSTART:20160122T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/2
+SUMMARY:TPA vs FW
+DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (FW)\nType : BO2\nTourna
+ ment : LMS 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-01765992-27ca-4ce4-8112-6bed8e74d291
+DTSTART:20160310T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/7
+SUMMARY:XG vs FW
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Flash Wolves (FW)\nType : B
+ O2\nTournament : LMS 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7ee1522f-1407-469d-a253-6796c22e4139
+DTSTART:20160319T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T110000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/8
+SUMMARY:FW vs HKE
+DESCRIPTION:Flash Wolves (FW) vs Hong Kong Esports (HKE)\nType : BO2\nTourn
+ ament : LMS 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-12dc032e-cf2a-490b-9ff4-0e47202cd5c2
+DTSTART:20160327T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160327T110000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/9
+SUMMARY:AHQ vs FW
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (FW)\nType : BO2\nTourn
+ ament : LMS 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-87c35c3a-f31d-47b4-856a-b505d3707a92
@@ -184,7 +184,7 @@ DESCRIPTION:Flash Wolves (FW) vs ahq e-Sports Club (AHQ)\nType : BO2\nTourn
  ament : LMS 2016 Spring Split\nWeek : 1\nWinner : ahq e-Sports Club\nLoose
  r : Flash Wolves\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-edb64265-c2e7-45fc-9a44-97d0357f05d0
@@ -198,7 +198,7 @@ SUMMARY:CGE vs FW
 DESCRIPTION:Cougar eSports (CGE) vs Flash Wolves (FW)\nType : BO2\nTourname
  nt : LMS 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-665a7f6b-45b0-408b-845a-4ec971571514
@@ -213,7 +213,7 @@ DESCRIPTION:Flash Wolves (FW) vs paiN Gaming (PNG)\nType : BO1\nTournament
  : The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\n
  Looser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ae7620ed-f117-483a-9844-a3d285e71f8a
@@ -228,7 +228,7 @@ DESCRIPTION:Flash Wolves (FW) vs ROX Tigers (ROX)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-2\nWinner : Flash Wolves\nL
  ooser : ROX Tigers\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8bf55bbf-fe95-4c55-8b8b-90f8693ae6b3
@@ -242,7 +242,7 @@ SUMMARY:FW vs OG
 DESCRIPTION:Flash Wolves (FW) vs Origen (OG)\nType : BO5\nTournament : The 
  2015 World Championship\nWeek : london-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f5b319b8-1a81-48b8-8715-baa079c2ddd6
@@ -257,22 +257,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Flash Wolves (FW)\nType : BO1\nTournament
  : The 2015 World Championship\nWeek : paris-day-4\nWinner : paiN Gaming\nL
  ooser : Flash Wolves\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160118T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f470ab39-8d22-467b-81f7-96430a4a2c56
-DTSTART:20151008T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151008T160000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_a/paris-day-5
-SUMMARY:FW vs CLG
-DESCRIPTION:Flash Wolves (FW) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
- urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash
-  Wolves\nLooser : Counter Logic Gaming\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f4f15861-27e7-4b86-8dc6-24d6fe34504e
@@ -287,7 +272,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Flash Wolves (FW)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\nL
  ooser : ROX Tigers\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0384eea9-25a9-485a-9782-6d2bea1dbe87
@@ -302,6 +287,21 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Flash Wolves (FW)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-1\nWinner : Count
  er Logic Gaming\nLooser : Flash Wolves\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160118T120049Z
+DTSTAMP:20160119T120143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f470ab39-8d22-467b-81f7-96430a4a2c56
+DTSTART:20151008T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151008T160000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-5
+SUMMARY:FW vs CLG
+DESCRIPTION:Flash Wolves (FW) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
+ urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash
+  Wolves\nLooser : Counter Logic Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160119T120143Z
 END:VEVENT
 END:VCALENDAR
