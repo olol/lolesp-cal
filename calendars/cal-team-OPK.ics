@@ -15,7 +15,7 @@ SUMMARY:PNG vs OPK
 DESCRIPTION:paiN Gaming (PNG) vs Operation Kino (OPK)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160119T120145Z
+DTSTAMP:20160120T120135Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1a070c5-6127-4d08-a922-c2bff936db6f
@@ -29,7 +29,7 @@ SUMMARY:OPK vs ITZ
 DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160119T120145Z
+DTSTAMP:20160120T120135Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-44a4d6be-f9ea-4b25-a4f6-8cd40f188143
@@ -43,7 +43,7 @@ SUMMARY:OPK vs
 DESCRIPTION:Operation Kino (OPK) vs Red Canids ()\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160119T120145Z
+DTSTAMP:20160120T120135Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a3ab800d-9b4a-4d46-b732-3176275cd27c
@@ -57,7 +57,7 @@ SUMMARY:OPK vs KBM
 DESCRIPTION:Operation Kino (OPK) vs KaBuM e-Sports (KBM)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160119T120145Z
+DTSTAMP:20160120T120135Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
@@ -72,7 +72,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
  eration Kino\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160119T120145Z
+DTSTAMP:20160120T120135Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-105adbcc-c5ae-419c-b600-42275f3ecf25
@@ -86,7 +86,7 @@ SUMMARY:VFK vs OPK
 DESCRIPTION:Keyd Stars (VFK) vs Operation Kino (OPK)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160119T120145Z
+DTSTAMP:20160120T120135Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c37538e9-e1cc-482c-9111-52406c484c90
@@ -100,6 +100,6 @@ SUMMARY:OPK vs G3X
 DESCRIPTION:Operation Kino (OPK) vs g3nerationX (G3X)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160119T120145Z
+DTSTAMP:20160120T120135Z
 END:VEVENT
 END:VCALENDAR

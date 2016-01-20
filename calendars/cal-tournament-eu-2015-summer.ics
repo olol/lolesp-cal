@@ -4,303 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-eu-2015-summer
 X-WR-CALNAME:LoL eSports Eu 2015 summer
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-12170806-d529-459e-96d6-1bb33452258f
-DTSTART:20150529T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:ROC vs GMB
-DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 1\nWinner : ROCCAT\nLooser :
-  Gambit Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d124737a-cf26-4e98-a5fa-1b4e35f2118b
-DTSTART:20150528T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150528T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:UOL vs FNC
-DESCRIPTION:Unicorns of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLoose
- r : Unicorns of Love\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cbf4f194-fe10-490f-9e73-4cb7a0d71a3d
-DTSTART:20150528T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150528T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:GIA vs OG
-DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : Migrated 
- tournament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : Giants\
- n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-46f94c6c-3fec-4ca2-a4f0-bf20168debb1
-DTSTART:20150619T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/4
-SUMMARY:H2K vs GIA
-DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : Migrated to
- urnament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Giants\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2f06377f-e80e-441c-9594-c16b9954746c
-DTSTART:20150618T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/4
-SUMMARY:CW vs H2K
-DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Co
- penhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2dbceebf-2879-49cc-b46d-0b956b4dba59
-DTSTART:20150625T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:EL vs SK
-DESCRIPTION:Elements (EL) vs SK Gaming (SK)\nType : BO1\nTournament : Migra
- ted tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : S
- K Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-04cec915-5171-49c1-bdb7-1e4a3a06577a
-DTSTART:20150612T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:EL vs CW
-DESCRIPTION:Elements (EL) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
-  : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Copenhagen W
- olves\nLooser : Elements\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-224b8697-a115-4d7d-9ca2-e7b93b669236
-DTSTART:20150612T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:UOL vs H2K
-DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 3\nWinner : H2K\nLooser : Un
- icorns of Love\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f21b5e32-716b-4f0e-a508-a369a4dbf26b
-DTSTART:20150619T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/4
-SUMMARY:SK vs ROC
-DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrat
- ed tournament for eu_2015_summer\nWeek : 4\nWinner : SK Gaming\nLooser : R
- OCCAT\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-850443d1-2ff6-4d89-b391-e3bf063bdd51
-DTSTART:20150605T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:H2K vs EL
-DESCRIPTION:H2K (H2K) vs Elements (EL)\nType : BO1\nTournament : Migrated t
- ournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : Elements\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8a8d3e94-d1ca-443e-bb58-a46868d19224
-DTSTART:20150528T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150528T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:CW vs SK
-DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
- t : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Copenhagen 
- Wolves\nLooser : SK Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e4aa0613-2c15-445a-936e-ddc3df3a2ca5
-DTSTART:20150612T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:ROC vs OG
-DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO1\nTournament : Migrated 
- tournament for eu_2015_summer\nWeek : 3\nWinner : ROCCAT\nLooser : Origen\
- n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2e76a589-e781-470c-94c7-550197ee5234
-DTSTART:20150717T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/8
-SUMMARY:OG vs SK
-DESCRIPTION:Origen (OG) vs SK Gaming (SK)\nType : BO1\nTournament : Migrate
- d tournament for eu_2015_summer\nWeek : 8\nWinner : Origen\nLooser : SK Ga
- ming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5eddc0a6-7efe-4bb2-905c-856d1bf6107a
-DTSTART:20150626T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:H2K vs SK
-DESCRIPTION:H2K (H2K) vs SK Gaming (SK)\nType : BO1\nTournament : Migrated 
- tournament for eu_2015_summer\nWeek : 5\nWinner : SK Gaming\nLooser : H2K\
- n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1e3a274b-4645-435d-990d-559a17bd858d
-DTSTART:20150723T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150723T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/9
-SUMMARY:EL vs GMB
-DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 
- Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Elements\nLoose
- r : Gambit Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ea287843-73e1-4083-8538-ab503aac8c02
-DTSTART:20150703T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:GMB vs ROC
-DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit Gaming\nL
- ooser : ROCCAT\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a49cdce3-d055-4848-9202-66b9806bf17d
-DTSTART:20150703T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:EL vs OG
-DESCRIPTION:Elements (EL) vs Origen (OG)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 6\nWinner : Origen\nLooser : Elemen
- ts\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e2151ae3-b4b3-448d-8512-f7eb394b0dc5
-DTSTART:20150626T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:ROC vs UOL
-DESCRIPTION:ROCCAT (ROC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : ROCCAT\nLoose
- r : Unicorns of Love\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-dc2d2cb0-643d-4d46-819b-81e831aff46e
-DTSTART:20150716T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150716T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/8
-SUMMARY:GIA vs H2K
-DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
- urnament for eu_2015_summer\nWeek : 8\nWinner : H2K\nLooser : Giants\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c406e996-8932-4b15-8258-087d964af2e1
-DTSTART:20150717T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/8
-SUMMARY:GIA vs ROC
-DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 8\nWinner : ROCCAT\nLooser : Giants
- \n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-71884799-3396-400f-845e-28bebc1b1a71
 DTSTART:20150618T160000Z
 SEQUENCE:0
@@ -313,7 +16,7 @@ DESCRIPTION:Giants (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 4\nWinner : Gambit Gaming\nL
  ooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ecb0f39-5fc6-4fd6-8b5d-9f8d116b5d46
@@ -328,7 +31,7 @@ DESCRIPTION:Elements (EL) vs Giants (GIA)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : Eleme
  nts\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d24bff4e-d81e-45a3-8f11-a6d04f2d6ee3
@@ -342,7 +45,7 @@ SUMMARY:FNC vs H2K
 DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-affd07bf-5b19-4d27-9bc1-6563ba12f4ee
@@ -357,7 +60,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Origen (OG)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Unicorns of Lo
  ve\nLooser : Origen\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6dbd720-1e82-408b-bb13-6444a915ac36
@@ -372,7 +75,7 @@ DESCRIPTION:SK Gaming (SK) vs Giants (GIA)\nType : BO1\nTournament : Migrat
  ed tournament for eu_2015_summer\nWeek : 6\nWinner : Giants\nLooser : SK G
  aming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-07ef9530-69c2-4116-85c6-d9894c9b7068
@@ -387,7 +90,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b4ee976e-abfb-4318-a902-2b7a78a94a26
@@ -402,7 +105,7 @@ DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Origen\nLooser
   : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cb737ec3-9044-43a7-9cb2-d3fdcbd73f39
@@ -417,7 +120,7 @@ DESCRIPTION:SK Gaming (SK) vs H2K (H2K)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 3\nWinner : H2K\nLooser : SK Gaming\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fabeab29-6708-42f4-bba4-eec8a8480fe2
@@ -432,7 +135,7 @@ DESCRIPTION:Origen (OG) vs Copenhagen Wolves (CW)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser
   : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4adc8c6b-3008-4a9c-a9e3-85adc5b4d1c6
@@ -447,7 +150,7 @@ DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : Eleme
  nts\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49175e69-aad6-4c4e-9eea-24470727b318
@@ -462,7 +165,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Elements (EL)\nType : BO1\nTournament
   : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : Elements\nLo
  oser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-06448f6f-a4fa-44a0-aab3-557b3667897f
@@ -477,7 +180,7 @@ DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22830cee-3546-484d-ad69-b940edb78936
@@ -492,7 +195,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Copenhagen Wo
  lves\nLooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cad7d7fd-08be-42dc-8ff7-de9e4dd99083
@@ -507,7 +210,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Unicorns of Love (UOL)\nType : BO1\nT
  ournament : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Uni
  corns of Love\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b82922c0-61d6-4914-b15d-a972f8c3dbf3
@@ -522,7 +225,7 @@ DESCRIPTION:Giants (GIA) vs Unicorns of Love (UOL)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Unicorns of L
  ove\nLooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dff285f5-c4ba-4441-ae2f-13f2ea3d411a
@@ -537,7 +240,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Elements (EL)\nType : BO1\nTournament
   : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Unicorns of 
  Love\nLooser : Elements\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c654cf87-7b73-407d-bdd7-c40a9a7e6b48
@@ -552,7 +255,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Origen (OG)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 8\nWinner : Gambit Gaming\nLo
  oser : Origen\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f40cb2f1-9fd6-47ac-ac8b-72d71da68d60
@@ -567,7 +270,7 @@ DESCRIPTION:SK Gaming (SK) vs Fnatic (FNC)\nType : BO1\nTournament : Migrat
  ed tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLooser : SK G
  aming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3aa429b1-ab2a-4fd0-af1a-28c842790b4f
@@ -582,7 +285,7 @@ DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 9\nWinner : ROCCAT\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-10331e80-65b8-4dc6-9e5d-c1d463d921a5
@@ -597,364 +300,304 @@ DESCRIPTION:SK Gaming (SK) vs Elements (EL)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 9\nWinner : SK Gaming\nLooser : 
  Elements\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-ee37ccaf-b6b0-4a06-9307-426255706e87
-DTSTART:20150529T170000Z
+UID:match-12170806-d529-459e-96d6-1bb33452258f
+DTSTART:20150529T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150529T180000Z
+DTEND:20150529T190000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
  lcs-summer/1
-SUMMARY:GIA vs CW
-DESCRIPTION:Giants (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Giants\nLoose
- r : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-87c044c9-f117-4124-8c8f-47982dab92ef
-DTSTART:20150625T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:ROC vs CW
-DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : ROCCAT\nLoose
- r : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7da92a21-339d-4db6-b347-74eb550c1790
-DTSTART:20150619T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/4
-SUMMARY:OG vs EL
-DESCRIPTION:Origen (OG) vs Elements (EL)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 4\nWinner : Origen\nLooser : Elemen
- ts\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-23f4c47e-4a9a-44da-891a-f28f49c36090
-DTSTART:20150625T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:OG vs GMB
-DESCRIPTION:Origen (OG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Mi
- grated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser : 
- Gambit Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-027ccc98-505f-4733-a1eb-b72aab0064b6
-DTSTART:20150612T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:GMB vs SK
-DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
-  Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit Gaming\
- nLooser : SK Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d03bd4c7-857b-4917-a085-13ddfafb92ce
-DTSTART:20150604T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150604T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:FNC vs ROC
-DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser : ROCCAT
- \n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6cfe545d-a78f-4195-8daf-c53ed4ad8299
-DTSTART:20150611T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:CW vs GMB
-DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
- nament : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit
-  Gaming\nLooser : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ada4c537-f698-4df0-b323-2d70ebea4b42
-DTSTART:20150618T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/4
-SUMMARY:OG vs FNC
-DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated 
- tournament for eu_2015_summer\nWeek : 4\nWinner : Fnatic\nLooser : Origen\
- n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-53db8379-e23c-4533-9b98-f5f0237c950a
-DTSTART:20150605T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:GIA vs SK
-DESCRIPTION:Giants (GIA) vs SK Gaming (SK)\nType : BO1\nTournament : Migrat
- ed tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : SK G
- aming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e5fe9677-9a58-4b10-86f9-422fce9ee234
-DTSTART:20150611T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:FNC vs EL
-DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : Migrate
- d tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Eleme
- nts\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6c999da8-bc75-43ab-a3ae-408d2fcebc82
-DTSTART:20150717T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/8
-SUMMARY:H2K vs CW
-DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 8\nWinner : Copenhagen Wolve
- s\nLooser : H2K\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7f677e9f-f18f-45cb-b75e-ba9d7914ce88
-DTSTART:20150626T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:FNC vs GMB
-DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser :
+SUMMARY:ROC vs GMB
+DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 1\nWinner : ROCCAT\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-14d73198-c212-48d9-9677-c3a7d3a3b645
-DTSTART:20150716T180000Z
+UID:match-d124737a-cf26-4e98-a5fa-1b4e35f2118b
+DTSTART:20150528T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150716T190000Z
+DTEND:20150528T170000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/8
-SUMMARY:UOL vs SK
-DESCRIPTION:Unicorns of Love (UOL) vs SK Gaming (SK)\nType : BO1\nTournamen
- t : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : SK Gaming\n
- Looser : Unicorns of Love\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-22a7b5aa-cd47-45c8-819b-87177b657256
-DTSTART:20150703T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:H2K vs UOL
-DESCRIPTION:H2K (H2K) vs Unicorns of Love (UOL)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 6\nWinner : H2K\nLooser : Un
- icorns of Love\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cd272475-23d1-4a5c-8dbb-fa9526697ca8
-DTSTART:20150626T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:GIA vs EL
-DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : Migrate
- d tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : Gia
- nts\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c57d6214-7e8a-4bbc-a0c5-f8ff1a3a4f2a
-DTSTART:20150702T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150702T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:GIA vs FNC
-DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLooser : Giants
- \n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a06b1974-1553-4c61-92f8-04f0d5fb3735
-DTSTART:20150709T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150709T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/7
-SUMMARY:H2K vs FNC
-DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated to
- urnament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : H2K\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f0c8b2f3-b981-4ba8-bcd6-b6f76c7b6c60
-DTSTART:20150724T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/9
-SUMMARY:FNC vs UOL
-DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLoose
+ lcs-summer/1
+SUMMARY:UOL vs FNC
+DESCRIPTION:Unicorns of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLoose
  r : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-6723971e-ae69-483f-93b8-c7d2e3698829
-DTSTART:20150724T170000Z
+UID:match-cbf4f194-fe10-490f-9e73-4cb7a0d71a3d
+DTSTART:20150528T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150724T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/9
-SUMMARY:GMB vs H2K
-DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : Migr
- ated tournament for eu_2015_summer\nWeek : 9\nWinner : H2K\nLooser : Gambi
- t Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-31fca2ea-41cf-4e20-89b3-683ce139c4e4
-DTSTART:20150724T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/9
-SUMMARY:CW vs GIA
-DESCRIPTION:Copenhagen Wolves (CW) vs Giants (GIA)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Giants\nLoose
- r : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1aac8f0f-a16c-4ddf-85ad-b0171b638ef9
-DTSTART:20150723T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150723T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/9
-SUMMARY:H2K vs OG
-DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : Migrated tou
- rnament for eu_2015_summer\nWeek : 9\nWinner : Origen\nLooser : H2K\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d61f0bd8-417d-4096-a41c-f443ed5e61c4
-DTSTART:20150529T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T200000Z
+DTEND:20150528T180000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
  lcs-summer/1
-SUMMARY:FNC vs SK
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : Migrat
- ed tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLooser : SK G
- aming\n
+SUMMARY:GIA vs OG
+DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : Giants\
+ n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-74cc0d55-8eb9-4f3f-9753-d9f3ec8c2006
-DTSTART:20150529T200000Z
+UID:match-46f94c6c-3fec-4ca2-a4f0-bf20168debb1
+DTSTART:20150619T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150529T210000Z
+DTEND:20150619T180000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:EL vs UOL
-DESCRIPTION:Elements (EL) vs Unicorns of Love (UOL)\nType : BO1\nTournament
-  : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Unicorns of 
- Love\nLooser : Elements\n
+ lcs-summer/4
+SUMMARY:H2K vs GIA
+DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2fd1e4b8-a0a4-431e-aecb-9f7ec2731e85
-DTSTART:20150529T160000Z
+UID:match-2f06377f-e80e-441c-9594-c16b9954746c
+DTSTART:20150618T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150529T170000Z
+DTEND:20150618T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:CW vs H2K
+DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Co
+ penhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2dbceebf-2879-49cc-b46d-0b956b4dba59
+DTSTART:20150625T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:EL vs SK
+DESCRIPTION:Elements (EL) vs SK Gaming (SK)\nType : BO1\nTournament : Migra
+ ted tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : S
+ K Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-04cec915-5171-49c1-bdb7-1e4a3a06577a
+DTSTART:20150612T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:EL vs CW
+DESCRIPTION:Elements (EL) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
+  : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Copenhagen W
+ olves\nLooser : Elements\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-224b8697-a115-4d7d-9ca2-e7b93b669236
+DTSTART:20150612T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:UOL vs H2K
+DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 3\nWinner : H2K\nLooser : Un
+ icorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f21b5e32-716b-4f0e-a508-a369a4dbf26b
+DTSTART:20150619T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:SK vs ROC
+DESCRIPTION:SK Gaming (SK) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 4\nWinner : SK Gaming\nLooser : R
+ OCCAT\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-850443d1-2ff6-4d89-b391-e3bf063bdd51
+DTSTART:20150605T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:H2K vs EL
+DESCRIPTION:H2K (H2K) vs Elements (EL)\nType : BO1\nTournament : Migrated t
+ ournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : Elements\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8a8d3e94-d1ca-443e-bb58-a46868d19224
+DTSTART:20150528T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T210000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
  lcs-summer/1
-SUMMARY:OG vs H2K
-DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : Migrated tou
- rnament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : H2K\n
+SUMMARY:CW vs SK
+DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Copenhagen 
+ Wolves\nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e4aa0613-2c15-445a-936e-ddc3df3a2ca5
+DTSTART:20150612T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:ROC vs OG
+DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 3\nWinner : ROCCAT\nLooser : Origen\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2e76a589-e781-470c-94c7-550197ee5234
+DTSTART:20150717T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:OG vs SK
+DESCRIPTION:Origen (OG) vs SK Gaming (SK)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 8\nWinner : Origen\nLooser : SK Ga
+ ming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5eddc0a6-7efe-4bb2-905c-856d1bf6107a
+DTSTART:20150626T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:H2K vs SK
+DESCRIPTION:H2K (H2K) vs SK Gaming (SK)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 5\nWinner : SK Gaming\nLooser : H2K\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1e3a274b-4645-435d-990d-559a17bd858d
+DTSTART:20150723T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:EL vs GMB
+DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament : 
+ Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Elements\nLoose
+ r : Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ea287843-73e1-4083-8538-ab503aac8c02
+DTSTART:20150703T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:GMB vs ROC
+DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit Gaming\nL
+ ooser : ROCCAT\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a49cdce3-d055-4848-9202-66b9806bf17d
+DTSTART:20150703T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:EL vs OG
+DESCRIPTION:Elements (EL) vs Origen (OG)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 6\nWinner : Origen\nLooser : Elemen
+ ts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e2151ae3-b4b3-448d-8512-f7eb394b0dc5
+DTSTART:20150626T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:ROC vs UOL
+DESCRIPTION:ROCCAT (ROC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : ROCCAT\nLoose
+ r : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-dc2d2cb0-643d-4d46-819b-81e831aff46e
+DTSTART:20150716T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:GIA vs H2K
+DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 8\nWinner : H2K\nLooser : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c406e996-8932-4b15-8258-087d964af2e1
+DTSTART:20150717T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 8\nWinner : ROCCAT\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13b4e537-b8a8-42ee-bb1d-6b0208b6958c
@@ -969,37 +612,36 @@ DESCRIPTION:SK Gaming (SK) vs Origen (OG)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser : SK Ga
  ming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-13a6f14d-d467-45f1-865a-a88dbab99212
-DTSTART:20150625T170000Z
+UID:match-74cc0d55-8eb9-4f3f-9753-d9f3ec8c2006
+DTSTART:20150529T200000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150625T180000Z
+DTEND:20150529T210000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:UOL vs GIA
-DESCRIPTION:Unicorns of Love (UOL) vs Giants (GIA)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : Giants\nLoose
- r : Unicorns of Love\n
+ lcs-summer/1
+SUMMARY:EL vs UOL
+DESCRIPTION:Elements (EL) vs Unicorns of Love (UOL)\nType : BO1\nTournament
+  : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Unicorns of 
+ Love\nLooser : Elements\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3a488add-64ea-4b4b-947c-6b757dd10f2c
-DTSTART:20150703T180000Z
+UID:match-2fd1e4b8-a0a4-431e-aecb-9f7ec2731e85
+DTSTART:20150529T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150703T190000Z
+DTEND:20150529T170000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:FNC vs CW
-DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLoose
- r : Copenhagen Wolves\n
+ lcs-summer/1
+SUMMARY:OG vs H2K
+DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : Migrated tou
+ rnament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-773c613c-7f6d-484e-8dc4-20ad21936647
@@ -1014,7 +656,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Unicorns of Love (UOL)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 4\nWinner : Unicor
  ns of Love\nLooser : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7cafbf72-0041-4444-a023-b1b2e3ec0820
@@ -1029,7 +671,22 @@ DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Giants
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d61f0bd8-417d-4096-a41c-f443ed5e61c4
+DTSTART:20150529T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:FNC vs SK
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SK)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0d05a4dd-acc8-42ce-b296-a055d8d914c9
@@ -1044,7 +701,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Unicorns of L
  ove\nLooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0a0013d-b96a-47f5-88a8-830ecce44d44
@@ -1059,21 +716,7 @@ DESCRIPTION:SK Gaming (SK) vs Unicorns of Love (UOL)\nType : BO1\nTournamen
  t : Migrated tournament for eu_2015_summer\nWeek : 4\nWinner : SK Gaming\n
  Looser : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e264f2c7-2374-4da3-866e-97f7bbdc7225
-DTSTART:20150702T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150702T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:EL vs H2K
-DESCRIPTION:Elements (EL) vs H2K (H2K)\nType : BO1\nTournament : Migrated t
- ournament for eu_2015_summer\nWeek : 6\nWinner : H2K\nLooser : Elements\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7d92cf9f-54dd-4edf-95df-41590fcea2e3
@@ -1088,7 +731,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Giants (GIA)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 7\nWinner : Giants\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c406e996-8932-4b15-8258-087d964af2e1
@@ -1103,7 +746,37 @@ DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : Tiebreaker\nWinner : ROCCAT\nLooser
   : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-13a6f14d-d467-45f1-865a-a88dbab99212
+DTSTART:20150625T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:UOL vs GIA
+DESCRIPTION:Unicorns of Love (UOL) vs Giants (GIA)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : Giants\nLoose
+ r : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3a488add-64ea-4b4b-947c-6b757dd10f2c
+DTSTART:20150703T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:FNC vs CW
+DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4473f8a7-812b-45f8-aa70-a63de83793b0
@@ -1118,7 +791,7 @@ DESCRIPTION:SK Gaming (SK) vs Copenhagen Wolves (CW)\nType : BO1\nTournamen
  t : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : SK Gaming\n
  Looser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-80351cc1-2fd3-4fec-a12b-8f6a34e806c7
@@ -1133,7 +806,7 @@ DESCRIPTION:SK Gaming (SK) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Gambit Gaming\
  nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77028ae8-ce8a-419c-87c7-4cda6894a100
@@ -1148,7 +821,7 @@ DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 7\nWinner : Origen\nLooser : Giants\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b22bae60-8576-4282-a949-20ba122a38d3
@@ -1163,7 +836,21 @@ DESCRIPTION:Unicorns of Love (UOL) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : Unicor
  ns of Love\nLooser : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e264f2c7-2374-4da3-866e-97f7bbdc7225
+DTSTART:20150702T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:EL vs H2K
+DESCRIPTION:Elements (EL) vs H2K (H2K)\nType : BO1\nTournament : Migrated t
+ ournament for eu_2015_summer\nWeek : 6\nWinner : H2K\nLooser : Elements\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-96ca259a-40da-4dc5-a940-b64ffb12ae9e
@@ -1178,7 +865,7 @@ DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : Gambi
  t Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0137f685-1394-4e45-863e-0e826dd4ddde
@@ -1193,7 +880,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Elements (EL)\nType : BO1\nTournament :
  Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Elements\nLoose
  r : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab180458-8aeb-4fb6-97b3-b8e13c2735fd
@@ -1207,7 +894,7 @@ SUMMARY:H2K vs ROC
 DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 1\nWinner : H2K\nLooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-33a045f4-93a7-46c7-8c6a-57ad26c64eb3
@@ -1222,7 +909,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Origen (OG)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser
   : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6c6f71ca-a83d-411b-9206-d64c8c447c43
@@ -1237,7 +924,7 @@ DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e423d30-2688-424d-8993-9aa260da1121
@@ -1252,7 +939,7 @@ DESCRIPTION:ROCCAT (ROC) vs Elements (EL)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 7\nWinner : Elements\nLooser : ROC
  CAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54a615aa-b263-4f6e-a211-ff19b84af89e
@@ -1267,7 +954,7 @@ DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 3\nWinner : Giants\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89b691a5-b11a-443f-86f3-b324e66d5d33
@@ -1282,7 +969,7 @@ DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 4\nWinner : Elements\nLooser : ROC
  CAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2a431093-2b89-479f-919c-d69799792a9e
@@ -1297,7 +984,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit
   Gaming\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3c5dd95f-247f-444b-a53e-414df56ad7c8
@@ -1311,7 +998,7 @@ SUMMARY:ROC vs H2K
 DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 7\nWinner : ROCCAT\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-52d43261-4aac-4b48-928d-3fa03c1178c7
@@ -1326,7 +1013,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Uni
  corns of Love\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c7b23602-eb4b-4b9c-a0c0-c177d4d43364
@@ -1341,6 +1028,319 @@ DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SK)\nType : BO1\nTournament : Migrat
  ed tournament for eu_2015_summer\nWeek : 6\nWinner : ROCCAT\nLooser : SK G
  aming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160119T120139Z
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ee37ccaf-b6b0-4a06-9307-426255706e87
+DTSTART:20150529T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:GIA vs CW
+DESCRIPTION:Giants (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Giants\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d03bd4c7-857b-4917-a085-13ddfafb92ce
+DTSTART:20150604T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:FNC vs ROC
+DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser : ROCCAT
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-53db8379-e23c-4533-9b98-f5f0237c950a
+DTSTART:20150605T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:GIA vs SK
+DESCRIPTION:Giants (GIA) vs SK Gaming (SK)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7f677e9f-f18f-45cb-b75e-ba9d7914ce88
+DTSTART:20150626T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:FNC vs GMB
+DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-87c044c9-f117-4124-8c8f-47982dab92ef
+DTSTART:20150625T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:ROC vs CW
+DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : ROCCAT\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7da92a21-339d-4db6-b347-74eb550c1790
+DTSTART:20150619T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:OG vs EL
+DESCRIPTION:Origen (OG) vs Elements (EL)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 4\nWinner : Origen\nLooser : Elemen
+ ts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-23f4c47e-4a9a-44da-891a-f28f49c36090
+DTSTART:20150625T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:OG vs GMB
+DESCRIPTION:Origen (OG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Mi
+ grated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser : 
+ Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-027ccc98-505f-4733-a1eb-b72aab0064b6
+DTSTART:20150612T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:GMB vs SK
+DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SK)\nType : BO1\nTournament :
+  Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit Gaming\
+ nLooser : SK Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cd272475-23d1-4a5c-8dbb-fa9526697ca8
+DTSTART:20150626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:GIA vs EL
+DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : Gia
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6cfe545d-a78f-4195-8daf-c53ed4ad8299
+DTSTART:20150611T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:CW vs GMB
+DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
+ nament : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit
+  Gaming\nLooser : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ada4c537-f698-4df0-b323-2d70ebea4b42
+DTSTART:20150618T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:OG vs FNC
+DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 4\nWinner : Fnatic\nLooser : Origen\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e5fe9677-9a58-4b10-86f9-422fce9ee234
+DTSTART:20150611T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:FNC vs EL
+DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Eleme
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6c999da8-bc75-43ab-a3ae-408d2fcebc82
+DTSTART:20150717T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:H2K vs CW
+DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 8\nWinner : Copenhagen Wolve
+ s\nLooser : H2K\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-31fca2ea-41cf-4e20-89b3-683ce139c4e4
+DTSTART:20150724T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:CW vs GIA
+DESCRIPTION:Copenhagen Wolves (CW) vs Giants (GIA)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Giants\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-14d73198-c212-48d9-9677-c3a7d3a3b645
+DTSTART:20150716T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:UOL vs SK
+DESCRIPTION:Unicorns of Love (UOL) vs SK Gaming (SK)\nType : BO1\nTournamen
+ t : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : SK Gaming\n
+ Looser : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-22a7b5aa-cd47-45c8-819b-87177b657256
+DTSTART:20150703T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:H2K vs UOL
+DESCRIPTION:H2K (H2K) vs Unicorns of Love (UOL)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 6\nWinner : H2K\nLooser : Un
+ icorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1aac8f0f-a16c-4ddf-85ad-b0171b638ef9
+DTSTART:20150723T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150723T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:H2K vs OG
+DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : Migrated tou
+ rnament for eu_2015_summer\nWeek : 9\nWinner : Origen\nLooser : H2K\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c57d6214-7e8a-4bbc-a0c5-f8ff1a3a4f2a
+DTSTART:20150702T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:GIA vs FNC
+DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a06b1974-1553-4c61-92f8-04f0d5fb3735
+DTSTART:20150709T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:H2K vs FNC
+DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : H2K\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f0c8b2f3-b981-4ba8-bcd6-b6f76c7b6c60
+DTSTART:20150724T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:FNC vs UOL
+DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLoose
+ r : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6723971e-ae69-483f-93b8-c7d2e3698829
+DTSTART:20150724T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:GMB vs H2K
+DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : Migr
+ ated tournament for eu_2015_summer\nWeek : 9\nWinner : H2K\nLooser : Gambi
+ t Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160120T120112Z
 END:VEVENT
 END:VCALENDAR
