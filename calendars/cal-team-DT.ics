@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-DT
+X-WR-CALNAME:LoL eSports DT
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-17e9e964-8cfd-46b9-920b-ac0b7139f117
+DTSTART:20160128T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T060000Z
+URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
+ _season/1
+SUMMARY:TLA vs DT
+DESCRIPTION:Team Liquid Academy (TLA) vs Dream Team (DT)\nType : BO2\nTourn
+ ament : NA CS 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA CS 2016 Spring Split
+DTSTAMP:20160122T120053Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b9f5529c-6ea4-4cfc-a507-85207a3d07fc
+DTSTART:20160204T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160204T050000Z
+URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
+ _season/2
+SUMMARY:DT vs TDK
+DESCRIPTION:Dream Team (DT) vs Team Dragon Knights (TDK)\nType : BO2\nTourn
+ ament : NA CS 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA CS 2016 Spring Split
+DTSTAMP:20160122T120053Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d74ba8c4-68e0-4be9-ad69-9fb6f14676fb
+DTSTART:20160218T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T060000Z
+URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
+ _season/4
+SUMMARY:DT vs MBR
+DESCRIPTION:Dream Team (DT) vs Ember (MBR)\nType : BO2\nTournament : NA CS 
+ 2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA CS 2016 Spring Split
+DTSTAMP:20160122T120053Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1b924c55-428a-4b76-b373-7c61b7877aae
+DTSTART:20160211T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160211T030000Z
+URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
+ _season/3
+SUMMARY:DT vs APX
+DESCRIPTION:Dream Team (DT) vs Apex (APX)\nType : BO2\nTournament : NA CS 2
+ 016 Spring Split\nWeek : 3\n
+CATEGORIES:NA CS 2016 Spring Split
+DTSTAMP:20160122T120053Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-aff579d7-dfa1-4b31-9752-9e8196cb5f6b
+DTSTART:20160225T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T060000Z
+URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
+ _season/5
+SUMMARY:NME vs DT
+DESCRIPTION:Enemy (NME) vs Dream Team (DT)\nType : BO2\nTournament : NA CS 
+ 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA CS 2016 Spring Split
+DTSTAMP:20160122T120053Z
+END:VEVENT
+END:VCALENDAR
