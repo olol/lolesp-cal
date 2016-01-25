@@ -16,7 +16,7 @@ DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : KT Rolster\
  nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
@@ -31,7 +31,7 @@ DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 4\nWinner : KT Rolster\nLoo
  ser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1fdb1757-02b5-423c-8d36-bd6854e7cb7c
@@ -46,7 +46,7 @@ DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : KT Rolster
  \nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e641bfed-8a48-4976-9683-99d8c73039a8
@@ -60,7 +60,7 @@ SUMMARY:SKT vs KT
 DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
   LCK 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3e2f236b-02bb-45cc-8763-0eac9f1a6641
@@ -75,7 +75,7 @@ DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJE)\nType : BO3\nTournament : Mig
  rated tournament for lck_2015_summer\nWeek : 2\nWinner : CJ ENTUS\nLooser 
  : KT Rolster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-086741cc-3c97-44a5-b0d0-a9f4d8ac8859
@@ -89,7 +89,7 @@ SUMMARY:KT vs SSG
 DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO3\nTournament
   : LCK 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7d120d52-e8b7-401e-8d9d-0acc585a11ef
@@ -104,7 +104,7 @@ DESCRIPTION:KT Rolster (KT) vs Jin Air Green Wings (JAG)\nType : BO2\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : KT Rol
  ster\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1fdb1757-02b5-423c-8d36-bd6854e7cb7c
@@ -119,7 +119,7 @@ DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : KT Rolster
  \nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
@@ -134,51 +134,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : KT Rolster\n
  Looser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
-DTSTART:20150627T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150627T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:EMF vs KT
-DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
- ated tournament for lck_2015_summer\nWeek : 6\nWinner : KT Rolster\nLooser
-  : e-mFire\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d6f6ae22-52d5-4b0b-9f8c-332d35b5f9a1
-DTSTART:20150624T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150624T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:KT vs SKT
-DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO2\nTournament :
-  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKTelecom T1\
- nLooser : KT Rolster\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-70783ada-3d21-4b3a-b9fc-26f48b2922f9
-DTSTART:20150808T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150808T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:KT vs ANC
-DESCRIPTION:KT Rolster (KT) vs Rebels Anarchy (ANC)\nType : BO2\nTournament
-  : Migrated tournament for lck_2015_summer\nWeek : 12\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1a74d22-3362-4fe2-a3f9-621d9b397c48
@@ -193,7 +149,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : SKTelecom T1
  \nLooser : KT Rolster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e80064d-8d33-43dc-b9f8-34ea990026be
@@ -208,7 +164,51 @@ DESCRIPTION:CJ ENTUS (CJE) vs KT Rolster (KT)\nType : BO3\nTournament : Mig
  rated tournament for lck_2015_summer\nWeek : 8\nWinner : KT Rolster\nLoose
  r : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
+DTSTART:20150627T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:EMF vs KT
+DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
+ ated tournament for lck_2015_summer\nWeek : 6\nWinner : KT Rolster\nLooser
+  : e-mFire\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160125T120045Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d6f6ae22-52d5-4b0b-9f8c-332d35b5f9a1
+DTSTART:20150624T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:KT vs SKT
+DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO2\nTournament :
+  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKTelecom T1\
+ nLooser : KT Rolster\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160125T120045Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-70783ada-3d21-4b3a-b9fc-26f48b2922f9
+DTSTART:20150808T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:KT vs ANC
+DESCRIPTION:KT Rolster (KT) vs Rebels Anarchy (ANC)\nType : BO2\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 12\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3e7f40e2-7b52-416e-9957-51f268fc732d
@@ -222,7 +222,7 @@ SUMMARY:AFS vs KT
 DESCRIPTION:Afreeca Freecs (AFS) vs KT Rolster (KT)\nType : BO3\nTournament
   : LCK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-37b01871-da18-4f77-98ee-d9d9ff2559c9
@@ -236,7 +236,7 @@ SUMMARY:KT vs JAG
 DESCRIPTION:KT Rolster (KT) vs Jin Air Green Wings (JAG)\nType : BO3\nTourn
  ament : LCK 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d5519dbe-5ce3-469c-a946-f0846749cea4
@@ -250,7 +250,7 @@ SUMMARY:KT vs CJE
 DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJE)\nType : BO3\nTournament : LCK
   2016 Spring Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f81e93a-4ccc-42b7-a1a5-6b6fac68a187
@@ -265,7 +265,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs KT Rolster (KT)\nType : BO2\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : KT Rol
  ster\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8fd93720-25a1-419f-ba2c-1512ddff259d
@@ -280,7 +280,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs KT Rolster (KT)\nType : BO3\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : KT Rolster\
  nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
@@ -295,22 +295,7 @@ DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 11\nWinner : KT Rolster\nLo
  oser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
-DTSTART:20150805T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150805T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:LZ vs KT
-DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament 
- : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : KT Rolster\
- nLooser : Longzhu Gaming\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-acbb94a2-2473-4bd7-91e1-f12d2b4200e5
@@ -325,7 +310,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs KT Rolster (KT)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : KT Rolster
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
@@ -340,7 +325,22 @@ DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
  ated tournament for lck_2015_summer\nWeek : 7\nWinner : KT Rolster\nLooser
   : e-mFire\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
+DTSTART:20150805T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150805T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:LZ vs KT
+DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : KT Rolster\
+ nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d3738084-fe22-4e34-924a-9f68a807cdfe
@@ -354,7 +354,7 @@ SUMMARY:KT vs ROX
 DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : L
  CK 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1f32b512-0e13-4f7f-aa80-8a5b5d7eb6ee
@@ -368,7 +368,7 @@ SUMMARY:EMF vs KT
 DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : LCK 
  2016 Spring Split\nWeek : 4\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a5b9136b-0a78-4f8f-a576-d420e500d8d4
@@ -382,7 +382,7 @@ SUMMARY:LZ vs KT
 DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament 
  : LCK 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f4e70135-6cb8-443d-94b2-0f2594ab1a4a
@@ -396,7 +396,7 @@ SUMMARY:KT vs SSB
 DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
  t : LCK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4d9b8bc1-ffde-4e43-a297-200adc48eadf
@@ -411,37 +411,7 @@ DESCRIPTION:KT Rolster (KT) vs TSM (TSM)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-2\nWinner : KT Rolster\nLooser : TSM
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160122T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-814eb469-c995-4399-a0ec-bd633dfbe8ad
-DTSTART:20151010T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151010T130000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_d/paris-day-7
-SUMMARY:TSM vs KT
-DESCRIPTION:TSM (TSM) vs KT Rolster (KT)\nType : BO1\nTournament : The 2015
-  World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : TSM
- \n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160122T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2a29c4de-b846-4710-a62c-92f0fb7c9558
-DTSTART:20151004T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151004T140000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_d/paris-day-4
-SUMMARY:KT vs OG
-DESCRIPTION:KT Rolster (KT) vs Origen (OG)\nType : BO1\nTournament : The 20
- 15 World Championship\nWeek : paris-day-4\nWinner : Origen\nLooser : KT Ro
- lster\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c8a1cd77-5988-4442-8224-accdbdcd3692
@@ -456,7 +426,7 @@ DESCRIPTION:Origen (OG) vs KT Rolster (KT)\nType : BO1\nTournament : The 20
  15 World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : O
  rigen\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-620dd9bf-4279-4716-8d3f-6819a8b893f5
@@ -471,7 +441,37 @@ DESCRIPTION:LGD Gaming (LGD) vs KT Rolster (KT)\nType : BO1\nTournament : T
  he 2015 World Championship\nWeek : paris-day-3\nWinner : KT Rolster\nLoose
  r : LGD Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-814eb469-c995-4399-a0ec-bd633dfbe8ad
+DTSTART:20151010T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151010T130000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_d/paris-day-7
+SUMMARY:TSM vs KT
+DESCRIPTION:TSM (TSM) vs KT Rolster (KT)\nType : BO1\nTournament : The 2015
+  World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : TSM
+ \n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160125T120045Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2a29c4de-b846-4710-a62c-92f0fb7c9558
+DTSTART:20151004T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151004T140000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_d/paris-day-4
+SUMMARY:KT vs OG
+DESCRIPTION:KT Rolster (KT) vs Origen (OG)\nType : BO1\nTournament : The 20
+ 15 World Championship\nWeek : paris-day-4\nWinner : Origen\nLooser : KT Ro
+ lster\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd1e125b-7dbc-49bd-8b02-6dfbdea2e088
@@ -486,7 +486,7 @@ DESCRIPTION:KT Rolster (KT) vs LGD Gaming (LGD)\nType : BO1\nTournament : T
  he 2015 World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLoose
  r : LGD Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3863275c-31e7-4eaf-a15a-34c3a342a275
@@ -500,6 +500,6 @@ SUMMARY:KT vs ROX
 DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO5\nTournament : T
  he 2015 World Championship\nWeek : london-day-4\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160122T120049Z
+DTSTAMP:20160125T120045Z
 END:VEVENT
 END:VCALENDAR

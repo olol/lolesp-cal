@@ -15,35 +15,7 @@ SUMMARY:HAF vs FG
 DESCRIPTION:Hafnet E-Sports (HAF) vs Furious Gaming (FG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a0bbf32d-e72e-40e3-8e8b-fc4d22a3cabf
-DTSTART:20160219T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160219T210000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/copa_latam_
- sur_apertura_2016/schedule/round_robin/3
-SUMMARY:FG vs KLG
-DESCRIPTION:Furious Gaming (FG) vs Kaos Latin Gamers (KLG)\nType : BO2\nTou
- rnament : Apertura - Copa Latinoamérica Sur\nWeek : 3\n
-CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-94c23aad-76a4-4abe-9320-086d07d03411
-DTSTART:20160304T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160304T010000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/copa_latam_
- sur_apertura_2016/schedule/round_robin/5
-SUMMARY:FG vs ISG
-DESCRIPTION:Furious Gaming (FG) vs Isurus Gaming (ISG)\nType : BO2\nTournam
- ent : Apertura - Copa Latinoamérica Sur\nWeek : 5\n
-CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-978eca8f-b9e6-4a8b-a142-d750d9912aeb
@@ -57,7 +29,7 @@ SUMMARY:KLG vs FG
 DESCRIPTION:Kaos Latin Gamers (KLG) vs Furious Gaming (FG)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 1\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-74b2a938-7f16-42ae-bc62-a970f2b6084b
@@ -71,7 +43,35 @@ SUMMARY:LK vs FG
 DESCRIPTION:Last Kings (LK) vs Furious Gaming (FG)\nType : BO2\nTournament 
  : Apertura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a0bbf32d-e72e-40e3-8e8b-fc4d22a3cabf
+DTSTART:20160219T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160219T210000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/copa_latam_
+ sur_apertura_2016/schedule/round_robin/3
+SUMMARY:FG vs KLG
+DESCRIPTION:Furious Gaming (FG) vs Kaos Latin Gamers (KLG)\nType : BO2\nTou
+ rnament : Apertura - Copa Latinoamérica Sur\nWeek : 3\n
+CATEGORIES:Apertura - Copa Latinoamérica Sur
+DTSTAMP:20160125T120049Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-94c23aad-76a4-4abe-9320-086d07d03411
+DTSTART:20160304T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160304T010000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/copa_latam_
+ sur_apertura_2016/schedule/round_robin/5
+SUMMARY:FG vs ISG
+DESCRIPTION:Furious Gaming (FG) vs Isurus Gaming (ISG)\nType : BO2\nTournam
+ ent : Apertura - Copa Latinoamérica Sur\nWeek : 5\n
+CATEGORIES:Apertura - Copa Latinoamérica Sur
+DTSTAMP:20160125T120049Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-58e4b5ce-3554-4085-ae2b-2ed8320d6456
@@ -85,7 +85,7 @@ SUMMARY:FG vs RBT
 DESCRIPTION:Furious Gaming (FG) vs Rebirth eSports (RBT)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 1\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-23422ebc-a5dc-40c1-aa97-4af9232eb5d8
@@ -99,7 +99,7 @@ SUMMARY:FG vs HAF
 DESCRIPTION:Furious Gaming (FG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0939570-982e-48b9-a51a-082e63d93cb9
@@ -113,7 +113,7 @@ SUMMARY:RBT vs FG
 DESCRIPTION:Rebirth eSports (RBT) vs Furious Gaming (FG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e1825ea0-8397-4080-9c85-de6cd881b3cf
@@ -127,7 +127,7 @@ SUMMARY:ISG vs FG
 DESCRIPTION:Isurus Gaming (ISG) vs Furious Gaming (FG)\nType : BO2\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4185915a-7bf9-48f8-a2f3-8825d3f111dd
@@ -141,6 +141,6 @@ SUMMARY:FG vs LK
 DESCRIPTION:Furious Gaming (FG) vs Last Kings (LK)\nType : BO2\nTournament 
  : Apertura - Copa Latinoamérica Sur\nWeek : 3\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160122T120052Z
+DTSTAMP:20160125T120049Z
 END:VEVENT
 END:VCALENDAR

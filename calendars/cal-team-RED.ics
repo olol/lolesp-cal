@@ -15,7 +15,7 @@ SUMMARY:OPK vs
 DESCRIPTION:Operation Kino (OPK) vs Red Canids ()\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160122T120053Z
+DTSTAMP:20160125T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71bf399e-f9ad-4395-9f3e-93492f6ea3bd
@@ -29,7 +29,7 @@ SUMMARY:VFK vs
 DESCRIPTION:Keyd Stars (VFK) vs Red Canids ()\nType : BO2\nTournament : The
   CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160122T120053Z
+DTSTAMP:20160125T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c726e50-06b0-413c-b363-4fc762a1edff
@@ -43,7 +43,7 @@ SUMMARY:CNB vs
 DESCRIPTION:CNB e-Sports Club (CNB) vs Red Canids ()\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160122T120053Z
+DTSTAMP:20160125T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-24a835c0-77a6-454c-a397-646c6df71035
@@ -58,7 +58,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Red Canids ()\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Red Canids\n
  Looser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160122T120053Z
+DTSTAMP:20160125T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d333d628-7683-4861-a701-34cc4e041d7a
@@ -72,7 +72,7 @@ SUMMARY:PNG vs
 DESCRIPTION:paiN Gaming (PNG) vs Red Canids ()\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160122T120053Z
+DTSTAMP:20160125T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c0809f9-1149-4991-ad89-b4d38b45ad8e
@@ -84,9 +84,10 @@ URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
  e/fase_de_grupos/Semana%202
 SUMMARY: vs ITZ
 DESCRIPTION:Red Canids () vs INTZ (ITZ)\nType : BO2\nTournament : The CBLOL
-  2016 Split 1 Tournament\nWeek : Semana 2\n
+  2016 Split 1 Tournament\nWeek : Semana 2\nWinner : INTZ\nLooser : Red Can
+ ids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160122T120053Z
+DTSTAMP:20160125T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9b22b4ee-7f70-4f84-a747-3217141ec29a
@@ -100,6 +101,6 @@ SUMMARY: vs G3X
 DESCRIPTION:Red Canids () vs g3nerationX (G3X)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160122T120053Z
+DTSTAMP:20160125T120050Z
 END:VEVENT
 END:VCALENDAR
