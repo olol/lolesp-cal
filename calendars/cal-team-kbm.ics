@@ -15,7 +15,7 @@ SUMMARY:OPK vs KBM
 DESCRIPTION:Operation Kino (OPK) vs KaBuM e-Sports (KBM)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160125T120050Z
+DTSTAMP:20160126T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6056f7eb-1eef-4383-b42e-3803029632c0
@@ -29,7 +29,7 @@ SUMMARY:VFK vs KBM
 DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160125T120050Z
+DTSTAMP:20160126T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54a0209a-190b-4040-8424-9a534580bd01
@@ -44,7 +44,7 @@ DESCRIPTION:paiN Gaming (PNG) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : paiN Gam
  ing\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160125T120050Z
+DTSTAMP:20160126T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-24a835c0-77a6-454c-a397-646c6df71035
@@ -59,7 +59,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Red Canids ()\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Red Canids\n
  Looser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160125T120050Z
+DTSTAMP:20160126T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
@@ -73,7 +73,7 @@ SUMMARY:KBM vs ITZ
 DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160125T120050Z
+DTSTAMP:20160126T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54178354-af73-4936-b38a-24c9145cc3c2
@@ -87,7 +87,7 @@ SUMMARY:CNB vs KBM
 DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160125T120050Z
+DTSTAMP:20160126T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b149765d-a396-43ea-98a3-80d25ceef81f
@@ -101,6 +101,6 @@ SUMMARY:KBM vs G3X
 DESCRIPTION:KaBuM e-Sports (KBM) vs g3nerationX (G3X)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160125T120050Z
+DTSTAMP:20160126T120051Z
 END:VEVENT
 END:VCALENDAR
