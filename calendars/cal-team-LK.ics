@@ -15,7 +15,7 @@ SUMMARY:LK vs HAF
 DESCRIPTION:Last Kings (LK) vs Hafnet E-Sports (HAF)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 1\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5cff6768-6f8f-4a3a-a238-80817b07528b
@@ -29,7 +29,7 @@ SUMMARY:LK vs ISG
 DESCRIPTION:Last Kings (LK) vs Isurus Gaming (ISG)\nType : BO2\nTournament 
  : Apertura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-74b2a938-7f16-42ae-bc62-a970f2b6084b
@@ -43,7 +43,7 @@ SUMMARY:LK vs FG
 DESCRIPTION:Last Kings (LK) vs Furious Gaming (FG)\nType : BO2\nTournament 
  : Apertura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c113b80-5c94-496f-8fc8-60f6a3883cc3
@@ -57,7 +57,7 @@ SUMMARY:LK vs RBT
 DESCRIPTION:Last Kings (LK) vs Rebirth eSports (RBT)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bbdc96d8-9048-4df8-8db7-147cdd22b1c5
@@ -71,7 +71,7 @@ SUMMARY:KLG vs LK
 DESCRIPTION:Kaos Latin Gamers (KLG) vs Last Kings (LK)\nType : BO2\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-14714416-4af3-4237-9a27-9b57118a2f95
@@ -85,7 +85,7 @@ SUMMARY:ISG vs LK
 DESCRIPTION:Isurus Gaming (ISG) vs Last Kings (LK)\nType : BO2\nTournament 
  : Apertura - Copa Latinoamérica Sur\nWeek : 1\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d438e149-d041-456e-9ce8-25a8275f0a62
@@ -99,7 +99,7 @@ SUMMARY:RBT vs LK
 DESCRIPTION:Rebirth eSports (RBT) vs Last Kings (LK)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cba85e68-ad83-42e8-a362-6dab715654d6
@@ -113,7 +113,7 @@ SUMMARY:LK vs KLG
 DESCRIPTION:Last Kings (LK) vs Kaos Latin Gamers (KLG)\nType : BO2\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4185915a-7bf9-48f8-a2f3-8825d3f111dd
@@ -127,7 +127,7 @@ SUMMARY:FG vs LK
 DESCRIPTION:Furious Gaming (FG) vs Last Kings (LK)\nType : BO2\nTournament 
  : Apertura - Copa Latinoamérica Sur\nWeek : 3\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77159b71-7f4f-4397-a8c4-7ff519574d05
@@ -141,6 +141,6 @@ SUMMARY:HAF vs LK
 DESCRIPTION:Hafnet E-Sports (HAF) vs Last Kings (LK)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 3\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120052Z
 END:VEVENT
 END:VCALENDAR

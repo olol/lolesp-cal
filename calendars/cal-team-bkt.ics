@@ -16,7 +16,7 @@ DESCRIPTION:H2K (H2K) vs Bangkok Titans (BKT)\nType : BO1\nTournament : The
   2015 World Championship\nWeek : paris-day-3\nWinner : H2K\nLooser : Bangk
  ok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d184d955-c4f5-46f1-abd0-f7f992401959
@@ -31,7 +31,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs Edward Gaming (EDG)\nType : BO1\nTourna
  ment : The 2015 World Championship\nWeek : paris-day-6\nWinner : Edward Ga
  ming\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e5e1a4a-aacb-4439-b0b9-175e32669cdc
@@ -46,7 +46,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs H2K (H2K)\nType : BO1\nTournament : The
   2015 World Championship\nWeek : paris-day-6\nWinner : H2K\nLooser : Bangk
  ok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7e792ef6-ae87-428a-8c40-55affe15a84d
@@ -61,7 +61,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs SKTelecom T1 (SKT)\nType : BO1\nTournam
  ent : The 2015 World Championship\nWeek : paris-day-2\nWinner : SKTelecom 
  T1\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fbb6be62-36ee-4670-add3-0f4d811d07ce
@@ -76,7 +76,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Bangkok Titans (BKT)\nType : BO1\nTourna
  ment : The 2015 World Championship\nWeek : paris-day-1\nWinner : Edward Ga
  ming\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9dc740f0-68bb-4da6-ae58-8ad873e17626
@@ -91,6 +91,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Bangkok Titans (BKT)\nType : BO1\nTournam
  ent : The 2015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom 
  T1\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160126T120051Z
+DTSTAMP:20160128T120051Z
 END:VEVENT
 END:VCALENDAR
