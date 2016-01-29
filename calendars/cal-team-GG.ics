@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-GG
+X-WR-CALNAME:LoL eSports GG
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-88adf4b9-65c6-492b-afd9-879d3ff9207b
+DTSTART:20160308T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160308T030000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/6
+SUMMARY:RvG vs GG
+DESCRIPTION:Revenge eSports (RvG) vs Galactic Gaming (GG)\nType : BO3\nTour
+ nament : Copa Latinoamerica Norte\nWeek : 6\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-19cec49e-1cda-4b96-b470-fa2155de5af9
+DTSTART:20160229T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160301T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/5
+SUMMARY:GG vs LG
+DESCRIPTION:Galactic Gaming (GG) vs Lyon Gaming (LG)\nType : BO3\nTournamen
+ t : Copa Latinoamerica Norte\nWeek : 5\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c3e47dc8-5ee0-48d4-8717-376c54b4c706
+DTSTART:20160209T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160209T030000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/2
+SUMMARY:GG vs RvG
+DESCRIPTION:Galactic Gaming (GG) vs Revenge eSports (RvG)\nType : BO3\nTour
+ nament : Copa Latinoamerica Norte\nWeek : 2\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e4a1aeeb-9078-459b-ab67-c7c4669c435a
+DTSTART:20160216T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160217T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/3
+SUMMARY:TSE vs GG
+DESCRIPTION:Tesla eSports (TSE) vs Galactic Gaming (GG)\nType : BO3\nTourna
+ ment : Copa Latinoamerica Norte\nWeek : 3\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7c73aa3b-cb8e-43a2-b105-b33f446715d6
+DTSTART:20160222T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160223T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/4
+SUMMARY:GG vs D9
+DESCRIPTION:Galactic Gaming (GG) vs Dash9 Gaming (D9)\nType : BO3\nTourname
+ nt : Copa Latinoamerica Norte\nWeek : 4\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d50367bd-4fed-4e9c-a9f3-bd41ea26263a
+DTSTART:20160201T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160202T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/1
+SUMMARY:LG vs GG
+DESCRIPTION:Lyon Gaming (LG) vs Galactic Gaming (GG)\nType : BO3\nTournamen
+ t : Copa Latinoamerica Norte\nWeek : 1\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7c470c93-a41b-4edc-a12b-c40e3ddc6da7
+DTSTART:20160215T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160216T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/3
+SUMMARY:GG vs HVK
+DESCRIPTION:Galactic Gaming (GG) vs Havoks Gaming (HVK)\nType : BO3\nTourna
+ ment : Copa Latinoamerica Norte\nWeek : 3\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f4e8af52-c1fc-4718-b71f-135b701847c3
+DTSTART:20160314T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160314T230000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/7
+SUMMARY:HVK vs GG
+DESCRIPTION:Havoks Gaming (HVK) vs Galactic Gaming (GG)\nType : BO3\nTourna
+ ment : Copa Latinoamerica Norte\nWeek : 7\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-52a81c49-f249-46f0-9341-05f0cd96954e
+DTSTART:20160315T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160315T230000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/7
+SUMMARY:GG vs TSE
+DESCRIPTION:Galactic Gaming (GG) vs Tesla eSports (TSE)\nType : BO3\nTourna
+ ment : Copa Latinoamerica Norte\nWeek : 7\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9c73e9c1-30ee-43ba-87ce-ecf9d146a2fb
+DTSTART:20160321T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160321T230000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/8
+SUMMARY:D9 vs GG
+DESCRIPTION:Dash9 Gaming (D9) vs Galactic Gaming (GG)\nType : BO3\nTourname
+ nt : Copa Latinoamerica Norte\nWeek : 8\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TSE
+X-WR-CALNAME:LoL eSports TSE
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-0ee5e679-f52a-4ebf-9785-29a7300e78c1
+DTSTART:20160322T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160322T020000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/8
+SUMMARY:TSE vs HVK
+DESCRIPTION:Tesla eSports (TSE) vs Havoks Gaming (HVK)\nType : BO3\nTournam
+ ent : Copa Latinoamerica Norte\nWeek : 8\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c752b7b6-8b89-447d-9db2-21d74bbfdb48
+DTSTART:20160210T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160210T010000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/2
+SUMMARY:TSE vs LG
+DESCRIPTION:Tesla eSports (TSE) vs Lyon Gaming (LG)\nType : BO3\nTournament
+  : Copa Latinoamerica Norte\nWeek : 2\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e4a1aeeb-9078-459b-ab67-c7c4669c435a
+DTSTART:20160216T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160217T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/3
+SUMMARY:TSE vs GG
+DESCRIPTION:Tesla eSports (TSE) vs Galactic Gaming (GG)\nType : BO3\nTourna
+ ment : Copa Latinoamerica Norte\nWeek : 3\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-af4a6256-af50-4e8a-b397-ef3c8413a787
+DTSTART:20160301T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160302T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/5
+SUMMARY:TSE vs RvG
+DESCRIPTION:Tesla eSports (TSE) vs Revenge eSports (RvG)\nType : BO3\nTourn
+ ament : Copa Latinoamerica Norte\nWeek : 5\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d77ed3ea-e7c6-4ce3-9e1b-4696b4a3d369
+DTSTART:20160309T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160309T030000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/6
+SUMMARY:LG vs TSE
+DESCRIPTION:Lyon Gaming (LG) vs Tesla eSports (TSE)\nType : BO3\nTournament
+  : Copa Latinoamerica Norte\nWeek : 6\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2c68502e-7d36-4f86-a497-3c0d1ed2f9fe
+DTSTART:20160202T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160203T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/1
+SUMMARY:RvG vs TSE
+DESCRIPTION:Revenge eSports (RvG) vs Tesla eSports (TSE)\nType : BO3\nTourn
+ ament : Copa Latinoamerica Norte\nWeek : 1\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-74e679d1-1c2f-460c-8a36-888e24603bd8
+DTSTART:20160208T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160209T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/2
+SUMMARY:TSE vs D9
+DESCRIPTION:Tesla eSports (TSE) vs Dash9 Gaming (D9)\nType : BO3\nTournamen
+ t : Copa Latinoamerica Norte\nWeek : 2\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41502695-200c-4f34-b4fd-0491fae38fb2
+DTSTART:20160223T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160223T030000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/4
+SUMMARY:HVK vs TSE
+DESCRIPTION:Havoks Gaming (HVK) vs Tesla eSports (TSE)\nType : BO3\nTournam
+ ent : Copa Latinoamerica Norte\nWeek : 4\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a17f35fc-c16e-4fa7-adf8-03462a84b188
+DTSTART:20160307T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160308T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/6
+SUMMARY:D9 vs TSE
+DESCRIPTION:Dash9 Gaming (D9) vs Tesla eSports (TSE)\nType : BO3\nTournamen
+ t : Copa Latinoamerica Norte\nWeek : 6\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-52a81c49-f249-46f0-9341-05f0cd96954e
+DTSTART:20160315T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160315T230000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/7
+SUMMARY:GG vs TSE
+DESCRIPTION:Galactic Gaming (GG) vs Tesla eSports (TSE)\nType : BO3\nTourna
+ ment : Copa Latinoamerica Norte\nWeek : 7\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160129T120059Z
+END:VEVENT
+END:VCALENDAR
