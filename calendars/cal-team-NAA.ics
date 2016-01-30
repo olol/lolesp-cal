@@ -15,21 +15,7 @@ SUMMARY:NAA vs IWC
 DESCRIPTION:NA LCS All-Stars (NAA) vs IWC All-Stars (IWC)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160129T120057Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-859a2bc8-b70f-4427-aaa6-c3fc463c6e6e
-DTSTART:20151213T032000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151213T042000Z
-URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
- r_2015_main/ase-day-3
-SUMMARY:NAA vs LPL
-DESCRIPTION:NA LCS All-Stars (NAA) vs LPL All-Stars (LPL)\nType : BO1\nTour
- nament : Initial All-Star format\nWeek : ase-day-3\n
-CATEGORIES:Initial All-Star format
-DTSTAMP:20160129T120057Z
+DTSTAMP:20160130T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16f269fa-53b8-494c-b8dd-2e0dda4d5f99
@@ -43,6 +29,20 @@ SUMMARY:NAA vs EUA
 DESCRIPTION:NA LCS All-Stars (NAA) vs EU LCS All-Stars (EUA)\nType : BO1\nT
  ournament : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160129T120057Z
+DTSTAMP:20160130T120103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-859a2bc8-b70f-4427-aaa6-c3fc463c6e6e
+DTSTART:20151213T032000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151213T042000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-3
+SUMMARY:NAA vs LPL
+DESCRIPTION:NA LCS All-Stars (NAA) vs LPL All-Stars (LPL)\nType : BO1\nTour
+ nament : Initial All-Star format\nWeek : ase-day-3\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160130T120103Z
 END:VEVENT
 END:VCALENDAR
