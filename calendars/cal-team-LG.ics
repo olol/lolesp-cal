@@ -4,63 +4,7 @@ PRODID:www.lolesports.com|cal-team-LG
 X-WR-CALNAME:LoL eSports LG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-19cec49e-1cda-4b96-b470-fa2155de5af9
-DTSTART:20160229T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160301T000000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
- 016_split_1/schedule/round_robin/5
-SUMMARY:GG vs LG
-DESCRIPTION:Galactic Gaming (GG) vs Lyon Gaming (LG)\nType : BO3\nTournamen
- t : Copa Latinoamerica Norte\nWeek : 5\n
-CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5d10d37e-a2e0-4395-8eaa-3fd19b009ece
-DTSTART:20160302T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160302T030000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
- 016_split_1/schedule/round_robin/5
-SUMMARY:HVK vs LG
-DESCRIPTION:Havoks Gaming (HVK) vs Lyon Gaming (LG)\nType : BO3\nTournament
-  : Copa Latinoamerica Norte\nWeek : 5\n
-CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-29c110d6-998b-45b2-93f4-6b111997875b
-DTSTART:20160203T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160203T030000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
- 016_split_1/schedule/round_robin/1
-SUMMARY:LG vs HVK
-DESCRIPTION:Lyon Gaming (LG) vs Havoks Gaming (HVK)\nType : BO3\nTournament
-  : Copa Latinoamerica Norte\nWeek : 1\n
-CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c752b7b6-8b89-447d-9db2-21d74bbfdb48
-DTSTART:20160210T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160210T010000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
- 016_split_1/schedule/round_robin/2
-SUMMARY:TSE vs LG
-DESCRIPTION:Tesla eSports (TSE) vs Lyon Gaming (LG)\nType : BO3\nTournament
-  : Copa Latinoamerica Norte\nWeek : 2\n
-CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1283a218-9867-4076-a2e7-b49b38106893
+UID:match-fa0b60c5-c880-4c13-b2c6-62b533e37ba1
 DTSTART:20160216T020000Z
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -71,38 +15,24 @@ SUMMARY:D9 vs LG
 DESCRIPTION:Dash9 Gaming (D9) vs Lyon Gaming (LG)\nType : BO3\nTournament :
   Copa Latinoamerica Norte\nWeek : 3\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
+DTSTAMP:20160131T120051Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-9923ba42-7be5-4564-982b-ca5b419eab6b
-DTSTART:20160315T010000Z
+UID:match-70979b68-da04-4271-baed-2f50f645a79b
+DTSTART:20160210T020000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160315T020000Z
+DTEND:20160210T030000Z
 URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
- 016_split_1/schedule/round_robin/7
-SUMMARY:LG vs D9
-DESCRIPTION:Lyon Gaming (LG) vs Dash9 Gaming (D9)\nType : BO3\nTournament :
-  Copa Latinoamerica Norte\nWeek : 7\n
+ 016_split_1/schedule/round_robin/2
+SUMMARY:TSE vs LG
+DESCRIPTION:Tesla eSports (TSE) vs Lyon Gaming (LG)\nType : BO3\nTournament
+  : Copa Latinoamerica Norte\nWeek : 2\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
+DTSTAMP:20160131T120051Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-27531a99-c411-497e-adca-f91e817823b6
-DTSTART:20160223T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160224T000000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
- 016_split_1/schedule/round_robin/4
-SUMMARY:LG vs RvG
-DESCRIPTION:Lyon Gaming (LG) vs Revenge eSports (RvG)\nType : BO3\nTourname
- nt : Copa Latinoamerica Norte\nWeek : 4\n
-CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d77ed3ea-e7c6-4ce3-9e1b-4696b4a3d369
+UID:match-6b1caf78-d14c-4a93-b8c0-c5d795c9b313
 DTSTART:20160309T020000Z
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -113,10 +43,52 @@ SUMMARY:LG vs TSE
 DESCRIPTION:Lyon Gaming (LG) vs Tesla eSports (TSE)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 6\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
+DTSTAMP:20160131T120051Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-d50367bd-4fed-4e9c-a9f3-bd41ea26263a
+UID:match-2e0787fb-4a15-41f9-bd9b-dd2c98fec14e
+DTSTART:20160315T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160315T020000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/7
+SUMMARY:LG vs D9
+DESCRIPTION:Lyon Gaming (LG) vs Dash9 Gaming (D9)\nType : BO3\nTournament :
+  Copa Latinoamerica Norte\nWeek : 7\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160131T120051Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3e2f6ecb-6a22-4dc1-9d55-e9bb2482e21e
+DTSTART:20160203T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160203T030000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/1
+SUMMARY:LG vs HVK
+DESCRIPTION:Lyon Gaming (LG) vs Havoks Gaming (HVK)\nType : BO3\nTournament
+  : Copa Latinoamerica Norte\nWeek : 1\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160131T120051Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-af3298d0-f7db-4f44-b4bf-895a470a27ae
+DTSTART:20160229T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160301T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/5
+SUMMARY:GG vs LG
+DESCRIPTION:Galactic Gaming (GG) vs Lyon Gaming (LG)\nType : BO3\nTournamen
+ t : Copa Latinoamerica Norte\nWeek : 5\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160131T120051Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8a821c8b-339e-4cec-880a-a2ac6c184bca
 DTSTART:20160201T230000Z
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -127,10 +99,38 @@ SUMMARY:LG vs GG
 DESCRIPTION:Lyon Gaming (LG) vs Galactic Gaming (GG)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 1\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
+DTSTAMP:20160131T120051Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-0e89a60f-a341-4164-8659-c0ef4b3ca328
+UID:match-5c597382-9fdc-4813-94ef-70b95cbde062
+DTSTART:20160223T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160224T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/4
+SUMMARY:LG vs RvG
+DESCRIPTION:Lyon Gaming (LG) vs Revenge eSports (RvG)\nType : BO3\nTourname
+ nt : Copa Latinoamerica Norte\nWeek : 4\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160131T120051Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-73ca4abc-eea6-42d6-b7c9-f4837a2ae86d
+DTSTART:20160302T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160302T030000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/5
+SUMMARY:HVK vs LG
+DESCRIPTION:Havoks Gaming (HVK) vs Lyon Gaming (LG)\nType : BO3\nTournament
+  : Copa Latinoamerica Norte\nWeek : 5\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160131T120051Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b753f0f3-41a5-4e3b-bc9e-412cdf3e80de
 DTSTART:20160322T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -141,6 +141,6 @@ SUMMARY:RvG vs LG
 DESCRIPTION:Revenge eSports (RvG) vs Lyon Gaming (LG)\nType : BO3\nTourname
  nt : Copa Latinoamerica Norte\nWeek : 8\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160129T120100Z
+DTSTAMP:20160131T120051Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ SUMMARY:JAP vs CIS
 DESCRIPTION:All-Stars LJL (JAP) vs All-Stars CIS (CIS)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160130T120104Z
+DTSTAMP:20160131T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e7145e0-7ae7-4b3a-8788-d138f4ffd7f7
@@ -29,6 +29,6 @@ SUMMARY:BRA vs JAP
 DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars LJL (JAP)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160130T120104Z
+DTSTAMP:20160131T120051Z
 END:VEVENT
 END:VCALENDAR

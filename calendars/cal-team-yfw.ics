@@ -4,81 +4,6 @@ PRODID:www.lolesports.com|cal-team-YFW
 X-WR-CALNAME:LoL eSports YFW
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-92090663-0ca9-4d12-b0ac-1c60e2d83574
-DTSTART:20150618T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/5
-SUMMARY:FW vs M17
-DESCRIPTION:Flash Wolves (FW) vs Machi (M17)\nType : BO2\nTournament : Migr
- ated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash Wolves\nLoos
- er : Machi\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-40aa73f5-f133-40bb-954c-d0f25ad0a77a
-DTSTART:20150528T123000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150528T133000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/2
-SUMMARY:MSE vs FW
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (FW)\nType : BO2\nT
- ournament : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : Fl
- ash Wolves\nLooser : Flash Wolves\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f5b16d8a-7986-4dfd-b898-defbe38c7476
-DTSTART:20150619T123000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T133000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/5
-SUMMARY:FW vs TPA
-DESCRIPTION:Flash Wolves (FW) vs Taipei Assassins (TPA)\nType : BO2\nTourna
- ment : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash W
- olves\nLooser : Taipei Assassins\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d7fb15fa-5326-4b0e-a9c5-2ef1120740be
-DTSTART:20150610T123000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150610T133000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/4
-SUMMARY:FW vs AS
-DESCRIPTION:Flash Wolves (FW) vs Assassin Sniper (AS)\nType : BO2\nTourname
- nt : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : Flash Wol
- ves\nLooser : Assassin Sniper\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ade03247-a681-4636-9191-80cf8829c8fe
-DTSTART:20150625T123000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T133000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/6
-SUMMARY:FW vs LGS
-DESCRIPTION:Flash Wolves (FW) vs Logitech G Sniper (LGS)\nType : BO2\nTourn
- ament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Flash 
- Wolves\nLooser : Logitech G Sniper\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-001af1b2-cd42-4319-9a16-2757b417cd5d
 DTSTART:20150603T103000Z
 SEQUENCE:0
@@ -91,7 +16,7 @@ DESCRIPTION:Flash Wolves (FW) vs Hong Kong Esports (HKE)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Hong K
  ong Esports\nLooser : Hong Kong Esports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
+DTSTAMP:20160131T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-129c296d-c61f-44f0-bd8e-4b8175adbd5d
@@ -106,7 +31,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (FW)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : Flash 
  Wolves\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
+DTSTAMP:20160131T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b350be46-b802-4bdb-8b24-028f7046e059
@@ -121,7 +46,82 @@ DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
  ournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Fl
  ash Wolves\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
+DTSTAMP:20160131T120050Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-92090663-0ca9-4d12-b0ac-1c60e2d83574
+DTSTART:20150618T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/5
+SUMMARY:FW vs M17
+DESCRIPTION:Flash Wolves (FW) vs Machi (M17)\nType : BO2\nTournament : Migr
+ ated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash Wolves\nLoos
+ er : Machi\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160131T120050Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-40aa73f5-f133-40bb-954c-d0f25ad0a77a
+DTSTART:20150528T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150528T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/2
+SUMMARY:MSE vs FW
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (FW)\nType : BO2\nT
+ ournament : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : Fl
+ ash Wolves\nLooser : Flash Wolves\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160131T120050Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d7fb15fa-5326-4b0e-a9c5-2ef1120740be
+DTSTART:20150610T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/4
+SUMMARY:FW vs AS
+DESCRIPTION:Flash Wolves (FW) vs Assassin Sniper (AS)\nType : BO2\nTourname
+ nt : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : Flash Wol
+ ves\nLooser : Assassin Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160131T120050Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f5b16d8a-7986-4dfd-b898-defbe38c7476
+DTSTART:20150619T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/5
+SUMMARY:FW vs TPA
+DESCRIPTION:Flash Wolves (FW) vs Taipei Assassins (TPA)\nType : BO2\nTourna
+ ment : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash W
+ olves\nLooser : Taipei Assassins\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160131T120050Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ade03247-a681-4636-9191-80cf8829c8fe
+DTSTART:20150625T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/6
+SUMMARY:FW vs LGS
+DESCRIPTION:Flash Wolves (FW) vs Logitech G Sniper (LGS)\nType : BO2\nTourn
+ ament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Flash 
+ Wolves\nLooser : Logitech G Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160131T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71f467d9-0db1-4da5-98a4-ca19b79ed5c2
@@ -136,7 +136,7 @@ DESCRIPTION:Flash Wolves (FW) vs ahq e-Sports Club (AHQ)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : ahq e-
  Sports Club\nLooser : Flash Wolves\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
+DTSTAMP:20160131T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f440812e-ed14-45df-9789-a896b453c401
@@ -151,7 +151,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Flash Wolves (FW)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Flash 
  Wolves\nLooser : Flash Wolves\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
+DTSTAMP:20160131T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e9287451-66bd-45cd-ab4f-595ae644df0d
@@ -166,37 +166,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (FW)\nType : BO2\nTourna
  ment : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : Flash W
  olves\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f2b93351-68ee-4dce-aa44-d036ed397415
-DTSTART:20150708T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150708T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/8
-SUMMARY:AS vs FW
-DESCRIPTION:Assassin Sniper (AS) vs Flash Wolves (FW)\nType : BO2\nTourname
- nt : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wol
- ves\nLooser : Assassin Sniper\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ae808b15-3cb3-4793-9c95-9064092f78ef
-DTSTART:20150712T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150712T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/8
-SUMMARY:M17 vs FW
-DESCRIPTION:Machi (M17) vs Flash Wolves (FW)\nType : BO2\nTournament : Migr
- ated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wolves\nLoos
- er : Machi\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
+DTSTAMP:20160131T120050Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4372734f-b17a-4a65-ad87-7c595cff0b08
@@ -211,6 +181,36 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (FW)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : ahq e-
  Sports Club\nLooser : Flash Wolves\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160130T120102Z
+DTSTAMP:20160131T120050Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f2b93351-68ee-4dce-aa44-d036ed397415
+DTSTART:20150708T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150708T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/8
+SUMMARY:AS vs FW
+DESCRIPTION:Assassin Sniper (AS) vs Flash Wolves (FW)\nType : BO2\nTourname
+ nt : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wol
+ ves\nLooser : Assassin Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160131T120050Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ae808b15-3cb3-4793-9c95-9064092f78ef
+DTSTART:20150712T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150712T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/8
+SUMMARY:M17 vs FW
+DESCRIPTION:Machi (M17) vs Flash Wolves (FW)\nType : BO2\nTournament : Migr
+ ated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wolves\nLoos
+ er : Machi\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160131T120050Z
 END:VEVENT
 END:VCALENDAR
