@@ -4,20 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-eu-2015-summer-playoffs
 X-WR-CALNAME:LoL eSports Eu 2015 summer playoffs
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-086c8e9b-d976-4eeb-b461-7c4e06fc9ef4
-DTSTART:20150823T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150823T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
- /eu_2015_summer_playoffs/finals
-SUMMARY:FNC vs OG
-DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO5\nTournament : Generated
-  tournament for the 2015 summer playoffs\nWeek : finals\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120048Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-4e45e554-20a7-48fa-8bd6-1bed9345be3f
 DTSTART:20150816T150000Z
 SEQUENCE:0
@@ -29,21 +15,7 @@ SUMMARY:FNC vs UOL
 DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO3\nTournament 
  : Generated tournament for the 2015 summer playoffs\nWeek : semifinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120048Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-317349d3-2759-4605-9819-fb20f8f099d0
-DTSTART:20150822T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150822T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
- /eu_2015_summer_playoffs/3rd-place
-SUMMARY:UOL vs H2K
-DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO3\nTournament : G
- enerated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120048Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-88fef2cf-9289-427d-852f-6034ac2ba8d3
@@ -57,7 +29,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO3\nTournament : Generated t
  ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120048Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a65316d-7e56-4022-a39e-982fac2323bb
@@ -72,7 +44,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs ROCCAT (ROC)\nType : BO5\nTournament
  : Generated tournament for the 2015 summer playoffs\nWeek : quarterfinals\
  n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120048Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-699aaccc-8977-462e-a11c-5f0aeb2d234b
@@ -86,6 +58,34 @@ SUMMARY:OG vs H2K
 DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO4\nTournament : Generated to
  urnament for the 2015 summer playoffs\nWeek : semifinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120048Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-086c8e9b-d976-4eeb-b461-7c4e06fc9ef4
+DTSTART:20150823T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
+ /eu_2015_summer_playoffs/finals
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO5\nTournament : Generated
+  tournament for the 2015 summer playoffs\nWeek : finals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-317349d3-2759-4605-9819-fb20f8f099d0
+DTSTART:20150822T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150822T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
+ /eu_2015_summer_playoffs/3rd-place
+SUMMARY:UOL vs H2K
+DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO3\nTournament : G
+ enerated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160202T120048Z
 END:VEVENT
 END:VCALENDAR

@@ -4,104 +4,6 @@ PRODID:www.lolesports.com|cal-team-CLG
 X-WR-CALNAME:LoL eSports CLG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-3cb4eabc-9315-4830-8162-c455682d1061
-DTSTART:20160123T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:TL vs CLG
-DESCRIPTION:Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
- nt : NA 2016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ac027c02-a3c7-4eab-abf7-3cda57a6b4da
-DTSTART:20160320T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:CLG vs DIG
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
- Tournament : NA 2016 Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0d35a37e-76c6-484a-91a0-8d8521a3fd68
-DTSTART:20160213T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160213T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:NRG vs CLG
-DESCRIPTION:NRG Esports (NRG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
- urnament : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fa9b79d8-2ba0-4eed-9985-d4ba6c1b2733
-DTSTART:20160220T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:CLG vs TIP
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
- ournament : NA 2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f1860197-3986-4a09-8e73-d30035c3638f
-DTSTART:20160116T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:TSM vs CLG
-DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
-  : NA 2016 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7587680b-ea08-4f75-ba9a-8f842cad7810
-DTSTART:20160227T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:IMT vs CLG
-DESCRIPTION:Immortals (IMT) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
- nament : NA 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7b809628-73af-4bf0-8183-6d8eb63935ba
-DTSTART:20160130T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:CLG vs FOX
-DESCRIPTION:Counter Logic Gaming (CLG) vs Echo Fox (FOX)\nType : BO1\nTourn
- ament : NA 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-03f2990e-13bb-419b-94c5-607ae14261d1
 DTSTART:20160207T230000Z
 SEQUENCE:0
@@ -113,7 +15,7 @@ SUMMARY:TIP vs CLG
 DESCRIPTION:Team Impulse (TIP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120046Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6ecc1703-5d94-4a7a-80d9-8e76ad847e1c
@@ -127,7 +29,7 @@ SUMMARY:REN vs CLG
 DESCRIPTION:Renegades (REN) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
  nament : NA 2016 Spring Split\nWeek : 6\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120046Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4a7bb6aa-5d40-44cb-8673-907aa34fd06c
@@ -141,7 +43,105 @@ SUMMARY:C9 vs CLG
 DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3cb4eabc-9315-4830-8162-c455682d1061
+DTSTART:20160123T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:TL vs CLG
+DESCRIPTION:Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
+ nt : NA 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ac027c02-a3c7-4eab-abf7-3cda57a6b4da
+DTSTART:20160320T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:CLG vs DIG
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
+ Tournament : NA 2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0d35a37e-76c6-484a-91a0-8d8521a3fd68
+DTSTART:20160213T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160213T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:NRG vs CLG
+DESCRIPTION:NRG Esports (NRG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
+ urnament : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fa9b79d8-2ba0-4eed-9985-d4ba6c1b2733
+DTSTART:20160220T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:CLG vs TIP
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
+ ournament : NA 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7b809628-73af-4bf0-8183-6d8eb63935ba
+DTSTART:20160130T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:CLG vs FOX
+DESCRIPTION:Counter Logic Gaming (CLG) vs Echo Fox (FOX)\nType : BO1\nTourn
+ ament : NA 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f1860197-3986-4a09-8e73-d30035c3638f
+DTSTART:20160116T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:TSM vs CLG
+DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7587680b-ea08-4f75-ba9a-8f842cad7810
+DTSTART:20160227T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:IMT vs CLG
+DESCRIPTION:Immortals (IMT) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
+ nament : NA 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0aad477b-bb7b-455c-b666-8b0f5fd6db97
@@ -155,7 +155,7 @@ SUMMARY:TSM vs CLG
 DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nTournament
   : Generated tournament for the 2015 summer playoffs\nWeek : finals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e5a2b2d-19a9-4ae6-bde0-bebe6bd97f57
@@ -170,7 +170,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO3\nT
  ournament : Generated tournament for the 2015 summer playoffs\nWeek : semi
  finals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-02fa5a4f-7f67-437f-9bb1-192d7877788f
@@ -184,7 +184,7 @@ SUMMARY:CLG vs IMT
 DESCRIPTION:Counter Logic Gaming (CLG) vs Immortals (IMT)\nType : BO1\nTour
  nament : NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8631794-fc4e-4ddc-b33d-28467fa4c0b3
@@ -198,7 +198,7 @@ SUMMARY:CLG vs NRG
 DESCRIPTION:Counter Logic Gaming (CLG) vs NRG Esports (NRG)\nType : BO1\nTo
  urnament : NA 2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9285a10b-c63b-4b41-95fd-a25f08a802ac
@@ -212,7 +212,7 @@ SUMMARY:DIG vs CLG
 DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA 2016 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4403d39e-f613-48a1-b3c7-c8b9479f531f
@@ -226,7 +226,7 @@ SUMMARY:CLG vs C9
 DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA 2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab0dbd05-c150-4041-a252-da145de95ebb
@@ -240,7 +240,7 @@ SUMMARY:CLG vs REN
 DESCRIPTION:Counter Logic Gaming (CLG) vs Renegades (REN)\nType : BO1\nTour
  nament : NA 2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ebdb2e4c-11b9-4e9f-a7ac-4b23950cd949
@@ -254,7 +254,7 @@ SUMMARY:FOX vs CLG
 DESCRIPTION:Echo Fox (FOX) vs Counter Logic Gaming (CLG)\nType : BO1\nTourn
  ament : NA 2016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-93cbe3ea-0b4f-42a7-b097-b5ea6a7dc128
@@ -268,7 +268,7 @@ SUMMARY:CLG vs TSM
 DESCRIPTION:Counter Logic Gaming (CLG) vs TSM (TSM)\nType : BO1\nTournament
   : NA 2016 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77933566-624e-4a8d-bb4b-833cd12d6eeb
@@ -282,7 +282,7 @@ SUMMARY:CLG vs TL
 DESCRIPTION:Counter Logic Gaming (CLG) vs Liquid (TL)\nType : BO1\nTourname
  nt : NA 2016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c256d8e7-5724-41a8-9f66-2eb33106a97b
@@ -297,22 +297,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : The 2015 World Championship\nWeek : paris-day-4\nWinner : ROX Ti
  gers\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ef5c4f4a-6a05-423e-b51e-21a21c13bb9f
-DTSTART:20151008T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151008T130000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_a/paris-day-5
-SUMMARY:CLG vs ROX
-DESCRIPTION:Counter Logic Gaming (CLG) vs ROX Tigers (ROX)\nType : BO1\nTou
- rnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Ti
- gers\nLooser : Counter Logic Gaming\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f90c01ba-d4e5-4441-a50a-8d2fe7e2afd3
@@ -327,37 +312,22 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs paiN Gaming (PNG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-2\nWinner : Count
  er Logic Gaming\nLooser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-bfde3b6a-18de-49a3-abe6-a568b99afebc
-DTSTART:20151008T170000Z
+UID:match-ef5c4f4a-6a05-423e-b51e-21a21c13bb9f
+DTSTART:20151008T120000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20151008T180000Z
+DTEND:20151008T130000Z
 URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
  /group_a/paris-day-5
-SUMMARY:PNG vs CLG
-DESCRIPTION:paiN Gaming (PNG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
- urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : paiN 
- Gaming\nLooser : Counter Logic Gaming\n
+SUMMARY:CLG vs ROX
+DESCRIPTION:Counter Logic Gaming (CLG) vs ROX Tigers (ROX)\nType : BO1\nTou
+ rnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Ti
+ gers\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160201T120047Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0384eea9-25a9-485a-9782-6d2bea1dbe87
-DTSTART:20151001T183000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151001T193000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_a/paris-day-1
-SUMMARY:CLG vs FW
-DESCRIPTION:Counter Logic Gaming (CLG) vs Flash Wolves (FW)\nType : BO1\nTo
- urnament : The 2015 World Championship\nWeek : paris-day-1\nWinner : Count
- er Logic Gaming\nLooser : Flash Wolves\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f470ab39-8d22-467b-81f7-96430a4a2c56
@@ -372,6 +342,36 @@ DESCRIPTION:Flash Wolves (FW) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash
   Wolves\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160201T120047Z
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bfde3b6a-18de-49a3-abe6-a568b99afebc
+DTSTART:20151008T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151008T180000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-5
+SUMMARY:PNG vs CLG
+DESCRIPTION:paiN Gaming (PNG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
+ urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : paiN 
+ Gaming\nLooser : Counter Logic Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160202T120047Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0384eea9-25a9-485a-9782-6d2bea1dbe87
+DTSTART:20151001T183000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151001T193000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-1
+SUMMARY:CLG vs FW
+DESCRIPTION:Counter Logic Gaming (CLG) vs Flash Wolves (FW)\nType : BO1\nTo
+ urnament : The 2015 World Championship\nWeek : paris-day-1\nWinner : Count
+ er Logic Gaming\nLooser : Flash Wolves\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160202T120047Z
 END:VEVENT
 END:VCALENDAR

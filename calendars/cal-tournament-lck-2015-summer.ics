@@ -4,485 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-lck-2015-summer
 X-WR-CALNAME:LoL eSports Lck 2015 summer
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-9286a543-8248-4209-a55e-a3fba7414026
-DTSTART:20150618T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T040000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/5
-SUMMARY:SKT vs LZ
-DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Gaming (LZ)\nType : BO2\nTourname
- nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : SKTelecom
-  T1\nLooser : Longzhu Gaming\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3e2f236b-02bb-45cc-8763-0eac9f1a6641
-DTSTART:20150527T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150527T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/2
-SUMMARY:KT vs CJ
-DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Migr
- ated tournament for lck_2015_summer\nWeek : 2\nWinner : CJ ENTUS\nLooser :
-  KT Rolster\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-709c5431-3142-4b5e-80f5-e465d44ee632
-DTSTART:20150527T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150527T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/2
-SUMMARY:JAG vs ANC
-DESCRIPTION:Jin Air Green Wings (JAG) vs Rebels Anarchy (ANC)\nType : BO2\n
- Tournament : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : J
- in Air Green Wings\nLooser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-12335572-2a6d-481f-81c1-3d3b1213e278
-DTSTART:20150610T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150610T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/4
-SUMMARY:SKT vs ANC
-DESCRIPTION:SKTelecom T1 (SKT) vs Rebels Anarchy (ANC)\nType : BO3\nTournam
- ent : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : SKTeleco
- m T1\nLooser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-314c45cb-a193-4cb4-89d1-ad8ce6f40b20
-DTSTART:20150617T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150617T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/5
-SUMMARY:JAG vs CJ
-DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO2\nTournam
- ent : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Jin Air 
- Green Wings\nLooser : CJ ENTUS\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-85561bda-6a38-4314-92c2-13c534ac0a55
-DTSTART:20150619T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/5
-SUMMARY:CJ vs EMF
-DESCRIPTION:CJ ENTUS (CJ) vs e-mFire (EMF)\nType : BO3\nTournament : Migrat
- ed tournament for lck_2015_summer\nWeek : 5\nWinner : CJ ENTUS\nLooser : e
- -mFire\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f8ace55c-3c5b-42b0-8603-cbda77d15849
-DTSTART:20150620T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/5
-SUMMARY:SSG vs LZ
-DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Gaming (LZ)\nType : BO2\nTourna
- ment : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Samsung
-  Galaxy\nLooser : Longzhu Gaming\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-04f2d435-bffa-4212-930e-bc7c48f7e0ef
-DTSTART:20150626T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:CJ vs SSG
-DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO2\nTournament :
-  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : CJ ENTUS\nLoo
- ser : Samsung Galaxy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-312140e7-5e75-4f32-abe9-da84f83cef9f
-DTSTART:20150605T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/3
-SUMMARY:ROX vs CJ
-DESCRIPTION:ROX Tigers (ROX) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Mig
- rated tournament for lck_2015_summer\nWeek : 3\nWinner : CJ ENTUS\nLooser 
- : ROX Tigers\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
-DTSTART:20150813T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150813T060000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/13
-SUMMARY:SSB vs ROX
-DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
- nt : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : ROX Tige
- rs\nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-989d4e5a-2f19-4216-a9e4-ab288ffa8c9b
-DTSTART:20150724T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/10
-SUMMARY:SKT vs CJ
-DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : M
- igrated tournament for lck_2015_summer\nWeek : 10\nWinner : CJ ENTUS\nLoos
- er : SKTelecom T1\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d9492040-405c-4ce2-860b-900af1e1b6b7
-DTSTART:20150724T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/10
-SUMMARY:SSB vs ANC
-DESCRIPTION:SBENU SONICBOOM (SSB) vs Rebels Anarchy (ANC)\nType : BO3\nTour
- nament : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : Rebe
- ls Anarchy\nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8e39eb2f-3518-422a-aa24-2279c2da6604
-DTSTART:20150703T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/7
-SUMMARY:ANC vs LZ
-DESCRIPTION:Rebels Anarchy (ANC) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
- ment : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : Longzhu
-  Gaming\nLooser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-296dafd3-ca9e-4c2b-85d7-dce368f64a9f
-DTSTART:20150708T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150708T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/8
-SUMMARY:ANC vs SKT
-DESCRIPTION:Rebels Anarchy (ANC) vs SKTelecom T1 (SKT)\nType : BO2\nTournam
- ent : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : SKTeleco
- m T1\nLooser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3217b65e-4307-462c-b86f-5f5afbaf7798
-DTSTART:20150710T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150710T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/8
-SUMMARY:SKT vs JAG
-DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO2\nTo
- urnament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : SKT
- elecom T1\nLooser : Jin Air Green Wings\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3217b65e-4307-462c-b86f-5f5afbaf7798
-DTSTART:20150627T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150627T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:SKT vs JAG
-DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO2\nTo
- urnament : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKT
- elecom T1\nLooser : Jin Air Green Wings\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b3a1d016-4cfa-4cd4-bf26-0dc644c0c34b
-DTSTART:20150711T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150711T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/8
-SUMMARY:EMF vs ANC
-DESCRIPTION:e-mFire (EMF) vs Rebels Anarchy (ANC)\nType : BO3\nTournament :
-  Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : e-mFire\nLoos
- er : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-01946c46-4086-49b8-8771-c95795bea061
-DTSTART:20150701T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150701T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/7
-SUMMARY:CJ vs ROX
-DESCRIPTION:CJ ENTUS (CJ) vs ROX Tigers (ROX)\nType : BO2\nTournament : Mig
- rated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers\nLoose
- r : CJ ENTUS\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8a77279e-461c-4a15-8c78-c1879bf1d567
-DTSTART:20150522T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150522T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/1
-SUMMARY:KT vs SSG
-DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO2\nTournament
-  : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : KT Rolster\
- nLooser : Samsung Galaxy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5571bc51-cd0c-4b4d-a496-223e8ceef8f4
-DTSTART:20150603T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150603T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/3
-SUMMARY:SKT vs ROX
-DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO2\nTournament 
- : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTelecom T1
- \nLooser : ROX Tigers\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
-DTSTART:20150611T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T040000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/4
-SUMMARY:KT vs ROX
-DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
- igrated tournament for lck_2015_summer\nWeek : 4\nWinner : KT Rolster\nLoo
- ser : ROX Tigers\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-698f2c31-c7cc-4062-b89d-5f9be92c0618
-DTSTART:20150620T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/5
-SUMMARY:ROX vs ANC
-DESCRIPTION:ROX Tigers (ROX) vs Rebels Anarchy (ANC)\nType : BO2\nTournamen
- t : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tigers
- \nLooser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5ab0328a-4b6f-4b10-a515-454ea0197e40
-DTSTART:20150709T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150709T060000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/8
-SUMMARY:SSB vs SSG
-DESCRIPTION:SBENU SONICBOOM (SSB) vs Samsung Galaxy (SSG)\nType : BO3\nTour
- nament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : Samsu
- ng Galaxy\nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b2554eaf-32b4-47fc-9d85-7fa2c0fd3bc4
-DTSTART:20150521T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150521T060000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/1
-SUMMARY:CJ vs ANC
-DESCRIPTION:CJ ENTUS (CJ) vs Rebels Anarchy (ANC)\nType : BO3\nTournament :
-  Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : CJ ENTUS\nLoo
- ser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e0b2c5a7-ed24-4008-b942-e415a25e551c
-DTSTART:20150618T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T060000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/5
-SUMMARY:ANC vs SSG
-DESCRIPTION:Rebels Anarchy (ANC) vs Samsung Galaxy (SSG)\nType : BO3\nTourn
- ament : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Samsun
- g Galaxy\nLooser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cb7d2665-0a30-4249-b70e-754faaec4327
-DTSTART:20150529T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/2
-SUMMARY:EMF vs SKT
-DESCRIPTION:e-mFire (EMF) vs SKTelecom T1 (SKT)\nType : BO2\nTournament : M
- igrated tournament for lck_2015_summer\nWeek : 2\nWinner : SKTelecom T1\nL
- ooser : e-mFire\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2786e20a-d5e6-4607-9e50-9ecdbd2647c4
-DTSTART:20150730T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150730T060000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/11
-SUMMARY:ANC vs CJ
-DESCRIPTION:Rebels Anarchy (ANC) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
-  Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : CJ ENTUS\nLo
- oser : Rebels Anarchy\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8ca3fc24-d786-461c-9b96-6881ef87414e
-DTSTART:20150808T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150808T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:LZ vs CJ
-DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO2\nTournament : 
- Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : CJ ENTUS\nLoo
- ser : Longzhu Gaming\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-db333bfe-c8af-4edd-9461-b4224aefdb61
-DTSTART:20150807T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150807T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:JAG vs ROX
-DESCRIPTION:Jin Air Green Wings (JAG) vs ROX Tigers (ROX)\nType : BO2\nTour
- nament : Migrated tournament for lck_2015_summer\nWeek : 12\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cec7056a-f4db-4b23-8d74-d35e11de3ce4
-DTSTART:20150729T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150729T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/11
-SUMMARY:SSB vs LZ
-DESCRIPTION:SBENU SONICBOOM (SSB) vs Longzhu Gaming (LZ)\nType : BO2\nTourn
- ament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : Longz
- hu Gaming\nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1fdb1757-02b5-423c-8d36-bd6854e7cb7c
-DTSTART:20150715T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150715T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/9
-SUMMARY:KT vs SSB
-DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
- t : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : KT Rolster
- \nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-00ef436b-01d9-4f42-b436-59b431da7bd1
-DTSTART:20150711T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150711T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/8
-SUMMARY:ROX vs LZ
-DESCRIPTION:ROX Tigers (ROX) vs Longzhu Gaming (LZ)\nType : BO2\nTournament
-  : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : ROX Tigers\
- nLooser : Longzhu Gaming\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
 DTSTART:20150528T050000Z
 SEQUENCE:0
@@ -495,7 +16,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : ROX Tigers
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3ac52162-88a5-41fd-96ab-896fc288f762
@@ -510,7 +31,7 @@ DESCRIPTION:e-mFire (EMF) vs Longzhu Gaming (LZ)\nType : BO2\nTournament :
  Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : e-mFire\nLoose
  r : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
@@ -525,7 +46,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5df75cd6-c573-443a-a48f-da14fd3c18aa
@@ -540,7 +61,7 @@ DESCRIPTION:e-mFire (EMF) vs Jin Air Green Wings (JAG)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : Jin Air 
  Green Wings\nLooser : e-mFire\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-916ba9d9-2923-4aab-9293-c3f7043fd5ea
@@ -555,7 +76,7 @@ DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO2\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : SKTelecom T1
  \nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57f96889-288f-44e9-abce-1392ca9e5682
@@ -570,7 +91,7 @@ DESCRIPTION:ROX Tigers (ROX) vs e-mFire (EMF)\nType : BO3\nTournament : Mig
  rated tournament for lck_2015_summer\nWeek : 1\nWinner : e-mFire\nLooser :
   ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-557d8015-f8a8-46a4-9079-33c4af6f5127
@@ -585,7 +106,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : Longzh
  u Gaming\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fbf319ba-cdf4-4ce6-a874-2c63dd9de479
@@ -600,7 +121,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO2\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 4\nWinner : SKTelecom T1\nL
  ooser : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85f98a6e-fa66-447c-8a7d-29ef79609d2b
@@ -615,7 +136,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : ROX T
  igers\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-58b6352d-1e3a-4c65-84eb-5959cad260c5
@@ -630,7 +151,7 @@ DESCRIPTION:SBENU SONICBOOM (SSB) vs Jin Air Green Wings (JAG)\nType : BO2\
  nTournament : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : 
  Jin Air Green Wings\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dadf2208-a362-40b6-9342-a0cde4a2ae89
@@ -645,7 +166,7 @@ DESCRIPTION:e-mFire (EMF) vs Samsung Galaxy (SSG)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : e-mFire\nLoo
  ser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26c0b6c5-98f9-48bf-8771-719b01977bac
@@ -660,7 +181,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : SKTelec
  om T1\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-698f2c31-c7cc-4062-b89d-5f9be92c0618
@@ -675,7 +196,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Rebels Anarchy (ANC)\nType : BO2\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : ROX Tiger
  s\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba85ed2f-d30b-40ac-92e4-e13e7157450f
@@ -690,7 +211,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs SKTelecom T1 (SKT)\nType : BO2\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : SKTeleco
  m T1\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7d120d52-e8b7-401e-8d9d-0acc585a11ef
@@ -705,52 +226,486 @@ DESCRIPTION:KT Rolster (KT) vs Jin Air Green Wings (JAG)\nType : BO2\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : KT Rol
  ster\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1a4b90d7-f35f-435b-b386-f5c0ae655dfa
-DTSTART:20150522T100000Z
+UID:match-01946c46-4086-49b8-8771-c95795bea061
+DTSTART:20150701T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150522T110000Z
+DTEND:20150701T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/7
+SUMMARY:CJ vs ROX
+DESCRIPTION:CJ ENTUS (CJ) vs ROX Tigers (ROX)\nType : BO2\nTournament : Mig
+ rated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers\nLoose
+ r : CJ ENTUS\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8a77279e-461c-4a15-8c78-c1879bf1d567
+DTSTART:20150522T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T090000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
  ummer-split/1
-SUMMARY:JAG vs LZ
-DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Gaming (LZ)\nType : BO2\nT
- ournament : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Ji
- n Air Green Wings\nLooser : Longzhu Gaming\n
+SUMMARY:KT vs SSG
+DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO2\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : KT Rolster\
+ nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5571bc51-cd0c-4b4d-a496-223e8ceef8f4
+DTSTART:20150603T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150603T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/3
+SUMMARY:SKT vs ROX
+DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO2\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTelecom T1
+ \nLooser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
+DTSTART:20150611T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150611T040000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/4
+SUMMARY:KT vs ROX
+DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
+ igrated tournament for lck_2015_summer\nWeek : 4\nWinner : KT Rolster\nLoo
+ ser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-698f2c31-c7cc-4062-b89d-5f9be92c0618
+DTSTART:20150620T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:ROX vs ANC
+DESCRIPTION:ROX Tigers (ROX) vs Rebels Anarchy (ANC)\nType : BO2\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tigers
+ \nLooser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5ab0328a-4b6f-4b10-a515-454ea0197e40
+DTSTART:20150709T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/8
+SUMMARY:SSB vs SSG
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Samsung Galaxy (SSG)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : Samsu
+ ng Galaxy\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b2554eaf-32b4-47fc-9d85-7fa2c0fd3bc4
+DTSTART:20150521T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150521T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/1
+SUMMARY:CJ vs ANC
+DESCRIPTION:CJ ENTUS (CJ) vs Rebels Anarchy (ANC)\nType : BO3\nTournament :
+  Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : CJ ENTUS\nLoo
+ ser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e0b2c5a7-ed24-4008-b942-e415a25e551c
+DTSTART:20150618T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:ANC vs SSG
+DESCRIPTION:Rebels Anarchy (ANC) vs Samsung Galaxy (SSG)\nType : BO3\nTourn
+ ament : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Samsun
+ g Galaxy\nLooser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cb7d2665-0a30-4249-b70e-754faaec4327
+DTSTART:20150529T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/2
+SUMMARY:EMF vs SKT
+DESCRIPTION:e-mFire (EMF) vs SKTelecom T1 (SKT)\nType : BO2\nTournament : M
+ igrated tournament for lck_2015_summer\nWeek : 2\nWinner : SKTelecom T1\nL
+ ooser : e-mFire\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2786e20a-d5e6-4607-9e50-9ecdbd2647c4
+DTSTART:20150730T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150730T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/11
+SUMMARY:ANC vs CJ
+DESCRIPTION:Rebels Anarchy (ANC) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
+  Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : CJ ENTUS\nLo
+ oser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8ca3fc24-d786-461c-9b96-6881ef87414e
+DTSTART:20150808T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:LZ vs CJ
+DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO2\nTournament : 
+ Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : CJ ENTUS\nLoo
+ ser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-db333bfe-c8af-4edd-9461-b4224aefdb61
+DTSTART:20150807T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:JAG vs ROX
+DESCRIPTION:Jin Air Green Wings (JAG) vs ROX Tigers (ROX)\nType : BO2\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 12\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cec7056a-f4db-4b23-8d74-d35e11de3ce4
+DTSTART:20150729T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150729T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/11
+SUMMARY:SSB vs LZ
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Longzhu Gaming (LZ)\nType : BO2\nTourn
+ ament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : Longz
+ hu Gaming\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1fdb1757-02b5-423c-8d36-bd6854e7cb7c
+DTSTART:20150715T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150715T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/9
+SUMMARY:KT vs SSB
+DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : KT Rolster
+ \nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-00ef436b-01d9-4f42-b436-59b431da7bd1
+DTSTART:20150711T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/8
+SUMMARY:ROX vs LZ
+DESCRIPTION:ROX Tigers (ROX) vs Longzhu Gaming (LZ)\nType : BO2\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : ROX Tigers\
+ nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9286a543-8248-4209-a55e-a3fba7414026
+DTSTART:20150618T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T040000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:SKT vs LZ
+DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Gaming (LZ)\nType : BO2\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : SKTelecom
+  T1\nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3e2f236b-02bb-45cc-8763-0eac9f1a6641
+DTSTART:20150527T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/2
+SUMMARY:KT vs CJ
+DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Migr
+ ated tournament for lck_2015_summer\nWeek : 2\nWinner : CJ ENTUS\nLooser :
+  KT Rolster\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-709c5431-3142-4b5e-80f5-e465d44ee632
+DTSTART:20150527T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150527T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/2
+SUMMARY:JAG vs ANC
+DESCRIPTION:Jin Air Green Wings (JAG) vs Rebels Anarchy (ANC)\nType : BO2\n
+ Tournament : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : J
+ in Air Green Wings\nLooser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-12335572-2a6d-481f-81c1-3d3b1213e278
+DTSTART:20150610T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150610T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/4
+SUMMARY:SKT vs ANC
+DESCRIPTION:SKTelecom T1 (SKT) vs Rebels Anarchy (ANC)\nType : BO3\nTournam
+ ent : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : SKTeleco
+ m T1\nLooser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-314c45cb-a193-4cb4-89d1-ad8ce6f40b20
+DTSTART:20150617T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:JAG vs CJ
+DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO2\nTournam
+ ent : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Jin Air 
+ Green Wings\nLooser : CJ ENTUS\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-85561bda-6a38-4314-92c2-13c534ac0a55
+DTSTART:20150619T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:CJ vs EMF
+DESCRIPTION:CJ ENTUS (CJ) vs e-mFire (EMF)\nType : BO3\nTournament : Migrat
+ ed tournament for lck_2015_summer\nWeek : 5\nWinner : CJ ENTUS\nLooser : e
+ -mFire\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-312140e7-5e75-4f32-abe9-da84f83cef9f
+DTSTART:20150605T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/3
+SUMMARY:ROX vs CJ
+DESCRIPTION:ROX Tigers (ROX) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Mig
+ rated tournament for lck_2015_summer\nWeek : 3\nWinner : CJ ENTUS\nLooser 
+ : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-989d4e5a-2f19-4216-a9e4-ab288ffa8c9b
+DTSTART:20150724T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/10
+SUMMARY:SKT vs CJ
+DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : M
+ igrated tournament for lck_2015_summer\nWeek : 10\nWinner : CJ ENTUS\nLoos
+ er : SKTelecom T1\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d9492040-405c-4ce2-860b-900af1e1b6b7
+DTSTART:20150724T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/10
+SUMMARY:SSB vs ANC
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Rebels Anarchy (ANC)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : Rebe
+ ls Anarchy\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e39eb2f-3518-422a-aa24-2279c2da6604
-DTSTART:20150529T100000Z
+DTSTART:20150703T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150529T110000Z
+DTEND:20150703T090000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/2
+ ummer-split/7
 SUMMARY:ANC vs LZ
 DESCRIPTION:Rebels Anarchy (ANC) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
- ment : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : Longzhu
+ ment : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : Longzhu
   Gaming\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-e4bdc644-7de1-4868-bd15-f75197773ebe
-DTSTART:20150520T080000Z
+UID:match-296dafd3-ca9e-4c2b-85d7-dce368f64a9f
+DTSTART:20150708T100000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150520T090000Z
+DTEND:20150708T110000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/1
-SUMMARY:ANC vs EMF
-DESCRIPTION:Rebels Anarchy (ANC) vs e-mFire (EMF)\nType : BO3\nTournament :
-  Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Rebels Anarch
- y\nLooser : e-mFire\n
+ ummer-split/8
+SUMMARY:ANC vs SKT
+DESCRIPTION:Rebels Anarchy (ANC) vs SKTelecom T1 (SKT)\nType : BO2\nTournam
+ ent : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : SKTeleco
+ m T1\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3217b65e-4307-462c-b86f-5f5afbaf7798
+DTSTART:20150710T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/8
+SUMMARY:SKT vs JAG
+DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO2\nTo
+ urnament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : SKT
+ elecom T1\nLooser : Jin Air Green Wings\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f8ace55c-3c5b-42b0-8603-cbda77d15849
+DTSTART:20150620T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/5
+SUMMARY:SSG vs LZ
+DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Gaming (LZ)\nType : BO2\nTourna
+ ment : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Samsung
+  Galaxy\nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-04f2d435-bffa-4212-930e-bc7c48f7e0ef
+DTSTART:20150626T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:CJ vs SSG
+DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO2\nTournament :
+  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : CJ ENTUS\nLoo
+ ser : Samsung Galaxy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3217b65e-4307-462c-b86f-5f5afbaf7798
+DTSTART:20150627T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:SKT vs JAG
+DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO2\nTo
+ urnament : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKT
+ elecom T1\nLooser : Jin Air Green Wings\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b3a1d016-4cfa-4cd4-bf26-0dc644c0c34b
+DTSTART:20150711T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/8
+SUMMARY:EMF vs ANC
+DESCRIPTION:e-mFire (EMF) vs Rebels Anarchy (ANC)\nType : BO3\nTournament :
+  Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : e-mFire\nLoos
+ er : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
+DTSTART:20150813T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150813T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/13
+SUMMARY:SSB vs ROX
+DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : ROX Tige
+ rs\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26c0b6c5-98f9-48bf-8771-719b01977bac
@@ -765,7 +720,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTeleco
  m T1\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1fdb1757-02b5-423c-8d36-bd6854e7cb7c
@@ -780,7 +735,37 @@ DESCRIPTION:KT Rolster (KT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : KT Rolster
  \nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1a4b90d7-f35f-435b-b386-f5c0ae655dfa
+DTSTART:20150522T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/1
+SUMMARY:JAG vs LZ
+DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Gaming (LZ)\nType : BO2\nT
+ ournament : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Ji
+ n Air Green Wings\nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8e39eb2f-3518-422a-aa24-2279c2da6604
+DTSTART:20150529T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/2
+SUMMARY:ANC vs LZ
+DESCRIPTION:Rebels Anarchy (ANC) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
+ ment : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : Longzhu
+  Gaming\nLooser : Rebels Anarchy\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
@@ -795,7 +780,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : KT Rolster\n
  Looser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ca3fc24-d786-461c-9b96-6881ef87414e
@@ -810,7 +795,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : CJ ENTUS\nLoos
  er : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d252ab79-4893-4543-a4ef-dd3e3cacda4b
@@ -825,7 +810,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : CJ ENTUS\nLo
  oser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
@@ -840,52 +825,22 @@ DESCRIPTION:SBENU SONICBOOM (SSB) vs e-mFire (EMF)\nType : BO2\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : e-mFire\nLoo
  ser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
-DTSTART:20150627T080000Z
+UID:match-e4bdc644-7de1-4868-bd15-f75197773ebe
+DTSTART:20150520T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150627T090000Z
+DTEND:20150520T090000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:EMF vs KT
-DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
- ated tournament for lck_2015_summer\nWeek : 6\nWinner : KT Rolster\nLooser
-  : e-mFire\n
+ ummer-split/1
+SUMMARY:ANC vs EMF
+DESCRIPTION:Rebels Anarchy (ANC) vs e-mFire (EMF)\nType : BO3\nTournament :
+  Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Rebels Anarch
+ y\nLooser : e-mFire\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d9492040-405c-4ce2-860b-900af1e1b6b7
-DTSTART:20150625T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T040000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:SSB vs ANC
-DESCRIPTION:SBENU SONICBOOM (SSB) vs Rebels Anarchy (ANC)\nType : BO3\nTour
- nament : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : Rebel
- s Anarchy\nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d6f6ae22-52d5-4b0b-9f8c-332d35b5f9a1
-DTSTART:20150624T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150624T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:KT vs SKT
-DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO2\nTournament :
-  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKTelecom T1\
- nLooser : KT Rolster\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57f96889-288f-44e9-abce-1392ca9e5682
@@ -900,36 +855,7 @@ DESCRIPTION:ROX Tigers (ROX) vs e-mFire (EMF)\nType : BO3\nTournament : Mig
  rated tournament for lck_2015_summer\nWeek : 10\nWinner : e-mFire\nLooser 
  : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-730dab63-096e-43f1-979c-1680341fa5ca
-DTSTART:20150801T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150801T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/11
-SUMMARY:JAG vs SSB
-DESCRIPTION:Jin Air Green Wings (JAG) vs SBENU SONICBOOM (SSB)\nType : BO3\
- nTournament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner :
-  SBENU SONICBOOM\nLooser : Jin Air Green Wings\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-70783ada-3d21-4b3a-b9fc-26f48b2922f9
-DTSTART:20150808T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150808T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:KT vs ANC
-DESCRIPTION:KT Rolster (KT) vs Rebels Anarchy (ANC)\nType : BO2\nTournament
-  : Migrated tournament for lck_2015_summer\nWeek : 12\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1a74d22-3362-4fe2-a3f9-621d9b397c48
@@ -944,22 +870,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : SKTelecom T1
  \nLooser : KT Rolster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
-DTSTART:20150807T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150807T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:SSB vs EMF
-DESCRIPTION:SBENU SONICBOOM (SSB) vs e-mFire (EMF)\nType : BO2\nTournament 
- : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : e-mFire\nLo
- oser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e80064d-8d33-43dc-b9f8-34ea990026be
@@ -974,7 +885,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
  ated tournament for lck_2015_summer\nWeek : 8\nWinner : KT Rolster\nLooser
   : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85561bda-6a38-4314-92c2-13c534ac0a55
@@ -989,7 +900,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs e-mFire (EMF)\nType : BO3\nTournament : Migrat
  ed tournament for lck_2015_summer\nWeek : 9\nWinner : CJ ENTUS\nLooser : e
  -mFire\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6514b381-c488-41b3-a0cd-ef753deeca0b
@@ -1004,7 +915,22 @@ DESCRIPTION:CJ ENTUS (CJ) vs Jin Air Green Wings (JAG)\nType : BO2\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : CJ ENTUS
  \nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
+DTSTART:20150627T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:EMF vs KT
+DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
+ ated tournament for lck_2015_summer\nWeek : 6\nWinner : KT Rolster\nLooser
+  : e-mFire\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e306fe73-a9ce-4bab-9d51-13fd1d364c2a
@@ -1019,7 +945,81 @@ DESCRIPTION:Longzhu Gaming (LZ) vs e-mFire (EMF)\nType : BO3\nTournament :
  Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : e-mFire\nLoose
  r : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d9492040-405c-4ce2-860b-900af1e1b6b7
+DTSTART:20150625T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150625T040000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:SSB vs ANC
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Rebels Anarchy (ANC)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : Rebel
+ s Anarchy\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d6f6ae22-52d5-4b0b-9f8c-332d35b5f9a1
+DTSTART:20150624T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150624T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:KT vs SKT
+DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO2\nTournament :
+  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKTelecom T1\
+ nLooser : KT Rolster\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-730dab63-096e-43f1-979c-1680341fa5ca
+DTSTART:20150801T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/11
+SUMMARY:JAG vs SSB
+DESCRIPTION:Jin Air Green Wings (JAG) vs SBENU SONICBOOM (SSB)\nType : BO3\
+ nTournament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner :
+  SBENU SONICBOOM\nLooser : Jin Air Green Wings\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-70783ada-3d21-4b3a-b9fc-26f48b2922f9
+DTSTART:20150808T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:KT vs ANC
+DESCRIPTION:KT Rolster (KT) vs Rebels Anarchy (ANC)\nType : BO2\nTournament
+  : Migrated tournament for lck_2015_summer\nWeek : 12\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
+DTSTART:20150807T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:SSB vs EMF
+DESCRIPTION:SBENU SONICBOOM (SSB) vs e-mFire (EMF)\nType : BO2\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : e-mFire\nLo
+ oser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-28877413-3c7c-4abc-bcc9-f6dd087e83ff
@@ -1034,7 +1034,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SSB)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : SKTelec
  om T1\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f81e93a-4ccc-42b7-a1a5-6b6fac68a187
@@ -1049,7 +1049,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs KT Rolster (KT)\nType : BO2\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : KT Rol
  ster\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
@@ -1064,7 +1064,7 @@ DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tiger
  s\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ce3e47e3-14ce-4961-858f-ed1fbf59bc32
@@ -1079,7 +1079,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
  Tournament : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : J
  in Air Green Wings\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dadf2208-a362-40b6-9342-a0cde4a2ae89
@@ -1094,7 +1094,7 @@ DESCRIPTION:e-mFire (EMF) vs Samsung Galaxy (SSG)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : e-mFire\nLoos
  er : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8fd93720-25a1-419f-ba2c-1512ddff259d
@@ -1109,7 +1109,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs KT Rolster (KT)\nType : BO3\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : KT Rolster\
  nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bd139a41-2f7f-45f9-94da-d8ab16e78ff4
@@ -1124,37 +1124,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs e-mFire (EMF)\nType : BO2\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : Jin Air 
  Green Wings\nLooser : e-mFire\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
-DTSTART:20150731T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150731T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/11
-SUMMARY:KT vs ROX
-DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
- igrated tournament for lck_2015_summer\nWeek : 11\nWinner : KT Rolster\nLo
- oser : ROX Tigers\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
-DTSTART:20150805T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150805T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:LZ vs KT
-DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament 
- : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : KT Rolster\
- nLooser : Longzhu Gaming\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a4b90d7-f35f-435b-b386-f5c0ae655dfa
@@ -1169,7 +1139,22 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Gaming (LZ)\nType : BO2\nT
  ournament : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : J
  in Air Green Wings\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
+DTSTART:20150731T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/11
+SUMMARY:KT vs ROX
+DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
+ igrated tournament for lck_2015_summer\nWeek : 11\nWinner : KT Rolster\nLo
+ oser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ce3e47e3-14ce-4961-858f-ed1fbf59bc32
@@ -1184,7 +1169,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
  Tournament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : 
  Jin Air Green Wings\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-acbb94a2-2473-4bd7-91e1-f12d2b4200e5
@@ -1199,7 +1184,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs KT Rolster (KT)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : KT Rolster
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
@@ -1214,7 +1199,7 @@ DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
  ated tournament for lck_2015_summer\nWeek : 7\nWinner : KT Rolster\nLooser
   : e-mFire\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95b19f91-988c-47c0-b841-947591b218ea
@@ -1229,7 +1214,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs Samsung Galaxy (SSG)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : Samsung
   Galaxy\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d252ab79-4893-4543-a4ef-dd3e3cacda4b
@@ -1244,7 +1229,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : CJ ENTUS\nLo
  oser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0b2c5a7-ed24-4008-b942-e415a25e551c
@@ -1259,7 +1244,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs Samsung Galaxy (SSG)\nType : BO3\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : Samsun
  g Galaxy\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-230e43bf-c048-4091-9586-91161e2bdea3
@@ -1274,7 +1259,22 @@ DESCRIPTION:Longzhu Gaming (LZ) vs ROX Tigers (ROX)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : ROX Tigers\
  nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
+DTSTART:20150805T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150805T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:LZ vs KT
+DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament 
+ : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : KT Rolster\
+ nLooser : Longzhu Gaming\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-709c5431-3142-4b5e-80f5-e465d44ee632
@@ -1289,7 +1289,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs Rebels Anarchy (ANC)\nType : BO2\n
  Tournament : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : 
  Jin Air Green Wings\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cb7d2665-0a30-4249-b70e-754faaec4327
@@ -1304,7 +1304,7 @@ DESCRIPTION:e-mFire (EMF) vs SKTelecom T1 (SKT)\nType : BO2\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 13\nWinner : SKTelecom T1\n
  Looser : e-mFire\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fa9f5506-61ee-4f6d-9ec1-2dd5dd64455b
@@ -1318,6 +1318,6 @@ SUMMARY:SSG vs CJ
 DESCRIPTION:Samsung Galaxy (SSG) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 13\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160201T120049Z
+DTSTAMP:20160202T120048Z
 END:VEVENT
 END:VCALENDAR
