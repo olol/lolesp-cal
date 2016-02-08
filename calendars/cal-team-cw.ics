@@ -16,7 +16,7 @@ DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLoose
  r : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4473f8a7-812b-45f8-aa70-a63de83793b0
@@ -31,7 +31,7 @@ DESCRIPTION:SK Gaming (SKG) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
  nt : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : SK Gaming\
  nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-33a045f4-93a7-46c7-8c6a-57ad26c64eb3
@@ -46,7 +46,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Origen (OG)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser
   : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2a431093-2b89-479f-919c-d69799792a9e
@@ -61,7 +61,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit
   Gaming\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-52d43261-4aac-4b48-928d-3fa03c1178c7
@@ -76,7 +76,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Copenhagen Wolves (CW)\nType : BO1\nT
  ournament : Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Uni
  corns of Love\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2f06377f-e80e-441c-9594-c16b9954746c
@@ -91,7 +91,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Co
  penhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04cec915-5171-49c1-bdb7-1e4a3a06577a
@@ -106,7 +106,7 @@ DESCRIPTION:Elements (EL) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
   : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Copenhagen W
  olves\nLooser : Elements\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a8d3e94-d1ca-443e-bb58-a46868d19224
@@ -121,7 +121,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SKG)\nType : BO1\nTourname
  nt : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Copenhagen
   Wolves\nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fabeab29-6708-42f4-bba4-eec8a8480fe2
@@ -136,7 +136,7 @@ DESCRIPTION:Origen (OG) vs Copenhagen Wolves (CW)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser
   : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49175e69-aad6-4c4e-9eea-24470727b318
@@ -151,7 +151,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Elements (EL)\nType : BO1\nTournament
   : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : Elements\nLo
  oser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22830cee-3546-484d-ad69-b940edb78936
@@ -166,7 +166,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Copenhagen Wo
  lves\nLooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cad7d7fd-08be-42dc-8ff7-de9e4dd99083
@@ -181,7 +181,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Unicorns of Love (UOL)\nType : BO1\nT
  ournament : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Uni
  corns of Love\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee37ccaf-b6b0-4a06-9307-426255706e87
@@ -196,7 +196,7 @@ DESCRIPTION:Giants (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Giants\nLoose
  r : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-87c044c9-f117-4124-8c8f-47982dab92ef
@@ -211,7 +211,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : ROCCAT\nLoose
  r : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6cfe545d-a78f-4195-8daf-c53ed4ad8299
@@ -226,7 +226,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit
   Gaming\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6c999da8-bc75-43ab-a3ae-408d2fcebc82
@@ -241,7 +241,7 @@ DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 8\nWinner : Copenhagen Wolve
  s\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-31fca2ea-41cf-4e20-89b3-683ce139c4e4
@@ -256,7 +256,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Giants (GIA)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Giants\nLoose
  r : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c377e22-b862-4114-944e-e887202aac7d
@@ -270,7 +270,7 @@ SUMMARY:MOU vs CW
 DESCRIPTION:Mousesports (MOU) vs Copenhagen Wolves (CW)\nType : BO2\nTourna
  ment : EU CS 2016 Spring Split\nWeek : 5\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95e0907b-c0b0-49a8-a22c-cee6f709d834
@@ -284,7 +284,21 @@ SUMMARY:MIL vs CW
 DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO2\nTourname
  nt : EU CS 2016 Spring Split\nWeek : 3\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-942038f6-42ce-4842-930f-47537f610e8f
+DTSTART:20160216T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160216T220000Z
+URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
+ _season/4
+SUMMARY:HMA vs CW
+DESCRIPTION:Huma (HMA) vs Copenhagen Wolves (CW)\nType : BO2\nTournament : 
+ EU CS 2016 Spring Split\nWeek : 4\n
+CATEGORIES:EU CS 2016 Spring Split
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9556bcd3-007b-4c72-b972-f7e148f8c00b
@@ -299,7 +313,7 @@ DESCRIPTION:Inspire eSports (IE) vs Copenhagen Wolves (CW)\nType : BO2\nTou
  rnament : EU CS 2016 Spring Split\nWeek : 2\nWinner : Copenhagen Wolves\nL
  ooser : Copenhagen Wolves\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0934a3d6-a640-47de-be46-3c98662f1b9b
@@ -314,20 +328,6 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SKG)\nType : BO2\nTourname
  nt : EU CS 2016 Spring Split\nWeek : 1\nWinner : Copenhagen Wolves\nLooser
   : SK Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160203T120046Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-942038f6-42ce-4842-930f-47537f610e8f
-DTSTART:20160216T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160216T220000Z
-URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
- _season/4
-SUMMARY:HMA vs CW
-DESCRIPTION:Huma (HMA) vs Copenhagen Wolves (CW)\nType : BO2\nTournament : 
- EU CS 2016 Spring Split\nWeek : 4\n
-CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160203T120046Z
+DTSTAMP:20160208T120256Z
 END:VEVENT
 END:VCALENDAR

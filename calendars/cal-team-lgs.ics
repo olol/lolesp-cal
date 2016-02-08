@@ -16,7 +16,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Assassin Sniper (AS)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : Ass
  assin Sniper\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d9bcce1-90fe-41a8-8084-3cbd045fe93b
@@ -31,7 +31,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : T
  aipei Assassins\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ceadb243-a89b-417f-b048-df803e781ebf
@@ -46,7 +46,7 @@ DESCRIPTION:Machi (M17) vs Logitech G Sniper (LGS)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Logitech G S
  niper\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9e3ca693-eb8f-48ea-afc9-80cc25a3584a
@@ -61,7 +61,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Machi (M17)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Machi\nLoose
  r : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ade03247-a681-4636-9191-80cf8829c8fe
@@ -76,7 +76,7 @@ DESCRIPTION:Flash Wolves (FW) vs Logitech G Sniper (LGS)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Flash 
  Wolves\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcb9ba56-5b60-48b4-ac67-7eeee4c6070d
@@ -91,7 +91,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Logitech G Sniper (LGS)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinne
  r : Logitech G Sniper\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d5b24b61-20ac-4ece-a587-eb37a6fe15b9
@@ -106,7 +106,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : T
  aipei Assassins\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c2cfbe8a-dd9d-4e7f-a5fc-be6b92a90ba4
@@ -121,7 +121,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Logitech G Sniper (LGS)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Log
  itech G Sniper\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-129c296d-c61f-44f0-bd8e-4b8175adbd5d
@@ -136,7 +136,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Flash Wolves (FW)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : Flash 
  Wolves\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a1db1459-134c-4880-abd2-c921c6cb7caa
@@ -151,7 +151,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : 
  ahq e-Sports Club\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f0e53f5-9a0e-4263-aee0-10cc65474599
@@ -166,7 +166,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinne
  r : Midnight Sun e-Sports\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c1bb7cb2-dd5c-4f45-b022-04d1195e9a7e
@@ -181,7 +181,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Logitech G Sniper (LGS)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : 
  Hong Kong Esports\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-440d6d80-fdaf-4060-b4d6-3015f924bda4
@@ -196,7 +196,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Hong Kong Esports (HKE)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : 
  Hong Kong Esports\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-86c12225-9626-493b-acfc-85e7713d70d8
@@ -211,6 +211,6 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Logitech G Sniper (LGS)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : 
  ahq e-Sports Club\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160203T120049Z
+DTSTAMP:20160208T120300Z
 END:VEVENT
 END:VCALENDAR
