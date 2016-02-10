@@ -16,7 +16,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Dream Team (DT)\nType : BO2\nTourn
  ament : NA CS 2016 Spring Split\nWeek : 1\nWinner : Team Liquid Academy\nL
  ooser : Dream Team\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160209T120154Z
+DTSTAMP:20160210T120324Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-65a6c406-3d48-439f-91bb-290356dfddd8
@@ -31,7 +31,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Ember (MBR)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 2\nWinner : Ember\nLooser : Team Liqui
  d Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160209T120154Z
+DTSTAMP:20160210T120324Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3812394a-1ee4-44ab-9d0b-fbb701ee332f
@@ -45,7 +45,7 @@ SUMMARY:TLA vs TDK
 DESCRIPTION:Team Liquid Academy (TLA) vs Team Dragon Knights (TDK)\nType : 
  BO2\nTournament : NA CS 2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160209T120154Z
+DTSTAMP:20160210T120324Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a99af98b-d1a9-4f57-b134-796e05d03111
@@ -59,7 +59,7 @@ SUMMARY:NME vs TLA
 DESCRIPTION:Enemy (NME) vs Team Liquid Academy (TLA)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160209T120154Z
+DTSTAMP:20160210T120324Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab6d1c71-cbaa-4c90-8694-37a685dbe333
@@ -73,6 +73,6 @@ SUMMARY:TLA vs APX
 DESCRIPTION:Team Liquid Academy (TLA) vs Apex (APX)\nType : BO2\nTournament
   : NA CS 2016 Spring Split\nWeek : 5\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160209T120154Z
+DTSTAMP:20160210T120324Z
 END:VEVENT
 END:VCALENDAR

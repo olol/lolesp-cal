@@ -4,96 +4,6 @@ PRODID:www.lolesports.com|cal-team-SK
 X-WR-CALNAME:LoL eSports SK
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-13b4e537-b8a8-42ee-bb1d-6b0208b6958c
-DTSTART:20150604T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150604T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:SKG vs OG
-DESCRIPTION:SK Gaming (SKG) vs Origen (OG)\nType : BO1\nTournament : Migrat
- ed tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser : SK G
- aming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d61f0bd8-417d-4096-a41c-f443ed5e61c4
-DTSTART:20150529T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:FNC vs SKG
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
- ted tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLooser : SK 
- Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c0a0013d-b96a-47f5-88a8-830ecce44d44
-DTSTART:20150618T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150618T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/4
-SUMMARY:SKG vs UOL
-DESCRIPTION:SK Gaming (SKG) vs Unicorns of Love (UOL)\nType : BO1\nTourname
- nt : Migrated tournament for eu_2015_summer\nWeek : 4\nWinner : SK Gaming\
- nLooser : Unicorns of Love\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4473f8a7-812b-45f8-aa70-a63de83793b0
-DTSTART:20150710T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150710T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/7
-SUMMARY:SKG vs CW
-DESCRIPTION:SK Gaming (SKG) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
- nt : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : SK Gaming\
- nLooser : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-80351cc1-2fd3-4fec-a12b-8f6a34e806c7
-DTSTART:20150709T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150709T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/7
-SUMMARY:SKG vs GMB
-DESCRIPTION:SK Gaming (SKG) vs Gambit Gaming (GMB)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Gambit Gaming
- \nLooser : SK Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c7b23602-eb4b-4b9c-a0c0-c177d4d43364
-DTSTART:20150702T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150702T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:ROC vs SKG
-DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
- ted tournament for eu_2015_summer\nWeek : 6\nWinner : ROCCAT\nLooser : SK 
- Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-2dbceebf-2879-49cc-b46d-0b956b4dba59
 DTSTART:20150625T200000Z
 SEQUENCE:0
@@ -106,7 +16,7 @@ DESCRIPTION:Elements (EL) vs SK Gaming (SKG)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : 
  SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f21b5e32-716b-4f0e-a508-a369a4dbf26b
@@ -121,7 +31,7 @@ DESCRIPTION:SK Gaming (SKG) vs ROCCAT (ROC)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 4\nWinner : SK Gaming\nLooser : 
  ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a8d3e94-d1ca-443e-bb58-a46868d19224
@@ -136,7 +46,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SKG)\nType : BO1\nTourname
  nt : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Copenhagen
   Wolves\nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2e76a589-e781-470c-94c7-550197ee5234
@@ -151,7 +61,7 @@ DESCRIPTION:Origen (OG) vs SK Gaming (SKG)\nType : BO1\nTournament : Migrat
  ed tournament for eu_2015_summer\nWeek : 8\nWinner : Origen\nLooser : SK G
  aming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5eddc0a6-7efe-4bb2-905c-856d1bf6107a
@@ -166,7 +76,82 @@ DESCRIPTION:H2K (H2K) vs SK Gaming (SKG)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 5\nWinner : SK Gaming\nLooser : H2K
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d61f0bd8-417d-4096-a41c-f443ed5e61c4
+DTSTART:20150529T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:FNC vs SKG
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
+ ted tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLooser : SK 
+ Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160210T120323Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-13b4e537-b8a8-42ee-bb1d-6b0208b6958c
+DTSTART:20150604T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:SKG vs OG
+DESCRIPTION:SK Gaming (SKG) vs Origen (OG)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160210T120323Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c0a0013d-b96a-47f5-88a8-830ecce44d44
+DTSTART:20150618T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150618T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/4
+SUMMARY:SKG vs UOL
+DESCRIPTION:SK Gaming (SKG) vs Unicorns of Love (UOL)\nType : BO1\nTourname
+ nt : Migrated tournament for eu_2015_summer\nWeek : 4\nWinner : SK Gaming\
+ nLooser : Unicorns of Love\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160210T120323Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4473f8a7-812b-45f8-aa70-a63de83793b0
+DTSTART:20150710T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150710T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:SKG vs CW
+DESCRIPTION:SK Gaming (SKG) vs Copenhagen Wolves (CW)\nType : BO1\nTourname
+ nt : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : SK Gaming\
+ nLooser : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160210T120323Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-80351cc1-2fd3-4fec-a12b-8f6a34e806c7
+DTSTART:20150709T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:SKG vs GMB
+DESCRIPTION:SK Gaming (SKG) vs Gambit Gaming (GMB)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Gambit Gaming
+ \nLooser : SK Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6dbd720-1e82-408b-bb13-6444a915ac36
@@ -181,7 +166,7 @@ DESCRIPTION:SK Gaming (SKG) vs Giants (GIA)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 6\nWinner : Giants\nLooser : SK 
  Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cb737ec3-9044-43a7-9cb2-d3fdcbd73f39
@@ -196,7 +181,7 @@ DESCRIPTION:SK Gaming (SKG) vs H2K (H2K)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 3\nWinner : H2K\nLooser : SK Gaming
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f40cb2f1-9fd6-47ac-ac8b-72d71da68d60
@@ -211,7 +196,7 @@ DESCRIPTION:SK Gaming (SKG) vs Fnatic (FNC)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLooser : SK 
  Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-10331e80-65b8-4dc6-9e5d-c1d463d921a5
@@ -226,7 +211,7 @@ DESCRIPTION:SK Gaming (SKG) vs Elements (EL)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 9\nWinner : SK Gaming\nLooser :
   Elements\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53db8379-e23c-4533-9b98-f5f0237c950a
@@ -241,7 +226,7 @@ DESCRIPTION:Giants (GIA) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : SK 
  Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-027ccc98-505f-4733-a1eb-b72aab0064b6
@@ -256,7 +241,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SKG)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit Gaming
  \nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-14d73198-c212-48d9-9677-c3a7d3a3b645
@@ -271,6 +256,21 @@ DESCRIPTION:Unicorns of Love (UOL) vs SK Gaming (SKG)\nType : BO1\nTourname
  nt : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : SK Gaming\
  nLooser : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160209T120153Z
+DTSTAMP:20160210T120323Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c7b23602-eb4b-4b9c-a0c0-c177d4d43364
+DTSTART:20150702T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:ROC vs SKG
+DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
+ ted tournament for eu_2015_summer\nWeek : 6\nWinner : ROCCAT\nLooser : SK 
+ Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160210T120323Z
 END:VEVENT
 END:VCALENDAR
