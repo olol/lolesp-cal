@@ -4,6 +4,20 @@ PRODID:www.lolesports.com|cal-team-VFK
 X-WR-CALNAME:LoL eSports VFK
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-71bf399e-f9ad-4395-9f3e-93492f6ea3bd
+DTSTART:20160227T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:VFK vs 
+DESCRIPTION:Keyd Stars (VFK) vs Red Canids ()\nType : BO2\nTournament : The
+  CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160211T120146Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-6056f7eb-1eef-4383-b42e-3803029632c0
 DTSTART:20160131T170000Z
 SEQUENCE:0
@@ -16,21 +30,7 @@ DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : KaBuM e-S
  ports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120328Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-71bf399e-f9ad-4395-9f3e-93492f6ea3bd
-DTSTART:20160227T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:VFK vs 
-DESCRIPTION:Keyd Stars (VFK) vs Red Canids ()\nType : BO2\nTournament : The
-  CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120328Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
@@ -44,7 +44,7 @@ SUMMARY:VFK vs ITZ
 DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
  LOL 2016 Split 1 Tournament\nWeek : Semana 4\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120328Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
@@ -59,21 +59,7 @@ DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
  ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
  tars\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120328Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-36154b69-3ac1-4e36-8006-5bff9d9d4c27
-DTSTART:20160221T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%205
-SUMMARY:VFK vs PNG
-DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
-  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120328Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e770b48-33ca-4bb8-8b9c-7dc3dd2212e1
@@ -88,7 +74,7 @@ DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Keyd Stars\n
  Looser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120328Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-105adbcc-c5ae-419c-b600-42275f3ecf25
@@ -102,6 +88,20 @@ SUMMARY:VFK vs OPK
 DESCRIPTION:Keyd Stars (VFK) vs Operation Kino (OPK)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120328Z
+DTSTAMP:20160211T120146Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-36154b69-3ac1-4e36-8006-5bff9d9d4c27
+DTSTART:20160221T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%205
+SUMMARY:VFK vs PNG
+DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
+  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160211T120146Z
 END:VEVENT
 END:VCALENDAR

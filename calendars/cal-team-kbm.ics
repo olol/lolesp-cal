@@ -15,7 +15,7 @@ SUMMARY:OPK vs KBM
 DESCRIPTION:Operation Kino (OPK) vs KaBuM e-Sports (KBM)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120329Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6056f7eb-1eef-4383-b42e-3803029632c0
@@ -30,22 +30,49 @@ DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : KaBuM e-S
  ports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120329Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-54a0209a-190b-4040-8424-9a534580bd01
-DTSTART:20160124T170000Z
+UID:match-b149765d-a396-43ea-98a3-80d25ceef81f
+DTSTART:20160213T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160124T180000Z
+DTEND:20160213T180000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%202
-SUMMARY:PNG vs KBM
-DESCRIPTION:paiN Gaming (PNG) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
- nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : paiN Gam
- ing\nLooser : KaBuM e-Sports\n
+ e/fase_de_grupos/Semana%204
+SUMMARY:KBM vs G3X
+DESCRIPTION:KaBuM e-Sports (KBM) vs g3nerationX (G3X)\nType : BO2\nTourname
+ nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120329Z
+DTSTAMP:20160211T120146Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
+DTSTART:20160225T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:KBM vs ITZ
+DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
+ e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160211T120146Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-54178354-af73-4936-b38a-24c9145cc3c2
+DTSTART:20160228T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:CNB vs KBM
+DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
+ urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-24a835c0-77a6-454c-a397-646c6df71035
@@ -60,48 +87,21 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Red Canids ()\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Red Canids\n
  Looser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120329Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
-DTSTART:20160225T160000Z
+UID:match-54a0209a-190b-4040-8424-9a534580bd01
+DTSTART:20160124T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160225T170000Z
+DTEND:20160124T180000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:KBM vs ITZ
-DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
- e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+ e/fase_de_grupos/Semana%202
+SUMMARY:PNG vs KBM
+DESCRIPTION:paiN Gaming (PNG) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
+ nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : paiN Gam
+ ing\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120329Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-54178354-af73-4936-b38a-24c9145cc3c2
-DTSTART:20160228T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:CNB vs KBM
-DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
- urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120329Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b149765d-a396-43ea-98a3-80d25ceef81f
-DTSTART:20160213T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160213T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%204
-SUMMARY:KBM vs G3X
-DESCRIPTION:KaBuM e-Sports (KBM) vs g3nerationX (G3X)\nType : BO2\nTourname
- nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160210T120329Z
+DTSTAMP:20160211T120146Z
 END:VEVENT
 END:VCALENDAR

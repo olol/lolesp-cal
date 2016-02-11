@@ -16,7 +16,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinne
  r : ahq e-Sports Club\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b251733c-4da0-491a-b388-d123004cd61e
@@ -31,7 +31,7 @@ DESCRIPTION:eXtreme Gamers eSports Club (XG) vs ahq e-Sports Club (AHQ)\nTy
  pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : ahq e-Spo
  rts Club\nLooser : eXtreme Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dfc2a525-a1a1-4edc-baff-d2d82a75e491
@@ -46,7 +46,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinne
  r : ahq e-Sports Club\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7d61fe0a-9825-4aa6-945a-3173a2d4ca0b
@@ -61,7 +61,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (M17)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Machi\nLoose
  r : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbad94fb-57fb-44df-a059-cd0371a1e871
@@ -76,7 +76,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : T
  aipei Assassins\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-12dc032e-cf2a-490b-9ff4-0e47202cd5c2
@@ -90,7 +90,7 @@ SUMMARY:AHQ vs FW
 DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (FW)\nType : BO2\nTourn
  ament : LMS 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71f467d9-0db1-4da5-98a4-ca19b79ed5c2
@@ -105,7 +105,7 @@ DESCRIPTION:Flash Wolves (FW) vs ahq e-Sports Club (AHQ)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : ahq e-
  Sports Club\nLooser : Flash Wolves\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6d43a18-a119-4f06-a143-5df76ca29bf8
@@ -120,7 +120,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : a
  hq e-Sports Club\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0c5e770-a8e0-4ebb-b1d8-6a944f02374f
@@ -134,7 +134,7 @@ SUMMARY:AHQ vs M17
 DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (M17)\nType : BO2\nTournament 
  : LMS 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c6d9e9a7-db0e-4724-9ccd-1c3759537928
@@ -148,7 +148,7 @@ SUMMARY:AHQ vs TPA
 DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : LMS 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5c90d148-6515-493d-ba52-8ad1757c296a
@@ -163,7 +163,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : 
  ahq e-Sports Club\nLooser : Hong Kong Esports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f51fd3d3-afbe-41b6-b3af-76247417aedf
@@ -178,7 +178,7 @@ DESCRIPTION:Machi (M17) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : ahq e-Sports
   Club\nLooser : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a1db1459-134c-4880-abd2-c921c6cb7caa
@@ -193,7 +193,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs ahq e-Sports Club (AHQ)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : 
  ahq e-Sports Club\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-319afdcf-d589-49c4-a7c0-cdc82ce0d358
@@ -208,7 +208,7 @@ DESCRIPTION:Assassin Sniper (AS) vs ahq e-Sports Club (AHQ)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : ahq
   e-Sports Club\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b65059a5-fef2-4d9a-9c97-8bbff258274d
@@ -223,7 +223,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs ahq e-Sports Club (AHQ)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : 
  ahq e-Sports Club\nLooser : ahq e-Sports Club\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-707fbeb0-1673-4503-ac36-1dfe749e40eb
@@ -238,7 +238,7 @@ DESCRIPTION:Cougar eSports (CGE) vs ahq e-Sports Club (AHQ)\nType : BO2\nTo
  urnament : LMS 2016 Spring Split\nWeek : 3\nWinner : ahq e-Sports Club\nLo
  oser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8adf031a-72dc-44ed-b900-0d2c3cdbf8d7
@@ -252,7 +252,7 @@ SUMMARY:AHQ vs XG
 DESCRIPTION:ahq e-Sports Club (AHQ) vs eXtreme Gamers eSports Club (XG)\nTy
  pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e57e7a0c-f2ac-433e-b3d9-25233df303d1
@@ -266,7 +266,7 @@ SUMMARY:HKE vs AHQ
 DESCRIPTION:Hong Kong Esports (HKE) vs ahq e-Sports Club (AHQ)\nType : BO2\
  nTournament : LMS 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-056b8222-4bca-4d17-a3a1-0b4c3f2d1522
@@ -280,7 +280,7 @@ SUMMARY:MSE vs AHQ
 DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType : 
  BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4372734f-b17a-4a65-ad87-7c595cff0b08
@@ -295,7 +295,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Flash Wolves (FW)\nType : BO2\nTourn
  ament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : ahq e-
  Sports Club\nLooser : Flash Wolves\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-86c12225-9626-493b-acfc-85e7713d70d8
@@ -310,7 +310,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Logitech G Sniper (LGS)\nType : BO2\
  nTournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : 
  ahq e-Sports Club\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-87c35c3a-f31d-47b4-856a-b505d3707a92
@@ -325,7 +325,7 @@ DESCRIPTION:Flash Wolves (FW) vs ahq e-Sports Club (AHQ)\nType : BO2\nTourn
  ament : LMS 2016 Spring Split\nWeek : 1\nWinner : ahq e-Sports Club\nLoose
  r : Flash Wolves\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f792af96-ebf4-4a2f-852d-d861e5284e14
@@ -339,7 +339,7 @@ SUMMARY:AHQ vs CGE
 DESCRIPTION:ahq e-Sports Club (AHQ) vs Cougar eSports (CGE)\nType : BO2\nTo
  urnament : LMS 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49853945-9647-44a2-bf10-a29f753d0061
@@ -354,7 +354,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Hong Kong Esports (HKE)\nType : BO2\
  nTournament : LMS 2016 Spring Split\nWeek : 2\nWinner : ahq e-Sports Club\
  nLooser : Hong Kong Esports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95c34b1f-6677-4ae8-80dc-28cef9d6e03e
@@ -368,7 +368,7 @@ SUMMARY:TPA vs AHQ
 DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO2\n
  Tournament : LMS 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f097e20f-4d48-4c04-8138-01201c85bcc6
@@ -383,7 +383,7 @@ DESCRIPTION:Machi (M17) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament
  : LMS 2016 Spring Split\nWeek : 1\nWinner : ahq e-Sports Club\nLooser : Ma
  chi\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c562199f-f07d-471b-9c30-f209d0ae29ba
@@ -398,7 +398,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType :
  BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : ahq e-Sports C
  lub\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bbe4a379-4248-459f-b286-03d54257cf84
@@ -413,7 +413,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Invictus Gaming (IG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e
  -Sports Club\nLooser : Invictus Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f7fc156-ef29-44e6-9857-735a7e79ea59
@@ -428,7 +428,7 @@ DESCRIPTION:Cloud9  (C9) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-1\nWinner : Cloud9 \nLoos
  er : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-eb04d900-367d-42e4-98ab-121a254e66ae
@@ -442,7 +442,7 @@ SUMMARY:SKT vs AHQ
 DESCRIPTION:SKTelecom T1 (SKT) vs ahq e-Sports Club (AHQ)\nType : BO5\nTour
  nament : The 2015 World Championship\nWeek : london-day-2\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5144d62e-42b7-4e9d-a0f1-4ae581941a26
@@ -457,7 +457,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Cloud9  (C9)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e-Sports 
  Club\nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16689429-96bd-47f2-9429-275eb08064b6
@@ -472,7 +472,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Fnatic (FNC)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-3\nWinner : ahq e-Sports 
  Club\nLooser : Fnatic\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1bb10628-ea70-4370-844e-d45f708328b1
@@ -487,7 +487,7 @@ DESCRIPTION:Invictus Gaming (IG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-4\nWinner : Invic
  tus Gaming\nLooser : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc87a054-6895-4db3-a0ad-63aba1332206
@@ -502,7 +502,7 @@ DESCRIPTION:Fnatic (FNC) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLoose
  r : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-578d9599-ce93-4f12-a873-2595f9500ef0
@@ -517,6 +517,6 @@ DESCRIPTION:Cloud9  (C9) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e-Sports 
  Club\nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160210T120327Z
+DTSTAMP:20160211T120145Z
 END:VEVENT
 END:VCALENDAR
