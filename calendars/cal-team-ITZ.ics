@@ -15,7 +15,21 @@ SUMMARY:OPK vs ITZ
 DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160211T120146Z
+DTSTAMP:20160212T120123Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2aeecd01-6514-451d-845d-63e0bb2042b3
+DTSTART:20160220T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T160000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%205
+SUMMARY:CNB vs ITZ
+DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
+  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160212T120123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cfb0f9a0-a865-46cf-9c9b-661f06a347d3
@@ -30,21 +44,7 @@ DESCRIPTION:g3nerationX (G3X) vs INTZ (ITZ)\nType : BO2\nTournament : The C
  BLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : INTZ\nLooser : g3n
  erationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160211T120146Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2aeecd01-6514-451d-845d-63e0bb2042b3
-DTSTART:20160220T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T160000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%205
-SUMMARY:CNB vs ITZ
-DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
-  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160211T120146Z
+DTSTAMP:20160212T120123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
@@ -58,22 +58,7 @@ SUMMARY:VFK vs ITZ
 DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
  LOL 2016 Split 1 Tournament\nWeek : Semana 4\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160211T120146Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1c0809f9-1149-4991-ad89-b4d38b45ad8e
-DTSTART:20160123T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T160000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%202
-SUMMARY: vs ITZ
-DESCRIPTION:Red Canids () vs INTZ (ITZ)\nType : BO2\nTournament : The CBLOL
-  2016 Split 1 Tournament\nWeek : Semana 2\nWinner : INTZ\nLooser : Red Can
- ids\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160211T120146Z
+DTSTAMP:20160212T120123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
@@ -87,7 +72,7 @@ SUMMARY:KBM vs ITZ
 DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160211T120146Z
+DTSTAMP:20160212T120123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b7956cae-ea41-4669-bdd3-5439fbc9778a
@@ -102,6 +87,21 @@ DESCRIPTION:paiN Gaming (PNG) vs INTZ (ITZ)\nType : BO2\nTournament : The C
  BLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : INTZ\nLooser : INT
  Z\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160211T120146Z
+DTSTAMP:20160212T120123Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1c0809f9-1149-4991-ad89-b4d38b45ad8e
+DTSTART:20160123T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T160000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%202
+SUMMARY: vs ITZ
+DESCRIPTION:Red Canids () vs INTZ (ITZ)\nType : BO2\nTournament : The CBLOL
+  2016 Split 1 Tournament\nWeek : Semana 2\nWinner : INTZ\nLooser : Red Can
+ ids\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160212T120123Z
 END:VEVENT
 END:VCALENDAR
