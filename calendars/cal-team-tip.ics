@@ -4,48 +4,6 @@ PRODID:www.lolesports.com|cal-team-TIP
 X-WR-CALNAME:LoL eSports TIP
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-6b79fde2-bd2e-4025-999a-61dd3511a36a
-DTSTART:20160313T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:C9 vs TIP
-DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6ac28a2a-cb9a-4032-b56c-5301d54da845
-DTSTART:20160320T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:TIP vs IMT
-DESCRIPTION:Team Impulse (TIP) vs Immortals (IMT)\nType : BO1\nTournament :
-  NA 2016 Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fa9b79d8-2ba0-4eed-9985-d4ba6c1b2733
-DTSTART:20160220T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:CLG vs TIP
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
- ournament : NA 2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-8c8ab8a2-12c2-4a52-af6e-135f5d106a0c
 DTSTART:20150822T220000Z
 SEQUENCE:0
@@ -57,7 +15,7 @@ SUMMARY:TL vs TIP
 DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO4\nTournament : Gen
  erated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e5a2b2d-19a9-4ae6-bde0-bebe6bd97f57
@@ -72,7 +30,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO3\nT
  ournament : Generated tournament for the 2015 summer playoffs\nWeek : semi
  finals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c63b5909-4cd6-4df0-a7f8-8528ec5403f6
@@ -86,7 +44,7 @@ SUMMARY:TIP vs NRG
 DESCRIPTION:Team Impulse (TIP) vs NRG Esports (NRG)\nType : BO1\nTournament
   : NA 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f268f5f5-fec9-4f31-8ff5-91654dcd67c5
@@ -100,7 +58,7 @@ SUMMARY:TIP vs TSM
 DESCRIPTION:Team Impulse (TIP) vs TSM (TSM)\nType : BO1\nTournament : NA 20
  16 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-056395fc-4987-4f70-8fcd-4f431e0b2b60
@@ -114,7 +72,7 @@ SUMMARY:TIP vs C9
 DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcd8810c-125b-4e26-a096-5dbdd187a943
@@ -128,7 +86,49 @@ SUMMARY:TIP vs DIG
 DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
  nt : NA 2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b79fde2-bd2e-4025-999a-61dd3511a36a
+DTSTART:20160313T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:C9 vs TIP
+DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160215T120105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6ac28a2a-cb9a-4032-b56c-5301d54da845
+DTSTART:20160320T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:TIP vs IMT
+DESCRIPTION:Team Impulse (TIP) vs Immortals (IMT)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160215T120105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fa9b79d8-2ba0-4eed-9985-d4ba6c1b2733
+DTSTART:20160220T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:CLG vs TIP
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
+ ournament : NA 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cc046f02-cde2-4886-8d11-c185c5cd2e98
@@ -142,7 +142,7 @@ SUMMARY:FOX vs TIP
 DESCRIPTION:Echo Fox (FOX) vs Team Impulse (TIP)\nType : BO1\nTournament : 
  NA 2016 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-03f2990e-13bb-419b-94c5-607ae14261d1
@@ -156,7 +156,7 @@ SUMMARY:TIP vs CLG
 DESCRIPTION:Team Impulse (TIP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00f8ae5f-408b-4229-b755-9ff9bead1c87
@@ -170,7 +170,7 @@ SUMMARY:REN vs TIP
 DESCRIPTION:Renegades (REN) vs Team Impulse (TIP)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9e7db3a2-f25e-4b87-ad03-5bb1251060c0
@@ -185,7 +185,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO3\nTourname
  nt : Generated tournament for the 2015 summer playoffs\nWeek : quarterfina
  ls\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e9a5b193-697c-44db-b614-2ce29d70f1b3
@@ -199,7 +199,7 @@ SUMMARY:TIP vs C9
 DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO5\nTournament : NA
   LCS Summer regional playoffs\nWeek : semifinals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a758d97a-8fec-49a8-a26a-fcc1888fe16a
@@ -213,7 +213,7 @@ SUMMARY:TL vs TIP
 DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 
  2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d2a8ff8d-4e74-4aa8-b99f-9da5aec96f58
@@ -227,7 +227,7 @@ SUMMARY:TSM vs TIP
 DESCRIPTION:TSM (TSM) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 20
  16 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0d05d127-a19c-40f3-bc4d-492ea95afcb1
@@ -241,7 +241,7 @@ SUMMARY:TIP vs REN
 DESCRIPTION:Team Impulse (TIP) vs Renegades (REN)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-da247161-dab1-4689-a128-42b97885a833
@@ -255,7 +255,7 @@ SUMMARY:IMT vs TIP
 DESCRIPTION:Immortals (IMT) vs Team Impulse (TIP)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7ab19f98-dc0e-402b-a274-9100a31023b6
@@ -269,7 +269,7 @@ SUMMARY:NRG vs TIP
 DESCRIPTION:NRG Esports (NRG) vs Team Impulse (TIP)\nType : BO1\nTournament
   : NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e283eb8d-4ca4-406c-a447-7bcd02258df3
@@ -283,7 +283,7 @@ SUMMARY:TIP vs FOX
 DESCRIPTION:Team Impulse (TIP) vs Echo Fox (FOX)\nType : BO1\nTournament : 
  NA 2016 Spring Split\nWeek : 6\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b63224a8-b89e-4728-aff0-e71c5d8c2135
@@ -297,7 +297,7 @@ SUMMARY:TIP vs TL
 DESCRIPTION:Team Impulse (TIP) vs Liquid (TL)\nType : BO1\nTournament : NA 
  2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cf0346d2-2614-4b2a-987a-a90b80ce0c74
@@ -311,6 +311,6 @@ SUMMARY:DIG vs TIP
 DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
  nt : NA 2016 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160212T120117Z
+DTSTAMP:20160215T120105Z
 END:VEVENT
 END:VCALENDAR
