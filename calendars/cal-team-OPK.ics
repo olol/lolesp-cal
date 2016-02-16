@@ -4,20 +4,6 @@ PRODID:www.lolesports.com|cal-team-OPK
 X-WR-CALNAME:LoL eSports OPK
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-a3ab800d-9b4a-4d46-b732-3176275cd27c
-DTSTART:20160220T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%205
-SUMMARY:OPK vs KBM
-DESCRIPTION:Operation Kino (OPK) vs KaBuM e-Sports (KBM)\nType : BO2\nTourn
- ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160215T120110Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-44a4d6be-f9ea-4b25-a4f6-8cd40f188143
 DTSTART:20160214T150000Z
 SEQUENCE:0
@@ -30,7 +16,7 @@ DESCRIPTION:Operation Kino (OPK) vs Red Canids ()\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : Red Canids\n
  Looser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160215T120110Z
+DTSTAMP:20160216T120117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-05047ed9-bf23-4645-acb6-5fa6e76c4237
@@ -45,7 +31,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Operation Kino (OPK)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Operatio
  n Kino\nLooser : paiN Gaming\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160215T120110Z
+DTSTAMP:20160216T120117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1a070c5-6127-4d08-a922-c2bff936db6f
@@ -59,36 +45,21 @@ SUMMARY:OPK vs ITZ
 DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160215T120110Z
+DTSTAMP:20160216T120117Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
-DTSTART:20160116T170000Z
+UID:match-a3ab800d-9b4a-4d46-b732-3176275cd27c
+DTSTART:20160220T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160116T180000Z
+DTEND:20160220T180000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%201
-SUMMARY:CNB vs OPK
-DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
- urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
- eration Kino\nLooser : CNB e-Sports Club\n
+ e/fase_de_grupos/Semana%205
+SUMMARY:OPK vs KBM
+DESCRIPTION:Operation Kino (OPK) vs KaBuM e-Sports (KBM)\nType : BO2\nTourn
+ ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160215T120110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-105adbcc-c5ae-419c-b600-42275f3ecf25
-DTSTART:20160225T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160225T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:VFK vs OPK
-DESCRIPTION:Keyd Stars (VFK) vs Operation Kino (OPK)\nType : BO2\nTournamen
- t : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160215T120110Z
+DTSTAMP:20160216T120117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c37538e9-e1cc-482c-9111-52406c484c90
@@ -103,6 +74,35 @@ DESCRIPTION:Operation Kino (OPK) vs g3nerationX (G3X)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : g3nerati
  onX\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160215T120110Z
+DTSTAMP:20160216T120117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-105adbcc-c5ae-419c-b600-42275f3ecf25
+DTSTART:20160225T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:VFK vs OPK
+DESCRIPTION:Keyd Stars (VFK) vs Operation Kino (OPK)\nType : BO2\nTournamen
+ t : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160216T120117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
+DTSTART:20160116T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%201
+SUMMARY:CNB vs OPK
+DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
+ urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
+ eration Kino\nLooser : CNB e-Sports Club\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160216T120117Z
 END:VEVENT
 END:VCALENDAR
