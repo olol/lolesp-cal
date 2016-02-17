@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-LGC
+X-WR-CALNAME:LoL eSports LGC
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-c3ff30af-71a4-4e28-aac9-e7160158e53d
+DTSTART:20160301T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160301T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/7
+SUMMARY:LGC vs TRI
+DESCRIPTION:Legacy eSports (LGC) vs Trident Esports (TRI)\nType : BO3\nTour
+ nament : OPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f3f7ff2d-d2ed-448c-a452-914e8cb419d2
+DTSTART:20160223T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160223T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/6
+SUMMARY:LGC vs INF
+DESCRIPTION:Legacy eSports (LGC) vs Infernum (INF)\nType : BO3\nTournament 
+ : OPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c936a0dd-f772-4fca-85e9-f073ac3fc0a6
+DTSTART:20160315T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160315T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/9
+SUMMARY:CHF vs LGC
+DESCRIPTION:Chiefs eSports Club (CHF) vs Legacy eSports (LGC)\nType : BO3\n
+ Tournament : OPL 2016 Spring Split\nWeek : 9\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cd116bf7-2e8e-4b46-847a-e4e57a2e9024
+DTSTART:20160126T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160126T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_b/2
+SUMMARY:LGC vs AV
+DESCRIPTION:Legacy eSports (LGC) vs Avant Garde (AV)\nType : BO3\nTournamen
+ t : OPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-77567824-34d6-4e8e-bc4a-e39c309ac8e8
+DTSTART:20160119T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160119T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/1
+SUMMARY:LGC vs SIN
+DESCRIPTION:Legacy eSports (LGC) vs Sin Gaming (SIN)\nType : BO3\nTournamen
+ t : OPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7259fe3e-ca6b-4201-9713-76fe697d6c2c
+DTSTART:20160216T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160216T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/5
+SUMMARY:DW vs LGC
+DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
+ t : OPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2bdca23a-f875-4411-8811-006904130f3a
+DTSTART:20160323T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160323T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/10
+SUMMARY:AV vs LGC
+DESCRIPTION:Avant Garde (AV) vs Legacy eSports (LGC)\nType : BO3\nTournamen
+ t : OPL 2016 Spring Split\nWeek : 10\nWinner : Legacy eSports\nLooser : Av
+ ant Garde\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-926dbf02-cc0b-4244-9d15-c6c13165ab87
+DTSTART:20160308T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160308T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_b/8
+SUMMARY:LGC vs HLN
+DESCRIPTION:Legacy eSports (LGC) vs Hellions e-Sports Club (HLN)\nType : BO
+ 3\nTournament : OPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0695671c-830f-49e0-b090-f45a52b32886
+DTSTART:20160202T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160202T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/3
+SUMMARY:HLN vs LGC
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
+ 3\nTournament : OPL 2016 Spring Split\nWeek : 3\nWinner : Legacy eSports\n
+ Looser : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bc3ec608-541b-4659-8062-c6e362197fd7
+DTSTART:20160208T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160208T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_b/4
+SUMMARY:LGC vs INF
+DESCRIPTION:Legacy eSports (LGC) vs Infernum (INF)\nType : BO3\nTournament 
+ : OPL 2016 Spring Split\nWeek : 4\nWinner : Legacy eSports\nLooser : Infer
+ num\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160217T120144Z
+END:VEVENT
+END:VCALENDAR

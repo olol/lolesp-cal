@@ -15,21 +15,7 @@ SUMMARY:RvG vs TSE
 DESCRIPTION:Revenge eSports (RvG) vs Tesla eSports (TSE)\nType : BO3\nTourn
  ament : Copa Latinoamerica Norte\nWeek : 1\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b1caf78-d14c-4a93-b8c0-c5d795c9b313
-DTSTART:20160309T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160309T030000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
- 016_split_1/schedule/round_robin/6
-SUMMARY:LG vs TSE
-DESCRIPTION:Lyon Gaming (LG) vs Tesla eSports (TSE)\nType : BO3\nTournament
-  : Copa Latinoamerica Norte\nWeek : 6\n
-CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-70979b68-da04-4271-baed-2f50f645a79b
@@ -43,7 +29,21 @@ SUMMARY:TSE vs LG
 DESCRIPTION:Tesla eSports (TSE) vs Lyon Gaming (LG)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 2\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b1caf78-d14c-4a93-b8c0-c5d795c9b313
+DTSTART:20160309T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160309T030000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-norte/copalan_2
+ 016_split_1/schedule/round_robin/6
+SUMMARY:LG vs TSE
+DESCRIPTION:Lyon Gaming (LG) vs Tesla eSports (TSE)\nType : BO3\nTournament
+  : Copa Latinoamerica Norte\nWeek : 6\n
+CATEGORIES:Copa Latinoamerica Norte
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-37887559-de15-4318-bdc2-523c8abd2492
@@ -57,7 +57,7 @@ SUMMARY:TSE vs RvG
 DESCRIPTION:Tesla eSports (TSE) vs Revenge eSports (RvG)\nType : BO3\nTourn
  ament : Copa Latinoamerica Norte\nWeek : 5\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bdffeeed-a29f-4333-9e10-16e655ee23f6
@@ -71,7 +71,7 @@ SUMMARY:TSE vs D9
 DESCRIPTION:Tesla eSports (TSE) vs Dash9 Gaming (D9)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 2\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ea5ee261-149f-4757-83bf-df7223e3284f
@@ -85,7 +85,7 @@ SUMMARY:TSE vs HVK
 DESCRIPTION:Tesla eSports (TSE) vs Havoks Gaming (HVK)\nType : BO3\nTournam
  ent : Copa Latinoamerica Norte\nWeek : 8\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ec9000f0-5967-401d-a041-3c34e2565320
@@ -99,7 +99,7 @@ SUMMARY:TSE vs GG
 DESCRIPTION:Tesla eSports (TSE) vs Galactic Gaming (GG)\nType : BO3\nTourna
  ment : Copa Latinoamerica Norte\nWeek : 3\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7a974e34-f4b9-49dd-a6ee-10d754ec35e4
@@ -113,7 +113,7 @@ SUMMARY:HVK vs TSE
 DESCRIPTION:Havoks Gaming (HVK) vs Tesla eSports (TSE)\nType : BO3\nTournam
  ent : Copa Latinoamerica Norte\nWeek : 4\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dc9013e1-cea4-4f15-bfc4-e0e521756d24
@@ -127,7 +127,7 @@ SUMMARY:D9 vs TSE
 DESCRIPTION:Dash9 Gaming (D9) vs Tesla eSports (TSE)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 6\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-51abd8b4-079c-4d77-9a62-fe131a43432f
@@ -141,6 +141,6 @@ SUMMARY:GG vs TSE
 DESCRIPTION:Galactic Gaming (GG) vs Tesla eSports (TSE)\nType : BO3\nTourna
  ment : Copa Latinoamerica Norte\nWeek : 7\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160216T120117Z
+DTSTAMP:20160217T120145Z
 END:VEVENT
 END:VCALENDAR

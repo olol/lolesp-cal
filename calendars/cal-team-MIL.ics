@@ -13,9 +13,10 @@ URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
  _season/4
 SUMMARY:MIL vs IE
 DESCRIPTION:Millenium (MIL) vs Inspire eSports (IE)\nType : BO2\nTournament
-  : EU CS 2016 Spring Split\nWeek : 4\n
+  : EU CS 2016 Spring Split\nWeek : 4\nWinner : Inspire eSports\nLooser : M
+ illenium\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160216T120113Z
+DTSTAMP:20160217T120139Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6e364a2-1547-4962-a940-c6cd0cf8c4ec
@@ -30,7 +31,7 @@ DESCRIPTION:Millenium (MIL) vs Mousesports (MOU)\nType : BO2\nTournament :
  EU CS 2016 Spring Split\nWeek : 2\nWinner : Millenium\nLooser : Mousesport
  s\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160216T120113Z
+DTSTAMP:20160217T120139Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95e0907b-c0b0-49a8-a22c-cee6f709d834
@@ -45,7 +46,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO2\nTourname
  nt : EU CS 2016 Spring Split\nWeek : 3\nWinner : Millenium\nLooser : Copen
  hagen Wolves\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160216T120113Z
+DTSTAMP:20160217T120139Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-84fd46b4-0637-43b9-8912-a78e06caa44e
@@ -59,7 +60,7 @@ SUMMARY:MIL vs HMA
 DESCRIPTION:Millenium (MIL) vs Huma (HMA)\nType : BO2\nTournament : EU CS 2
  016 Spring Split\nWeek : 1\nWinner : Millenium\nLooser : Huma\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160216T120113Z
+DTSTAMP:20160217T120139Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0e53084-a86c-4ca2-a17e-b4aa80e62256
@@ -73,6 +74,6 @@ SUMMARY:MIL vs SKG
 DESCRIPTION:Millenium (MIL) vs SK Gaming (SKG)\nType : BO2\nTournament : EU
   CS 2016 Spring Split\nWeek : 5\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160216T120113Z
+DTSTAMP:20160217T120139Z
 END:VEVENT
 END:VCALENDAR
