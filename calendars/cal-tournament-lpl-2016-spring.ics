@@ -4,104 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-lpl-2016-spring
 X-WR-CALNAME:LoL eSports Lpl 2016 spring
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-cedbab10-d6fc-4bfb-932f-35e3830ee635
-DTSTART:20160116T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:IG vs EDG
-DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3677988b-339d-41c8-8974-0ef59afaaec7
-DTSTART:20160219T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160219T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:OMG vs QG
-DESCRIPTION:OMG (OMG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ecaa024e-1736-43c5-bd3a-028e3a776d13
-DTSTART:20160218T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:EDG vs LGD
-DESCRIPTION:Edward Gaming (EDG) vs LGD Gaming (LGD)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b6667a18-6d49-46ef-be7f-f45fdfe21235
-DTSTART:20160220T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:LGD vs RNG
-DESCRIPTION:LGD Gaming (LGD) vs Royal Never Give Up (RNG)\nType : BO3\nTour
- nament : LPL 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7ccb6234-3530-4c0c-a711-4a68e040d04c
-DTSTART:20160130T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160130T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:IG vs RNG
-DESCRIPTION:Invictus Gaming (IG) vs Royal Never Give Up (RNG)\nType : BO3\n
- Tournament : LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-15ea840c-61a8-4d99-8616-597e0e8ceaab
-DTSTART:20160403T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160403T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/9
-SUMMARY:OMG vs RNG
-DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b4cb3b2-990d-4be4-88ca-a1c4090ec309
-DTSTART:20160225T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160225T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:EDG vs WE
-DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO3\nTourn
- ament : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-73aa8ea8-df1a-4745-856f-a1b2c8d496ba
 DTSTART:20160227T050000Z
 SEQUENCE:0
@@ -113,7 +15,7 @@ SUMMARY:M3 vs HYG
 DESCRIPTION:Master3 (M3) vs Hyper Youth Gaming (HYG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0eb67b5-d2f8-4a7a-84f4-ebe5e6d98ccb
@@ -127,7 +29,7 @@ SUMMARY:LGD vs QG
 DESCRIPTION:LGD Gaming (LGD) vs Qiao Gu Reapers (QG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-600d2f63-6137-478b-ad9d-cb47654379ce
@@ -141,7 +43,7 @@ SUMMARY:VG vs EPA
 DESCRIPTION:Vici Gaming (VG) vs Energy Pace Maker (EPA)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8062728b-3a73-4efc-8090-29a0b7025e02
@@ -155,7 +57,7 @@ SUMMARY:WE vs LGD
 DESCRIPTION:Team World Elite (WE) vs LGD Gaming (LGD)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ecb6ac78-1b14-4d5a-bb7f-ba8770b2e554
@@ -169,7 +71,7 @@ SUMMARY:EPA vs SS
 DESCRIPTION:Energy Pace Maker (EPA) vs Snake Esports (SS)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0ca04213-f982-4743-b81d-1179c6951d66
@@ -183,7 +85,7 @@ SUMMARY:M3 vs QG
 DESCRIPTION:Master3 (M3) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : 
  LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0d00ca0f-beeb-4437-a65e-dbb4918152f8
@@ -197,7 +99,7 @@ SUMMARY:VG vs SS
 DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a02b0e41-80e3-4991-93e9-465a391d3e7f
@@ -211,7 +113,7 @@ SUMMARY:SS vs LGD
 DESCRIPTION:Snake Esports (SS) vs LGD Gaming (LGD)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2e609fd8-3b56-4c75-88de-67c69611e0f3
@@ -225,7 +127,7 @@ SUMMARY:OMG vs IG
 DESCRIPTION:OMG (OMG) vs Invictus Gaming (IG)\nType : BO3\nTournament : LPL
   2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3aacff64-0df2-4a68-a59b-7fd0a125ca2e
@@ -239,525 +141,105 @@ SUMMARY:M3 vs SS
 DESCRIPTION:Master3 (M3) vs Snake Esports (SS)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-2de32150-ec68-4fd0-be8d-be32e427d8c1
-DTSTART:20160317T110000Z
+UID:match-cedbab10-d6fc-4bfb-932f-35e3830ee635
+DTSTART:20160116T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160317T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:M3 vs EDG
-DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO3\nTournament : L
- PL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1be3c54c-b0b1-498d-8ba3-66fc3181850b
-DTSTART:20160116T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T060000Z
+DTEND:20160116T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
  group_ab/1
-SUMMARY:VG vs RNG
-DESCRIPTION:Vici Gaming (VG) vs Royal Never Give Up (RNG)\nType : BO3\nTour
- nament : LPL 2016 Spring Split\nWeek : 1\n
+SUMMARY:IG vs EDG
+DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-b64f3121-682c-443b-905e-480d2906b46b
-DTSTART:20160122T110000Z
+UID:match-3677988b-339d-41c8-8974-0ef59afaaec7
+DTSTART:20160219T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160122T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:IG vs HYG
-DESCRIPTION:Invictus Gaming (IG) vs Hyper Youth Gaming (HYG)\nType : BO3\nT
- ournament : LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3c0a8ba0-2888-4db1-b051-13c739c501b8
-DTSTART:20160313T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:HYG vs WE
-DESCRIPTION:Hyper Youth Gaming (HYG) vs Team World Elite (WE)\nType : BO3\n
- Tournament : LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-14d16646-09b4-4add-ad43-85a9ac53f251
-DTSTART:20160123T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:LGD vs WE
-DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3d0369d2-3205-4345-90ef-cedc3e8f01e5
-DTSTART:20160327T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/8
-SUMMARY:M3 vs WE
-DESCRIPTION:Master3 (M3) vs Team World Elite (WE)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f25941c8-6f06-4957-a738-6497fbd3f01b
-DTSTART:20160123T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/2
-SUMMARY:QG vs M3
-DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO3\nTournament : 
- LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ee8be2ee-a380-4adf-b02f-5d7df6f38dae
-DTSTART:20160319T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:IG vs QG
-DESCRIPTION:Invictus Gaming (IG) vs Qiao Gu Reapers (QG)\nType : BO3\nTourn
- ament : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-622bfcd5-88d1-4361-894b-7b67d2e00679
-DTSTART:20160320T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:EPA vs EDG
-DESCRIPTION:Energy Pace Maker (EPA) vs Edward Gaming (EDG)\nType : BO3\nTou
- rnament : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0169bafc-3a7e-4914-8917-9bf844569631
-DTSTART:20160325T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160325T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/8
-SUMMARY:EPA vs WE
-DESCRIPTION:Energy Pace Maker (EPA) vs Team World Elite (WE)\nType : BO3\nT
- ournament : LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c89d73cf-4615-4e00-a62a-63964060c2a5
-DTSTART:20160131T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:QG vs SS
-DESCRIPTION:Qiao Gu Reapers (QG) vs Snake Esports (SS)\nType : BO3\nTournam
- ent : LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-732d0cfe-a3ed-457f-bfda-8fca684b66d4
-DTSTART:20160311T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160311T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:EPA vs RNG
-DESCRIPTION:Energy Pace Maker (EPA) vs Royal Never Give Up (RNG)\nType : BO
- 3\nTournament : LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-42df839a-9d6f-4738-901e-058f74fcdca5
-DTSTART:20160312T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160312T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:VG vs LGD
-DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO3\nTournament : 
- LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-da3f7834-51df-4cc2-9995-c957aa87d56d
-DTSTART:20160117T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:LGD vs SS
-DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2c71d587-ed79-41e7-b86c-353685c1da1e
-DTSTART:20160317T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160317T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:SS vs RNG
-DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO3\nTo
- urnament : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-20c0b41f-bddb-4608-957f-49c0b1b03ad0
-DTSTART:20160327T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/8
-SUMMARY:SS vs QG
-DESCRIPTION:Snake Esports (SS) vs Qiao Gu Reapers (QG)\nType : BO3\nTournam
- ent : LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-80b374d0-8762-4b24-bdcc-98243a619416
-DTSTART:20160310T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160310T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:HYG vs QG
-DESCRIPTION:Hyper Youth Gaming (HYG) vs Qiao Gu Reapers (QG)\nType : BO3\nT
- ournament : LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8b47a82d-cbd6-4e06-b5fd-8beef4257328
-DTSTART:20160408T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160408T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:M3 vs LGD
-DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a8ff7f20-7872-4bdf-9c83-ae85e19301af
-DTSTART:20160220T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T080000Z
+DTEND:20160219T120000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
  group_ab/4
-SUMMARY:IG vs SS
-DESCRIPTION:Invictus Gaming (IG) vs Snake Esports (SS)\nType : BO3\nTournam
- ent : LPL 2016 Spring Split\nWeek : 4\n
+SUMMARY:OMG vs QG
+DESCRIPTION:OMG (OMG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-8500c718-db3a-4a1e-821d-6b4d63a63242
-DTSTART:20160312T090000Z
+UID:match-ecaa024e-1736-43c5-bd3a-028e3a776d13
+DTSTART:20160218T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160312T100000Z
+DTEND:20160218T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:EDG vs QG
-DESCRIPTION:Edward Gaming (EDG) vs Qiao Gu Reapers (QG)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 6\n
+ group_ab/4
+SUMMARY:EDG vs LGD
+DESCRIPTION:Edward Gaming (EDG) vs LGD Gaming (LGD)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-a0dea10c-8946-4302-830a-4c8e6093685a
-DTSTART:20160226T110000Z
+UID:match-b6667a18-6d49-46ef-be7f-f45fdfe21235
+DTSTART:20160220T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160226T120000Z
+DTEND:20160220T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:QG vs RNG
-DESCRIPTION:Qiao Gu Reapers (QG) vs Royal Never Give Up (RNG)\nType : BO3\n
- Tournament : LPL 2016 Spring Split\nWeek : 5\n
+ group_ab/4
+SUMMARY:LGD vs RNG
+DESCRIPTION:LGD Gaming (LGD) vs Royal Never Give Up (RNG)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-b85286bd-aadc-4255-9969-1f897b248d86
-DTSTART:20160227T070000Z
+UID:match-7ccb6234-3530-4c0c-a711-4a68e040d04c
+DTSTART:20160130T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160227T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:VG vs WE
-DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-736be5ed-fc55-458e-84ab-aa6356f72406
-DTSTART:20160228T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:IG vs LGD
-DESCRIPTION:Invictus Gaming (IG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-393e37a8-1a6e-4f4e-aa31-0e3995f4f9eb
-DTSTART:20160324T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160324T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/8
-SUMMARY:HYG vs EDG
-DESCRIPTION:Hyper Youth Gaming (HYG) vs Edward Gaming (EDG)\nType : BO3\nTo
- urnament : LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-19f3166e-951d-4044-9510-40ef96e5104e
-DTSTART:20160324T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160324T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/8
-SUMMARY:VG vs IG
-DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (IG)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8cf4a1db-e537-498d-a494-0eddb64236bc
-DTSTART:20160319T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:M3 vs RNG
-DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-089155c2-33d7-4225-a4a6-8aa14276c74b
-DTSTART:20160319T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:WE vs OMG
-DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO3\nTournament : LP
- L 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c657313d-af83-4ec9-b9e4-56a36a84bc65
-DTSTART:20160117T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:WE vs QG
-DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
- nament : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e8de5732-240f-45da-a6f4-a77263647a27
-DTSTART:20160129T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160129T120000Z
+DTEND:20160130T060000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
  group_ab/3
-SUMMARY:WE vs SS
-DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 3\n
+SUMMARY:IG vs RNG
+DESCRIPTION:Invictus Gaming (IG) vs Royal Never Give Up (RNG)\nType : BO3\n
+ Tournament : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-ad073804-2119-413d-8cc7-fc072739a58b
-DTSTART:20160131T070000Z
+UID:match-15ea840c-61a8-4d99-8616-597e0e8ceaab
+DTSTART:20160403T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160131T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:EPA vs LGD
-DESCRIPTION:Energy Pace Maker (EPA) vs LGD Gaming (LGD)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0aa3dfc6-8a3b-40e3-a643-e6411c6555d3
-DTSTART:20160312T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160312T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:OMG vs SS
-DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO3\nTournament : LPL 2
- 016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9db72a49-b6a6-47b5-8529-e0d4db74d564
-DTSTART:20160116T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:HYG vs OMG
-DESCRIPTION:Hyper Youth Gaming (HYG) vs OMG (OMG)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-38974f0a-31ac-4cf7-8a40-6bb078369e56
-DTSTART:20160401T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160401T100000Z
+DTEND:20160403T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
  group_b/9
-SUMMARY:RNG vs EDG
-DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO3\nT
- ournament : LPL 2016 Spring Split\nWeek : 9\n
+SUMMARY:OMG vs RNG
+DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-beb63730-79c3-4edb-b583-6aa92869e6ae
-DTSTART:20160410T090000Z
+UID:match-6b4cb3b2-990d-4be4-88ca-a1c4090ec309
+DTSTART:20160225T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160410T100000Z
+DTEND:20160225T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:EPA vs M3
-DESCRIPTION:Energy Pace Maker (EPA) vs Master3 (M3)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 10\n
+ group_ab/5
+SUMMARY:EDG vs WE
+DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO3\nTourn
+ ament : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f709b9c3-f099-4e69-b080-e771eec81194
-DTSTART:20160408T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160408T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:WE vs SS
-DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bcbca423-f570-44df-8a97-d30dd0237b48
-DTSTART:20160131T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/3
-SUMMARY:WE vs M3
-DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-43fe89bf-42b4-4eb7-b935-a497f9dd15cb
-DTSTART:20160410T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160410T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:WE vs QG
-DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
- nament : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c3d44055-f5bb-4d96-a96d-47430a46a49a
@@ -771,77 +253,525 @@ SUMMARY:LGD vs OMG
 DESCRIPTION:LGD Gaming (LGD) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
  6 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-68640220-6829-428e-b204-00382a61dbe5
-DTSTART:20160220T050000Z
+UID:match-a0dea10c-8946-4302-830a-4c8e6093685a
+DTSTART:20160226T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160220T060000Z
+DTEND:20160226T120000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:EPA vs HYG
-DESCRIPTION:Energy Pace Maker (EPA) vs Hyper Youth Gaming (HYG)\nType : BO3
- \nTournament : LPL 2016 Spring Split\nWeek : 4\n
+ group_ab/5
+SUMMARY:QG vs RNG
+DESCRIPTION:Qiao Gu Reapers (QG) vs Royal Never Give Up (RNG)\nType : BO3\n
+ Tournament : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-7816913a-cd32-4795-9623-15c3f8d00126
-DTSTART:20160115T090000Z
+UID:match-b85286bd-aadc-4255-9969-1f897b248d86
+DTSTART:20160227T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160115T100000Z
+DTEND:20160227T080000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/1
-SUMMARY:WE vs EPA
-DESCRIPTION:Team World Elite (WE) vs Energy Pace Maker (EPA)\nType : BO3\nT
- ournament : LPL 2016 Spring Split\nWeek : 1\n
+ group_ab/5
+SUMMARY:VG vs WE
+DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4afa7605-d473-40d2-9070-6b13748c8a70
-DTSTART:20160218T110000Z
+UID:match-736be5ed-fc55-458e-84ab-aa6356f72406
+DTSTART:20160228T070000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160218T120000Z
+DTEND:20160228T080000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:WE vs RNG
-DESCRIPTION:Team World Elite (WE) vs Royal Never Give Up (RNG)\nType : BO3\
- nTournament : LPL 2016 Spring Split\nWeek : 4\n
+ group_ab/5
+SUMMARY:IG vs LGD
+DESCRIPTION:Invictus Gaming (IG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-7c64fa8f-e8fd-4b6b-83ee-b812f96e8453
-DTSTART:20160124T050000Z
+UID:match-393e37a8-1a6e-4f4e-aa31-0e3995f4f9eb
+DTSTART:20160324T090000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160124T060000Z
+DTEND:20160324T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:VG vs EDG
-DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 2\n
+ group_b/8
+SUMMARY:HYG vs EDG
+DESCRIPTION:Hyper Youth Gaming (HYG) vs Edward Gaming (EDG)\nType : BO3\nTo
+ urnament : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-381b6225-1552-4fcc-8228-05260d17790a
-DTSTART:20160403T070000Z
+UID:match-19f3166e-951d-4044-9510-40ef96e5104e
+DTSTART:20160324T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160403T080000Z
+DTEND:20160324T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/8
+SUMMARY:VG vs IG
+DESCRIPTION:Vici Gaming (VG) vs Invictus Gaming (IG)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8cf4a1db-e537-498d-a494-0eddb64236bc
+DTSTART:20160319T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:M3 vs RNG
+DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-089155c2-33d7-4225-a4a6-8aa14276c74b
+DTSTART:20160319T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:WE vs OMG
+DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO3\nTournament : LP
+ L 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c657313d-af83-4ec9-b9e4-56a36a84bc65
+DTSTART:20160117T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:WE vs QG
+DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e8de5732-240f-45da-a6f4-a77263647a27
+DTSTART:20160129T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160129T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:WE vs SS
+DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ad073804-2119-413d-8cc7-fc072739a58b
+DTSTART:20160131T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:EPA vs LGD
+DESCRIPTION:Energy Pace Maker (EPA) vs LGD Gaming (LGD)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0aa3dfc6-8a3b-40e3-a643-e6411c6555d3
+DTSTART:20160312T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160312T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:OMG vs SS
+DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO3\nTournament : LPL 2
+ 016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9db72a49-b6a6-47b5-8529-e0d4db74d564
+DTSTART:20160116T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:HYG vs OMG
+DESCRIPTION:Hyper Youth Gaming (HYG) vs OMG (OMG)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-38974f0a-31ac-4cf7-8a40-6bb078369e56
+DTSTART:20160401T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160401T100000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
  group_b/9
-SUMMARY:HYG vs IG
-DESCRIPTION:Hyper Youth Gaming (HYG) vs Invictus Gaming (IG)\nType : BO3\nT
+SUMMARY:RNG vs EDG
+DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-beb63730-79c3-4edb-b583-6aa92869e6ae
+DTSTART:20160410T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160410T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:EPA vs M3
+DESCRIPTION:Energy Pace Maker (EPA) vs Master3 (M3)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f709b9c3-f099-4e69-b080-e771eec81194
+DTSTART:20160408T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160408T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:WE vs SS
+DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bcbca423-f570-44df-8a97-d30dd0237b48
+DTSTART:20160131T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/3
+SUMMARY:WE vs M3
+DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-43fe89bf-42b4-4eb7-b935-a497f9dd15cb
+DTSTART:20160410T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160410T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:WE vs QG
+DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-42df839a-9d6f-4738-901e-058f74fcdca5
+DTSTART:20160312T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160312T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:VG vs LGD
+DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO3\nTournament : 
+ LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-da3f7834-51df-4cc2-9995-c957aa87d56d
+DTSTART:20160117T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:LGD vs SS
+DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3c0a8ba0-2888-4db1-b051-13c739c501b8
+DTSTART:20160313T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:HYG vs WE
+DESCRIPTION:Hyper Youth Gaming (HYG) vs Team World Elite (WE)\nType : BO3\n
+ Tournament : LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-14d16646-09b4-4add-ad43-85a9ac53f251
+DTSTART:20160123T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:LGD vs WE
+DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3d0369d2-3205-4345-90ef-cedc3e8f01e5
+DTSTART:20160327T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160327T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/8
+SUMMARY:M3 vs WE
+DESCRIPTION:Master3 (M3) vs Team World Elite (WE)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f25941c8-6f06-4957-a738-6497fbd3f01b
+DTSTART:20160123T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/2
+SUMMARY:QG vs M3
+DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO3\nTournament : 
+ LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2c71d587-ed79-41e7-b86c-353685c1da1e
+DTSTART:20160317T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:SS vs RNG
+DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO3\nTo
+ urnament : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-20c0b41f-bddb-4608-957f-49c0b1b03ad0
+DTSTART:20160327T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160327T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/8
+SUMMARY:SS vs QG
+DESCRIPTION:Snake Esports (SS) vs Qiao Gu Reapers (QG)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-80b374d0-8762-4b24-bdcc-98243a619416
+DTSTART:20160310T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:HYG vs QG
+DESCRIPTION:Hyper Youth Gaming (HYG) vs Qiao Gu Reapers (QG)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8b47a82d-cbd6-4e06-b5fd-8beef4257328
+DTSTART:20160408T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160408T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:M3 vs LGD
+DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a8ff7f20-7872-4bdf-9c83-ae85e19301af
+DTSTART:20160220T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:IG vs SS
+DESCRIPTION:Invictus Gaming (IG) vs Snake Esports (SS)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8500c718-db3a-4a1e-821d-6b4d63a63242
+DTSTART:20160312T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160312T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:EDG vs QG
+DESCRIPTION:Edward Gaming (EDG) vs Qiao Gu Reapers (QG)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ee8be2ee-a380-4adf-b02f-5d7df6f38dae
+DTSTART:20160319T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:IG vs QG
+DESCRIPTION:Invictus Gaming (IG) vs Qiao Gu Reapers (QG)\nType : BO3\nTourn
+ ament : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-622bfcd5-88d1-4361-894b-7b67d2e00679
+DTSTART:20160320T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:EPA vs EDG
+DESCRIPTION:Energy Pace Maker (EPA) vs Edward Gaming (EDG)\nType : BO3\nTou
+ rnament : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0169bafc-3a7e-4914-8917-9bf844569631
+DTSTART:20160325T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160325T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/8
+SUMMARY:EPA vs WE
+DESCRIPTION:Energy Pace Maker (EPA) vs Team World Elite (WE)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c89d73cf-4615-4e00-a62a-63964060c2a5
+DTSTART:20160131T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:QG vs SS
+DESCRIPTION:Qiao Gu Reapers (QG) vs Snake Esports (SS)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-732d0cfe-a3ed-457f-bfda-8fca684b66d4
+DTSTART:20160311T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160311T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:EPA vs RNG
+DESCRIPTION:Energy Pace Maker (EPA) vs Royal Never Give Up (RNG)\nType : BO
+ 3\nTournament : LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2de32150-ec68-4fd0-be8d-be32e427d8c1
+DTSTART:20160317T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:M3 vs EDG
+DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO3\nTournament : L
+ PL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1be3c54c-b0b1-498d-8ba3-66fc3181850b
+DTSTART:20160116T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:VG vs RNG
+DESCRIPTION:Vici Gaming (VG) vs Royal Never Give Up (RNG)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b64f3121-682c-443b-905e-480d2906b46b
+DTSTART:20160122T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:IG vs HYG
+DESCRIPTION:Invictus Gaming (IG) vs Hyper Youth Gaming (HYG)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-02b0d4b2-fd4e-4336-9519-2681afc3a245
@@ -855,7 +785,7 @@ SUMMARY:IG vs VG
 DESCRIPTION:Invictus Gaming (IG) vs Vici Gaming (VG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8c8b4ae2-2b0e-40cf-a852-12173fa13b6f
@@ -869,7 +799,7 @@ SUMMARY:M3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO3\nTournament : LPL 2016 Sp
  ring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13c4c0cf-212c-4714-bb1b-1473a574e17f
@@ -883,7 +813,7 @@ SUMMARY:EDG vs SS
 DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-446385b6-0955-4e92-8391-076196a68a15
@@ -897,7 +827,7 @@ SUMMARY:EPA vs OMG
 DESCRIPTION:Energy Pace Maker (EPA) vs OMG (OMG)\nType : BO3\nTournament : 
  LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8d53aa37-3f06-4b5e-a377-56ee1efd8116
@@ -911,7 +841,7 @@ SUMMARY:HYG vs LGD
 DESCRIPTION:Hyper Youth Gaming (HYG) vs LGD Gaming (LGD)\nType : BO3\nTourn
  ament : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-66eb660f-26e1-48fe-84b6-7b441c37c324
@@ -925,7 +855,7 @@ SUMMARY:IG vs WE
 DESCRIPTION:Invictus Gaming (IG) vs Team World Elite (WE)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-33f4ad87-63a2-43dd-874e-5431f7cfc3a0
@@ -939,7 +869,7 @@ SUMMARY:IG vs EDG
 DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8dd602d8-48f2-491e-ad69-f65d2da5e7a4
@@ -953,7 +883,7 @@ SUMMARY:OMG vs RNG
 DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dc3c2d4c-376e-4383-b8c1-03eaf0c3788a
@@ -967,21 +897,7 @@ SUMMARY:HYG vs OMG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs OMG (OMG)\nType : BO3\nTournament :
   LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4702b2d2-1779-466a-bcb6-8daf43d6d745
-DTSTART:20160313T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:M3 vs IG
-DESCRIPTION:Master3 (M3) vs Invictus Gaming (IG)\nType : BO3\nTournament : 
- LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e296fb6f-1cea-4461-99e7-f4b9d78e55a5
@@ -995,7 +911,7 @@ SUMMARY:HYG vs VG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs Vici Gaming (VG)\nType : BO3\nTourn
  ament : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8313e192-f4bf-4978-af38-440ef0172126
@@ -1009,7 +925,7 @@ SUMMARY:EPA vs QG
 DESCRIPTION:Energy Pace Maker (EPA) vs Qiao Gu Reapers (QG)\nType : BO3\nTo
  urnament : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e5154153-2156-4b36-a0d3-1ba97923628f
@@ -1023,7 +939,7 @@ SUMMARY:SS vs EPA
 DESCRIPTION:Snake Esports (SS) vs Energy Pace Maker (EPA)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b24650bf-bef0-4a1c-810e-9da732c57cfe
@@ -1037,7 +953,7 @@ SUMMARY:HYG vs RNG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs Royal Never Give Up (RNG)\nType : B
  O3\nTournament : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fef1333f-ffe3-4df4-95b8-da11a4efe859
@@ -1051,7 +967,7 @@ SUMMARY:SS vs M3
 DESCRIPTION:Snake Esports (SS) vs Master3 (M3)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a99a42d2-03b7-42c8-87e8-ee4b7701176a
@@ -1065,7 +981,7 @@ SUMMARY:EDG vs OMG
 DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5c593c43-fedb-48c8-ab3a-6809c8620372
@@ -1079,7 +995,91 @@ SUMMARY:VG vs QG
 DESCRIPTION:Vici Gaming (VG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-68640220-6829-428e-b204-00382a61dbe5
+DTSTART:20160220T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:EPA vs HYG
+DESCRIPTION:Energy Pace Maker (EPA) vs Hyper Youth Gaming (HYG)\nType : BO3
+ \nTournament : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7816913a-cd32-4795-9623-15c3f8d00126
+DTSTART:20160115T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160115T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/1
+SUMMARY:WE vs EPA
+DESCRIPTION:Team World Elite (WE) vs Energy Pace Maker (EPA)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4afa7605-d473-40d2-9070-6b13748c8a70
+DTSTART:20160218T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:WE vs RNG
+DESCRIPTION:Team World Elite (WE) vs Royal Never Give Up (RNG)\nType : BO3\
+ nTournament : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7c64fa8f-e8fd-4b6b-83ee-b812f96e8453
+DTSTART:20160124T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:VG vs EDG
+DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-381b6225-1552-4fcc-8228-05260d17790a
+DTSTART:20160403T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160403T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/9
+SUMMARY:HYG vs IG
+DESCRIPTION:Hyper Youth Gaming (HYG) vs Invictus Gaming (IG)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4702b2d2-1779-466a-bcb6-8daf43d6d745
+DTSTART:20160313T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:M3 vs IG
+DESCRIPTION:Master3 (M3) vs Invictus Gaming (IG)\nType : BO3\nTournament : 
+ LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-41863ee4-b2a2-472a-afdb-f9e23c73b46b
@@ -1093,7 +1093,7 @@ SUMMARY:VG vs OMG
 DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
  6 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9c4fd6f9-79c9-42e0-b52e-1e1fb4b6c63b
@@ -1107,7 +1107,7 @@ SUMMARY:VG vs HYG
 DESCRIPTION:Vici Gaming (VG) vs Hyper Youth Gaming (HYG)\nType : BO3\nTourn
  ament : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-277386bd-9545-4e6d-9ae7-fa83f90a555c
@@ -1121,7 +1121,7 @@ SUMMARY:IG vs OMG
 DESCRIPTION:Invictus Gaming (IG) vs OMG (OMG)\nType : BO3\nTournament : LPL
   2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-29c05528-a90b-49d4-9fdd-2eb15ed8f758
@@ -1135,7 +1135,7 @@ SUMMARY:IG vs EPA
 DESCRIPTION:Invictus Gaming (IG) vs Energy Pace Maker (EPA)\nType : BO3\nTo
  urnament : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e58ff1d5-a05b-4b45-8063-1890e02a7c05
@@ -1149,7 +1149,7 @@ SUMMARY:EDG vs RNG
 DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-11322be2-822c-4812-9cdf-ab350b6c98cc
@@ -1163,7 +1163,7 @@ SUMMARY:M3 vs VG
 DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-03f2ace7-0016-45bf-83bc-dbc06a4dc231
@@ -1177,7 +1177,7 @@ SUMMARY:RNG vs VG
 DESCRIPTION:Royal Never Give Up (RNG) vs Vici Gaming (VG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3d9792b9-dadf-49c6-9a2f-129594dbf253
@@ -1191,7 +1191,7 @@ SUMMARY:M3 vs LGD
 DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53c6d1d6-e9cf-4e44-836c-9bd48d3222c2
@@ -1205,7 +1205,7 @@ SUMMARY:EPA vs QG
 DESCRIPTION:Energy Pace Maker (EPA) vs Qiao Gu Reapers (QG)\nType : BO3\nTo
  urnament : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13c1b84e-759f-4751-880f-8c4f5eda815d
@@ -1219,7 +1219,7 @@ SUMMARY:HYG vs SS
 DESCRIPTION:Hyper Youth Gaming (HYG) vs Snake Esports (SS)\nType : BO3\nTou
  rnament : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39f12dd5-41f6-4020-ab7a-78c91a1dca05
@@ -1233,7 +1233,7 @@ SUMMARY:EPA vs LGD
 DESCRIPTION:Energy Pace Maker (EPA) vs LGD Gaming (LGD)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5560d29a-30a3-4b14-9a38-b398ee2dd640
@@ -1247,91 +1247,7 @@ SUMMARY:VG vs EDG
 DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4d74a54b-d6f3-4daa-bc20-396ee7d83599
-DTSTART:20160128T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160128T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:EDG vs HYG
-DESCRIPTION:Edward Gaming (EDG) vs Hyper Youth Gaming (HYG)\nType : BO3\nTo
- urnament : LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-36e27109-be3b-4d1a-bd52-b3e6800b771a
-DTSTART:20160325T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160325T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/8
-SUMMARY:QG vs LGD
-DESCRIPTION:Qiao Gu Reapers (QG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-982e36cd-e805-4d8b-b3f9-c5a1141a2d61
-DTSTART:20160409T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160409T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:OMG vs EDG
-DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f6071c82-764a-4940-aa3c-a5555707e5d0
-DTSTART:20160407T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160407T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:HYG vs RNG
-DESCRIPTION:Hyper Youth Gaming (HYG) vs Royal Never Give Up (RNG)\nType : B
- O3\nTournament : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1148045f-0767-4fba-a561-ac3a0788c259
-DTSTART:20160409T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160409T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:RNG vs IG
-DESCRIPTION:Royal Never Give Up (RNG) vs Invictus Gaming (IG)\nType : BO3\n
- Tournament : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-000799fe-19ff-4d71-9ae6-8c213e23af6c
-DTSTART:20160407T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160407T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:OMG vs VG
-DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 201
- 6 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c8a846ab-1932-4772-a605-5a1976ae9766
@@ -1345,6 +1261,90 @@ SUMMARY:M3 vs EPA
 DESCRIPTION:Master3 (M3) vs Energy Pace Maker (EPA)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160217T120142Z
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4d74a54b-d6f3-4daa-bc20-396ee7d83599
+DTSTART:20160128T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:EDG vs HYG
+DESCRIPTION:Edward Gaming (EDG) vs Hyper Youth Gaming (HYG)\nType : BO3\nTo
+ urnament : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-36e27109-be3b-4d1a-bd52-b3e6800b771a
+DTSTART:20160325T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160325T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/8
+SUMMARY:QG vs LGD
+DESCRIPTION:Qiao Gu Reapers (QG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-982e36cd-e805-4d8b-b3f9-c5a1141a2d61
+DTSTART:20160409T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160409T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:OMG vs EDG
+DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f6071c82-764a-4940-aa3c-a5555707e5d0
+DTSTART:20160407T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160407T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:HYG vs RNG
+DESCRIPTION:Hyper Youth Gaming (HYG) vs Royal Never Give Up (RNG)\nType : B
+ O3\nTournament : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1148045f-0767-4fba-a561-ac3a0788c259
+DTSTART:20160409T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160409T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:RNG vs IG
+DESCRIPTION:Royal Never Give Up (RNG) vs Invictus Gaming (IG)\nType : BO3\n
+ Tournament : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-000799fe-19ff-4d71-9ae6-8c213e23af6c
+DTSTART:20160407T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160407T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:OMG vs VG
+DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 201
+ 6 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160218T120043Z
 END:VEVENT
 END:VCALENDAR
