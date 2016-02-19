@@ -15,7 +15,7 @@ SUMMARY:CNB vs ITZ
 DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160218T120045Z
+DTSTAMP:20160219T120216Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54178354-af73-4936-b38a-24c9145cc3c2
@@ -29,7 +29,7 @@ SUMMARY:CNB vs KBM
 DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160218T120045Z
+DTSTAMP:20160219T120216Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab845c0e-76db-43fa-9e78-19999caa5c11
@@ -44,7 +44,7 @@ DESCRIPTION:paiN Gaming (PNG) vs CNB e-Sports Club (CNB)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : paiN 
  Gaming\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160218T120045Z
+DTSTAMP:20160219T120216Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-afae6555-428e-4ec9-8e6c-8f9a7c440097
@@ -58,7 +58,7 @@ SUMMARY:CNB vs G3X
 DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160218T120045Z
+DTSTAMP:20160219T120216Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
@@ -73,7 +73,7 @@ DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
  ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
  tars\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160218T120045Z
+DTSTAMP:20160219T120216Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c726e50-06b0-413c-b363-4fc762a1edff
@@ -88,7 +88,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Red Canids ()\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Red Canid
  s\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160218T120045Z
+DTSTAMP:20160219T120216Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
@@ -103,6 +103,6 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
  eration Kino\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160218T120045Z
+DTSTAMP:20160219T120216Z
 END:VEVENT
 END:VCALENDAR

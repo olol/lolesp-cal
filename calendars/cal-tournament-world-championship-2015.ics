@@ -16,7 +16,7 @@ DESCRIPTION:Flash Wolves (FW) vs paiN Gaming (PNG)\nType : BO1\nTournament
  : The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\n
  Looser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ae7620ed-f117-483a-9844-a3d285e71f8a
@@ -31,7 +31,7 @@ DESCRIPTION:Flash Wolves (FW) vs ROX Tigers (ROX)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-2\nWinner : Flash Wolves\nL
  ooser : ROX Tigers\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bbe4a379-4248-459f-b286-03d54257cf84
@@ -46,7 +46,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Invictus Gaming (IG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e
  -Sports Club\nLooser : Invictus Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f7fc156-ef29-44e6-9857-735a7e79ea59
@@ -61,7 +61,7 @@ DESCRIPTION:Cloud9  (C9) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-1\nWinner : Cloud9 \nLoos
  er : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-75f816cc-dcdf-4b0f-a1da-cadaec3cacf7
@@ -76,7 +76,7 @@ DESCRIPTION:Edward Gaming (EDG) vs H2K (H2K)\nType : BO1\nTournament : The
  2015 World Championship\nWeek : paris-day-6\nWinner : Edward Gaming\nLoose
  r : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78471ed4-b756-46fc-a18e-694676be4f2e
@@ -91,7 +91,7 @@ DESCRIPTION:H2K (H2K) vs Bangkok Titans (BKT)\nType : BO1\nTournament : The
   2015 World Championship\nWeek : paris-day-3\nWinner : H2K\nLooser : Bangk
  ok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d184d955-c4f5-46f1-abd0-f7f992401959
@@ -106,7 +106,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs Edward Gaming (EDG)\nType : BO1\nTourna
  ment : The 2015 World Championship\nWeek : paris-day-6\nWinner : Edward Ga
  ming\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-adc2b46b-5df6-4bcc-b931-65e3c605499a
@@ -120,7 +120,7 @@ SUMMARY:SKT vs ROX
 DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO5\nTournament 
  : The 2015 World Championship\nWeek : berlin-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39761fd1-2486-46b6-b9d9-3518a46363cf
@@ -134,7 +134,7 @@ SUMMARY:OG vs TSM
 DESCRIPTION:Origen (OG) vs TSM (TSM)\nType : BO1\nTournament : The 2015 Wor
  ld Championship\nWeek : paris-day-3\nWinner : Origen\nLooser : TSM\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4d9b8bc1-ffde-4e43-a297-200adc48eadf
@@ -149,7 +149,7 @@ DESCRIPTION:KT Rolster (KT) vs TSM (TSM)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-2\nWinner : KT Rolster\nLooser : TSM
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e5e1a4a-aacb-4439-b0b9-175e32669cdc
@@ -164,7 +164,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs H2K (H2K)\nType : BO1\nTournament : The
   2015 World Championship\nWeek : paris-day-6\nWinner : H2K\nLooser : Bangk
  ok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbe5227b-c24d-46cb-be52-632577c52936
@@ -179,7 +179,7 @@ DESCRIPTION:Origen (OG) vs LGD Gaming (LGD)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-7\nWinner : LGD Gaming\nLooser : 
  Origen\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5d67b8a0-dcd0-4e71-b339-5fe46f04ac14
@@ -194,7 +194,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Fnatic (FNC)\nType : BO1\nTournament :
  The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser :
   Invictus Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac047b2b-89d0-425a-9ca9-5659ad9ad48a
@@ -209,7 +209,7 @@ DESCRIPTION:LGD Gaming (LGD) vs TSM (TSM)\nType : BO1\nTournament : The 201
  5 World Championship\nWeek : paris-day-7\nWinner : LGD Gaming\nLooser : TS
  M\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-eb04d900-367d-42e4-98ab-121a254e66ae
@@ -223,7 +223,7 @@ SUMMARY:SKT vs AHQ
 DESCRIPTION:SKTelecom T1 (SKT) vs ahq e-Sports Club (AHQ)\nType : BO5\nTour
  nament : The 2015 World Championship\nWeek : london-day-2\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5deddc1b-8a0d-421b-8784-449fb5053e35
@@ -238,7 +238,7 @@ DESCRIPTION:Cloud9  (C9) vs Fnatic (FNC)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-4\nWinner : Cloud9 \nLooser : Fnatic
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c256d8e7-5724-41a8-9f66-2eb33106a97b
@@ -253,7 +253,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : The 2015 World Championship\nWeek : paris-day-4\nWinner : ROX Ti
  gers\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78a3db38-d827-4b71-980c-30afa31fa836
@@ -268,7 +268,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Origen (OG)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-2\nWinner : Origen\nLooser : LGD 
  Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5144d62e-42b7-4e9d-a0f1-4ae581941a26
@@ -283,7 +283,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Cloud9  (C9)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e-Sports 
  Club\nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-814eb469-c995-4399-a0ec-bd633dfbe8ad
@@ -298,7 +298,7 @@ DESCRIPTION:TSM (TSM) vs KT Rolster (KT)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : TSM
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ef5c4f4a-6a05-423e-b51e-21a21c13bb9f
@@ -313,7 +313,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs ROX Tigers (ROX)\nType : BO1\nTou
  rnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Ti
  gers\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8bf55bbf-fe95-4c55-8b8b-90f8693ae6b3
@@ -327,7 +327,7 @@ SUMMARY:FW vs OG
 DESCRIPTION:Flash Wolves (FW) vs Origen (OG)\nType : BO5\nTournament : The 
  2015 World Championship\nWeek : london-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6d7d736-56c1-4eaa-b9d0-28a92f994503
@@ -341,7 +341,7 @@ SUMMARY:FNC vs EDG
 DESCRIPTION:Fnatic (FNC) vs Edward Gaming (EDG)\nType : BO5\nTournament : T
  he 2015 World Championship\nWeek : london-day-3\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-59c1b40c-6c64-4017-86b8-0a49be9cf955
@@ -355,7 +355,7 @@ SUMMARY:TSM vs OG
 DESCRIPTION:TSM (TSM) vs Origen (OG)\nType : BO1\nTournament : The 2015 Wor
  ld Championship\nWeek : paris-day-7\nWinner : Origen\nLooser : TSM\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-efbc65b8-d736-4b11-a81b-88d39f4316ed
@@ -370,7 +370,7 @@ DESCRIPTION:Cloud9  (C9) vs Invictus Gaming (IG)\nType : BO1\nTournament :
  The 2015 World Championship\nWeek : paris-day-8\nWinner : Invictus Gaming\
  nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b70f89d3-d4a6-41ab-a978-72a395e92970
@@ -385,7 +385,7 @@ DESCRIPTION:paiN Gaming (PNG) vs ROX Tigers (ROX)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-1\nWinner : ROX Tigers\nLoo
  ser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2a29c4de-b846-4710-a62c-92f0fb7c9558
@@ -400,7 +400,7 @@ DESCRIPTION:KT Rolster (KT) vs Origen (OG)\nType : BO1\nTournament : The 20
  15 World Championship\nWeek : paris-day-4\nWinner : Origen\nLooser : KT Ro
  lster\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd1e125b-7dbc-49bd-8b02-6dfbdea2e088
@@ -415,7 +415,7 @@ DESCRIPTION:KT Rolster (KT) vs LGD Gaming (LGD)\nType : BO1\nTournament : T
  he 2015 World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLoose
  r : LGD Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7e792ef6-ae87-428a-8c40-55affe15a84d
@@ -430,7 +430,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs SKTelecom T1 (SKT)\nType : BO1\nTournam
  ent : The 2015 World Championship\nWeek : paris-day-2\nWinner : SKTelecom 
  T1\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fecf171a-ae6c-4699-95e2-654f15153139
@@ -444,7 +444,7 @@ SUMMARY:FNC vs ROX
 DESCRIPTION:Fnatic (FNC) vs ROX Tigers (ROX)\nType : BO5\nTournament : The 
  2015 World Championship\nWeek : brussels-day-2\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fbb6be62-36ee-4670-add3-0f4d811d07ce
@@ -459,7 +459,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Bangkok Titans (BKT)\nType : BO1\nTourna
  ment : The 2015 World Championship\nWeek : paris-day-1\nWinner : Edward Ga
  ming\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dd7bfe7d-cd4c-4b33-99a7-ee014c14aff7
@@ -474,7 +474,7 @@ DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser : Cloud9 
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2371ff8b-4179-4d8c-82da-ed806d11db7c
@@ -489,7 +489,7 @@ DESCRIPTION:H2K (H2K) vs Edward Gaming (EDG)\nType : BO1\nTournament : The
  2015 World Championship\nWeek : paris-day-2\nWinner : Edward Gaming\nLoose
  r : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9dc740f0-68bb-4da6-ae58-8ad873e17626
@@ -504,7 +504,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Bangkok Titans (BKT)\nType : BO1\nTournam
  ent : The 2015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom 
  T1\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bfde3b6a-18de-49a3-abe6-a568b99afebc
@@ -519,7 +519,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : paiN 
  Gaming\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2489f7d0-ddbe-46bb-ab37-bf093adc8d41
@@ -534,7 +534,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Cloud9  (C9)\nType : BO1\nTournament :
  The 2015 World Championship\nWeek : paris-day-3\nWinner : Cloud9 \nLooser 
  : Invictus Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f4f15861-27e7-4b86-8dc6-24d6fe34504e
@@ -549,7 +549,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Flash Wolves (FW)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\nL
  ooser : ROX Tigers\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3863275c-31e7-4eaf-a15a-34c3a342a275
@@ -563,7 +563,7 @@ SUMMARY:KT vs ROX
 DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO5\nTournament : T
  he 2015 World Championship\nWeek : london-day-4\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6d8daefb-66ce-4d65-b14c-11e42bb63bfb
@@ -577,7 +577,7 @@ SUMMARY:OG vs SKT
 DESCRIPTION:Origen (OG) vs SKTelecom T1 (SKT)\nType : BO5\nTournament : The
   2015 World Championship\nWeek : brussels-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16689429-96bd-47f2-9429-275eb08064b6
@@ -592,7 +592,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Fnatic (FNC)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-3\nWinner : ahq e-Sports 
  Club\nLooser : Fnatic\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0384eea9-25a9-485a-9782-6d2bea1dbe87
@@ -607,7 +607,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Flash Wolves (FW)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-1\nWinner : Count
  er Logic Gaming\nLooser : Flash Wolves\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f470ab39-8d22-467b-81f7-96430a4a2c56
@@ -622,7 +622,7 @@ DESCRIPTION:Flash Wolves (FW) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash
   Wolves\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-84181fd4-2704-4a04-91dd-88efe430074a
@@ -637,7 +637,7 @@ DESCRIPTION:ROX Tigers (ROX) vs paiN Gaming (PNG)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Tigers\nLoo
  ser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b4e26f33-21a5-4e46-8818-cf7e667926c1
@@ -652,7 +652,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO1\nTourname
  nt : The 2015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom T
  1\nLooser : Edward Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c8a1cd77-5988-4442-8224-accdbdcd3692
@@ -667,7 +667,7 @@ DESCRIPTION:Origen (OG) vs KT Rolster (KT)\nType : BO1\nTournament : The 20
  15 World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : O
  rigen\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22851f97-7555-494d-b234-1e4bbeaf8dd5
@@ -682,7 +682,7 @@ DESCRIPTION:Fnatic (FNC) vs Invictus Gaming (IG)\nType : BO1\nTournament :
  The 2015 World Championship\nWeek : paris-day-1\nWinner : Fnatic\nLooser :
   Invictus Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-245fc1f2-dab9-40fd-afa2-f24b6173e26a
@@ -697,7 +697,7 @@ DESCRIPTION:H2K (H2K) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom T1\nLooser 
  : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-620dd9bf-4279-4716-8d3f-6819a8b893f5
@@ -712,7 +712,7 @@ DESCRIPTION:LGD Gaming (LGD) vs KT Rolster (KT)\nType : BO1\nTournament : T
  he 2015 World Championship\nWeek : paris-day-3\nWinner : KT Rolster\nLoose
  r : LGD Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5a81f88e-8157-46b9-bb82-b9cf72662c07
@@ -727,7 +727,7 @@ DESCRIPTION:Edward Gaming (EDG) vs SKTelecom T1 (SKT)\nType : BO1\nTourname
  nt : The 2015 World Championship\nWeek : paris-day-3\nWinner : SKTelecom T
  1\nLooser : Edward Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c79c3fc6-b2db-4789-a588-65f226c549b2
@@ -742,7 +742,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs H2K (H2K)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-1\nWinner : SKTelecom T1\nLooser 
  : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1bb10628-ea70-4370-844e-d45f708328b1
@@ -757,7 +757,7 @@ DESCRIPTION:Invictus Gaming (IG) vs ahq e-Sports Club (AHQ)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-4\nWinner : Invic
  tus Gaming\nLooser : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc87a054-6895-4db3-a0ad-63aba1332206
@@ -772,7 +772,7 @@ DESCRIPTION:Fnatic (FNC) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLoose
  r : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69399c33-527a-4bca-b485-eb97cd37a249
@@ -787,7 +787,7 @@ DESCRIPTION:TSM (TSM) vs LGD Gaming (LGD)\nType : BO1\nTournament : The 201
  5 World Championship\nWeek : paris-day-4\nWinner : TSM\nLooser : LGD Gamin
  g\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f90c01ba-d4e5-4441-a50a-8d2fe7e2afd3
@@ -802,7 +802,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs paiN Gaming (PNG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-2\nWinner : Count
  er Logic Gaming\nLooser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-578d9599-ce93-4f12-a873-2595f9500ef0
@@ -817,7 +817,7 @@ DESCRIPTION:Cloud9  (C9) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e-Sports 
  Club\nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f5b319b8-1a81-48b8-8715-baa079c2ddd6
@@ -832,6 +832,6 @@ DESCRIPTION:paiN Gaming (PNG) vs Flash Wolves (FW)\nType : BO1\nTournament
  : The 2015 World Championship\nWeek : paris-day-4\nWinner : paiN Gaming\nL
  ooser : Flash Wolves\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160218T120044Z
+DTSTAMP:20160219T120215Z
 END:VEVENT
 END:VCALENDAR
