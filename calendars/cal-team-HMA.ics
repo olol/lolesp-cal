@@ -15,7 +15,7 @@ SUMMARY:HMA vs SKG
 DESCRIPTION:Huma (HMA) vs SK Gaming (SKG)\nType : BO2\nTournament : EU CS 2
  016 Spring Split\nWeek : 2\nWinner : Huma\nLooser : SK Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160222T120131Z
+DTSTAMP:20160223T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-84fd46b4-0637-43b9-8912-a78e06caa44e
@@ -29,7 +29,7 @@ SUMMARY:MIL vs HMA
 DESCRIPTION:Millenium (MIL) vs Huma (HMA)\nType : BO2\nTournament : EU CS 2
  016 Spring Split\nWeek : 1\nWinner : Millenium\nLooser : Huma\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160222T120131Z
+DTSTAMP:20160223T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-942038f6-42ce-4842-930f-47537f610e8f
@@ -44,7 +44,7 @@ DESCRIPTION:Huma (HMA) vs Copenhagen Wolves (CW)\nType : BO2\nTournament :
  EU CS 2016 Spring Split\nWeek : 4\nWinner : Huma\nLooser : Copenhagen Wolv
  es\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160222T120131Z
+DTSTAMP:20160223T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f668e1f-4371-4700-84ae-e3fa6fa88fbe
@@ -58,7 +58,7 @@ SUMMARY:IE vs HMA
 DESCRIPTION:Inspire eSports (IE) vs Huma (HMA)\nType : BO2\nTournament : EU
   CS 2016 Spring Split\nWeek : 5\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160222T120131Z
+DTSTAMP:20160223T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0a279a0-5c2e-4092-8de9-b93f8ac05d1d
@@ -72,6 +72,6 @@ SUMMARY:MOU vs HMA
 DESCRIPTION:Mousesports (MOU) vs Huma (HMA)\nType : BO2\nTournament : EU CS
   2016 Spring Split\nWeek : 3\nWinner : Huma\nLooser : Huma\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160222T120131Z
+DTSTAMP:20160223T120113Z
 END:VEVENT
 END:VCALENDAR

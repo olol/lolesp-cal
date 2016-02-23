@@ -4,18 +4,32 @@ PRODID:www.lolesports.com|cal-team-APX
 X-WR-CALNAME:LoL eSports APX
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-36c25add-898d-404f-b09d-272a51d3785d
-DTSTART:20160204T050000Z
+UID:match-1b924c55-428a-4b76-b373-7c61b7877aae
+DTSTART:20160211T020000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160204T060000Z
+DTEND:20160211T030000Z
 URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
- _season/2
-SUMMARY:NME vs APX
-DESCRIPTION:Enemy (NME) vs Apex (APX)\nType : BO2\nTournament : NA CS 2016 
- Spring Split\nWeek : 2\nWinner : Apex\nLooser : Enemy\n
+ _season/3
+SUMMARY:DT vs APX
+DESCRIPTION:Dream Team (DT) vs Apex (APX)\nType : BO2\nTournament : NA CS 2
+ 016 Spring Split\nWeek : 3\nWinner : Apex\nLooser : Apex\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160222T120130Z
+DTSTAMP:20160223T120113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-341efdab-1286-4bce-8a6f-7f59eedf69b7
+DTSTART:20160128T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T050000Z
+URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
+ _season/1
+SUMMARY:APX vs MBR
+DESCRIPTION:Apex (APX) vs Ember (MBR)\nType : BO2\nTournament : NA CS 2016 
+ Spring Split\nWeek : 1\nWinner : Apex\nLooser : Ember\n
+CATEGORIES:NA CS 2016 Spring Split
+DTSTAMP:20160223T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-347cd1c4-f062-4fef-8556-761504e967bb
@@ -30,7 +44,21 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Apex (APX)\nType : BO2\nTournament
   : NA CS 2016 Spring Split\nWeek : 4\nWinner : Apex\nLooser : Team Dragon 
  Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160222T120130Z
+DTSTAMP:20160223T120113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-36c25add-898d-404f-b09d-272a51d3785d
+DTSTART:20160204T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160204T060000Z
+URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
+ _season/2
+SUMMARY:NME vs APX
+DESCRIPTION:Enemy (NME) vs Apex (APX)\nType : BO2\nTournament : NA CS 2016 
+ Spring Split\nWeek : 2\nWinner : Apex\nLooser : Enemy\n
+CATEGORIES:NA CS 2016 Spring Split
+DTSTAMP:20160223T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab6d1c71-cbaa-4c90-8694-37a685dbe333
@@ -44,34 +72,6 @@ SUMMARY:TLA vs APX
 DESCRIPTION:Team Liquid Academy (TLA) vs Apex (APX)\nType : BO2\nTournament
   : NA CS 2016 Spring Split\nWeek : 5\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160222T120130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-341efdab-1286-4bce-8a6f-7f59eedf69b7
-DTSTART:20160128T040000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160128T050000Z
-URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
- _season/1
-SUMMARY:APX vs MBR
-DESCRIPTION:Apex (APX) vs Ember (MBR)\nType : BO2\nTournament : NA CS 2016 
- Spring Split\nWeek : 1\nWinner : Apex\nLooser : Ember\n
-CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160222T120130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1b924c55-428a-4b76-b373-7c61b7877aae
-DTSTART:20160211T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160211T030000Z
-URL:http://www.lolesports.com/en_US/na-cs/nacs_2016_spring/schedule/regular
- _season/3
-SUMMARY:DT vs APX
-DESCRIPTION:Dream Team (DT) vs Apex (APX)\nType : BO2\nTournament : NA CS 2
- 016 Spring Split\nWeek : 3\nWinner : Apex\nLooser : Apex\n
-CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160222T120130Z
+DTSTAMP:20160223T120113Z
 END:VEVENT
 END:VCALENDAR
