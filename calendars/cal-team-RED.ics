@@ -4,6 +4,20 @@ PRODID:www.lolesports.com|cal-team-RED
 X-WR-CALNAME:LoL eSports RED
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-71bf399e-f9ad-4395-9f3e-93492f6ea3bd
+DTSTART:20160227T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:VFK vs 
+DESCRIPTION:Keyd Stars (VFK) vs Red Canids ()\nType : BO2\nTournament : The
+  CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160224T120106Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-44a4d6be-f9ea-4b25-a4f6-8cd40f188143
 DTSTART:20160214T150000Z
 SEQUENCE:0
@@ -16,80 +30,7 @@ DESCRIPTION:Operation Kino (OPK) vs Red Canids ()\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : Red Canids\n
  Looser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160223T120116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-71bf399e-f9ad-4395-9f3e-93492f6ea3bd
-DTSTART:20160227T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:VFK vs 
-DESCRIPTION:Keyd Stars (VFK) vs Red Canids ()\nType : BO2\nTournament : The
-  CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160223T120116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-24a835c0-77a6-454c-a397-646c6df71035
-DTSTART:20160117T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%201
-SUMMARY:KBM vs 
-DESCRIPTION:KaBuM e-Sports (KBM) vs Red Canids ()\nType : BO2\nTournament :
-  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Red Canids\n
- Looser : Red Canids\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160223T120116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d333d628-7683-4861-a701-34cc4e041d7a
-DTSTART:20160226T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160226T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:PNG vs 
-DESCRIPTION:paiN Gaming (PNG) vs Red Canids ()\nType : BO2\nTournament : Th
- e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160223T120116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9b22b4ee-7f70-4f84-a747-3217141ec29a
-DTSTART:20160221T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%205
-SUMMARY: vs G3X
-DESCRIPTION:Red Canids () vs g3nerationX (G3X)\nType : BO2\nTournament : Th
- e CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : g3nerationX\nLo
- oser : Red Canids\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160223T120116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1c0809f9-1149-4991-ad89-b4d38b45ad8e
-DTSTART:20160123T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T160000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%202
-SUMMARY: vs ITZ
-DESCRIPTION:Red Canids () vs INTZ (ITZ)\nType : BO2\nTournament : The CBLOL
-  2016 Split 1 Tournament\nWeek : Semana 2\nWinner : INTZ\nLooser : Red Can
- ids\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160223T120116Z
+DTSTAMP:20160224T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c726e50-06b0-413c-b363-4fc762a1edff
@@ -104,6 +45,65 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Red Canids ()\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Red Canid
  s\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160223T120116Z
+DTSTAMP:20160224T120106Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-24a835c0-77a6-454c-a397-646c6df71035
+DTSTART:20160117T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%201
+SUMMARY:KBM vs 
+DESCRIPTION:KaBuM e-Sports (KBM) vs Red Canids ()\nType : BO2\nTournament :
+  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Red Canids\n
+ Looser : Red Canids\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160224T120106Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d333d628-7683-4861-a701-34cc4e041d7a
+DTSTART:20160226T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160226T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:PNG vs 
+DESCRIPTION:paiN Gaming (PNG) vs Red Canids ()\nType : BO2\nTournament : Th
+ e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160224T120106Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1c0809f9-1149-4991-ad89-b4d38b45ad8e
+DTSTART:20160123T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T160000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%202
+SUMMARY: vs ITZ
+DESCRIPTION:Red Canids () vs INTZ (ITZ)\nType : BO2\nTournament : The CBLOL
+  2016 Split 1 Tournament\nWeek : Semana 2\nWinner : INTZ\nLooser : Red Can
+ ids\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160224T120106Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9b22b4ee-7f70-4f84-a747-3217141ec29a
+DTSTART:20160221T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%205
+SUMMARY: vs G3X
+DESCRIPTION:Red Canids () vs g3nerationX (G3X)\nType : BO2\nTournament : Th
+ e CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : g3nerationX\nLo
+ oser : Red Canids\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160224T120106Z
 END:VEVENT
 END:VCALENDAR
