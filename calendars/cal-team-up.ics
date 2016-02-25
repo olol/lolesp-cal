@@ -16,67 +16,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Snake Esports (SS)\nType : BO2\nTou
  rnament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Sna
  ke Esports\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-17607115-efc3-4ac1-9f4f-73205c125c13
-DTSTART:20150614T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150614T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/4
-SUMMARY:WE vs UP
-DESCRIPTION:Team World Elite (WE) vs Unlimited Potential (UP)\nType : BO2\n
- Tournament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : U
- nlimited Potential\nLooser : Unlimited Potential\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-287000c9-7252-4ead-8569-85a2bc9ed92e
-DTSTART:20150627T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150627T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/6
-SUMMARY:UP vs LGD
-DESCRIPTION:Unlimited Potential (UP) vs LGD Gaming (LGD)\nType : BO2\nTourn
- ament : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : LGD Ga
- ming\nLooser : LGD Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6c7a1339-00e0-4190-8e05-3c6e6ac8e3b6
-DTSTART:20150731T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150731T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/10
-SUMMARY:UP vs VG
-DESCRIPTION:Unlimited Potential (UP) vs Vici Gaming (VG)\nType : BO2\nTourn
- ament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Vici 
- Gaming\nLooser : Unlimited Potential\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ac5b4500-df1c-48db-abed-090eb4e0ae3d
-DTSTART:20150705T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/7
-SUMMARY:UP vs M3
-DESCRIPTION:Unlimited Potential (UP) vs Master3 (M3)\nType : BO2\nTournamen
- t : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Master3\nL
- ooser : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-352e795a-7c34-4736-b8d0-778eb0ca12b7
@@ -91,7 +31,7 @@ DESCRIPTION:Vici Gaming (VG) vs Unlimited Potential (UP)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Unlimi
  ted Potential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4796e668-d562-4dbb-a9e2-a39e089eaebd
@@ -106,7 +46,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Unlimited Potential (UP)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Qi
  ao Gu Reapers\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3b4669bb-6aea-4bf9-b689-265d404c1d42
@@ -121,7 +61,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Royal Never Give Up (RNG)\nType : B
  O2\nTournament : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner
   : Royal Never Give Up\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fbc35f41-cedf-427a-bf01-e325290ac231
@@ -136,7 +76,7 @@ DESCRIPTION:Unlimited Potential (UP) vs OMG (OMG)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Unlimited Pot
  ential\nLooser : OMG\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9822f532-d4c7-409d-a66e-dc3debd65528
@@ -150,7 +90,67 @@ SUMMARY:UP vs EDG
 DESCRIPTION:Unlimited Potential (UP) vs Edward Gaming (EDG)\nType : BO2\nTo
  urnament : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-17607115-efc3-4ac1-9f4f-73205c125c13
+DTSTART:20150614T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:WE vs UP
+DESCRIPTION:Team World Elite (WE) vs Unlimited Potential (UP)\nType : BO2\n
+ Tournament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : U
+ nlimited Potential\nLooser : Unlimited Potential\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-287000c9-7252-4ead-8569-85a2bc9ed92e
+DTSTART:20150627T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/6
+SUMMARY:UP vs LGD
+DESCRIPTION:Unlimited Potential (UP) vs LGD Gaming (LGD)\nType : BO2\nTourn
+ ament : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : LGD Ga
+ ming\nLooser : LGD Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6c7a1339-00e0-4190-8e05-3c6e6ac8e3b6
+DTSTART:20150731T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150731T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/10
+SUMMARY:UP vs VG
+DESCRIPTION:Unlimited Potential (UP) vs Vici Gaming (VG)\nType : BO2\nTourn
+ ament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Vici 
+ Gaming\nLooser : Unlimited Potential\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ac5b4500-df1c-48db-abed-090eb4e0ae3d
+DTSTART:20150705T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:UP vs M3
+DESCRIPTION:Unlimited Potential (UP) vs Master3 (M3)\nType : BO2\nTournamen
+ t : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Master3\nL
+ ooser : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6129758c-2590-4908-a107-1cb5d6340f8a
@@ -165,7 +165,7 @@ DESCRIPTION:Snake Esports (SS) vs Unlimited Potential (UP)\nType : BO2\nTou
  rnament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Unli
  mited Potential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a8956e31-2c2b-4220-9d27-c18423c05496
@@ -180,22 +180,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Unlimited Potential (UP)\nType : B
  O2\nTournament : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner
   : Unlimited Potential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bca9178d-e646-4f9f-b52e-82dbfec8c826
-DTSTART:20150613T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150613T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/4
-SUMMARY:EDG vs UP
-DESCRIPTION:Edward Gaming (EDG) vs Unlimited Potential (UP)\nType : BO2\nTo
- urnament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Unl
- imited Potential\nLooser : Edward Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f4743b0-3cc8-409a-b511-7b5ad52391b9
@@ -210,7 +195,7 @@ DESCRIPTION:Master3 (M3) vs Unlimited Potential (UP)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Master3\nL
  ooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6098ab2e-7974-44ee-b49e-9079fa0ab381
@@ -225,7 +210,36 @@ DESCRIPTION:OMG (OMG) vs Unlimited Potential (UP)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Unlimited Pot
  ential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bca9178d-e646-4f9f-b52e-82dbfec8c826
+DTSTART:20150613T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:EDG vs UP
+DESCRIPTION:Edward Gaming (EDG) vs Unlimited Potential (UP)\nType : BO2\nTo
+ urnament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Unl
+ imited Potential\nLooser : Edward Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d1b5887f-df18-40f7-af03-1c27a7a55ef9
+DTSTART:20150808T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/11
+SUMMARY:UP vs KNG
+DESCRIPTION:Unlimited Potential (UP) vs King (KNG)\nType : BO2\nTournament 
+ : Migrated tournament for lpl_2015_summer\nWeek : 11\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8c026dc9-d576-437f-b0b4-bcf053e78fb1
@@ -240,21 +254,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Invictus Gaming (IG)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : In
  victus Gaming\nLooser : Invictus Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d1b5887f-df18-40f7-af03-1c27a7a55ef9
-DTSTART:20150808T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150808T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/11
-SUMMARY:UP vs KNG
-DESCRIPTION:Unlimited Potential (UP) vs King (KNG)\nType : BO2\nTournament 
- : Migrated tournament for lpl_2015_summer\nWeek : 11\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0527b90-9011-41b5-8539-d8c303ba17d3
@@ -269,7 +269,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Unlimited Potential (UP)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : In
  victus Gaming\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85d531d0-c104-4639-8a4a-57459706b5dd
@@ -284,7 +284,7 @@ DESCRIPTION:King (KNG) vs Unlimited Potential (UP)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : King\nLooser
   : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-30682ecd-815d-4f05-af17-49a8e91b2c47
@@ -299,7 +299,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Qiao Gu Reapers (QG)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Qi
  ao Gu Reapers\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ca18712-356a-425d-8883-111091653aa2
@@ -313,6 +313,6 @@ SUMMARY:UP vs WE
 DESCRIPTION:Unlimited Potential (UP) vs Team World Elite (WE)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 END:VCALENDAR

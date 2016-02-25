@@ -16,7 +16,7 @@ DESCRIPTION:Avant Garde (AV) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
  ournament : OPL 2016 Spring Split\nWeek : 1\nWinner : Hellions e-Sports Cl
  ub\nLooser : Avant Garde\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2b392238-2956-4dac-a433-4fb373a25d59
@@ -30,7 +30,7 @@ SUMMARY:AV vs SIN
 DESCRIPTION:Avant Garde (AV) vs Sin Gaming (SIN)\nType : BO3\nTournament : 
  OPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5be18739-0091-443e-969d-18b19477cb7f
@@ -45,7 +45,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Avant Garde (AV)\nType : BO3\nT
  ournament : OPL 2016 Spring Split\nWeek : 5\nWinner : Avant Garde\nLooser 
  : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1f1bda3b-6db7-48ec-bca3-0d024e74cb06
@@ -59,7 +59,7 @@ SUMMARY:DW vs AV
 DESCRIPTION:Dire Wolves (DW) vs Avant Garde (AV)\nType : BO3\nTournament : 
  OPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9c6cf7b9-aead-4991-a9b1-02187bb5ac5b
@@ -73,7 +73,7 @@ SUMMARY:AV vs CHF
 DESCRIPTION:Avant Garde (AV) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd116bf7-2e8e-4b46-847a-e4e57a2e9024
@@ -87,7 +87,21 @@ SUMMARY:LGC vs AV
 DESCRIPTION:Legacy eSports (LGC) vs Avant Garde (AV)\nType : BO3\nTournamen
  t : OPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e1663b40-9ef5-4d57-8693-9feb13b3f158
+DTSTART:20160314T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160314T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/9
+SUMMARY:AV vs INF
+DESCRIPTION:Avant Garde (AV) vs Infernum (INF)\nType : BO3\nTournament : OP
+ L 2016 Spring Split\nWeek : 9\nWinner : Infernum\nLooser : Avant Garde\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89b18b81-e8fa-4dd3-af0a-d3ad4209179d
@@ -101,7 +115,7 @@ SUMMARY:INF vs AV
 DESCRIPTION:Infernum (INF) vs Avant Garde (AV)\nType : BO3\nTournament : OP
  L 2016 Spring Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c28eacf-c19e-41e6-9d24-52f48af7425c
@@ -115,7 +129,7 @@ SUMMARY:AV vs TRI
 DESCRIPTION:Avant Garde (AV) vs Trident Esports (TRI)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2bdca23a-f875-4411-8811-006904130f3a
@@ -130,20 +144,6 @@ DESCRIPTION:Avant Garde (AV) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Spring Split\nWeek : 10\nWinner : Legacy eSports\nLooser : Av
  ant Garde\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e1663b40-9ef5-4d57-8693-9feb13b3f158
-DTSTART:20160314T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160314T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/9
-SUMMARY:AV vs INF
-DESCRIPTION:Avant Garde (AV) vs Infernum (INF)\nType : BO3\nTournament : OP
- L 2016 Spring Split\nWeek : 9\nWinner : Infernum\nLooser : Avant Garde\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 END:VCALENDAR

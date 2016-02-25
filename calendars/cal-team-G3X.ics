@@ -4,6 +4,20 @@ PRODID:www.lolesports.com|cal-team-G3X
 X-WR-CALNAME:LoL eSports G3X
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-9de54bd7-93b6-4674-b015-44af421be220
+DTSTART:20160228T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:PNG vs G3X
+DESCRIPTION:paiN Gaming (PNG) vs g3nerationX (G3X)\nType : BO2\nTournament 
+ : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160225T120118Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-cfb0f9a0-a865-46cf-9c9b-661f06a347d3
 DTSTART:20160130T170000Z
 SEQUENCE:0
@@ -16,21 +30,7 @@ DESCRIPTION:g3nerationX (G3X) vs INTZ (ITZ)\nType : BO2\nTournament : The C
  BLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : INTZ\nLooser : g3n
  erationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160224T120106Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9de54bd7-93b6-4674-b015-44af421be220
-DTSTART:20160228T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:PNG vs G3X
-DESCRIPTION:paiN Gaming (PNG) vs g3nerationX (G3X)\nType : BO2\nTournament 
- : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-afae6555-428e-4ec9-8e6c-8f9a7c440097
@@ -44,22 +44,7 @@ SUMMARY:CNB vs G3X
 DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160224T120106Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6e770b48-33ca-4bb8-8b9c-7dc3dd2212e1
-DTSTART:20160117T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T160000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%201
-SUMMARY:VFK vs G3X
-DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO2\nTournament :
-  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Keyd Stars\n
- Looser : g3nerationX\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9b22b4ee-7f70-4f84-a747-3217141ec29a
@@ -74,7 +59,7 @@ DESCRIPTION:Red Canids () vs g3nerationX (G3X)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : g3nerationX\nLo
  oser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b149765d-a396-43ea-98a3-80d25ceef81f
@@ -89,7 +74,22 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs g3nerationX (G3X)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : KaBuM e-
  Sports\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6e770b48-33ca-4bb8-8b9c-7dc3dd2212e1
+DTSTART:20160117T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T160000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%201
+SUMMARY:VFK vs G3X
+DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO2\nTournament :
+  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Keyd Stars\n
+ Looser : g3nerationX\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c37538e9-e1cc-482c-9111-52406c484c90
@@ -104,6 +104,6 @@ DESCRIPTION:Operation Kino (OPK) vs g3nerationX (G3X)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : g3nerati
  onX\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 END:VCALENDAR

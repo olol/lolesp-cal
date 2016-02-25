@@ -4,20 +4,6 @@ PRODID:www.lolesports.com|cal-team-OPL
 X-WR-CALNAME:LoL eSports OPL
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-b914ef58-8730-4d36-91fe-cb41c5da104a
-DTSTART:20151127T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151127T040000Z
-URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
- _playoffs/Dia%202
-SUMMARY:BRA vs OPL
-DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars OPL (OPL)\nType : BO1\nTourn
- ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
-CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160224T120106Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-90c701ea-5a03-4000-967a-0422e92b8c22
 DTSTART:20151126T020000Z
 SEQUENCE:0
@@ -29,7 +15,21 @@ SUMMARY:SEA vs OPL
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars OPL (OPL)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b914ef58-8730-4d36-91fe-cb41c5da104a
+DTSTART:20151127T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151127T040000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%202
+SUMMARY:BRA vs OPL
+DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars OPL (OPL)\nType : BO1\nTourn
+ ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160225T120118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26984e3c-69f6-45d6-b8c5-7df73c77d603
@@ -43,6 +43,6 @@ SUMMARY:CIS vs OPL
 DESCRIPTION:All-Stars CIS (CIS) vs All-Stars OPL (OPL)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160224T120106Z
+DTSTAMP:20160225T120118Z
 END:VEVENT
 END:VCALENDAR

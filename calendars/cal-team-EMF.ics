@@ -11,11 +11,11 @@ TRANSP:OPAQUE
 DTEND:20160225T090000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
  ason/7
-SUMMARY:CJ vs EMF
-DESCRIPTION:CJ ENTUS (CJ) vs e-mFire (EMF)\nType : BO3\nTournament : LCK 20
- 16 Spring Split\nWeek : 7\n
+SUMMARY:CJ vs KDM
+DESCRIPTION:CJ ENTUS (CJ) vs Kongdoo Monster (KDM)\nType : BO3\nTournament 
+ : LCK 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9c4f0c5a-06a3-493f-be30-f7f74a6da6aa
@@ -25,11 +25,11 @@ TRANSP:OPAQUE
 DTEND:20160123T090000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
  ason/2
-SUMMARY:SSB vs EMF
-DESCRIPTION:SBENU SONICBOOM (SSB) vs e-mFire (EMF)\nType : BO3\nTournament 
- : LCK 2016 Spring Split\nWeek : 2\n
+SUMMARY:SSB vs KDM
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Kongdoo Monster (KDM)\nType : BO3\nTou
+ rnament : LCK 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6d2308f2-af8d-431a-b57e-7ef1d2b3a0d6
@@ -39,11 +39,11 @@ TRANSP:OPAQUE
 DTEND:20160129T090000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
  ason/3
-SUMMARY:SKT vs EMF
-DESCRIPTION:SKTelecom T1 (SKT) vs e-mFire (EMF)\nType : BO3\nTournament : L
- CK 2016 Spring Split\nWeek : 3\n
+SUMMARY:SKT vs KDM
+DESCRIPTION:SKTelecom T1 (SKT) vs Kongdoo Monster (KDM)\nType : BO3\nTourna
+ ment : LCK 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-50b14d49-1fab-4fa6-be8b-7e2285ad2be5
@@ -53,53 +53,11 @@ TRANSP:OPAQUE
 DTEND:20160205T120000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
  ason/4
-SUMMARY:EMF vs LZ
-DESCRIPTION:e-mFire (EMF) vs Longzhu Gaming (LZ)\nType : BO3\nTournament : 
- LCK 2016 Spring Split\nWeek : 4\n
+SUMMARY:KDM vs LZ
+DESCRIPTION:Kongdoo Monster (KDM) vs Longzhu Gaming (LZ)\nType : BO3\nTourn
+ ament : LCK 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ecdefc2e-59a9-4d55-92fa-cd0746116e45
-DTSTART:20160120T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160120T120000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
- ason/2
-SUMMARY:EMF vs JAG
-DESCRIPTION:e-mFire (EMF) vs Jin Air Green Wings (JAG)\nType : BO3\nTournam
- ent : LCK 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1f32b512-0e13-4f7f-aa80-8a5b5d7eb6ee
-DTSTART:20160203T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160203T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
- ason/4
-SUMMARY:EMF vs KT
-DESCRIPTION:e-mFire (EMF) vs KT Rolster (KT)\nType : BO3\nTournament : LCK 
- 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-37d0d93c-a032-4b02-b4f5-2a62f4749d43
-DTSTART:20160218T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T120000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
- ason/6
-SUMMARY:EMF vs AFS
-DESCRIPTION:e-mFire (EMF) vs Afreeca Freecs (AFS)\nType : BO3\nTournament :
-  LCK 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e217181-1038-4a30-a847-397f8ec88293
@@ -109,11 +67,11 @@ TRANSP:OPAQUE
 DTEND:20160114T120000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
  ason/1
-SUMMARY:SSG vs EMF
-DESCRIPTION:Samsung Galaxy (SSG) vs e-mFire (EMF)\nType : BO3\nTournament :
-  LCK 2016 Spring Split\nWeek : 1\n
+SUMMARY:SSG vs KDM
+DESCRIPTION:Samsung Galaxy (SSG) vs Kongdoo Monster (KDM)\nType : BO3\nTour
+ nament : LCK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-08c9da00-ccb6-4b58-bf3d-9b60cd660d36
@@ -123,10 +81,52 @@ TRANSP:OPAQUE
 DTEND:20160212T120000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
  ason/5
-SUMMARY:ROX vs EMF
-DESCRIPTION:ROX Tigers (ROX) vs e-mFire (EMF)\nType : BO3\nTournament : LCK
-  2016 Spring Split\nWeek : 5\n
+SUMMARY:ROX vs KDM
+DESCRIPTION:ROX Tigers (ROX) vs Kongdoo Monster (KDM)\nType : BO3\nTourname
+ nt : LCK 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160224T120102Z
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ecdefc2e-59a9-4d55-92fa-cd0746116e45
+DTSTART:20160120T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160120T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
+ ason/2
+SUMMARY:KDM vs JAG
+DESCRIPTION:Kongdoo Monster (KDM) vs Jin Air Green Wings (JAG)\nType : BO3\
+ nTournament : LCK 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LCK 2016 Spring Split
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1f32b512-0e13-4f7f-aa80-8a5b5d7eb6ee
+DTSTART:20160203T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160203T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
+ ason/4
+SUMMARY:KDM vs KT
+DESCRIPTION:Kongdoo Monster (KDM) vs KT Rolster (KT)\nType : BO3\nTournamen
+ t : LCK 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LCK 2016 Spring Split
+DTSTAMP:20160225T120114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-37d0d93c-a032-4b02-b4f5-2a62f4749d43
+DTSTART:20160218T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
+ ason/6
+SUMMARY:KDM vs AFS
+DESCRIPTION:Kongdoo Monster (KDM) vs Afreeca Freecs (AFS)\nType : BO3\nTour
+ nament : LCK 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LCK 2016 Spring Split
+DTSTAMP:20160225T120114Z
 END:VEVENT
 END:VCALENDAR
