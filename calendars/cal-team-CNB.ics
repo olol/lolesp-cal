@@ -4,6 +4,50 @@ PRODID:www.lolesports.com|cal-team-CNB
 X-WR-CALNAME:LoL eSports CNB
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-2b263790-80a9-4a65-8e28-e65360e479a8
+DTSTART:20150613T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%204
+SUMMARY:CNB vs ITZ
+DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
+  Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : INTZ\nLoose
+ r : CNB e-Sports Club\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-00e032a5-a49e-4223-a5aa-41226b561a9e
+DTSTART:20150711T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150711T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/playoffs/Quartas
+SUMMARY:CNB vs G3X
+DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO3\nTourn
+ ament : Migrated tournament for CBLOL 2015\nWeek : Quartas\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c1ab0917-7ec2-4931-a158-9fd3eb00f928
+DTSTART:20150628T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%206
+SUMMARY:CNB vs KBM
+DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
+ urnament : Migrated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : K
+ aBuM e-Sports\nLooser : KaBuM e-Sports\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-2aeecd01-6514-451d-845d-63e0bb2042b3
 DTSTART:20160220T150000Z
 SEQUENCE:0
@@ -16,52 +60,51 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : INTZ\nLooser
   : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
+DTSTAMP:20160301T120723Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
-DTSTART:20160123T170000Z
+UID:match-16572446-a54d-4898-9967-7be469067298
+DTSTART:20150712T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160123T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%202
-SUMMARY:VFK vs CNB
-DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
- ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
- tars\nLooser : CNB e-Sports Club\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7c726e50-06b0-413c-b363-4fc762a1edff
-DTSTART:20160131T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T160000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%203
+DTEND:20150712T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/playoffs/Quartas
 SUMMARY:CNB vs RED
-DESCRIPTION:CNB e-Sports Club (CNB) vs Red Canids (RED)\nType : BO2\nTourna
- ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Red Ca
- nids\nLooser : CNB e-Sports Club\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
+DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ Red (RED)\nType : BO3\nTourname
+ nt : Migrated tournament for CBLOL 2015\nWeek : Quartas\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
-DTSTART:20160116T170000Z
+UID:match-249d6de1-0c1e-4462-b018-afca5c451bcf
+DTSTART:20150530T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160116T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%201
-SUMMARY:CNB vs OPK
-DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
- urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
- eration Kino\nLooser : CNB e-Sports Club\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
+DTEND:20150530T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%202
+SUMMARY:CNB vs PNG
+DESCRIPTION:CNB e-Sports Club (CNB) vs paiN Gaming (PNG)\nType : BO2\nTourn
+ ament : Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : paiN
+  Gaming\nLooser : CNB e-Sports Club\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7d344ba7-e5a7-4f01-898c-c12512dc029d
+DTSTART:20150621T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%205
+SUMMARY:CNB vs G3X
+DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO2\nTourn
+ ament : Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : CNB 
+ e-Sports Club\nLooser : g3nerationX\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54178354-af73-4936-b38a-24c9145cc3c2
@@ -76,7 +119,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner 
  : KaBuM e-Sports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
+DTSTAMP:20160301T120723Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-da671912-e3f8-4b41-9e0d-4c1e12849c83
@@ -90,7 +133,82 @@ SUMMARY:G3X vs CNB
 DESCRIPTION:g3nerationX (G3X) vs CNB e-Sports Club (CNB)\nType : BO3\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Quartas de Final\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6c631d38-9eb5-4900-8e85-03ea94579752
+DTSTART:20150607T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%203
+SUMMARY:CNB vs VFK
+DESCRIPTION:CNB e-Sports Club (CNB) vs Keyd Stars (VFK)\nType : BO2\nTourna
+ ment : Migrated tournament for CBLOL 2015\nWeek : Semana 3\nWinner : Keyd 
+ Stars\nLooser : CNB e-Sports Club\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
+DTSTART:20160123T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%202
+SUMMARY:VFK vs CNB
+DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
+ ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
+ tars\nLooser : CNB e-Sports Club\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7c726e50-06b0-413c-b363-4fc762a1edff
+DTSTART:20160131T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T160000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%203
+SUMMARY:CNB vs RED
+DESCRIPTION:CNB e-Sports Club (CNB) vs Red Canids (RED)\nType : BO2\nTourna
+ ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Red Ca
+ nids\nLooser : CNB e-Sports Club\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
+DTSTART:20160116T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%201
+SUMMARY:CNB vs OPK
+DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
+ urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
+ eration Kino\nLooser : CNB e-Sports Club\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3f8a6c5d-794b-438b-bf15-257e7f5cab4f
+DTSTART:20150704T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%207
+SUMMARY:CNB vs KBB
+DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM Black (KBB)\nType : BO2\nTourn
+ ament : Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : CNB 
+ e-Sports Club\nLooser : KaBuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-afae6555-428e-4ec9-8e6c-8f9a7c440097
@@ -105,7 +223,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : g
  3nerationX\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
+DTSTAMP:20160301T120723Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab845c0e-76db-43fa-9e78-19999caa5c11
@@ -120,6 +238,21 @@ DESCRIPTION:paiN Gaming (PNG) vs CNB e-Sports Club (CNB)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : paiN 
  Gaming\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160229T120105Z
+DTSTAMP:20160301T120723Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d9299f0f-89fa-49e9-9ccf-448968383922
+DTSTART:20150523T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%201
+SUMMARY:CNB vs RED
+DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ Red (RED)\nType : BO2\nTourname
+ nt : Migrated tournament for CBLOL 2015\nWeek : Semana 1\nWinner : INTZ Re
+ d\nLooser : INTZ Red\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160301T120723Z
 END:VEVENT
 END:VCALENDAR

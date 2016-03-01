@@ -16,7 +16,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Dream Team (DT)\nType : BO2\nTourn
  ament : NA CS 2016 Spring Split\nWeek : 1\nWinner : Team Liquid Academy\nL
  ooser : Dream Team\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160229T120100Z
+DTSTAMP:20160301T120719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3812394a-1ee4-44ab-9d0b-fbb701ee332f
@@ -31,7 +31,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Team Dragon Knights (TDK)\nType :
  BO2\nTournament : NA CS 2016 Spring Split\nWeek : 3\nWinner : Team Dragon 
  Knights\nLooser : Team Liquid Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160229T120100Z
+DTSTAMP:20160301T120719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-65a6c406-3d48-439f-91bb-290356dfddd8
@@ -46,7 +46,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Ember (MBR)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 2\nWinner : Ember\nLooser : Team Liqui
  d Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160229T120100Z
+DTSTAMP:20160301T120719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a99af98b-d1a9-4f57-b134-796e05d03111
@@ -61,7 +61,7 @@ DESCRIPTION:Enemy (NME) vs Team Liquid Academy (TLA)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 4\nWinner : Team Liquid Academy\nLoose
  r : Team Liquid Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160229T120100Z
+DTSTAMP:20160301T120719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5387f757-1612-45f4-88a1-3a1f18fdaf6f
@@ -75,7 +75,7 @@ SUMMARY:APX vs TLA
 DESCRIPTION:Apex (APX) vs Team Liquid Academy (TLA)\nType : BO5\nTournament
   : NA CS 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160229T120100Z
+DTSTAMP:20160301T120719Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab6d1c71-cbaa-4c90-8694-37a685dbe333
@@ -89,6 +89,6 @@ SUMMARY:TLA vs APX
 DESCRIPTION:Team Liquid Academy (TLA) vs Apex (APX)\nType : BO2\nTournament
   : NA CS 2016 Spring Split\nWeek : 5\nWinner : Apex\nLooser : Apex\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160229T120100Z
+DTSTAMP:20160301T120719Z
 END:VEVENT
 END:VCALENDAR
