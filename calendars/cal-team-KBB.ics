@@ -16,7 +16,7 @@ DESCRIPTION:KaBuM Black (KBB) vs INTZ (ITZ)\nType : BO2\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Semana 3\nWinner : INTZ\nLooser : Ka
  BuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3f8a6c5d-794b-438b-bf15-257e7f5cab4f
@@ -31,7 +31,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM Black (KBB)\nType : BO2\nTourn
  ament : Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : CNB 
  e-Sports Club\nLooser : KaBuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-64561223-ae64-4404-9c94-c21b448d879e
@@ -46,7 +46,7 @@ DESCRIPTION:KaBuM Black (KBB) vs g3nerationX (G3X)\nType : BO2\nTournament
  : Migrated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : g3neration
  X\nLooser : g3nerationX\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2203f237-afd5-494e-ab80-e4b7ddc7d4a3
@@ -61,7 +61,7 @@ DESCRIPTION:KaBuM Black (KBB) vs Keyd Stars (VFK)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : Keyd Stars\
  nLooser : KaBuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9316b1ee-17fd-40d3-9e22-b7eae3713b37
@@ -76,7 +76,7 @@ DESCRIPTION:KaBuM Black (KBB) vs paiN Gaming (PNG)\nType : BO2\nTournament
  : Migrated tournament for CBLOL 2015\nWeek : Semana 1\nWinner : paiN Gamin
  g\nLooser : paiN Gaming\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3b463941-8326-4c48-b795-201577c0fd5f
@@ -91,7 +91,7 @@ DESCRIPTION:KaBuM Black (KBB) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
  nt : Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : KaBuM e
  -Sports\nLooser : KaBuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe93c59a-eba5-4943-bd44-8ff064c102b9
@@ -106,6 +106,6 @@ DESCRIPTION:KaBuM Black (KBB) vs INTZ Red (RED)\nType : BO2\nTournament : M
  igrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : INTZ Red\nLoo
  ser : INTZ Red\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 END:VCALENDAR

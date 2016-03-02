@@ -15,7 +15,7 @@ SUMMARY:VFK vs G3X
 DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO5\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semifinais\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78813a95-a3a5-4e9b-b233-d63f6555a026
@@ -30,7 +30,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Keyd Stars (VFK)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : Keyd Stars\
  nLooser : Keyd Stars\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-80aa27a4-5e5e-4d89-b539-5f96af49c797
@@ -45,7 +45,7 @@ DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : Keyd Stars\
  nLooser : g3nerationX\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d7675f38-c673-4100-95fe-a42f83a93b33
@@ -60,7 +60,7 @@ DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : Keyd Sta
  rs\nLooser : KaBuM e-Sports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71bf399e-f9ad-4395-9f3e-93492f6ea3bd
@@ -75,7 +75,7 @@ DESCRIPTION:Keyd Stars (VFK) vs Red Canids (RED)\nType : BO2\nTournament :
  The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : Keyd Star
  s\nLooser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6056f7eb-1eef-4383-b42e-3803029632c0
@@ -90,7 +90,7 @@ DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : KaBuM e-S
  ports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b6767bcf-933b-4f89-92b0-5bec3ba6329d
@@ -105,7 +105,7 @@ DESCRIPTION:Keyd Stars (VFK) vs INTZ Red (RED)\nType : BO2\nTournament : Mi
  grated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : INTZ Red\nLoos
  er : Keyd Stars\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36154b69-3ac1-4e36-8006-5bff9d9d4c27
@@ -120,7 +120,7 @@ DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : paiN Gaming\
  nLooser : paiN Gaming\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6c631d38-9eb5-4900-8e85-03ea94579752
@@ -135,7 +135,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Keyd Stars (VFK)\nType : BO2\nTourna
  ment : Migrated tournament for CBLOL 2015\nWeek : Semana 3\nWinner : Keyd 
  Stars\nLooser : CNB e-Sports Club\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
@@ -150,7 +150,7 @@ DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
  ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
  tars\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
@@ -165,7 +165,7 @@ DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
  LOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : INTZ\nLooser : Keyd
   Stars\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b63717a6-9fff-4289-8a71-e6a50b8c228a
@@ -179,7 +179,7 @@ SUMMARY:VFK vs PNG
 DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO5\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semifinais\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c755deb3-650c-4489-913a-5aa9d32b4c8d
@@ -194,7 +194,7 @@ DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : Migrat
  ed tournament for CBLOL 2015\nWeek : Semana 1\nWinner : Keyd Stars\nLooser
   : INTZ\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-105adbcc-c5ae-419c-b600-42275f3ecf25
@@ -209,7 +209,7 @@ DESCRIPTION:Keyd Stars (VFK) vs Operation Kino (OPK)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : Keyd 
  Stars\nLooser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e770b48-33ca-4bb8-8b9c-7dc3dd2212e1
@@ -224,7 +224,7 @@ DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Keyd Stars\n
  Looser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2203f237-afd5-494e-ab80-e4b7ddc7d4a3
@@ -239,6 +239,6 @@ DESCRIPTION:KaBuM Black (KBB) vs Keyd Stars (VFK)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : Keyd Stars\
  nLooser : KaBuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160301T120723Z
+DTSTAMP:20160302T120048Z
 END:VEVENT
 END:VCALENDAR
