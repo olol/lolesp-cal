@@ -15,7 +15,7 @@ SUMMARY:NAA vs IWC
 DESCRIPTION:NA LCS All-Stars (NAA) vs IWC All-Stars (IWC)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160302T120047Z
+DTSTAMP:20160303T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16f269fa-53b8-494c-b8dd-2e0dda4d5f99
@@ -29,7 +29,7 @@ SUMMARY:NAA vs EUA
 DESCRIPTION:NA LCS All-Stars (NAA) vs EU LCS All-Stars (EUA)\nType : BO1\nT
  ournament : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160302T120047Z
+DTSTAMP:20160303T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-859a2bc8-b70f-4427-aaa6-c3fc463c6e6e
@@ -43,6 +43,6 @@ SUMMARY:NAA vs LPL
 DESCRIPTION:NA LCS All-Stars (NAA) vs LPL All-Stars (LPL)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160302T120047Z
+DTSTAMP:20160303T120052Z
 END:VEVENT
 END:VCALENDAR

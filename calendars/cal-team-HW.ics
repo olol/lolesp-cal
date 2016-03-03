@@ -16,7 +16,7 @@ DESCRIPTION:eXtreme Gamers eSports Club (XG) vs ahq e-Sports Club (AHQ)\nTy
  pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : ahq e-Spo
  rts Club\nLooser : eXtreme Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57f173bc-0f5e-437e-859c-a2c0df5b6eef
@@ -31,7 +31,7 @@ DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Midnight Sun e-Sports (MSE)
  \nType : BO2\nTournament : LMS 2016 Spring Split\nWeek : 1\nWinner : Midni
  ght Sun e-Sports\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-01765992-27ca-4ce4-8112-6bed8e74d291
@@ -45,7 +45,7 @@ SUMMARY:XG vs FW
 DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Flash Wolves (FW)\nType : B
  O2\nTournament : LMS 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ae30c0e7-eb02-4bea-89e3-3985b25aa17f
@@ -59,7 +59,7 @@ SUMMARY:XG vs HKE
 DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Hong Kong Esports (HKE)\nTy
  pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0e96698-808b-4261-9e00-0281b254a424
@@ -73,7 +73,7 @@ SUMMARY:MSE vs XG
 DESCRIPTION:Midnight Sun e-Sports (MSE) vs eXtreme Gamers eSports Club (XG)
  \nType : BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-541f131a-db6d-452d-ab3f-4291931cec9c
@@ -88,7 +88,7 @@ DESCRIPTION:Flash Wolves (FW) vs eXtreme Gamers eSports Club (XG)\nType : B
  O2\nTournament : LMS 2016 Spring Split\nWeek : 2\nWinner : eXtreme Gamers 
  eSports Club\nLooser : Flash Wolves\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe9f8263-f8b8-48a0-94b8-652627ad2ef7
@@ -103,7 +103,7 @@ DESCRIPTION:Machi (M17) vs eXtreme Gamers eSports Club (XG)\nType : BO2\nTo
  urnament : LMS 2016 Spring Split\nWeek : 6\nWinner : Machi\nLooser : eXtre
  me Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-411b62d3-65eb-41c9-856e-abe2e5c3e6a3
@@ -117,7 +117,7 @@ SUMMARY:XG vs CGE
 DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Cougar eSports (CGE)\nType 
  : BO2\nTournament : LMS 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-943d7056-ce5d-43cc-b9ae-f31d0bea8c5e
@@ -132,7 +132,7 @@ DESCRIPTION:Cougar eSports (CGE) vs eXtreme Gamers eSports Club (XG)\nType
  : BO2\nTournament : LMS 2016 Spring Split\nWeek : 2\nWinner : eXtreme Game
  rs eSports Club\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-acf06ba4-77a4-4c93-abcc-677337c934a2
@@ -147,7 +147,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs eXtreme Gamers eSports Club (XG)\nTyp
  e : BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : Taipei Ass
  assins\nLooser : eXtreme Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8adf031a-72dc-44ed-b900-0d2c3cdbf8d7
@@ -162,7 +162,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs eXtreme Gamers eSports Club (XG)\nTy
  pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 6\nWinner : ahq e-Spo
  rts Club\nLooser : eXtreme Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49f51e72-33ce-46af-834c-fad039f3bc7f
@@ -177,7 +177,7 @@ DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Machi (M17)\nType : BO2\nTo
  urnament : LMS 2016 Spring Split\nWeek : 3\nWinner : Machi\nLooser : eXtre
  me Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3d362ddd-cdbe-4728-bd01-5221a1172cf0
@@ -191,7 +191,7 @@ SUMMARY:XG vs TPA
 DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Taipei Assassins (TPA)\nTyp
  e : BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0e2591f-3957-4dfb-9650-b1563dbacf3b
@@ -206,6 +206,6 @@ DESCRIPTION:Hong Kong Esports (HKE) vs eXtreme Gamers eSports Club (XG)\nTy
  pe : BO2\nTournament : LMS 2016 Spring Split\nWeek : 5\nWinner : eXtreme G
  amers eSports Club\nLooser : eXtreme Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160302T120046Z
+DTSTAMP:20160303T120051Z
 END:VEVENT
 END:VCALENDAR
