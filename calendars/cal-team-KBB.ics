@@ -4,82 +4,7 @@ PRODID:www.lolesports.com|cal-team-KBB
 X-WR-CALNAME:LoL eSports KBB
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-16815994-efba-4deb-a958-dac6ceafb68b
-DTSTART:20150531T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150531T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%202
-SUMMARY:KBB vs KBM
-DESCRIPTION:KaBuM Black (KBB) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
- nt : Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : KaBuM e
- -Sports\nLooser : KaBuM Black\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d8ad32e9-91ec-4cb1-b120-45d5f1c358d9
-DTSTART:20150607T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150607T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%203
-SUMMARY:ITZ vs KBB
-DESCRIPTION:INTZ (ITZ) vs KaBuM Black (KBB)\nType : BO2\nTournament : Migra
- ted tournament for CBLOL 2015\nWeek : Semana 3\nWinner : INTZ\nLooser : Ka
- BuM Black\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-23393331-347f-440a-b4c7-3491473dcf45
-DTSTART:20150704T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150704T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%207
-SUMMARY:KBB vs CNB
-DESCRIPTION:KaBuM Black (KBB) vs CNB e-Sports Club (CNB)\nType : BO2\nTourn
- ament : Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : CNB 
- e-Sports Club\nLooser : KaBuM Black\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3d7f37be-12bf-482e-aa2a-c7168398ce94
-DTSTART:20150614T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150614T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%204
-SUMMARY:RED vs KBB
-DESCRIPTION:INTZ Red (RED) vs KaBuM Black (KBB)\nType : BO2\nTournament : M
- igrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : KaBuM Black\n
- Looser : KaBuM Black\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-342e1c9a-920b-401b-80e1-2754e4106eee
-DTSTART:20150620T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%205
-SUMMARY:KBB vs VFK
-DESCRIPTION:KaBuM Black (KBB) vs Keyd Stars (VFK)\nType : BO2\nTournament :
-  Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : Keyd Stars\
- nLooser : KaBuM Black\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0b0345e2-0fad-42a8-92fc-cc47fea9b79d
+UID:match-a273477a-fa75-429b-919d-abd3933306de
 DTSTART:20150524T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -91,21 +16,96 @@ DESCRIPTION:KaBuM Black (KBB) vs paiN Gaming (PNG)\nType : BO2\nTournament
  : Migrated tournament for CBLOL 2015\nWeek : Semana 1\nWinner : paiN Gamin
  g\nLooser : paiN Gaming\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-4fab317d-d7f7-48f8-b2e1-2bea4bd657ac
+UID:match-4a2164dd-5828-45d5-9a3c-715418dcdcaa
+DTSTART:20150531T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150531T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%202
+SUMMARY:KBM vs KBB
+DESCRIPTION:KaBuM e-Sports (KBM) vs KaBuM Black (KBB)\nType : BO2\nTourname
+ nt : Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : KaBuM e
+ -Sports\nLooser : KaBuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-78a8e4b5-961c-4de6-88b5-df7bc15f96e9
 DTSTART:20150627T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150627T170000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
  e/cblol-spring-2015/Semana%206
-SUMMARY:KBB vs G3X
-DESCRIPTION:KaBuM Black (KBB) vs g3nerationX (G3X)\nType : BO2\nTournament 
- : Migrated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : g3neration
- X\nLooser : g3nerationX\n
+SUMMARY:G3X vs KBB
+DESCRIPTION:g3nerationX (G3X) vs KaBuM Black (KBB)\nType : BO2\nTournament 
+ : Migrated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : KaBuM Blac
+ k\nLooser : KaBuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d257940f-b807-460a-ba9d-dd43ee16c885
+DTSTART:20150607T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%203
+SUMMARY:ITZ vs KBB
+DESCRIPTION:INTZ (ITZ) vs KaBuM Black (KBB)\nType : BO2\nTournament : Migra
+ ted tournament for CBLOL 2015\nWeek : Semana 3\nWinner : INTZ\nLooser : Ka
+ BuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-eb19cf65-3ebe-41ec-aedd-df4e24be34ef
+DTSTART:20150620T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%205
+SUMMARY:VFK vs KBB
+DESCRIPTION:Keyd Stars (VFK) vs KaBuM Black (KBB)\nType : BO2\nTournament :
+  Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : Keyd Stars\
+ nLooser : KaBuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ee758b6f-8372-4ad0-8ba7-21418e63dc17
+DTSTART:20150704T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150704T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%207
+SUMMARY:CNB vs KBB
+DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM Black (KBB)\nType : BO2\nTourn
+ ament : Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : CNB 
+ e-Sports Club\nLooser : KaBuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-919c89e1-f25c-427b-b87f-169b24b57748
+DTSTART:20150614T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%204
+SUMMARY:RED vs KBB
+DESCRIPTION:INTZ Red (RED) vs KaBuM Black (KBB)\nType : BO2\nTournament : M
+ igrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : KaBuM Black\n
+ Looser : KaBuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
 END:VEVENT
 END:VCALENDAR

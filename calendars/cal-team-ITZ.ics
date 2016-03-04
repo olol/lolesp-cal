@@ -16,67 +16,21 @@ DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : INTZ\nLoose
  r : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-00c4d80e-a6e1-480e-98c2-5174c9aab67b
-DTSTART:20150613T160000Z
+UID:match-8a01f31d-65d0-4a57-b2c6-d159ed022fbd
+DTSTART:20150808T150000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150613T170000Z
+DTEND:20150808T160000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%204
-SUMMARY:ITZ vs CNB
-DESCRIPTION:INTZ (ITZ) vs CNB e-Sports Club (CNB)\nType : BO2\nTournament :
-  Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : INTZ\nLoose
- r : CNB e-Sports Club\n
+ e/playoffs/Final
+SUMMARY:ITZ vs PNG
+DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO5\nTournament : Migra
+ ted tournament for CBLOL 2015\nWeek : Final\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-95a762f0-cb5c-408a-afea-4a6fd76e19b3
-DTSTART:20150530T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150530T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%202
-SUMMARY:ITZ vs RED
-DESCRIPTION:INTZ (ITZ) vs INTZ Red (RED)\nType : BO2\nTournament : Migrated
-  tournament for CBLOL 2015\nWeek : Semana 2\nWinner : INTZ\nLooser : INTZ 
- Red\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d8ad32e9-91ec-4cb1-b120-45d5f1c358d9
-DTSTART:20150607T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150607T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%203
-SUMMARY:ITZ vs KBB
-DESCRIPTION:INTZ (ITZ) vs KaBuM Black (KBB)\nType : BO2\nTournament : Migra
- ted tournament for CBLOL 2015\nWeek : Semana 3\nWinner : INTZ\nLooser : Ka
- BuM Black\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b7a3c340-e6d0-4c92-9e74-e785da87b815
-DTSTART:20150704T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150704T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%207
-SUMMARY:ITZ vs G3X
-DESCRIPTION:INTZ (ITZ) vs g3nerationX (G3X)\nType : BO2\nTournament : Migra
- ted tournament for CBLOL 2015\nWeek : Semana 7\nWinner : INTZ\nLooser : g3
- nerationX\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cfb0f9a0-a865-46cf-9c9b-661f06a347d3
@@ -91,7 +45,7 @@ DESCRIPTION:g3nerationX (G3X) vs INTZ (ITZ)\nType : BO2\nTournament : The C
  BLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : INTZ\nLooser : g3n
  erationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2aeecd01-6514-451d-845d-63e0bb2042b3
@@ -106,111 +60,22 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : INTZ\nLooser
   : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
-DTSTART:20160225T160000Z
+UID:match-0fc12a0e-c9bc-4c3a-b6f0-e1c8f8c5ef04
+DTSTART:20150530T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160225T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Super%20Semana
-SUMMARY:KBM vs ITZ
-DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
- e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : INTZ\nLoose
- r : INTZ\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b7956cae-ea41-4669-bdd3-5439fbc9778a
-DTSTART:20160116T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T160000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%201
-SUMMARY:PNG vs ITZ
-DESCRIPTION:paiN Gaming (PNG) vs INTZ (ITZ)\nType : BO2\nTournament : The C
- BLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : INTZ\nLooser : INT
- Z\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2db70bda-8ed0-4466-bb51-7cc8c69a9beb
-DTSTART:20150718T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150718T170000Z
+DTEND:20150530T170000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/playoffs/Semifinais
-SUMMARY:ITZ vs G3X
-DESCRIPTION:INTZ (ITZ) vs g3nerationX (G3X)\nType : BO5\nTournament : Migra
- ted tournament for CBLOL 2015\nWeek : Semifinais\n
+ e/cblol-spring-2015/Semana%202
+SUMMARY:ITZ vs RED
+DESCRIPTION:INTZ (ITZ) vs INTZ Red (RED)\nType : BO2\nTournament : Migrated
+  tournament for CBLOL 2015\nWeek : Semana 2\nWinner : INTZ\nLooser : INTZ 
+ Red\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-32eeac35-e7cd-4efe-9e71-214ac5acd27f
-DTSTART:20150523T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150523T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%201
-SUMMARY:ITZ vs VFK
-DESCRIPTION:INTZ (ITZ) vs Keyd Stars (VFK)\nType : BO2\nTournament : Migrat
- ed tournament for CBLOL 2015\nWeek : Semana 1\nWinner : Keyd Stars\nLooser
-  : INTZ\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7b8f2ac7-598f-4316-91c0-0525d15e369b
-DTSTART:20150620T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%205
-SUMMARY:ITZ vs KBM
-DESCRIPTION:INTZ (ITZ) vs KaBuM e-Sports (KBM)\nType : BO2\nTournament : Mi
- grated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : INTZ\nLooser :
-  KaBuM e-Sports\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
-DTSTART:20160214T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%204
-SUMMARY:VFK vs ITZ
-DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
- LOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : INTZ\nLooser : Keyd
-  Stars\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b54d1ed0-1e3b-423a-a10f-2c210166a441
-DTSTART:20150627T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150627T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%206
-SUMMARY:ITZ vs PNG
-DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO2\nTournament : Migra
- ted tournament for CBLOL 2015\nWeek : Semana 6\nWinner : INTZ\nLooser : pa
- iN Gaming\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c0809f9-1149-4991-ad89-b4d38b45ad8e
@@ -225,20 +90,155 @@ DESCRIPTION:Red Canids (RED) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
  LOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : INTZ\nLooser : Red 
  Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-8f680056-bbed-410e-a3f1-0a6d63db4376
-DTSTART:20150808T150000Z
+UID:match-9cae01ab-49ee-45c7-8003-cb5e2abcb0f7
+DTSTART:20150704T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150808T160000Z
+DTEND:20150704T190000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/playoffs/Final
-SUMMARY:ITZ vs PNG
-DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO5\nTournament : Migra
- ted tournament for CBLOL 2015\nWeek : Final\n
+ e/cblol-spring-2015/Semana%207
+SUMMARY:ITZ vs G3X
+DESCRIPTION:INTZ (ITZ) vs g3nerationX (G3X)\nType : BO2\nTournament : Migra
+ ted tournament for CBLOL 2015\nWeek : Semana 7\nWinner : INTZ\nLooser : g3
+ nerationX\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d257940f-b807-460a-ba9d-dd43ee16c885
+DTSTART:20150607T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150607T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%203
+SUMMARY:ITZ vs KBB
+DESCRIPTION:INTZ (ITZ) vs KaBuM Black (KBB)\nType : BO2\nTournament : Migra
+ ted tournament for CBLOL 2015\nWeek : Semana 3\nWinner : INTZ\nLooser : Ka
+ BuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fe923806-cfdc-4b23-afe3-6feca712c475
+DTSTART:20150620T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%205
+SUMMARY:ITZ vs KBM
+DESCRIPTION:INTZ (ITZ) vs KaBuM e-Sports (KBM)\nType : BO2\nTournament : Mi
+ grated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : INTZ\nLooser :
+  KaBuM e-Sports\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
+DTSTART:20160214T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:VFK vs ITZ
+DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
+ LOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : INTZ\nLooser : Keyd
+  Stars\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-95dbe91e-e16c-4c6d-8268-fe8d61e5b3f1
+DTSTART:20150718T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/playoffs/Semifinais
+SUMMARY:ITZ vs G3X
+DESCRIPTION:INTZ (ITZ) vs g3nerationX (G3X)\nType : BO5\nTournament : Migra
+ ted tournament for CBLOL 2015\nWeek : Semifinais\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
+DTSTART:20160225T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Super%20Semana
+SUMMARY:KBM vs ITZ
+DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
+ e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : INTZ\nLoose
+ r : INTZ\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b7956cae-ea41-4669-bdd3-5439fbc9778a
+DTSTART:20160116T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T160000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%201
+SUMMARY:PNG vs ITZ
+DESCRIPTION:paiN Gaming (PNG) vs INTZ (ITZ)\nType : BO2\nTournament : The C
+ BLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : INTZ\nLooser : INT
+ Z\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e92bfe79-a91d-4372-8ba7-972015487fee
+DTSTART:20150523T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%201
+SUMMARY:ITZ vs VFK
+DESCRIPTION:INTZ (ITZ) vs Keyd Stars (VFK)\nType : BO2\nTournament : Migrat
+ ed tournament for CBLOL 2015\nWeek : Semana 1\nWinner : Keyd Stars\nLooser
+  : INTZ\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-925aef07-41b9-4b75-81b9-c15bca4468c8
+DTSTART:20150627T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%206
+SUMMARY:ITZ vs PNG
+DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO2\nTournament : Migra
+ ted tournament for CBLOL 2015\nWeek : Semana 6\nWinner : INTZ\nLooser : pa
+ iN Gaming\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a717fe22-08f4-40b9-a20f-2443e31881e6
+DTSTART:20150613T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%204
+SUMMARY:ITZ vs CNB
+DESCRIPTION:INTZ (ITZ) vs CNB e-Sports Club (CNB)\nType : BO2\nTournament :
+  Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : INTZ\nLoose
+ r : CNB e-Sports Club\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
 END:VEVENT
 END:VCALENDAR

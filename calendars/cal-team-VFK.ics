@@ -4,50 +4,6 @@ PRODID:www.lolesports.com|cal-team-VFK
 X-WR-CALNAME:LoL eSports VFK
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-23fa81de-8a5c-4f6f-8ea0-d05047e2b56e
-DTSTART:20150725T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150725T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/playoffs/Semifinais
-SUMMARY:VFK vs G3X
-DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO5\nTournament :
-  Migrated tournament for CBLOL 2015\nWeek : Semifinais\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d0a65dc7-7481-4f0e-8841-b1e0b7033820
-DTSTART:20150705T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%207
-SUMMARY:PNG vs VFK
-DESCRIPTION:paiN Gaming (PNG) vs Keyd Stars (VFK)\nType : BO2\nTournament :
-  Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : Keyd Stars\
- nLooser : Keyd Stars\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e89b5e2e-81e1-431c-aba4-c0c0b91fed20
-DTSTART:20150628T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150628T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%206
-SUMMARY:RED vs VFK
-DESCRIPTION:INTZ Red (RED) vs Keyd Stars (VFK)\nType : BO2\nTournament : Mi
- grated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : INTZ Red\nLoos
- er : Keyd Stars\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-71bf399e-f9ad-4395-9f3e-93492f6ea3bd
 DTSTART:20160227T180000Z
 SEQUENCE:0
@@ -60,7 +16,7 @@ DESCRIPTION:Keyd Stars (VFK) vs Red Canids (RED)\nType : BO2\nTournament :
  The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : Keyd Star
  s\nLooser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6056f7eb-1eef-4383-b42e-3803029632c0
@@ -75,97 +31,22 @@ DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : KaBuM e-S
  ports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-36154b69-3ac1-4e36-8006-5bff9d9d4c27
-DTSTART:20160221T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%205
-SUMMARY:VFK vs PNG
-DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
-  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : paiN Gaming\
- nLooser : paiN Gaming\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-32eeac35-e7cd-4efe-9e71-214ac5acd27f
-DTSTART:20150523T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150523T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%201
-SUMMARY:ITZ vs VFK
-DESCRIPTION:INTZ (ITZ) vs Keyd Stars (VFK)\nType : BO2\nTournament : Migrat
- ed tournament for CBLOL 2015\nWeek : Semana 1\nWinner : Keyd Stars\nLooser
-  : INTZ\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-91bc5340-c0ef-4230-8902-2ed7d68e8c31
-DTSTART:20150613T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150613T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%204
-SUMMARY:VFK vs KBM
-DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
- t : Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : Keyd Sta
- rs\nLooser : KaBuM e-Sports\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-af6e52c6-d048-46ba-8013-d0a26915b8c5
+UID:match-e365e0e1-cf4a-4723-8dda-72790727a008
 DTSTART:20150607T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20150607T190000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
  e/cblol-spring-2015/Semana%203
-SUMMARY:CNB vs VFK
-DESCRIPTION:CNB e-Sports Club (CNB) vs Keyd Stars (VFK)\nType : BO2\nTourna
+SUMMARY:VFK vs CNB
+DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
  ment : Migrated tournament for CBLOL 2015\nWeek : Semana 3\nWinner : Keyd 
  Stars\nLooser : CNB e-Sports Club\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
-DTSTART:20160123T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%202
-SUMMARY:VFK vs CNB
-DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
- ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
- tars\nLooser : CNB e-Sports Club\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
-DTSTART:20160214T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T180000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/fase_de_grupos/Semana%204
-SUMMARY:VFK vs ITZ
-DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
- LOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : INTZ\nLooser : Keyd
-  Stars\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-105adbcc-c5ae-419c-b600-42275f3ecf25
@@ -180,7 +61,7 @@ DESCRIPTION:Keyd Stars (VFK) vs Operation Kino (OPK)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : Keyd 
  Stars\nLooser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e770b48-33ca-4bb8-8b9c-7dc3dd2212e1
@@ -195,39 +76,24 @@ DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Keyd Stars\n
  Looser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-cf0ba4dc-3f7a-46ef-bf2d-5c504be88fce
-DTSTART:20150719T160000Z
+UID:match-8dd11463-18fc-4d3d-acbd-62ce37e5ebe2
+DTSTART:20150725T160000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150719T170000Z
+DTEND:20150725T170000Z
 URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
  e/playoffs/Semifinais
-SUMMARY:VFK vs PNG
-DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO5\nTournament :
+SUMMARY:VFK vs G3X
+DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO5\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semifinais\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-342e1c9a-920b-401b-80e1-2754e4106eee
-DTSTART:20150620T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150620T190000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
- e/cblol-spring-2015/Semana%205
-SUMMARY:KBB vs VFK
-DESCRIPTION:KaBuM Black (KBB) vs Keyd Stars (VFK)\nType : BO2\nTournament :
-  Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : Keyd Stars\
- nLooser : KaBuM Black\n
-CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f2113a20-6166-4b14-83c3-01b773b120cb
+UID:match-2b2d509f-62e3-4fe1-abf9-03aec1826528
 DTSTART:20150531T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -239,6 +105,140 @@ DESCRIPTION:Keyd Stars (VFK) vs g3nerationX (G3X)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : Keyd Stars\
  nLooser : g3nerationX\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160303T120053Z
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
+DTSTART:20160123T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%202
+SUMMARY:VFK vs CNB
+DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
+ ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
+ tars\nLooser : CNB e-Sports Club\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
+DTSTART:20160214T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T180000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:VFK vs ITZ
+DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
+ LOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : INTZ\nLooser : Keyd
+  Stars\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8056ace6-3c75-4f02-bc0d-bc61e5c9fcb5
+DTSTART:20150719T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/playoffs/Semifinais
+SUMMARY:VFK vs PNG
+DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO5\nTournament :
+  Migrated tournament for CBLOL 2015\nWeek : Semifinais\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8a343488-f378-420c-8429-9937b30ddf74
+DTSTART:20150613T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%204
+SUMMARY:VFK vs KBM
+DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
+ t : Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : Keyd Sta
+ rs\nLooser : KaBuM e-Sports\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-08f54fcf-1cd8-4049-9ac7-8a7a8e2d1020
+DTSTART:20150628T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150628T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%206
+SUMMARY:VFK vs RED
+DESCRIPTION:Keyd Stars (VFK) vs INTZ Red (RED)\nType : BO2\nTournament : Mi
+ grated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : INTZ Red\nLoos
+ er : Keyd Stars\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-36154b69-3ac1-4e36-8006-5bff9d9d4c27
+DTSTART:20160221T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/fase_de_grupos/Semana%205
+SUMMARY:VFK vs PNG
+DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
+  The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : paiN Gaming\
+ nLooser : paiN Gaming\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e92bfe79-a91d-4372-8ba7-972015487fee
+DTSTART:20150523T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150523T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%201
+SUMMARY:ITZ vs VFK
+DESCRIPTION:INTZ (ITZ) vs Keyd Stars (VFK)\nType : BO2\nTournament : Migrat
+ ed tournament for CBLOL 2015\nWeek : Semana 1\nWinner : Keyd Stars\nLooser
+  : INTZ\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-66b7f6a0-8eea-4053-9033-ef59a0fb09be
+DTSTART:20150705T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%207
+SUMMARY:VFK vs PNG
+DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
+  Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : paiN Gaming
+ \nLooser : paiN Gaming\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-eb19cf65-3ebe-41ec-aedd-df4e24be34ef
+DTSTART:20150620T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150620T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2015_split_2/schedul
+ e/cblol-spring-2015/Semana%205
+SUMMARY:VFK vs KBB
+DESCRIPTION:Keyd Stars (VFK) vs KaBuM Black (KBB)\nType : BO2\nTournament :
+  Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : Keyd Stars\
+ nLooser : KaBuM Black\n
+CATEGORIES:Migrated tournament for CBLOL 2015
+DTSTAMP:20160304T120138Z
 END:VEVENT
 END:VCALENDAR
