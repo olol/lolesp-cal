@@ -15,7 +15,7 @@ SUMMARY:MIL vs HMA
 DESCRIPTION:Millenium (MIL) vs Huma (HMA)\nType : BO2\nTournament : EU CS 2
  016 Spring Split\nWeek : 1\nWinner : Millenium\nLooser : Huma\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160309T120047Z
+DTSTAMP:20160310T120057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f668e1f-4371-4700-84ae-e3fa6fa88fbe
@@ -29,7 +29,7 @@ SUMMARY:IE vs HMA
 DESCRIPTION:Inspire eSports (IE) vs Huma (HMA)\nType : BO2\nTournament : EU
   CS 2016 Spring Split\nWeek : 5\nWinner : Huma\nLooser : Inspire eSports\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160309T120047Z
+DTSTAMP:20160310T120057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d580093a-d3e6-4add-82ce-1b0c357a58c8
@@ -43,7 +43,7 @@ SUMMARY:IE vs HMA
 DESCRIPTION:Inspire eSports (IE) vs Huma (HMA)\nType : BO5\nTournament : EU
   CS 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160309T120047Z
+DTSTAMP:20160310T120057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-942038f6-42ce-4842-930f-47537f610e8f
@@ -58,7 +58,7 @@ DESCRIPTION:Huma (HMA) vs Copenhagen Wolves (CW)\nType : BO2\nTournament :
  EU CS 2016 Spring Split\nWeek : 4\nWinner : Huma\nLooser : Copenhagen Wolv
  es\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160309T120047Z
+DTSTAMP:20160310T120057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0a279a0-5c2e-4092-8de9-b93f8ac05d1d
@@ -72,7 +72,7 @@ SUMMARY:MOU vs HMA
 DESCRIPTION:Mousesports (MOU) vs Huma (HMA)\nType : BO2\nTournament : EU CS
   2016 Spring Split\nWeek : 3\nWinner : Huma\nLooser : Huma\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160309T120047Z
+DTSTAMP:20160310T120057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cc896d99-546f-4c02-aa82-f89a1ca513a3
@@ -86,6 +86,20 @@ SUMMARY:HMA vs SKG
 DESCRIPTION:Huma (HMA) vs SK Gaming (SKG)\nType : BO2\nTournament : EU CS 2
  016 Spring Split\nWeek : 2\nWinner : Huma\nLooser : SK Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160309T120047Z
+DTSTAMP:20160310T120057Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4c964162-12fc-481a-bf8e-d615574a4525
+DTSTART:20160315T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160315T180000Z
+URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/playoff
+ s/Finals
+SUMMARY:HMA vs CW
+DESCRIPTION:Huma (HMA) vs Copenhagen Wolves (CW)\nType : BO5\nTournament : 
+ EU CS 2016 Spring Split\nWeek : Finals\n
+CATEGORIES:EU CS 2016 Spring Split
+DTSTAMP:20160310T120057Z
 END:VEVENT
 END:VCALENDAR
