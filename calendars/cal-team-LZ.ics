@@ -16,7 +16,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Longzhu Gaming (LZ)\nType : BO2\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : Kongdo
  o Monster\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-557d8015-f8a8-46a4-9079-33c4af6f5127
@@ -31,7 +31,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : Longzh
  u Gaming\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba85ed2f-d30b-40ac-92e4-e13e7157450f
@@ -46,7 +46,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs SKTelecom T1 (SKT)\nType : BO2\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : SKTeleco
  m T1\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3abd06d3-9ac3-425f-80e8-b13ce46059f5
@@ -60,7 +60,7 @@ SUMMARY:LZ vs SSB
 DESCRIPTION:Longzhu Gaming (LZ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTourn
  ament : LCK 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ed7a6b43-5d36-4b12-bd06-f7a220646989
@@ -74,7 +74,7 @@ SUMMARY:SSG vs LZ
 DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53854d31-b388-4397-9873-2072f2866e06
@@ -88,7 +88,7 @@ SUMMARY:LZ vs JAG
 DESCRIPTION:Longzhu Gaming (LZ) vs Jin Air Green Wings (JAG)\nType : BO3\nT
  ournament : LCK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ff66a778-3e32-44bb-a21a-be1f3c03afb9
@@ -102,7 +102,7 @@ SUMMARY:SKT vs LZ
 DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Gaming (LZ)\nType : BO3\nTourname
  nt : LCK 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-50b14d49-1fab-4fa6-be8b-7e2285ad2be5
@@ -116,7 +116,7 @@ SUMMARY:KDM vs LZ
 DESCRIPTION:Kongdoo Monster (KDM) vs Longzhu Gaming (LZ)\nType : BO3\nTourn
  ament : LCK 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ca3fc24-d786-461c-9b96-6881ef87414e
@@ -131,7 +131,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : CJ ENTUS\nLoo
  ser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cec7056a-f4db-4b23-8d74-d35e11de3ce4
@@ -146,7 +146,7 @@ DESCRIPTION:SBENU SONICBOOM (SSB) vs Longzhu Gaming (LZ)\nType : BO2\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : Longz
  hu Gaming\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00ef436b-01d9-4f42-b436-59b431da7bd1
@@ -161,7 +161,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Longzhu Gaming (LZ)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : ROX Tigers\
  nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3a53f65a-5f35-4ecf-a0b0-385d483fe761
@@ -175,7 +175,7 @@ SUMMARY:LZ vs AFS
 DESCRIPTION:Longzhu Gaming (LZ) vs Afreeca Freecs (AFS)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9d2507d5-aa23-44fa-851e-d5ca657b4b31
@@ -189,7 +189,7 @@ SUMMARY:CJ vs LZ
 DESCRIPTION:CJ ENTUS (CJ) vs Longzhu Gaming (LZ)\nType : BO3\nTournament : 
  LCK 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-44fc2005-b2b7-4b33-b2ca-d67257d83998
@@ -203,7 +203,7 @@ SUMMARY:LZ vs SSG
 DESCRIPTION:Longzhu Gaming (LZ) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 12\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-493ba68a-0706-4b04-a8cd-dba5cafc461d
@@ -217,7 +217,7 @@ SUMMARY:AFS vs LZ
 DESCRIPTION:Afreeca Freecs (AFS) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 13\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9286a543-8248-4209-a55e-a3fba7414026
@@ -232,7 +232,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Gaming (LZ)\nType : BO2\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : SKTelecom
   T1\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e39eb2f-3518-422a-aa24-2279c2da6604
@@ -247,7 +247,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : Longzhu
   Gaming\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8ace55c-3c5b-42b0-8603-cbda77d15849
@@ -262,7 +262,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Gaming (LZ)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Samsung
   Galaxy\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9ba4684d-e7b9-4332-9f01-0abce6e43d9c
@@ -276,7 +276,7 @@ SUMMARY:LZ vs ROX
 DESCRIPTION:Longzhu Gaming (LZ) vs ROX Tigers (ROX)\nType : BO3\nTournament
   : LCK 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8d9635e1-8697-4ac5-a6e6-c960fbd4b9e2
@@ -290,7 +290,7 @@ SUMMARY:ROX vs LZ
 DESCRIPTION:ROX Tigers (ROX) vs Longzhu Gaming (LZ)\nType : BO3\nTournament
   : LCK 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a4b90d7-f35f-435b-b386-f5c0ae655dfa
@@ -305,7 +305,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Gaming (LZ)\nType : BO2\nT
  ournament : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Ji
  n Air Green Wings\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e39eb2f-3518-422a-aa24-2279c2da6604
@@ -320,7 +320,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : Longzhu
   Gaming\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
@@ -335,7 +335,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : KT Rolster\n
  Looser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ca3fc24-d786-461c-9b96-6881ef87414e
@@ -350,7 +350,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : CJ ENTUS\nLoos
  er : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e306fe73-a9ce-4bab-9d51-13fd1d364c2a
@@ -365,7 +365,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs Kongdoo Monster (KDM)\nType : BO3\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : Kongdo
  o Monster\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8829005-f13a-4eb0-9950-9079110bea82
@@ -379,7 +379,7 @@ SUMMARY:LZ vs CJ
 DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO3\nTournament : 
  LCK 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e6362d74-4b9e-4580-89b5-f80e1f4c9603
@@ -393,7 +393,7 @@ SUMMARY:LZ vs SKT
 DESCRIPTION:Longzhu Gaming (LZ) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : LCK 2016 Spring Split\nWeek : 11\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f56718a0-3972-4798-922c-490b5a2a6286
@@ -407,7 +407,7 @@ SUMMARY:SSB vs LZ
 DESCRIPTION:SBENU SONICBOOM (SSB) vs Longzhu Gaming (LZ)\nType : BO3\nTourn
  ament : LCK 2016 Spring Split\nWeek : 12\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-211e34ab-9b8a-4235-8b2a-950c3b2b5480
@@ -422,7 +422,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : KT Rolster\
  nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a4b90d7-f35f-435b-b386-f5c0ae655dfa
@@ -437,7 +437,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Gaming (LZ)\nType : BO2\nT
  ournament : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : J
  in Air Green Wings\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95b19f91-988c-47c0-b841-947591b218ea
@@ -452,7 +452,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs Samsung Galaxy (SSG)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : Samsung
   Galaxy\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-230e43bf-c048-4091-9586-91161e2bdea3
@@ -467,7 +467,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs ROX Tigers (ROX)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : ROX Tigers\
  nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a5b9136b-0a78-4f8f-a576-d420e500d8d4
@@ -481,7 +481,7 @@ SUMMARY:LZ vs KT
 DESCRIPTION:Longzhu Gaming (LZ) vs KT Rolster (KT)\nType : BO3\nTournament 
  : LCK 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fd446433-0f25-4bc3-96d6-6bff34767ee2
@@ -495,7 +495,7 @@ SUMMARY:LZ vs KDM
 DESCRIPTION:Longzhu Gaming (LZ) vs Kongdoo Monster (KDM)\nType : BO3\nTourn
  ament : LCK 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2ee3c018-37b8-4170-903f-d09f76f17573
@@ -509,7 +509,7 @@ SUMMARY:KT vs LZ
 DESCRIPTION:KT Rolster (KT) vs Longzhu Gaming (LZ)\nType : BO3\nTournament 
  : LCK 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-152f35e2-7af4-4b00-90c9-2f92f7135859
@@ -523,6 +523,6 @@ SUMMARY:JAG vs LZ
 DESCRIPTION:Jin Air Green Wings (JAG) vs Longzhu Gaming (LZ)\nType : BO3\nT
  ournament : LCK 2016 Spring Split\nWeek : 13\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160310T120058Z
+DTSTAMP:20160311T120113Z
 END:VEVENT
 END:VCALENDAR
