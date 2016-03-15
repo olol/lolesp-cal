@@ -16,49 +16,7 @@ DESCRIPTION:Millenium (MIL) vs Inspire eSports (IE)\nType : BO2\nTournament
   : EU CS 2016 Spring Split\nWeek : 4\nWinner : Inspire eSports\nLooser : M
  illenium\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160314T120113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7ecc063a-9dc1-4433-89d9-9482a697bfa5
-DTSTART:20160309T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160309T180000Z
-URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/playoff
- s/Semifinals
-SUMMARY:MIL vs CW
-DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO5\nTourname
- nt : EU CS 2016 Spring Split\nWeek : Semifinals\n
-CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160314T120113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-84fd46b4-0637-43b9-8912-a78e06caa44e
-DTSTART:20160126T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160126T220000Z
-URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
- _season/1
-SUMMARY:MIL vs HMA
-DESCRIPTION:Millenium (MIL) vs Huma (HMA)\nType : BO2\nTournament : EU CS 2
- 016 Spring Split\nWeek : 1\nWinner : Millenium\nLooser : Huma\n
-CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160314T120113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c0e53084-a86c-4ca2-a17e-b4aa80e62256
-DTSTART:20160223T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160223T180000Z
-URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
- _season/5
-SUMMARY:MIL vs SKG
-DESCRIPTION:Millenium (MIL) vs SK Gaming (SKG)\nType : BO2\nTournament : EU
-  CS 2016 Spring Split\nWeek : 5\nWinner : Millenium\nLooser : SK Gaming\n
-CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160314T120113Z
+DTSTAMP:20160315T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95e0907b-c0b0-49a8-a22c-cee6f709d834
@@ -73,7 +31,7 @@ DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO2\nTourname
  nt : EU CS 2016 Spring Split\nWeek : 3\nWinner : Millenium\nLooser : Copen
  hagen Wolves\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160314T120113Z
+DTSTAMP:20160315T120052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6e364a2-1547-4962-a940-c6cd0cf8c4ec
@@ -88,6 +46,48 @@ DESCRIPTION:Millenium (MIL) vs Mousesports (MOU)\nType : BO2\nTournament :
  EU CS 2016 Spring Split\nWeek : 2\nWinner : Millenium\nLooser : Mousesport
  s\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160314T120113Z
+DTSTAMP:20160315T120052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7ecc063a-9dc1-4433-89d9-9482a697bfa5
+DTSTART:20160309T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160309T180000Z
+URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/playoff
+ s/Semifinals
+SUMMARY:MIL vs CW
+DESCRIPTION:Millenium (MIL) vs Copenhagen Wolves (CW)\nType : BO5\nTourname
+ nt : EU CS 2016 Spring Split\nWeek : Semifinals\n
+CATEGORIES:EU CS 2016 Spring Split
+DTSTAMP:20160315T120052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-84fd46b4-0637-43b9-8912-a78e06caa44e
+DTSTART:20160126T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160126T220000Z
+URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
+ _season/1
+SUMMARY:MIL vs HMA
+DESCRIPTION:Millenium (MIL) vs Huma (HMA)\nType : BO2\nTournament : EU CS 2
+ 016 Spring Split\nWeek : 1\nWinner : Millenium\nLooser : Huma\n
+CATEGORIES:EU CS 2016 Spring Split
+DTSTAMP:20160315T120052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c0e53084-a86c-4ca2-a17e-b4aa80e62256
+DTSTART:20160223T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160223T180000Z
+URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
+ _season/5
+SUMMARY:MIL vs SKG
+DESCRIPTION:Millenium (MIL) vs SK Gaming (SKG)\nType : BO2\nTournament : EU
+  CS 2016 Spring Split\nWeek : 5\nWinner : Millenium\nLooser : SK Gaming\n
+CATEGORIES:EU CS 2016 Spring Split
+DTSTAMP:20160315T120052Z
 END:VEVENT
 END:VCALENDAR
