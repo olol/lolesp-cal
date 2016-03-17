@@ -16,7 +16,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Vici Gaming (VG)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Vici 
  Gaming\nLooser : Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3b4669bb-6aea-4bf9-b689-265d404c1d42
@@ -31,7 +31,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Royal Never Give Up (RNG)\nType : B
  O2\nTournament : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner
   : Royal Never Give Up\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-67772e39-f1d5-4e8d-a3d3-55c8372a1f7c
@@ -46,7 +46,7 @@ DESCRIPTION:King (KNG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Royal Never
   Give Up\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c3cc153a-004c-4fff-bb5d-4dbe9c61862b
@@ -61,7 +61,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Ed
  ward Gaming\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0dea10c-8946-4302-830a-4c8e6093685a
@@ -75,7 +75,7 @@ SUMMARY:QG vs RNG
 DESCRIPTION:Qiao Gu Reapers (QG) vs Royal Never Give Up (RNG)\nType : BO3\n
  Tournament : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8cf4a1db-e537-498d-a494-0eddb64236bc
@@ -89,7 +89,7 @@ SUMMARY:M3 vs RNG
 DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-38974f0a-31ac-4cf7-8a40-6bb078369e56
@@ -103,7 +103,7 @@ SUMMARY:RNG vs EDG
 DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7207f7ea-d839-4883-a7f7-19e9bb8443a8
@@ -118,7 +118,7 @@ DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Master3\n
  Looser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-27756fc2-baf4-45cb-83e2-fbfefe1fde4b
@@ -133,7 +133,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Royal Never Give Up (RNG)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : LGD G
  aming\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-92d97cb3-fb57-4f45-9692-e8d3b574f09b
@@ -148,7 +148,7 @@ DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO2\nTo
  urnament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Ro
  yal Never Give Up\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d36edc6e-e06b-4dcd-9911-1864bea5b26f
@@ -163,7 +163,7 @@ DESCRIPTION:Team World Elite (WE) vs Royal Never Give Up (RNG)\nType : BO2\
  nTournament : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : 
  Team World Elite\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71695b28-3c82-4932-9d38-5f4899c8836c
@@ -178,7 +178,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Royal Never Give Up (RNG)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : 
  Royal Never Give Up\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e58ff1d5-a05b-4b45-8063-1890e02a7c05
@@ -192,7 +192,7 @@ SUMMARY:EDG vs RNG
 DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-03f2ace7-0016-45bf-83bc-dbc06a4dc231
@@ -206,7 +206,7 @@ SUMMARY:RNG vs VG
 DESCRIPTION:Royal Never Give Up (RNG) vs Vici Gaming (VG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6071c82-764a-4940-aa3c-a5555707e5d0
@@ -220,7 +220,7 @@ SUMMARY:HYG vs RNG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs Royal Never Give Up (RNG)\nType : B
  O3\nTournament : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1148045f-0767-4fba-a561-ac3a0788c259
@@ -234,7 +234,7 @@ SUMMARY:RNG vs IG
 DESCRIPTION:Royal Never Give Up (RNG) vs Invictus Gaming (IG)\nType : BO3\n
  Tournament : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5f0b4e90-0045-40d8-8cac-c55fe454c2c0
@@ -249,7 +249,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs King (KNG)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Royal Never
   Give Up\nLooser : King\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8bd15e8d-cba5-4208-bcb0-eeec829659e6
@@ -263,7 +263,7 @@ SUMMARY:VG vs RNG
 DESCRIPTION:Vici Gaming (VG) vs Royal Never Give Up (RNG)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab6db652-9e53-43d4-9292-692e3ca04be0
@@ -278,7 +278,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Qiao Gu Reapers (QG)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Q
  iao Gu Reapers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c71d587-ed79-41e7-b86c-353685c1da1e
@@ -292,7 +292,7 @@ SUMMARY:SS vs RNG
 DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO3\nTo
  urnament : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-732d0cfe-a3ed-457f-bfda-8fca684b66d4
@@ -306,7 +306,7 @@ SUMMARY:EPA vs RNG
 DESCRIPTION:Energy Pace Maker (EPA) vs Royal Never Give Up (RNG)\nType : BO
  3\nTournament : LPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1be3c54c-b0b1-498d-8ba3-66fc3181850b
@@ -320,7 +320,7 @@ SUMMARY:VG vs RNG
 DESCRIPTION:Vici Gaming (VG) vs Royal Never Give Up (RNG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-db5b864c-a27d-41c6-885d-e3c54c529a25
@@ -335,7 +335,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs LGD Gaming (LGD)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : LGD G
  aming\nLooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3d5e20c6-edb9-4b5f-918a-aa74b958decf
@@ -350,7 +350,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Team World Elite (WE)\nType : BO2\
  nTournament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : 
  Royal Never Give Up\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a32793ae-53ae-4c68-a7ef-23cce537bd0a
@@ -365,7 +365,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Ed
  ward Gaming\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a990fc0c-d9f6-472f-ba1c-42d84a31ae16
@@ -380,7 +380,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs OMG (OMG)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : OMG\nLooser 
  : OMG\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b6667a18-6d49-46ef-be7f-f45fdfe21235
@@ -394,7 +394,7 @@ SUMMARY:LGD vs RNG
 DESCRIPTION:LGD Gaming (LGD) vs Royal Never Give Up (RNG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7ccb6234-3530-4c0c-a711-4a68e040d04c
@@ -408,7 +408,7 @@ SUMMARY:IG vs RNG
 DESCRIPTION:Invictus Gaming (IG) vs Royal Never Give Up (RNG)\nType : BO3\n
  Tournament : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-15ea840c-61a8-4d99-8616-597e0e8ceaab
@@ -422,7 +422,7 @@ SUMMARY:OMG vs RNG
 DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-aab93dfe-8108-41a2-ae26-30d0ded42ae1
@@ -437,7 +437,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Master3 (M3)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Master3\n
  Looser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-05d53331-7ae3-40d2-b9a1-f7e506775b1d
@@ -452,7 +452,7 @@ DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : OMG\nLooser 
  : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a8956e31-2c2b-4220-9d27-c18423c05496
@@ -467,7 +467,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Unlimited Potential (UP)\nType : B
  O2\nTournament : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner
   : Unlimited Potential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-64a76aa1-d433-4716-8102-d1a82c15d065
@@ -482,7 +482,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Invictus Gaming (IG)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : I
  nvictus Gaming\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b3487d4d-e073-4677-9a38-8d4a26c9af4a
@@ -497,7 +497,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Snake Esports (SS)\nType : BO2\nTo
  urnament : Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Sna
  ke Esports\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0b47cbc-4eaf-40e8-b013-26c576101df0
@@ -512,7 +512,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Royal Never Give Up (RNG)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : 
  Royal Never Give Up\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8dd602d8-48f2-491e-ad69-f65d2da5e7a4
@@ -526,7 +526,7 @@ SUMMARY:OMG vs RNG
 DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b24650bf-bef0-4a1c-810e-9da732c57cfe
@@ -540,7 +540,7 @@ SUMMARY:HYG vs RNG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs Royal Never Give Up (RNG)\nType : B
  O3\nTournament : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4afa7605-d473-40d2-9070-6b13748c8a70
@@ -554,6 +554,6 @@ SUMMARY:WE vs RNG
 DESCRIPTION:Team World Elite (WE) vs Royal Never Give Up (RNG)\nType : BO3\
  nTournament : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160316T120051Z
+DTSTAMP:20160317T120111Z
 END:VEVENT
 END:VCALENDAR

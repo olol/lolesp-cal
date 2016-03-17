@@ -15,7 +15,7 @@ SUMMARY:NAA vs IWC
 DESCRIPTION:NA LCS All-Stars (NAA) vs IWC All-Stars (IWC)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-588c1265-d531-448f-a6cc-b9bb12443252
@@ -29,7 +29,7 @@ SUMMARY:LCK vs IWC
 DESCRIPTION:LCK All-Stars (LCK) vs IWC All-Stars (IWC)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3b82f1c4-a9d2-4b96-b50d-ef0b0eb75756
@@ -43,7 +43,7 @@ SUMMARY:TFM vs TIM
 DESCRIPTION:Team Fire Marksmen (TFM) vs Team Ice Marksmen (TIM)\nType : BO1
  \nTournament : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f3a452b-b615-41d5-be2a-8e2ba5d04364
@@ -57,7 +57,7 @@ SUMMARY:LMS vs IWC
 DESCRIPTION:LMS All-Stars (LMS) vs IWC All-Stars (IWC)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c43bf921-896a-4040-9c9b-a683f19f5438
@@ -71,7 +71,7 @@ SUMMARY:LCK vs EUA
 DESCRIPTION:LCK All-Stars (LCK) vs EU LCS All-Stars (EUA)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dd255910-e8e1-4b6f-848a-0fb327b29c51
@@ -85,7 +85,7 @@ SUMMARY:TFT vs TIT
 DESCRIPTION:Team Fire Tandem (TFT) vs Team Ice Tandem (TIT)\nType : BO1\nTo
  urnament : Initial All-Star format\nWeek : ase-day-4\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c105f7e1-9068-432f-b508-439d61289da0
@@ -99,7 +99,7 @@ SUMMARY:LCK vs LPL
 DESCRIPTION:LCK All-Stars (LCK) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c641a74-9800-4e8b-a48f-926b65bf2d3e
@@ -113,7 +113,7 @@ SUMMARY:LCK vs LPL
 DESCRIPTION:LCK All-Stars (LCK) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-233f7699-1db4-4e30-bd19-baffb785a2f5
@@ -127,7 +127,7 @@ SUMMARY:TFO vs TIO
 DESCRIPTION:Team Fire One For All (TFO) vs Team Ice One For All (TIO)\nType
   : BO1\nTournament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6183d956-9086-4851-b624-f8348fbe25d0
@@ -141,7 +141,7 @@ SUMMARY:TFA vs TIA
 DESCRIPTION:Team Fire Assassins (TFA) vs Team Ice Assassins (TIA)\nType : B
  O1\nTournament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22a49bcd-9476-473c-9a70-6b966605443c
@@ -155,7 +155,7 @@ SUMMARY:LMS vs LPL
 DESCRIPTION:LMS All-Stars (LMS) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3a04949e-0131-4036-9b4d-27bbb749af81
@@ -169,35 +169,7 @@ SUMMARY:LMS vs EUA
 DESCRIPTION:LMS All-Stars (LMS) vs EU LCS All-Stars (EUA)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-20e18fcb-34c9-4918-a059-b1beced690ba
-DTSTART:20151214T004500Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151214T014500Z
-URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
- r_2015_main/ase-day-4
-SUMMARY:TFS vs TIS
-DESCRIPTION:Team Fire All-Stars (TFS) vs Team Ice All-Stars (TIS)\nType : B
- O1\nTournament : Initial All-Star format\nWeek : ase-day-4\n
-CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-16f269fa-53b8-494c-b8dd-2e0dda4d5f99
-DTSTART:20151211T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151211T020000Z
-URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
- r_2015_main/ase-day-1
-SUMMARY:NAA vs EUA
-DESCRIPTION:NA LCS All-Stars (NAA) vs EU LCS All-Stars (EUA)\nType : BO1\nT
- ournament : Initial All-Star format\nWeek : ase-day-1\n
-CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-859a2bc8-b70f-4427-aaa6-c3fc463c6e6e
@@ -211,7 +183,35 @@ SUMMARY:NAA vs LPL
 DESCRIPTION:NA LCS All-Stars (NAA) vs LPL All-Stars (LPL)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-20e18fcb-34c9-4918-a059-b1beced690ba
+DTSTART:20151214T004500Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151214T014500Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-4
+SUMMARY:TFS vs TIS
+DESCRIPTION:Team Fire All-Stars (TFS) vs Team Ice All-Stars (TIS)\nType : B
+ O1\nTournament : Initial All-Star format\nWeek : ase-day-4\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160317T120112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-16f269fa-53b8-494c-b8dd-2e0dda4d5f99
+DTSTART:20151211T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151211T020000Z
+URL:http://www.lolesports.com/en_US/all-star/all_star_2015/schedule/all_sta
+ r_2015_main/ase-day-1
+SUMMARY:NAA vs EUA
+DESCRIPTION:NA LCS All-Stars (NAA) vs EU LCS All-Stars (EUA)\nType : BO1\nT
+ ournament : Initial All-Star format\nWeek : ase-day-1\n
+CATEGORIES:Initial All-Star format
+DTSTAMP:20160317T120112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e69a7182-d3a3-4f78-a51f-5e2c53488eb8
@@ -225,6 +225,6 @@ SUMMARY:EUA vs LCK
 DESCRIPTION:EU LCS All-Stars (EUA) vs LCK All-Stars (LCK)\nType : BO3\nTour
  nament : Initial All-Star format\nWeek : ase-day-4\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160316T120052Z
+DTSTAMP:20160317T120112Z
 END:VEVENT
 END:VCALENDAR

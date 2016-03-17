@@ -15,7 +15,7 @@ SUMMARY:GV vs C9
 DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS S
  ummer regional playoffs\nWeek : quarterfinals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160316T120047Z
+DTSTAMP:20160317T120108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9ac829ec-d231-45ba-ba24-0adde0f6cc6f
@@ -29,6 +29,6 @@ SUMMARY:GV vs TSM
 DESCRIPTION:Gravity (GV) vs TSM (TSM)\nType : BO4\nTournament : Generated t
  ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160316T120047Z
+DTSTAMP:20160317T120108Z
 END:VEVENT
 END:VCALENDAR
