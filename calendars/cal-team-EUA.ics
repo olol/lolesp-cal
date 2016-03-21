@@ -15,7 +15,7 @@ SUMMARY:LCK vs EUA
 DESCRIPTION:LCK All-Stars (LCK) vs EU LCS All-Stars (EUA)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160318T120059Z
+DTSTAMP:20160321T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3a04949e-0131-4036-9b4d-27bbb749af81
@@ -29,7 +29,7 @@ SUMMARY:LMS vs EUA
 DESCRIPTION:LMS All-Stars (LMS) vs EU LCS All-Stars (EUA)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160318T120059Z
+DTSTAMP:20160321T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16f269fa-53b8-494c-b8dd-2e0dda4d5f99
@@ -43,7 +43,7 @@ SUMMARY:NAA vs EUA
 DESCRIPTION:NA LCS All-Stars (NAA) vs EU LCS All-Stars (EUA)\nType : BO1\nT
  ournament : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160318T120059Z
+DTSTAMP:20160321T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e69a7182-d3a3-4f78-a51f-5e2c53488eb8
@@ -57,6 +57,6 @@ SUMMARY:EUA vs LCK
 DESCRIPTION:EU LCS All-Stars (EUA) vs LCK All-Stars (LCK)\nType : BO3\nTour
  nament : Initial All-Star format\nWeek : ase-day-4\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160318T120059Z
+DTSTAMP:20160321T120103Z
 END:VEVENT
 END:VCALENDAR
