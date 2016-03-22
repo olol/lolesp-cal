@@ -15,7 +15,7 @@ SUMMARY:ALC vs ESP
 DESCRIPTION:Time Alocs (ALC) vs Time Espeon (ESP)\nType : BO3\nTournament :
   Generated tournament for the cblol allstar 2015\nWeek : rodada única\n
 CATEGORIES:Generated tournament for the cblol allstar 2015
-DTSTAMP:20160321T120104Z
+DTSTAMP:20160322T120058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d2a3e85-b746-4c4a-9783-421a862600f4
@@ -29,6 +29,6 @@ SUMMARY:ESP vs LOO
 DESCRIPTION:Time Espeon (ESP) vs Time Loop (LOO)\nType : BO1\nTournament : 
  Generated tournament for the cblol allstar 2015\nWeek : rodada única\n
 CATEGORIES:Generated tournament for the cblol allstar 2015
-DTSTAMP:20160321T120104Z
+DTSTAMP:20160322T120058Z
 END:VEVENT
 END:VCALENDAR
