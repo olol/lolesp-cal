@@ -16,7 +16,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs KaBuM Black (KBB)\nType : BO2\nTourname
  nt : Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : KaBuM e
  -Sports\nLooser : KaBuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2deadcc8-7769-4f4b-be76-41568089eba4
@@ -31,7 +31,7 @@ DESCRIPTION:g3nerationX (G3X) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
  nt : Migrated tournament for CBLOL 2015\nWeek : Semana 1\nWinner : g3nerat
  ionX\nLooser : KaBuM e-Sports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a98a468-ad53-4696-9c5e-1e3e95796322
@@ -45,7 +45,7 @@ SUMMARY:PNG vs KBM
 DESCRIPTION:paiN Gaming (PNG) vs KaBuM e-Sports (KBM)\nType : BO3\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Quartas de Final\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-74585f7f-d3a4-4560-8b82-abc916580069
@@ -60,7 +60,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
  urnament : Migrated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : K
  aBuM e-Sports\nLooser : KaBuM e-Sports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5c62d378-40cb-4043-84ea-47f2c1c36036
@@ -74,7 +74,7 @@ SUMMARY:VFK vs KBM
 DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO5\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semifinais\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6056f7eb-1eef-4383-b42e-3803029632c0
@@ -89,7 +89,7 @@ DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : KaBuM e-S
  ports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a3ab800d-9b4a-4d46-b732-3176275cd27c
@@ -104,7 +104,7 @@ DESCRIPTION:Operation Kino (OPK) vs KaBuM e-Sports (KBM)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : KaBuM
   e-Sports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a343488-f378-420c-8429-9937b30ddf74
@@ -119,7 +119,7 @@ DESCRIPTION:Keyd Stars (VFK) vs KaBuM e-Sports (KBM)\nType : BO2\nTournamen
  t : Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : Keyd Sta
  rs\nLooser : KaBuM e-Sports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1b93d846-6da1-4673-8d9e-edb781a3767c
@@ -134,7 +134,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs paiN Gaming (PNG)\nType : BO2\nTourname
  nt : Migrated tournament for CBLOL 2015\nWeek : Semana 3\nWinner : paiN Ga
  ming\nLooser : KaBuM e-Sports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
@@ -149,7 +149,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : INTZ\nLoose
  r : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54178354-af73-4936-b38a-24c9145cc3c2
@@ -164,7 +164,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM e-Sports (KBM)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner 
  : KaBuM e-Sports\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-24a835c0-77a6-454c-a397-646c6df71035
@@ -179,7 +179,7 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs Red Canids (RED)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Red Canid
  s\nLooser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54a0209a-190b-4040-8424-9a534580bd01
@@ -194,7 +194,7 @@ DESCRIPTION:paiN Gaming (PNG) vs KaBuM e-Sports (KBM)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : paiN Gam
  ing\nLooser : KaBuM e-Sports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4b46e197-2b55-4310-ae4d-516fb2c73648
@@ -209,7 +209,7 @@ DESCRIPTION:INTZ Red (RED) vs KaBuM e-Sports (KBM)\nType : BO2\nTournament
  : Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : KaBuM e-Sp
  orts\nLooser : KaBuM e-Sports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe923806-cfdc-4b23-afe3-6feca712c475
@@ -224,7 +224,7 @@ DESCRIPTION:INTZ (ITZ) vs KaBuM e-Sports (KBM)\nType : BO2\nTournament : Mi
  grated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : INTZ\nLooser :
   KaBuM e-Sports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b149765d-a396-43ea-98a3-80d25ceef81f
@@ -239,6 +239,6 @@ DESCRIPTION:KaBuM e-Sports (KBM) vs g3nerationX (G3X)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : KaBuM e-
  Sports\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160322T120058Z
+DTSTAMP:20160323T120103Z
 END:VEVENT
 END:VCALENDAR
