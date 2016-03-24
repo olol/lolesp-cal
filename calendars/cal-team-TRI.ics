@@ -16,7 +16,7 @@ DESCRIPTION:Trident Esports (TRI) vs Chiefs eSports Club (CHF)\nType : BO3\
  nTournament : OPL 2016 Spring Split\nWeek : 1\nWinner : Chiefs eSports Clu
  b\nLooser : Trident Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c3ff30af-71a4-4e28-aac9-e7160158e53d
@@ -31,7 +31,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Trident Esports (TRI)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 7\nWinner : Legacy eSports\nLooser 
  : Trident Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3b46bc47-a110-4e73-90c6-32ab228b13eb
@@ -46,7 +46,7 @@ DESCRIPTION:Dire Wolves (DW) vs Trident Esports (TRI)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 6\nWinner : Dire Wolves\nLooser : Tride
  nt Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c28eacf-c19e-41e6-9d24-52f48af7425c
@@ -61,7 +61,7 @@ DESCRIPTION:Avant Garde (AV) vs Trident Esports (TRI)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 7\nWinner : Avant Garde\nLooser : Tride
  nt Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f93c704c-b587-4663-bd0d-28c4c2bc8fdf
@@ -76,7 +76,7 @@ DESCRIPTION:Trident Esports (TRI) vs Sin Gaming (SIN)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 5\nWinner : Trident Esports\nLooser : S
  in Gaming\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b51f7a9b-c185-4472-a57a-562d4eb23c26
@@ -90,7 +90,7 @@ SUMMARY:CHF vs TRI
 DESCRIPTION:Chiefs eSports Club (CHF) vs Trident Esports (TRI)\nType : BO3\
  nTournament : OPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7fdad47f-320a-4859-aeee-736b9464d257
@@ -105,7 +105,7 @@ DESCRIPTION:Infernum (INF) vs Trident Esports (TRI)\nType : BO3\nTournament
   : OPL 2016 Spring Split\nWeek : 10\nWinner : Trident Esports\nLooser : In
  fernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6bf8222-f0c5-42af-a057-8a8623722692
@@ -120,7 +120,7 @@ DESCRIPTION:Trident Esports (TRI) vs Dire Wolves (DW)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 9\nWinner : Trident Esports\nLooser : D
  ire Wolves\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b0b6f63e-b90b-4c4c-a8a9-170c3f62a1e8
@@ -135,7 +135,7 @@ DESCRIPTION:Trident Esports (TRI) vs Sin Gaming (SIN)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 2\nWinner : Sin Gaming\nLooser : Triden
  t Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6b0078a3-dbd7-4617-b4bb-863c2e21f2a4
@@ -150,6 +150,6 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Trident Esports (TRI)\nType : B
  O3\nTournament : OPL 2016 Spring Split\nWeek : 4\nWinner : Hellions e-Spor
  ts Club\nLooser : Trident Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160323T120103Z
+DTSTAMP:20160324T120109Z
 END:VEVENT
 END:VCALENDAR

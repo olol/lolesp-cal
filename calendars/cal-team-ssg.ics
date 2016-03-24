@@ -16,7 +16,7 @@ DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : KT Rolster\
  nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5ab0328a-4b6f-4b10-a515-454ea0197e40
@@ -31,7 +31,7 @@ DESCRIPTION:SBENU SONICBOOM (SSB) vs Samsung Galaxy (SSG)\nType : BO3\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : Samsu
  ng Galaxy\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0b2c5a7-ed24-4008-b942-e415a25e551c
@@ -46,7 +46,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs Samsung Galaxy (SSG)\nType : BO3\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Samsun
  g Galaxy\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cfe7702b-7236-47d3-b98d-794ac778002a
@@ -60,7 +60,7 @@ SUMMARY:SSG vs KT
 DESCRIPTION:Samsung Galaxy (SSG) vs KT Rolster (KT)\nType : BO3\nTournament
   : LCK 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-44fc2005-b2b7-4b33-b2ca-d67257d83998
@@ -74,7 +74,7 @@ SUMMARY:LZ vs SSG
 DESCRIPTION:Longzhu Gaming (LZ) vs Samsung Galaxy (SSG)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 12\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
@@ -89,7 +89,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : ROX Tigers
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
@@ -104,7 +104,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dadf2208-a362-40b6-9342-a0cde4a2ae89
@@ -119,7 +119,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Samsung Galaxy (SSG)\nType : BO2\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : Kong
  doo Monster\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26c0b6c5-98f9-48bf-8771-719b01977bac
@@ -134,7 +134,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : SKTelec
  om T1\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ed0a4c5c-7188-4985-814e-8e0e9821d83d
@@ -148,7 +148,7 @@ SUMMARY:SSG vs ROX
 DESCRIPTION:Samsung Galaxy (SSG) vs ROX Tigers (ROX)\nType : BO3\nTournamen
  t : LCK 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bbfe7c30-57c0-40b0-b797-c2ab26f8cb11
@@ -162,7 +162,7 @@ SUMMARY:SSG vs AFS
 DESCRIPTION:Samsung Galaxy (SSG) vs Afreeca Freecs (AFS)\nType : BO3\nTourn
  ament : LCK 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-638c29bc-45e1-4342-a45d-810caecd8bc1
@@ -176,7 +176,7 @@ SUMMARY:ROX vs SSG
 DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
  t : LCK 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee8bbac0-15de-4653-84ab-235064dd861f
@@ -190,7 +190,7 @@ SUMMARY:SKT vs SSG
 DESCRIPTION:SKTelecom T1 (SKT) vs Samsung Galaxy (SSG)\nType : BO3\nTournam
  ent : LCK 2016 Spring Split\nWeek : 12\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e606407d-7a38-4c5d-bfc6-8b24361421f8
@@ -204,7 +204,7 @@ SUMMARY:SSG vs CJ
 DESCRIPTION:Samsung Galaxy (SSG) vs CJ ENTUS (CJ)\nType : BO3\nTournament :
   LCK 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-62c5333b-3215-4908-8fcb-39a3d412f207
@@ -218,7 +218,7 @@ SUMMARY:SSG vs SKT
 DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : LCK 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-72f6d0ea-bc47-42b9-b316-1a21eee6a4a8
@@ -232,7 +232,7 @@ SUMMARY:AFS vs SSG
 DESCRIPTION:Afreeca Freecs (AFS) vs Samsung Galaxy (SSG)\nType : BO3\nTourn
  ament : LCK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ed7a6b43-5d36-4b12-bd06-f7a220646989
@@ -246,7 +246,7 @@ SUMMARY:SSG vs LZ
 DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Gaming (LZ)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8ace55c-3c5b-42b0-8603-cbda77d15849
@@ -261,7 +261,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Longzhu Gaming (LZ)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Samsung
   Galaxy\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04f2d435-bffa-4212-930e-bc7c48f7e0ef
@@ -276,7 +276,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : CJ ENTUS\nLoo
  ser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-086741cc-3c97-44a5-b0d0-a9f4d8ac8859
@@ -290,7 +290,7 @@ SUMMARY:KT vs SSG
 DESCRIPTION:KT Rolster (KT) vs Samsung Galaxy (SSG)\nType : BO3\nTournament
   : LCK 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-408193b6-9364-4805-8e75-da9cab81b146
@@ -304,7 +304,7 @@ SUMMARY:SSB vs SSG
 DESCRIPTION:SBENU SONICBOOM (SSB) vs Samsung Galaxy (SSG)\nType : BO3\nTour
  nament : LCK 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ef52602-14c5-419b-97f8-41e0a3e56b8b
@@ -318,7 +318,7 @@ SUMMARY:SSG vs JAG
 DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
  Tournament : LCK 2016 Spring Split\nWeek : 11\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6dbce373-a8f9-4816-a75a-8b494a9af501
@@ -332,7 +332,7 @@ SUMMARY:KDM vs SSG
 DESCRIPTION:Kongdoo Monster (KDM) vs Samsung Galaxy (SSG)\nType : BO3\nTour
  nament : LCK 2016 Spring Split\nWeek : 13\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26c0b6c5-98f9-48bf-8771-719b01977bac
@@ -347,7 +347,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTeleco
  m T1\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e217181-1038-4a30-a847-397f8ec88293
@@ -361,7 +361,7 @@ SUMMARY:SSG vs KDM
 DESCRIPTION:Samsung Galaxy (SSG) vs Kongdoo Monster (KDM)\nType : BO3\nTour
  nament : LCK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e17d2ba-4494-4a07-96c0-ed89908f4ca6
@@ -375,7 +375,7 @@ SUMMARY:CJ vs SSG
 DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO3\nTournament :
   LCK 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0be830cd-5583-4cb1-912b-bd635b7e2f0d
@@ -389,7 +389,7 @@ SUMMARY:JAG vs SSG
 DESCRIPTION:Jin Air Green Wings (JAG) vs Samsung Galaxy (SSG)\nType : BO3\n
  Tournament : LCK 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ce3e47e3-14ce-4961-858f-ed1fbf59bc32
@@ -404,7 +404,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
  Tournament : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : J
  in Air Green Wings\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dadf2208-a362-40b6-9342-a0cde4a2ae89
@@ -419,7 +419,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Samsung Galaxy (SSG)\nType : BO2\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : Kongd
  oo Monster\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ce3e47e3-14ce-4961-858f-ed1fbf59bc32
@@ -434,7 +434,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs Jin Air Green Wings (JAG)\nType : BO3\n
  Tournament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : 
  Jin Air Green Wings\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-acbb94a2-2473-4bd7-91e1-f12d2b4200e5
@@ -449,7 +449,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs KT Rolster (KT)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : KT Rolster
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95b19f91-988c-47c0-b841-947591b218ea
@@ -464,7 +464,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs Samsung Galaxy (SSG)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : Samsung
   Galaxy\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0b2c5a7-ed24-4008-b942-e415a25e551c
@@ -479,7 +479,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs Samsung Galaxy (SSG)\nType : BO3\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : Samsun
  g Galaxy\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fa9f5506-61ee-4f6d-9ec1-2dd5dd64455b
@@ -493,7 +493,7 @@ SUMMARY:SSG vs CJ
 DESCRIPTION:Samsung Galaxy (SSG) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 13\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-752e70d3-f46e-4982-931e-0f0da6b5d717
@@ -507,6 +507,6 @@ SUMMARY:SSG vs SSB
 DESCRIPTION:Samsung Galaxy (SSG) vs SBENU SONICBOOM (SSB)\nType : BO3\nTour
  nament : LCK 2016 Spring Split\nWeek : 11\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160323T120059Z
+DTSTAMP:20160324T120106Z
 END:VEVENT
 END:VCALENDAR
