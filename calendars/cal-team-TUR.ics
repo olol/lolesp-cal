@@ -4,6 +4,20 @@ PRODID:www.lolesports.com|cal-team-TUR
 X-WR-CALNAME:LoL eSports TUR
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-8feafcba-3a5d-4ce2-9950-b29e631bd89a
+DTSTART:20151127T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151127T050000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%202
+SUMMARY:LAT vs TUR
+DESCRIPTION:All-Stars Latam (LAT) vs All-Stars TUR (TUR)\nType : BO1\nTourn
+ ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160327T130057Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-14e3797e-96f9-40a3-9cd7-bac524564859
 DTSTART:20151128T050000Z
 SEQUENCE:0
@@ -15,7 +29,7 @@ SUMMARY:BRA vs TUR
 DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars TUR (TUR)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-08f71b4f-30c8-4797-b0a4-7e0240f49bad
@@ -29,20 +43,6 @@ SUMMARY:TUR vs CIS
 DESCRIPTION:All-Stars TUR (TUR) vs All-Stars CIS (CIS)\nType : BO5\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Final\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8feafcba-3a5d-4ce2-9950-b29e631bd89a
-DTSTART:20151127T040000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151127T050000Z
-URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
- _playoffs/Dia%202
-SUMMARY:LAT vs TUR
-DESCRIPTION:All-Stars Latam (LAT) vs All-Stars TUR (TUR)\nType : BO1\nTourn
- ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
-CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130057Z
 END:VEVENT
 END:VCALENDAR

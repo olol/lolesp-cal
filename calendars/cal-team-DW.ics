@@ -15,7 +15,7 @@ SUMMARY:DW vs INF
 DESCRIPTION:Dire Wolves (DW) vs Infernum (INF)\nType : BO3\nTournament : OP
  L 2016 Spring Split\nWeek : 1\nWinner : Dire Wolves\nLooser : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1f1bda3b-6db7-48ec-bca3-0d024e74cb06
@@ -30,67 +30,7 @@ DESCRIPTION:Dire Wolves (DW) vs Avant Garde (AV)\nType : BO3\nTournament :
  OPL 2016 Spring Split\nWeek : 8\nWinner : Avant Garde\nLooser : Dire Wolve
  s\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-46d9e87f-3fd8-4fc7-b289-d5e722b2e33d
-DTSTART:20160301T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160301T110000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/7
-SUMMARY:DW vs SIN
-DESCRIPTION:Dire Wolves (DW) vs Sin Gaming (SIN)\nType : BO3\nTournament : 
- OPL 2016 Spring Split\nWeek : 7\nWinner : Sin Gaming\nLooser : Dire Wolves
- \n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3b46bc47-a110-4e73-90c6-32ab228b13eb
-DTSTART:20160224T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160224T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/6
-SUMMARY:DW vs TRI
-DESCRIPTION:Dire Wolves (DW) vs Trident Esports (TRI)\nType : BO3\nTourname
- nt : OPL 2016 Spring Split\nWeek : 6\nWinner : Dire Wolves\nLooser : Tride
- nt Esports\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5999c1e0-b2b6-42da-9558-60278b4980be
-DTSTART:20160322T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160322T110000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/10
-SUMMARY:DW vs HLN
-DESCRIPTION:Dire Wolves (DW) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
- ournament : OPL 2016 Spring Split\nWeek : 10\nWinner : Dire Wolves\nLooser
-  : Hellions e-Sports Club\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7259fe3e-ca6b-4201-9713-76fe697d6c2c
-DTSTART:20160216T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160216T110000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/5
-SUMMARY:DW vs LGC
-DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
- t : OPL 2016 Spring Split\nWeek : 5\nWinner : Legacy eSports\nLooser : Dir
- e Wolves\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f55b3a53-f9ce-48f3-8c7c-ef26b7517073
@@ -105,7 +45,67 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Dire Wolves (DW)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 2\nWinner : Dire Wolves\nLooser : C
  hiefs eSports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-46d9e87f-3fd8-4fc7-b289-d5e722b2e33d
+DTSTART:20160301T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160301T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/7
+SUMMARY:DW vs SIN
+DESCRIPTION:Dire Wolves (DW) vs Sin Gaming (SIN)\nType : BO3\nTournament : 
+ OPL 2016 Spring Split\nWeek : 7\nWinner : Sin Gaming\nLooser : Dire Wolves
+ \n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3b46bc47-a110-4e73-90c6-32ab228b13eb
+DTSTART:20160224T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160224T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/6
+SUMMARY:DW vs TRI
+DESCRIPTION:Dire Wolves (DW) vs Trident Esports (TRI)\nType : BO3\nTourname
+ nt : OPL 2016 Spring Split\nWeek : 6\nWinner : Dire Wolves\nLooser : Tride
+ nt Esports\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5999c1e0-b2b6-42da-9558-60278b4980be
+DTSTART:20160322T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160322T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/10
+SUMMARY:DW vs HLN
+DESCRIPTION:Dire Wolves (DW) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
+ ournament : OPL 2016 Spring Split\nWeek : 10\nWinner : Dire Wolves\nLooser
+  : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7259fe3e-ca6b-4201-9713-76fe697d6c2c
+DTSTART:20160216T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160216T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/5
+SUMMARY:DW vs LGC
+DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
+ t : OPL 2016 Spring Split\nWeek : 5\nWinner : Legacy eSports\nLooser : Dir
+ e Wolves\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8599f7b-db8b-4036-8f0e-1f0b547b9f3e
@@ -120,7 +120,7 @@ DESCRIPTION:Sin Gaming (SIN) vs Dire Wolves (DW)\nType : BO3\nTournament :
  OPL 2016 Spring Split\nWeek : 4\nWinner : Dire Wolves\nLooser : Sin Gaming
  \n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6bf8222-f0c5-42af-a057-8a8623722692
@@ -135,7 +135,7 @@ DESCRIPTION:Trident Esports (TRI) vs Dire Wolves (DW)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 9\nWinner : Trident Esports\nLooser : D
  ire Wolves\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fd904356-885e-4cf8-b212-928e1532b678
@@ -150,6 +150,6 @@ DESCRIPTION:Dire Wolves (DW) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 7\nWinner : Dire Wolves\nLooser : C
  hiefs eSports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 END:VCALENDAR

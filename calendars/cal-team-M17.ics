@@ -16,7 +16,7 @@ DESCRIPTION:Machi (M17) vs Assassin Sniper (AS)\nType : BO2\nTournament : M
  igrated tournament for lms_2015_summer\nWeek : 2\nWinner : Machi\nLooser :
   Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-332eba6f-5be1-4f07-9e56-46609cae51db
@@ -31,7 +31,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (M17)\nType : BO2\nTournam
  ent : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Midnight
   Sun e-Sports\nLooser : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-92090663-0ca9-4d12-b0ac-1c60e2d83574
@@ -46,7 +46,7 @@ DESCRIPTION:Flash Wolves (FW) vs Machi (M17)\nType : BO2\nTournament : Migr
  ated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash Wolves\nLoos
  er : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ceadb243-a89b-417f-b048-df803e781ebf
@@ -61,7 +61,7 @@ DESCRIPTION:Machi (M17) vs Logitech G Sniper (LGS)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Logitech G S
  niper\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5ed1175-8db0-4d2b-9bec-18de27212307
@@ -76,7 +76,7 @@ DESCRIPTION:Machi (M17) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
   Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Taipei Assass
  ins\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5b342457-4f99-469f-8b0c-480efdfbd638
@@ -91,21 +91,7 @@ DESCRIPTION:Machi (M17) vs Hong Kong Esports (HKE)\nType : BO2\nTournament
  : LMS 2016 Spring Split\nWeek : 3\nWinner : Hong Kong Esports\nLooser : Ho
  ng Kong Esports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-40b9d290-e8fd-44f8-95ac-96bb37065120
-DTSTART:20160327T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T080000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/9
-SUMMARY:M17 vs TPA
-DESCRIPTION:Machi (M17) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
-  LMS 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-47e47914-9255-4fb7-acf1-89301967edad
@@ -119,7 +105,7 @@ SUMMARY:M17 vs FW
 DESCRIPTION:Machi (M17) vs Flash Wolves (FW)\nType : BO2\nTournament : LMS 
  2016 Spring Split\nWeek : 8\nWinner : Flash Wolves\nLooser : Machi\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-446c2d85-6d60-48a4-8459-4c8b112ca0a7
@@ -133,66 +119,21 @@ SUMMARY:CGE vs M17
 DESCRIPTION:Cougar eSports (CGE) vs Machi (M17)\nType : BO2\nTournament : L
  MS 2016 Spring Split\nWeek : 4\nWinner : Machi\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-f51fd3d3-afbe-41b6-b3af-76247417aedf
-DTSTART:20150521T123000Z
+UID:match-40b9d290-e8fd-44f8-95ac-96bb37065120
+DTSTART:20160327T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150521T133000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/1
-SUMMARY:M17 vs AHQ
-DESCRIPTION:Machi (M17) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament 
- : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : ahq e-Sports
-  Club\nLooser : Machi\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d31c8c00-7228-401f-87ad-ae3ab02f9395
-DTSTART:20160218T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T140000Z
+DTEND:20160327T060000Z
 URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/5
-SUMMARY:FW vs M17
-DESCRIPTION:Flash Wolves (FW) vs Machi (M17)\nType : BO2\nTournament : LMS 
- 2016 Spring Split\nWeek : 5\nWinner : Flash Wolves\nLooser : Machi\n
+ ason/9
+SUMMARY:M17 vs TPA
+DESCRIPTION:Machi (M17) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
+  LMS 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-49f51e72-33ce-46af-834c-fad039f3bc7f
-DTSTART:20160127T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160127T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/3
-SUMMARY:XG vs M17
-DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Machi (M17)\nType : BO2\nTo
- urnament : LMS 2016 Spring Split\nWeek : 3\nWinner : Machi\nLooser : eXtre
- me Gamers eSports Club\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7d61fe0a-9825-4aa6-945a-3173a2d4ca0b
-DTSTART:20150624T123000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150624T133000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/6
-SUMMARY:AHQ vs M17
-DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (M17)\nType : BO2\nTournament 
- : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Machi\nLoose
- r : Machi\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0857bb77-9782-473c-a4a2-8d843fa2e354
@@ -207,22 +148,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Machi (M17)\nType : BO2\nTournament :
   Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : Machi\nLooser
   : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ed2e053d-4900-4c33-a7a6-248a0eb8a653
-DTSTART:20150626T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/6
-SUMMARY:AS vs M17
-DESCRIPTION:Assassin Sniper (AS) vs Machi (M17)\nType : BO2\nTournament : M
- igrated tournament for lms_2015_summer\nWeek : 6\nWinner : Machi\nLooser :
-  Assassin Sniper\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9e3ca693-eb8f-48ea-afc9-80cc25a3584a
@@ -237,21 +163,37 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Machi (M17)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Machi\nLoose
  r : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1032f84d-754f-4a0b-966e-9c58cdb2c0a5
-DTSTART:20160310T110000Z
+UID:match-7d61fe0a-9825-4aa6-945a-3173a2d4ca0b
+DTSTART:20150624T123000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160310T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/7
-SUMMARY:MSE vs M17
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (M17)\nType : BO2\nTournam
- ent : LMS 2016 Spring Split\nWeek : 7\nWinner : Machi\nLooser : Machi\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTEND:20150624T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/6
+SUMMARY:AHQ vs M17
+DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (M17)\nType : BO2\nTournament 
+ : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Machi\nLoose
+ r : Machi\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160327T130056Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ed2e053d-4900-4c33-a7a6-248a0eb8a653
+DTSTART:20150626T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/6
+SUMMARY:AS vs M17
+DESCRIPTION:Assassin Sniper (AS) vs Machi (M17)\nType : BO2\nTournament : M
+ igrated tournament for lms_2015_summer\nWeek : 6\nWinner : Machi\nLooser :
+  Assassin Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2777dc4c-5f4c-4aaa-b37d-9eb8cd4c50e5
@@ -266,7 +208,65 @@ DESCRIPTION:Machi (M17) vs Midnight Sun e-Sports (MSE)\nType : BO2\nTournam
  ent : LMS 2016 Spring Split\nWeek : 2\nWinner : Machi\nLooser : Midnight S
  un e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1032f84d-754f-4a0b-966e-9c58cdb2c0a5
+DTSTART:20160310T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/7
+SUMMARY:MSE vs M17
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (M17)\nType : BO2\nTournam
+ ent : LMS 2016 Spring Split\nWeek : 7\nWinner : Machi\nLooser : Machi\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160327T130056Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f51fd3d3-afbe-41b6-b3af-76247417aedf
+DTSTART:20150521T123000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150521T133000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/1
+SUMMARY:M17 vs AHQ
+DESCRIPTION:Machi (M17) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament 
+ : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : ahq e-Sports
+  Club\nLooser : Machi\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160327T130056Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d31c8c00-7228-401f-87ad-ae3ab02f9395
+DTSTART:20160218T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/5
+SUMMARY:FW vs M17
+DESCRIPTION:Flash Wolves (FW) vs Machi (M17)\nType : BO2\nTournament : LMS 
+ 2016 Spring Split\nWeek : 5\nWinner : Flash Wolves\nLooser : Machi\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160327T130056Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-49f51e72-33ce-46af-834c-fad039f3bc7f
+DTSTART:20160127T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160127T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/3
+SUMMARY:XG vs M17
+DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Machi (M17)\nType : BO2\nTo
+ urnament : LMS 2016 Spring Split\nWeek : 3\nWinner : Machi\nLooser : eXtre
+ me Gamers eSports Club\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-449092ad-32a4-4016-8483-75b600ccd9d2
@@ -281,7 +281,7 @@ DESCRIPTION:Machi (M17) vs Hong Kong Esports (HKE)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : Hong Kong Es
  ports\nLooser : Hong Kong Esports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8d6d6d37-f0b1-43b2-af00-cedd2fc3ac33
@@ -296,7 +296,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Machi (M17)\nType : BO2\nTournament
  : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Hong Kong Es
  ports\nLooser : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-15ea1d5d-2997-4538-bbef-91087ecabc2d
@@ -310,7 +310,7 @@ SUMMARY:HKE vs M17
 DESCRIPTION:Hong Kong Esports (HKE) vs Machi (M17)\nType : BO2\nTournament 
  : LMS 2016 Spring Split\nWeek : 7\nWinner : Machi\nLooser : Machi\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe9f8263-f8b8-48a0-94b8-652627ad2ef7
@@ -325,7 +325,7 @@ DESCRIPTION:Machi (M17) vs eXtreme Gamers eSports Club (XG)\nType : BO2\nTo
  urnament : LMS 2016 Spring Split\nWeek : 6\nWinner : Machi\nLooser : eXtre
  me Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0c5e770-a8e0-4ebb-b1d8-6a944f02374f
@@ -337,24 +337,9 @@ URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
  ason/9
 SUMMARY:AHQ vs M17
 DESCRIPTION:ahq e-Sports Club (AHQ) vs Machi (M17)\nType : BO2\nTournament 
- : LMS 2016 Spring Split\nWeek : 9\n
+ : LMS 2016 Spring Split\nWeek : 9\nWinner : Machi\nLooser : Machi\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ae808b15-3cb3-4793-9c95-9064092f78ef
-DTSTART:20150712T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150712T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/8
-SUMMARY:M17 vs FW
-DESCRIPTION:Machi (M17) vs Flash Wolves (FW)\nType : BO2\nTournament : Migr
- ated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wolves\nLoos
- er : Machi\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-050e9730-587e-427f-bf52-670c00dd7743
@@ -369,7 +354,22 @@ DESCRIPTION:Machi (M17) vs Midnight Sun e-Sports (MSE)\nType : BO2\nTournam
  ent : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Midnight
   Sun e-Sports\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ae808b15-3cb3-4793-9c95-9064092f78ef
+DTSTART:20150712T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150712T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/8
+SUMMARY:M17 vs FW
+DESCRIPTION:Machi (M17) vs Flash Wolves (FW)\nType : BO2\nTournament : Migr
+ ated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wolves\nLoos
+ er : Machi\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d50dd486-fdba-4630-9875-58e90e42da71
@@ -383,7 +383,7 @@ SUMMARY:M17 vs CGE
 DESCRIPTION:Machi (M17) vs Cougar eSports (CGE)\nType : BO2\nTournament : L
  MS 2016 Spring Split\nWeek : 8\nWinner : Machi\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f097e20f-4d48-4c04-8138-01201c85bcc6
@@ -398,7 +398,7 @@ DESCRIPTION:Machi (M17) vs ahq e-Sports Club (AHQ)\nType : BO2\nTournament
  : LMS 2016 Spring Split\nWeek : 1\nWinner : ahq e-Sports Club\nLooser : Ma
  chi\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4667b5ec-7828-4d85-8cf3-3e16115900c4
@@ -413,6 +413,6 @@ DESCRIPTION:Taipei Assassins (TPA) vs Machi (M17)\nType : BO2\nTournament :
   LMS 2016 Spring Split\nWeek : 1\nWinner : Taipei Assassins\nLooser : Mach
  i\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160324T120108Z
+DTSTAMP:20160327T130056Z
 END:VEVENT
 END:VCALENDAR

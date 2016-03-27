@@ -4,6 +4,20 @@ PRODID:www.lolesports.com|cal-tournament-iwc-allstar-2015
 X-WR-CALNAME:LoL eSports Iwc allstar 2015
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-b914ef58-8730-4d36-91fe-cb41c5da104a
+DTSTART:20151127T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151127T040000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%202
+SUMMARY:BRA vs OPL
+DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars OPL (OPL)\nType : BO1\nTourn
+ ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-90c701ea-5a03-4000-967a-0422e92b8c22
 DTSTART:20151126T020000Z
 SEQUENCE:0
@@ -15,7 +29,7 @@ SUMMARY:SEA vs OPL
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars OPL (OPL)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e3004600-ab31-4ba5-bc29-8304f22e8516
@@ -29,63 +43,7 @@ SUMMARY:JAP vs CIS
 DESCRIPTION:All-Stars LJL (JAP) vs All-Stars CIS (CIS)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b914ef58-8730-4d36-91fe-cb41c5da104a
-DTSTART:20151127T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151127T040000Z
-URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
- _playoffs/Dia%202
-SUMMARY:BRA vs OPL
-DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars OPL (OPL)\nType : BO1\nTourn
- ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
-CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0e7145e0-7ae7-4b3a-8788-d138f4ffd7f7
-DTSTART:20151126T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151126T040000Z
-URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
- _playoffs/Dia%201
-SUMMARY:BRA vs JAP
-DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars LJL (JAP)\nType : BO1\nTourn
- ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1\n
-CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-14e3797e-96f9-40a3-9cd7-bac524564859
-DTSTART:20151128T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151128T060000Z
-URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
- _playoffs/Dia%203
-SUMMARY:BRA vs TUR
-DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars TUR (TUR)\nType : BO1\nTourn
- ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
-CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-08f71b4f-30c8-4797-b0a4-7e0240f49bad
-DTSTART:20151129T040000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151129T050000Z
-URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
- _playoffs/Final
-SUMMARY:TUR vs CIS
-DESCRIPTION:All-Stars TUR (TUR) vs All-Stars CIS (CIS)\nType : BO5\nTournam
- ent : Generated tournament for the IWC AllStar Australia\nWeek : Final\n
-CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4a64b4f7-4090-4995-ad92-5351b91ff0dd
@@ -100,7 +58,7 @@ DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars Latam (LAT)\nType : BO1\nTou
  rnament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1
  \n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8feafcba-3a5d-4ce2-9950-b29e631bd89a
@@ -114,7 +72,49 @@ SUMMARY:LAT vs TUR
 DESCRIPTION:All-Stars Latam (LAT) vs All-Stars TUR (TUR)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0e7145e0-7ae7-4b3a-8788-d138f4ffd7f7
+DTSTART:20151126T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151126T040000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%201
+SUMMARY:BRA vs JAP
+DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars LJL (JAP)\nType : BO1\nTourn
+ ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-14e3797e-96f9-40a3-9cd7-bac524564859
+DTSTART:20151128T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151128T060000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Dia%203
+SUMMARY:BRA vs TUR
+DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars TUR (TUR)\nType : BO1\nTourn
+ ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160327T130058Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-08f71b4f-30c8-4797-b0a4-7e0240f49bad
+DTSTART:20151129T040000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151129T050000Z
+URL:http://www.lolesports.com/en_US/iwc/iwc_allstar_2015/schedule/iwca_2015
+ _playoffs/Final
+SUMMARY:TUR vs CIS
+DESCRIPTION:All-Stars TUR (TUR) vs All-Stars CIS (CIS)\nType : BO5\nTournam
+ ent : Generated tournament for the IWC AllStar Australia\nWeek : Final\n
+CATEGORIES:Generated tournament for the IWC AllStar Australia
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-817a1a7d-fba8-4c05-921c-1225976c0861
@@ -128,7 +128,7 @@ SUMMARY:CIS vs BRA
 DESCRIPTION:All-Stars CIS (CIS) vs All-Stars CBLoL (BRA)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26984e3c-69f6-45d6-b8c5-7df73c77d603
@@ -142,7 +142,7 @@ SUMMARY:CIS vs OPL
 DESCRIPTION:All-Stars CIS (CIS) vs All-Stars OPL (OPL)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-621ce4e6-acb0-49de-9f92-027c36db59bc
@@ -156,7 +156,7 @@ SUMMARY:SEA vs BRA
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars CBLoL (BRA)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a4ea29c8-d339-465f-a957-b9176a867ca0
@@ -170,6 +170,6 @@ SUMMARY:SEA vs LAT
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars Latam (LAT)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160324T120109Z
+DTSTAMP:20160327T130058Z
 END:VEVENT
 END:VCALENDAR
