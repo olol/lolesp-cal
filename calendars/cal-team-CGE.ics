@@ -15,97 +15,7 @@ SUMMARY:CGE vs M17
 DESCRIPTION:Cougar eSports (CGE) vs Machi (M17)\nType : BO2\nTournament : L
  MS 2016 Spring Split\nWeek : 4\nWinner : Machi\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0e9ffd3d-c919-468f-9bbc-06869375223b
-DTSTART:20160317T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160317T140000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/8
-SUMMARY:HKE vs CGE
-DESCRIPTION:Hong Kong Esports (HKE) vs Cougar eSports (CGE)\nType : BO2\nTo
- urnament : LMS 2016 Spring Split\nWeek : 8\nWinner : Hong Kong Esports\nLo
- oser : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e2be4c86-1a2c-49ae-8b27-8e76273908bb
-DTSTART:20160326T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160326T140000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/9
-SUMMARY:MSE vs CGE
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Cougar eSports (CGE)\nType : BO2
- \nTournament : LMS 2016 Spring Split\nWeek : 9\nWinner : Midnight Sun e-Sp
- orts\nLooser : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a45f5e51-9fe3-48fd-9b7e-5f3bd6577f91
-DTSTART:20160219T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160219T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/5
-SUMMARY:CGE vs MSE
-DESCRIPTION:Cougar eSports (CGE) vs Midnight Sun e-Sports (MSE)\nType : BO2
- \nTournament : LMS 2016 Spring Split\nWeek : 5\nWinner : Midnight Sun e-Sp
- orts\nLooser : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-adb3036b-e99e-4856-8f27-0cc31204d463
-DTSTART:20160123T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/2
-SUMMARY:TPA vs CGE
-DESCRIPTION:Taipei Assassins (TPA) vs Cougar eSports (CGE)\nType : BO2\nTou
- rnament : LMS 2016 Spring Split\nWeek : 2\nWinner : Taipei Assassins\nLoos
- er : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-943d7056-ce5d-43cc-b9ae-f31d0bea8c5e
-DTSTART:20160122T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160122T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/2
-SUMMARY:CGE vs XG
-DESCRIPTION:Cougar eSports (CGE) vs eXtreme Gamers eSports Club (XG)\nType 
- : BO2\nTournament : LMS 2016 Spring Split\nWeek : 2\nWinner : eXtreme Game
- rs eSports Club\nLooser : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-707fbeb0-1673-4503-ac36-1dfe749e40eb
-DTSTART:20160129T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160129T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/3
-SUMMARY:CGE vs AHQ
-DESCRIPTION:Cougar eSports (CGE) vs ahq e-Sports Club (AHQ)\nType : BO2\nTo
- urnament : LMS 2016 Spring Split\nWeek : 3\nWinner : ahq e-Sports Club\nLo
- oser : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f334021-30b6-485f-b993-d56ed9a13ddc
@@ -120,7 +30,7 @@ DESCRIPTION:Flash Wolves (FW) vs Cougar eSports (CGE)\nType : BO2\nTourname
  nt : LMS 2016 Spring Split\nWeek : 3\nWinner : Flash Wolves\nLooser : Coug
  ar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-411b62d3-65eb-41c9-856e-abe2e5c3e6a3
@@ -135,7 +45,97 @@ DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Cougar eSports (CGE)\nType
  : BO2\nTournament : LMS 2016 Spring Split\nWeek : 9\nWinner : Cougar eSpor
  ts\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-adb3036b-e99e-4856-8f27-0cc31204d463
+DTSTART:20160123T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/2
+SUMMARY:TPA vs CGE
+DESCRIPTION:Taipei Assassins (TPA) vs Cougar eSports (CGE)\nType : BO2\nTou
+ rnament : LMS 2016 Spring Split\nWeek : 2\nWinner : Taipei Assassins\nLoos
+ er : Cougar eSports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160328T130107Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-943d7056-ce5d-43cc-b9ae-f31d0bea8c5e
+DTSTART:20160122T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/2
+SUMMARY:CGE vs XG
+DESCRIPTION:Cougar eSports (CGE) vs eXtreme Gamers eSports Club (XG)\nType 
+ : BO2\nTournament : LMS 2016 Spring Split\nWeek : 2\nWinner : eXtreme Game
+ rs eSports Club\nLooser : Cougar eSports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160328T130107Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-707fbeb0-1673-4503-ac36-1dfe749e40eb
+DTSTART:20160129T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160129T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/3
+SUMMARY:CGE vs AHQ
+DESCRIPTION:Cougar eSports (CGE) vs ahq e-Sports Club (AHQ)\nType : BO2\nTo
+ urnament : LMS 2016 Spring Split\nWeek : 3\nWinner : ahq e-Sports Club\nLo
+ oser : Cougar eSports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160328T130107Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0e9ffd3d-c919-468f-9bbc-06869375223b
+DTSTART:20160317T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/8
+SUMMARY:HKE vs CGE
+DESCRIPTION:Hong Kong Esports (HKE) vs Cougar eSports (CGE)\nType : BO2\nTo
+ urnament : LMS 2016 Spring Split\nWeek : 8\nWinner : Hong Kong Esports\nLo
+ oser : Cougar eSports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160328T130107Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e2be4c86-1a2c-49ae-8b27-8e76273908bb
+DTSTART:20160326T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160326T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/9
+SUMMARY:MSE vs CGE
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Cougar eSports (CGE)\nType : BO2
+ \nTournament : LMS 2016 Spring Split\nWeek : 9\nWinner : Midnight Sun e-Sp
+ orts\nLooser : Cougar eSports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160328T130107Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a45f5e51-9fe3-48fd-9b7e-5f3bd6577f91
+DTSTART:20160219T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160219T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/5
+SUMMARY:CGE vs MSE
+DESCRIPTION:Cougar eSports (CGE) vs Midnight Sun e-Sports (MSE)\nType : BO2
+ \nTournament : LMS 2016 Spring Split\nWeek : 5\nWinner : Midnight Sun e-Sp
+ orts\nLooser : Cougar eSports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160328T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b968cb79-7b7c-4adf-b741-ba6d6e9ba824
@@ -150,7 +150,7 @@ DESCRIPTION:Cougar eSports (CGE) vs Hong Kong Esports (HKE)\nType : BO2\nTo
  urnament : LMS 2016 Spring Split\nWeek : 1\nWinner : Hong Kong Esports\nLo
  oser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-edb64265-c2e7-45fc-9a44-97d0357f05d0
@@ -165,7 +165,7 @@ DESCRIPTION:Cougar eSports (CGE) vs Flash Wolves (FW)\nType : BO2\nTourname
  nt : LMS 2016 Spring Split\nWeek : 7\nWinner : Flash Wolves\nLooser : Coug
  ar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f792af96-ebf4-4a2f-852d-d861e5284e14
@@ -180,7 +180,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Cougar eSports (CGE)\nType : BO2\nTo
  urnament : LMS 2016 Spring Split\nWeek : 7\nWinner : ahq e-Sports Club\nLo
  oser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d50dd486-fdba-4630-9875-58e90e42da71
@@ -194,7 +194,7 @@ SUMMARY:M17 vs CGE
 DESCRIPTION:Machi (M17) vs Cougar eSports (CGE)\nType : BO2\nTournament : L
  MS 2016 Spring Split\nWeek : 8\nWinner : Machi\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7ed036fd-2b96-40fe-bc0a-e2a03932ce0e
@@ -209,6 +209,6 @@ DESCRIPTION:Cougar eSports (CGE) vs Taipei Assassins (TPA)\nType : BO2\nTou
  rnament : LMS 2016 Spring Split\nWeek : 6\nWinner : Taipei Assassins\nLoos
  er : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160327T130057Z
+DTSTAMP:20160328T130107Z
 END:VEVENT
 END:VCALENDAR

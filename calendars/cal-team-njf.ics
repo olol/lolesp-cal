@@ -16,7 +16,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs SKTelecom T1 (SKT)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : SKTelec
  om T1\nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3ac52162-88a5-41fd-96ab-896fc288f762
@@ -31,7 +31,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Longzhu Gaming (LZ)\nType : BO2\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : Kongdo
  o Monster\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5df75cd6-c573-443a-a48f-da14fd3c18aa
@@ -46,7 +46,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Jin Air Green Wings (JAG)\nType : BO3\
  nTournament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : 
  Jin Air Green Wings\nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57f96889-288f-44e9-abce-1392ca9e5682
@@ -61,7 +61,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Kongdoo Monster (KDM)\nType : BO3\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Kongdoo M
  onster\nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dadf2208-a362-40b6-9342-a0cde4a2ae89
@@ -76,7 +76,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Samsung Galaxy (SSG)\nType : BO2\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : Kong
  doo Monster\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85561bda-6a38-4314-92c2-13c534ac0a55
@@ -91,7 +91,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Kongdoo Monster (KDM)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : CJ ENTUS\nLo
  oser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b3a1d016-4cfa-4cd4-bf26-0dc644c0c34b
@@ -106,22 +106,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Rebels Anarchy (ANC)\nType : BO3\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : Kongd
  oo Monster\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e4bdc644-7de1-4868-bd15-f75197773ebe
-DTSTART:20150520T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150520T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/1
-SUMMARY:ANC vs KDM
-DESCRIPTION:Rebels Anarchy (ANC) vs Kongdoo Monster (KDM)\nType : BO3\nTour
- nament : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Rebel
- s Anarchy\nLooser : Kongdoo Monster\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
@@ -136,22 +121,22 @@ DESCRIPTION:SBENU SONICBOOM (SSB) vs Kongdoo Monster (KDM)\nType : BO2\nTou
  rnament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : Kong
  doo Monster\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
-DTSTART:20150627T080000Z
+UID:match-e4bdc644-7de1-4868-bd15-f75197773ebe
+DTSTART:20150520T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150627T090000Z
+DTEND:20150520T090000Z
 URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/6
-SUMMARY:KDM vs KT
-DESCRIPTION:Kongdoo Monster (KDM) vs KT Rolster (KT)\nType : BO3\nTournamen
- t : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : KT Rolster
- \nLooser : Kongdoo Monster\n
+ ummer-split/1
+SUMMARY:ANC vs KDM
+DESCRIPTION:Rebels Anarchy (ANC) vs Kongdoo Monster (KDM)\nType : BO3\nTour
+ nament : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Rebel
+ s Anarchy\nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57f96889-288f-44e9-abce-1392ca9e5682
@@ -166,22 +151,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Kongdoo Monster (KDM)\nType : BO3\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : Kongdoo 
  Monster\nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
-DTSTART:20150807T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150807T110000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/12
-SUMMARY:SSB vs KDM
-DESCRIPTION:SBENU SONICBOOM (SSB) vs Kongdoo Monster (KDM)\nType : BO2\nTou
- rnament : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : Kon
- gdoo Monster\nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85561bda-6a38-4314-92c2-13c534ac0a55
@@ -196,7 +166,22 @@ DESCRIPTION:CJ ENTUS (CJ) vs Kongdoo Monster (KDM)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : CJ ENTUS\nLo
  oser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
+DTSTART:20150627T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/6
+SUMMARY:KDM vs KT
+DESCRIPTION:Kongdoo Monster (KDM) vs KT Rolster (KT)\nType : BO3\nTournamen
+ t : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : KT Rolster
+ \nLooser : Kongdoo Monster\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e306fe73-a9ce-4bab-9d51-13fd1d364c2a
@@ -211,7 +196,22 @@ DESCRIPTION:Longzhu Gaming (LZ) vs Kongdoo Monster (KDM)\nType : BO3\nTourn
  ament : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : Kongdo
  o Monster\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c5829e8a-c0ed-41f6-b739-78359153eec9
+DTSTART:20150807T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T110000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/12
+SUMMARY:SSB vs KDM
+DESCRIPTION:SBENU SONICBOOM (SSB) vs Kongdoo Monster (KDM)\nType : BO2\nTou
+ rnament : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : Kon
+ gdoo Monster\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dadf2208-a362-40b6-9342-a0cde4a2ae89
@@ -226,7 +226,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs Samsung Galaxy (SSG)\nType : BO2\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : Kongd
  oo Monster\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bd139a41-2f7f-45f9-94da-d8ab16e78ff4
@@ -241,7 +241,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs Kongdoo Monster (KDM)\nType : BO2\
  nTournament : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : 
  Jin Air Green Wings\nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-10ff16e5-c21d-4b94-88b8-c3bdb3251163
@@ -256,7 +256,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs KT Rolster (KT)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : KT Rolster
  \nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cb7d2665-0a30-4249-b70e-754faaec4327
@@ -271,6 +271,6 @@ DESCRIPTION:Kongdoo Monster (KDM) vs SKTelecom T1 (SKT)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : SKTele
  com T1\nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160327T130054Z
+DTSTAMP:20160328T130105Z
 END:VEVENT
 END:VCALENDAR
