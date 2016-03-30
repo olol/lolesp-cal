@@ -16,7 +16,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs ROX Tigers (ROX)\nType : BO2\nTournament : Mig
  rated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers\nLoose
  r : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b2554eaf-32b4-47fc-9d85-7fa2c0fd3bc4
@@ -31,7 +31,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Rebels Anarchy (ANC)\nType : BO3\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : CJ ENTUS\nLoo
  ser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2786e20a-d5e6-4607-9e50-9ecdbd2647c4
@@ -46,7 +46,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : CJ ENTUS\nLo
  oser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ca3fc24-d786-461c-9b96-6881ef87414e
@@ -61,22 +61,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : CJ ENTUS\nLoo
  ser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fbf319ba-cdf4-4ce6-a874-2c63dd9de479
-DTSTART:20150612T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/4
-SUMMARY:CJ vs SKT
-DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO2\nTournament : M
- igrated tournament for lck_2015_summer\nWeek : 4\nWinner : SKTelecom T1\nL
- ooser : CJ ENTUS\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3e2f236b-02bb-45cc-8763-0eac9f1a6641
@@ -91,7 +76,7 @@ DESCRIPTION:KT Rolster (KT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Migr
  ated tournament for lck_2015_summer\nWeek : 2\nWinner : CJ ENTUS\nLooser :
   KT Rolster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-314c45cb-a193-4cb4-89d1-ad8ce6f40b20
@@ -106,7 +91,7 @@ DESCRIPTION:Jin Air Green Wings (JAG) vs CJ ENTUS (CJ)\nType : BO2\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : Jin Air 
  Green Wings\nLooser : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85561bda-6a38-4314-92c2-13c534ac0a55
@@ -121,7 +106,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Kongdoo Monster (KDM)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : CJ ENTUS\nLo
  oser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04f2d435-bffa-4212-930e-bc7c48f7e0ef
@@ -136,7 +121,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Samsung Galaxy (SSG)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : CJ ENTUS\nLoo
  ser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-312140e7-5e75-4f32-abe9-da84f83cef9f
@@ -151,7 +136,7 @@ DESCRIPTION:ROX Tigers (ROX) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Mig
  rated tournament for lck_2015_summer\nWeek : 3\nWinner : CJ ENTUS\nLooser 
  : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-989d4e5a-2f19-4216-a9e4-ab288ffa8c9b
@@ -166,7 +151,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 10\nWinner : CJ ENTUS\nLoos
  er : SKTelecom T1\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ca3fc24-d786-461c-9b96-6881ef87414e
@@ -181,7 +166,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
  Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : CJ ENTUS\nLoos
  er : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d252ab79-4893-4543-a4ef-dd3e3cacda4b
@@ -196,7 +181,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : CJ ENTUS\nLo
  oser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e80064d-8d33-43dc-b9f8-34ea990026be
@@ -211,7 +196,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs KT Rolster (KT)\nType : BO3\nTournament : Migr
  ated tournament for lck_2015_summer\nWeek : 8\nWinner : KT Rolster\nLooser
   : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85561bda-6a38-4314-92c2-13c534ac0a55
@@ -226,7 +211,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs Kongdoo Monster (KDM)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : CJ ENTUS\nLo
  oser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6514b381-c488-41b3-a0cd-ef753deeca0b
@@ -241,7 +226,22 @@ DESCRIPTION:CJ ENTUS (CJ) vs Jin Air Green Wings (JAG)\nType : BO2\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : CJ ENTUS
  \nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fbf319ba-cdf4-4ce6-a874-2c63dd9de479
+DTSTART:20150612T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/4
+SUMMARY:CJ vs SKT
+DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO2\nTournament : M
+ igrated tournament for lck_2015_summer\nWeek : 4\nWinner : SKTelecom T1\nL
+ ooser : CJ ENTUS\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d252ab79-4893-4543-a4ef-dd3e3cacda4b
@@ -256,7 +256,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SBENU SONICBOOM (SSB)\nType : BO3\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : CJ ENTUS\nLo
  oser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fa9f5506-61ee-4f6d-9ec1-2dd5dd64455b
@@ -270,6 +270,6 @@ SUMMARY:SSG vs CJ
 DESCRIPTION:Samsung Galaxy (SSG) vs CJ ENTUS (CJ)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 13\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160328T130105Z
+DTSTAMP:20160330T130136Z
 END:VEVENT
 END:VCALENDAR
