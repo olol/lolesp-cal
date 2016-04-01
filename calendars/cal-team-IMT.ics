@@ -4,18 +4,18 @@ PRODID:www.lolesports.com|cal-team-IMT
 X-WR-CALNAME:LoL eSports IMT
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-02fa5a4f-7f67-437f-9bb1-192d7877788f
-DTSTART:20160206T220000Z
+UID:match-5ca3c26d-2af3-42c1-8166-e32a83be8d78
+DTSTART:20160131T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160206T230000Z
+DTEND:20160131T010000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:CLG vs IMT
-DESCRIPTION:Counter Logic Gaming (CLG) vs Immortals (IMT)\nType : BO1\nTour
- nament : NA 2016 Spring Split\nWeek : 4\n
+ season/3
+SUMMARY:IMT vs REN
+DESCRIPTION:Immortals (IMT) vs Renegades (REN)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3a574ec8-efc1-4133-a196-d3948ade31bc
@@ -29,21 +29,21 @@ SUMMARY:IMT vs TSM
 DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
  Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5ca3c26d-2af3-42c1-8166-e32a83be8d78
-DTSTART:20160131T000000Z
+UID:match-02fa5a4f-7f67-437f-9bb1-192d7877788f
+DTSTART:20160206T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160131T010000Z
+DTEND:20160206T230000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:IMT vs REN
-DESCRIPTION:Immortals (IMT) vs Renegades (REN)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 3\n
+ season/4
+SUMMARY:CLG vs IMT
+DESCRIPTION:Counter Logic Gaming (CLG) vs Immortals (IMT)\nType : BO1\nTour
+ nament : NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5d2b4d72-112a-48cf-8bd4-c08910e51af8
@@ -57,7 +57,7 @@ SUMMARY:IMT vs NRG
 DESCRIPTION:Immortals (IMT) vs NRG Esports (NRG)\nType : BO1\nTournament : 
  NA 2016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6ac28a2a-cb9a-4032-b56c-5301d54da845
@@ -71,7 +71,7 @@ SUMMARY:TIP vs IMT
 DESCRIPTION:Team Impulse (TIP) vs Immortals (IMT)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-43d930fc-6dc4-48cd-af1b-17ddc689613e
@@ -85,7 +85,7 @@ SUMMARY:IMT vs C9
 DESCRIPTION:Immortals (IMT) vs Cloud9  (C9)\nType : BO1\nTournament : NA 20
  16 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7587680b-ea08-4f75-ba9a-8f842cad7810
@@ -99,7 +99,7 @@ SUMMARY:IMT vs CLG
 DESCRIPTION:Immortals (IMT) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
  nament : NA 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1f8a9847-a82d-4ce8-8b6f-f4caa44e06f6
@@ -113,7 +113,7 @@ SUMMARY:IMT vs TL
 DESCRIPTION:Immortals (IMT) vs Liquid (TL)\nType : BO1\nTournament : NA 201
  6 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bf624333-9c31-474a-8362-45e30f5eb9ab
@@ -127,105 +127,7 @@ SUMMARY:TSM vs IMT
 DESCRIPTION:TSM (TSM) vs Immortals (IMT)\nType : BO1\nTournament : NA 2016 
  Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b45fde17-e4c0-418c-9c5d-2de0b7f6b91b
-DTSTART:20160229T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160229T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:IMT vs FOX
-DESCRIPTION:Immortals (IMT) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-940c9846-3cb7-46f9-bd18-71da52b3ccb9
-DTSTART:20160220T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:REN vs IMT
-DESCRIPTION:Renegades (REN) vs Immortals (IMT)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-001e39c9-43cc-41ec-a05d-f69db2a42380
-DTSTART:20160222T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160222T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:TL vs IMT
-DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7b2fdc90-2d55-4769-af77-e01029b2728a
-DTSTART:20160116T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:C9 vs IMT
-DESCRIPTION:Cloud9  (C9) vs Immortals (IMT)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4dab28b6-f9ff-4f18-8a52-dbdbc4f8c5e5
-DTSTART:20160313T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:DIG vs IMT
-DESCRIPTION:Team Dignitas (DIG) vs Immortals (IMT)\nType : BO1\nTournament 
- : NA 2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b55c595-043d-467a-a9d2-a07abdc8afd3
-DTSTART:20160131T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160201T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:FOX vs IMT
-DESCRIPTION:Echo Fox (FOX) vs Immortals (IMT)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5d292563-481f-4e50-9452-af1f77e27aa5
-DTSTART:20160124T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:NRG vs IMT
-DESCRIPTION:NRG Esports (NRG) vs Immortals (IMT)\nType : BO1\nTournament : 
- NA 2016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a2b124d3-2d1e-4277-9eb6-b20c961758d9
@@ -239,7 +141,105 @@ SUMMARY:IMT vs DIG
 DESCRIPTION:Immortals (IMT) vs Team Dignitas (DIG)\nType : BO1\nTournament 
  : NA 2016 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7b2fdc90-2d55-4769-af77-e01029b2728a
+DTSTART:20160116T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:C9 vs IMT
+DESCRIPTION:Cloud9  (C9) vs Immortals (IMT)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160401T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4dab28b6-f9ff-4f18-8a52-dbdbc4f8c5e5
+DTSTART:20160313T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:DIG vs IMT
+DESCRIPTION:Team Dignitas (DIG) vs Immortals (IMT)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160401T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b55c595-043d-467a-a9d2-a07abdc8afd3
+DTSTART:20160131T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160201T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:FOX vs IMT
+DESCRIPTION:Echo Fox (FOX) vs Immortals (IMT)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160401T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5d292563-481f-4e50-9452-af1f77e27aa5
+DTSTART:20160124T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:NRG vs IMT
+DESCRIPTION:NRG Esports (NRG) vs Immortals (IMT)\nType : BO1\nTournament : 
+ NA 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160401T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b45fde17-e4c0-418c-9c5d-2de0b7f6b91b
+DTSTART:20160229T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160229T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:IMT vs FOX
+DESCRIPTION:Immortals (IMT) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160401T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-940c9846-3cb7-46f9-bd18-71da52b3ccb9
+DTSTART:20160220T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:REN vs IMT
+DESCRIPTION:Renegades (REN) vs Immortals (IMT)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160401T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-001e39c9-43cc-41ec-a05d-f69db2a42380
+DTSTART:20160222T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160222T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:TL vs IMT
+DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160401T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-da247161-dab1-4689-a128-42b97885a833
@@ -253,6 +253,6 @@ SUMMARY:IMT vs TIP
 DESCRIPTION:Immortals (IMT) vs Team Impulse (TIP)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160331T130055Z
+DTSTAMP:20160401T130110Z
 END:VEVENT
 END:VCALENDAR
