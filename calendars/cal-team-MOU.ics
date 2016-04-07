@@ -16,7 +16,7 @@ DESCRIPTION:Mousesports (MOU) vs Copenhagen Wolves (CW)\nType : BO2\nTourna
  ment : EU CS 2016 Spring Split\nWeek : 5\nWinner : Copenhagen Wolves\nLoos
  er : Mousesports\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160406T130101Z
+DTSTAMP:20160407T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6e364a2-1547-4962-a940-c6cd0cf8c4ec
@@ -31,22 +31,7 @@ DESCRIPTION:Millenium (MIL) vs Mousesports (MOU)\nType : BO2\nTournament :
  EU CS 2016 Spring Split\nWeek : 2\nWinner : Millenium\nLooser : Mousesport
  s\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160406T130101Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b9155163-4d01-4688-ae25-c799e664e8cb
-DTSTART:20160216T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160216T200000Z
-URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
- _season/4
-SUMMARY:MOU vs SKG
-DESCRIPTION:Mousesports (MOU) vs SK Gaming (SKG)\nType : BO2\nTournament : 
- EU CS 2016 Spring Split\nWeek : 4\nWinner : SK Gaming\nLooser : Mousesport
- s\n
-CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160406T130101Z
+DTSTAMP:20160407T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-88451760-5e31-4ce2-b950-ef953e35e41e
@@ -61,7 +46,7 @@ DESCRIPTION:Inspire eSports (IE) vs Mousesports (MOU)\nType : BO2\nTourname
  nt : EU CS 2016 Spring Split\nWeek : 1\nWinner : Inspire eSports\nLooser :
   Mousesports\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160406T130101Z
+DTSTAMP:20160407T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0a279a0-5c2e-4092-8de9-b93f8ac05d1d
@@ -75,6 +60,21 @@ SUMMARY:MOU vs HMA
 DESCRIPTION:Mousesports (MOU) vs Huma (HMA)\nType : BO2\nTournament : EU CS
   2016 Spring Split\nWeek : 3\nWinner : Huma\nLooser : Huma\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160406T130101Z
+DTSTAMP:20160407T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b9155163-4d01-4688-ae25-c799e664e8cb
+DTSTART:20160216T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160216T200000Z
+URL:http://www.lolesports.com/en_US/eu-cs/eucs_2016_spring/schedule/regular
+ _season/4
+SUMMARY:MOU vs SKG
+DESCRIPTION:Mousesports (MOU) vs SK Gaming (SKG)\nType : BO2\nTournament : 
+ EU CS 2016 Spring Split\nWeek : 4\nWinner : SK Gaming\nLooser : Mousesport
+ s\n
+CATEGORIES:EU CS 2016 Spring Split
+DTSTAMP:20160407T130054Z
 END:VEVENT
 END:VCALENDAR

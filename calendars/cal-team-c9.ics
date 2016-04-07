@@ -15,161 +15,7 @@ SUMMARY:TIP vs C9
 DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : NA
   2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3294f2ca-0b24-4752-b6b3-177b362c2c16
-DTSTART:20150829T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150829T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_regionals/schedule/na_20
- 15_regionals/quarterfinals
-SUMMARY:GV vs C9
-DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS S
- ummer regional playoffs\nWeek : quarterfinals\n
-CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-71985e73-16b6-4d83-8142-d6ee67ac37ec
-DTSTART:20160220T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:TSM vs C9
-DESCRIPTION:TSM (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 Spr
- ing Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4a7bb6aa-5d40-44cb-8673-907aa34fd06c
-DTSTART:20160228T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:C9 vs CLG
-DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
- ent : NA 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a44c32cc-eafe-4bd0-aa98-b1bd357bacf5
-DTSTART:20160228T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:C9 vs DIG
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b79fde2-bd2e-4025-999a-61dd3511a36a
-DTSTART:20160313T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:C9 vs TIP
-DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5c4e3f06-abd8-46df-a645-8e20345783ec
-DTSTART:20160131T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:DIG vs C9
-DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
- A 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-43d930fc-6dc4-48cd-af1b-17ddc689613e
-DTSTART:20160214T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:IMT vs C9
-DESCRIPTION:Immortals (IMT) vs Cloud9  (C9)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8405a2a5-4df9-4e23-ac53-a254cb036a36
-DTSTART:20160130T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160130T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:C9 vs TSM
-DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spr
- ing Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2e885697-2a0e-4be5-a091-e733e07ae644
-DTSTART:20160213T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160213T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:C9 vs TL
-DESCRIPTION:Cloud9  (C9) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 S
- pring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fab8ea2b-6eb9-42ab-b269-3cc9d6aea4e3
-DTSTART:20160117T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160118T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:FOX vs C9
-DESCRIPTION:Echo Fox (FOX) vs Cloud9  (C9)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f37596bc-1647-4481-87eb-ed735a187a40
-DTSTART:20160402T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160402T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_playoffs/Quarterfinals
-SUMMARY:C9 vs TSM
-DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO5\nTournament : NA 2016 Spr
- ing Split\nWeek : Quarterfinals\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e9a5b193-697c-44db-b614-2ce29d70f1b3
@@ -183,7 +29,7 @@ SUMMARY:TIP vs C9
 DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO5\nTournament : NA
   LCS Summer regional playoffs\nWeek : semifinals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbca1277-25fa-4357-9990-84bbdfe5cce8
@@ -197,7 +43,7 @@ SUMMARY:TL vs C9
 DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS Su
  mmer regional playoffs\nWeek : finals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f0c6153b-79a7-4a45-bbb9-9ce3db3deaf0
@@ -211,21 +57,7 @@ SUMMARY:REN vs C9
 DESCRIPTION:Renegades (REN) vs Cloud9  (C9)\nType : BO1\nTournament : NA 20
  16 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-97cd5049-d6f9-499a-abf6-bb388a471d50
-DTSTART:20160206T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160206T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:C9 vs REN
-DESCRIPTION:Cloud9  (C9) vs Renegades (REN)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1b4aad81-5b81-4634-a5a8-dfa24eabcbcb
@@ -239,7 +71,7 @@ SUMMARY:C9 vs NRG
 DESCRIPTION:Cloud9  (C9) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 
  2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4403d39e-f613-48a1-b3c7-c8b9479f531f
@@ -253,35 +85,77 @@ SUMMARY:CLG vs C9
 DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
  ent : NA 2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-e61c1a31-d703-4e83-ba1c-d9e4a067a60b
-DTSTART:20160221T220000Z
+UID:match-97cd5049-d6f9-499a-abf6-bb388a471d50
+DTSTART:20160206T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160221T230000Z
+DTEND:20160206T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:C9 vs REN
+DESCRIPTION:Cloud9  (C9) vs Renegades (REN)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3294f2ca-0b24-4752-b6b3-177b362c2c16
+DTSTART:20150829T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_regionals/schedule/na_20
+ 15_regionals/quarterfinals
+SUMMARY:GV vs C9
+DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS S
+ ummer regional playoffs\nWeek : quarterfinals\n
+CATEGORIES:NA LCS Summer regional playoffs
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-71985e73-16b6-4d83-8142-d6ee67ac37ec
+DTSTART:20160220T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T230000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
  season/6
-SUMMARY:NRG vs C9
-DESCRIPTION:NRG Esports (NRG) vs Cloud9  (C9)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 6\n
+SUMMARY:TSM vs C9
+DESCRIPTION:TSM (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 Spr
+ ing Split\nWeek : 6\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-5bdbdd61-2a2b-4733-a5f6-2d497bf54953
-DTSTART:20160319T230000Z
+UID:match-a44c32cc-eafe-4bd0-aa98-b1bd357bacf5
+DTSTART:20160228T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160320T000000Z
+DTEND:20160228T010000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:C9 vs FOX
-DESCRIPTION:Cloud9  (C9) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 9\n
+ season/7
+SUMMARY:C9 vs DIG
+DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
+ A 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4a7bb6aa-5d40-44cb-8673-907aa34fd06c
+DTSTART:20160228T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:C9 vs CLG
+DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
+ ent : NA 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8120797c-6305-4045-860e-33d07f153e8e
@@ -295,7 +169,21 @@ SUMMARY:TL vs C9
 DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 S
  pring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5bdbdd61-2a2b-4733-a5f6-2d497bf54953
+DTSTART:20160319T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:C9 vs FOX
+DESCRIPTION:Cloud9  (C9) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7b2fdc90-2d55-4769-af77-e01029b2728a
@@ -309,7 +197,119 @@ SUMMARY:C9 vs IMT
 DESCRIPTION:Cloud9  (C9) vs Immortals (IMT)\nType : BO1\nTournament : NA 20
  16 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e61c1a31-d703-4e83-ba1c-d9e4a067a60b
+DTSTART:20160221T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:NRG vs C9
+DESCRIPTION:NRG Esports (NRG) vs Cloud9  (C9)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2e885697-2a0e-4be5-a091-e733e07ae644
+DTSTART:20160213T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160213T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:C9 vs TL
+DESCRIPTION:Cloud9  (C9) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 S
+ pring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b79fde2-bd2e-4025-999a-61dd3511a36a
+DTSTART:20160313T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:C9 vs TIP
+DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5c4e3f06-abd8-46df-a645-8e20345783ec
+DTSTART:20160131T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:DIG vs C9
+DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
+ A 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-43d930fc-6dc4-48cd-af1b-17ddc689613e
+DTSTART:20160214T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:IMT vs C9
+DESCRIPTION:Immortals (IMT) vs Cloud9  (C9)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8405a2a5-4df9-4e23-ac53-a254cb036a36
+DTSTART:20160130T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160130T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:C9 vs TSM
+DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spr
+ ing Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fab8ea2b-6eb9-42ab-b269-3cc9d6aea4e3
+DTSTART:20160117T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160118T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:FOX vs C9
+DESCRIPTION:Echo Fox (FOX) vs Cloud9  (C9)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f37596bc-1647-4481-87eb-ed735a187a40
+DTSTART:20160402T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160402T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_playoffs/Quarterfinals
+SUMMARY:C9 vs TSM
+DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO5\nTournament : NA 2016 Spr
+ ing Split\nWeek : Quarterfinals\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f7fc156-ef29-44e6-9857-735a7e79ea59
@@ -324,7 +324,7 @@ DESCRIPTION:Cloud9  (C9) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-1\nWinner : Cloud9 \nLoos
  er : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5deddc1b-8a0d-421b-8784-449fb5053e35
@@ -339,7 +339,7 @@ DESCRIPTION:Cloud9  (C9) vs Fnatic (FNC)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-4\nWinner : Cloud9 \nLooser : Fnatic
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-578d9599-ce93-4f12-a873-2595f9500ef0
@@ -354,37 +354,7 @@ DESCRIPTION:Cloud9  (C9) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e-Sports 
  Club\nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-dd7bfe7d-cd4c-4b33-99a7-ee014c14aff7
-DTSTART:20151011T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151011T100000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_b/paris-day-8
-SUMMARY:FNC vs C9
-DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO1\nTournament : The 2015
-  World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser : Cloud9 
- \n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160406T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2489f7d0-ddbe-46bb-ab37-bf093adc8d41
-DTSTART:20151003T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151003T170000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_b/paris-day-3
-SUMMARY:IG vs C9
-DESCRIPTION:Invictus Gaming (IG) vs Cloud9  (C9)\nType : BO1\nTournament : 
- The 2015 World Championship\nWeek : paris-day-3\nWinner : Cloud9 \nLooser 
- : Invictus Gaming\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5144d62e-42b7-4e9d-a0f1-4ae581941a26
@@ -399,7 +369,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Cloud9  (C9)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : ahq e-Sports 
  Club\nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-efbc65b8-d736-4b11-a81b-88d39f4316ed
@@ -414,6 +384,36 @@ DESCRIPTION:Cloud9  (C9) vs Invictus Gaming (IG)\nType : BO1\nTournament :
  The 2015 World Championship\nWeek : paris-day-8\nWinner : Invictus Gaming\
  nLooser : Cloud9 \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160406T130100Z
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-dd7bfe7d-cd4c-4b33-99a7-ee014c14aff7
+DTSTART:20151011T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151011T100000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-8
+SUMMARY:FNC vs C9
+DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO1\nTournament : The 2015
+  World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser : Cloud9 
+ \n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160407T130052Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2489f7d0-ddbe-46bb-ab37-bf093adc8d41
+DTSTART:20151003T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151003T170000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_b/paris-day-3
+SUMMARY:IG vs C9
+DESCRIPTION:Invictus Gaming (IG) vs Cloud9  (C9)\nType : BO1\nTournament : 
+ The 2015 World Championship\nWeek : paris-day-3\nWinner : Cloud9 \nLooser 
+ : Invictus Gaming\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160407T130052Z
 END:VEVENT
 END:VCALENDAR
