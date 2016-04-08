@@ -4,524 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-na-2016-spring
 X-WR-CALNAME:LoL eSports Na 2016 spring
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-3a574ec8-efc1-4133-a196-d3948ade31bc
-DTSTART:20160319T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:IMT vs TSM
-DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
- Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e715a9c6-09f3-4080-baa3-c52ec8c6692e
-DTSTART:20160116T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:REN vs TL
-DESCRIPTION:Renegades (REN) vs Liquid (TL)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-02fa5a4f-7f67-437f-9bb1-192d7877788f
-DTSTART:20160206T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160206T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:CLG vs IMT
-DESCRIPTION:Counter Logic Gaming (CLG) vs Immortals (IMT)\nType : BO1\nTour
- nament : NA 2016 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9285a10b-c63b-4b41-95fd-a25f08a802ac
-DTSTART:20160117T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:DIG vs CLG
-DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
- Tournament : NA 2016 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f8631794-fc4e-4ddc-b33d-28467fa4c0b3
-DTSTART:20160319T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:CLG vs NRG
-DESCRIPTION:Counter Logic Gaming (CLG) vs NRG Esports (NRG)\nType : BO1\nTo
- urnament : NA 2016 Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c63b5909-4cd6-4df0-a7f8-8528ec5403f6
-DTSTART:20160228T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:TIP vs NRG
-DESCRIPTION:Team Impulse (TIP) vs NRG Esports (NRG)\nType : BO1\nTournament
-  : NA 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-361d0f49-2621-48bd-addf-c4e55d96b708
-DTSTART:20160407T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160407T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_promotion_relegation/Round%201
-SUMMARY:DIG vs TDK
-DESCRIPTION:Team Dignitas (DIG) vs Team Dragon Knights (TDK)\nType : BO5\nT
- ournament : NA 2016 Spring Split\nWeek : Round 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c86a55b3-8ea8-431f-8b6e-3b0f864f5ea4
-DTSTART:20160407T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160407T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_promotion_relegation/Round%202
-SUMMARY:REN vs TDK
-DESCRIPTION:Renegades (REN) vs Team Dragon Knights (TDK)\nType : BO5\nTourn
- ament : NA 2016 Spring Split\nWeek : Round 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bae87161-57e5-4529-b0b3-afd507581c6b
-DTSTART:20160313T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:FOX vs DIG
-DESCRIPTION:Echo Fox (FOX) vs Team Dignitas (DIG)\nType : BO1\nTournament :
-  NA 2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-056395fc-4987-4f70-8fcd-4f431e0b2b60
-DTSTART:20160123T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:TIP vs C9
-DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5ca3c26d-2af3-42c1-8166-e32a83be8d78
-DTSTART:20160131T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:IMT vs REN
-DESCRIPTION:Immortals (IMT) vs Renegades (REN)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f268f5f5-fec9-4f31-8ff5-91654dcd67c5
-DTSTART:20160213T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:TIP vs TSM
-DESCRIPTION:Team Impulse (TIP) vs TSM (TSM)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7810f3db-c4de-4926-ae0b-f62c16174357
-DTSTART:20160124T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160125T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:FOX vs TL
-DESCRIPTION:Echo Fox (FOX) vs Liquid (TL)\nType : BO1\nTournament : NA 2016
-  Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bcd8810c-125b-4e26-a096-5dbdd187a943
-DTSTART:20160130T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160130T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:TIP vs DIG
-DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
- nt : NA 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d6272882-d1df-4dff-b156-bf8a750c82df
-DTSTART:20160124T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:TSM vs DIG
-DESCRIPTION:TSM (TSM) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA 2
- 016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a758d97a-8fec-49a8-a26a-fcc1888fe16a
-DTSTART:20160131T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:TL vs TIP
-DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9945b7df-5485-4c2f-a4b3-759c82b891e2
-DTSTART:20160123T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:DIG vs REN
-DESCRIPTION:Team Dignitas (DIG) vs Renegades (REN)\nType : BO1\nTournament 
- : NA 2016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ab0dbd05-c150-4041-a252-da145de95ebb
-DTSTART:20160201T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160201T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:CLG vs REN
-DESCRIPTION:Counter Logic Gaming (CLG) vs Renegades (REN)\nType : BO1\nTour
- nament : NA 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1f8a9847-a82d-4ce8-8b6f-f4caa44e06f6
-DTSTART:20160207T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160207T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:IMT vs TL
-DESCRIPTION:Immortals (IMT) vs Liquid (TL)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f0c6153b-79a7-4a45-bbb9-9ce3db3deaf0
-DTSTART:20160312T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160312T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:REN vs C9
-DESCRIPTION:Renegades (REN) vs Cloud9  (C9)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1b4aad81-5b81-4634-a5a8-dfa24eabcbcb
-DTSTART:20160207T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160207T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:C9 vs NRG
-DESCRIPTION:Cloud9  (C9) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ef217d0d-8bd9-4bb9-9c57-2ed6e04ee521
-DTSTART:20160124T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:NRG vs FOX
-DESCRIPTION:NRG Esports (NRG) vs Echo Fox (FOX)\nType : BO1\nTournament : N
- A 2016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ebdb2e4c-11b9-4e9f-a7ac-4b23950cd949
-DTSTART:20160313T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160314T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:FOX vs CLG
-DESCRIPTION:Echo Fox (FOX) vs Counter Logic Gaming (CLG)\nType : BO1\nTourn
- ament : NA 2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ecd76d66-45fc-49c6-904e-675485aac2ef
-DTSTART:20160206T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160206T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:TL vs DIG
-DESCRIPTION:Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f644face-7d9f-4bfc-9896-03eddf79622c
-DTSTART:20160227T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:NRG vs REN
-DESCRIPTION:NRG Esports (NRG) vs Renegades (REN)\nType : BO1\nTournament : 
- NA 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bf624333-9c31-474a-8362-45e30f5eb9ab
-DTSTART:20160123T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:TSM vs IMT
-DESCRIPTION:TSM (TSM) vs Immortals (IMT)\nType : BO1\nTournament : NA 2016 
- Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d2a8ff8d-4e74-4aa8-b99f-9da5aec96f58
-DTSTART:20160312T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:TSM vs TIP
-DESCRIPTION:TSM (TSM) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4403d39e-f613-48a1-b3c7-c8b9479f531f
-DTSTART:20160124T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:CLG vs C9
-DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
- ent : NA 2016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-505de084-1aba-4112-8239-200d66ea3519
-DTSTART:20160403T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160403T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_playoffs/Quarterfinals
-SUMMARY:TL vs NRG
-DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO5\nTournament : NA 2
- 016 Spring Split\nWeek : Quarterfinals\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-41e3799a-4415-479c-a641-09157cb06794
-DTSTART:20160117T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:TSM vs TL
-DESCRIPTION:TSM (TSM) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 Spri
- ng Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-97cd5049-d6f9-499a-abf6-bb388a471d50
-DTSTART:20160206T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160206T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:C9 vs REN
-DESCRIPTION:Cloud9  (C9) vs Renegades (REN)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cef5eb76-7dbe-4334-a865-2c4cdf4518bb
-DTSTART:20160408T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160408T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_promotion_relegation/Round%202
-SUMMARY:TIP vs APX
-DESCRIPTION:Team Impulse (TIP) vs Apex (APX)\nType : BO5\nTournament : NA 2
- 016 Spring Split\nWeek : Round 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-71985e73-16b6-4d83-8142-d6ee67ac37ec
-DTSTART:20160220T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:TSM vs C9
-DESCRIPTION:TSM (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 Spr
- ing Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5e9af7b0-fff9-4aa9-a3a0-ee285b3bd372
-DTSTART:20160410T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160410T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_playoffs/Semifinals
-SUMMARY:IMT vs TSM
-DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO5\nTournament : NA 2016 
- Spring Split\nWeek : Semifinals\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fe49249c-717d-4cc3-afb3-347f1313291c
-DTSTART:20160320T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160321T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:TSM vs NRG
-DESCRIPTION:TSM (TSM) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-00f8ae5f-408b-4229-b755-9ff9bead1c87
-DTSTART:20160125T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160125T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:REN vs TIP
-DESCRIPTION:Renegades (REN) vs Team Impulse (TIP)\nType : BO1\nTournament :
-  NA 2016 Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a44c32cc-eafe-4bd0-aa98-b1bd357bacf5
-DTSTART:20160228T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:C9 vs DIG
-DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
- A 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-cc046f02-cde2-4886-8d11-c185c5cd2e98
 DTSTART:20160117T000000Z
 SEQUENCE:0
@@ -533,7 +15,7 @@ SUMMARY:FOX vs TIP
 DESCRIPTION:Echo Fox (FOX) vs Team Impulse (TIP)\nType : BO1\nTournament : 
  NA 2016 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6ecc1703-5d94-4a7a-80d9-8e76ad847e1c
@@ -547,7 +29,7 @@ SUMMARY:REN vs CLG
 DESCRIPTION:Renegades (REN) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
  nament : NA 2016 Spring Split\nWeek : 6\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-17c42b7e-11e7-4a86-8535-6c92e2f838c2
@@ -561,7 +43,7 @@ SUMMARY:TSM vs REN
 DESCRIPTION:TSM (TSM) vs Renegades (REN)\nType : BO1\nTournament : NA 2016 
  Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5d2b4d72-112a-48cf-8bd4-c08910e51af8
@@ -575,7 +57,7 @@ SUMMARY:IMT vs NRG
 DESCRIPTION:Immortals (IMT) vs NRG Esports (NRG)\nType : BO1\nTournament : 
  NA 2016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f65f5674-fd2e-4bb8-b4d2-67c96d9c664e
@@ -589,7 +71,7 @@ SUMMARY:TL vs REN
 DESCRIPTION:Liquid (TL) vs Renegades (REN)\nType : BO1\nTournament : NA 201
  6 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4a7bb6aa-5d40-44cb-8673-907aa34fd06c
@@ -603,7 +85,7 @@ SUMMARY:C9 vs CLG
 DESCRIPTION:Cloud9  (C9) vs Counter Logic Gaming (CLG)\nType : BO1\nTournam
  ent : NA 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-03f2990e-13bb-419b-94c5-607ae14261d1
@@ -617,7 +99,7 @@ SUMMARY:TIP vs CLG
 DESCRIPTION:Team Impulse (TIP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6baeea3a-5b80-410c-a3e6-b2ebd0f56159
@@ -631,455 +113,91 @@ SUMMARY:NRG vs TSM
 DESCRIPTION:NRG Esports (NRG) vs TSM (TSM)\nType : BO1\nTournament : NA 201
  6 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-8120797c-6305-4045-860e-33d07f153e8e
-DTSTART:20160320T200000Z
+UID:match-cef5eb76-7dbe-4334-a865-2c4cdf4518bb
+DTSTART:20160408T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160320T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:TL vs C9
-DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 S
- pring Split\nWeek : 9\n
+DTEND:20160408T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_promotion_relegation/Round%202
+SUMMARY:TIP vs APX
+DESCRIPTION:Team Impulse (TIP) vs Apex (APX)\nType : BO5\nTournament : NA 2
+ 016 Spring Split\nWeek : Round 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-ef5400c8-9ad7-4251-a71c-b1780a6be74e
-DTSTART:20160228T220000Z
+UID:match-5e9af7b0-fff9-4aa9-a3a0-ee285b3bd372
+DTSTART:20160410T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160228T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:TL vs TSM
-DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spri
- ng Split\nWeek : 7\n
+DTEND:20160410T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_playoffs/Semifinals
+SUMMARY:IMT vs TSM
+DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO5\nTournament : NA 2016 
+ Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-cbb6777d-edea-4f92-9e4f-8ac8aceb39e8
-DTSTART:20160221T000000Z
+UID:match-00f8ae5f-408b-4229-b755-9ff9bead1c87
+DTSTART:20160125T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160221T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:TL vs FOX
-DESCRIPTION:Liquid (TL) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 2016
-  Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e283eb8d-4ca4-406c-a447-7bcd02258df3
-DTSTART:20160221T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160222T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:TIP vs FOX
-DESCRIPTION:Team Impulse (TIP) vs Echo Fox (FOX)\nType : BO1\nTournament : 
- NA 2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-43c24453-6851-4492-8916-0141bcb520fd
-DTSTART:20160313T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:NRG vs TL
-DESCRIPTION:NRG Esports (NRG) vs Liquid (TL)\nType : BO1\nTournament : NA 2
- 016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7ab19f98-dc0e-402b-a274-9100a31023b6
-DTSTART:20160207T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160207T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:NRG vs TIP
-DESCRIPTION:NRG Esports (NRG) vs Team Impulse (TIP)\nType : BO1\nTournament
-  : NA 2016 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a2b124d3-2d1e-4277-9eb6-b20c961758d9
-DTSTART:20160214T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:IMT vs DIG
-DESCRIPTION:Immortals (IMT) vs Team Dignitas (DIG)\nType : BO1\nTournament 
- : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5bdbdd61-2a2b-4733-a5f6-2d497bf54953
-DTSTART:20160319T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:C9 vs FOX
-DESCRIPTION:Cloud9  (C9) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2279e680-45fb-4edd-9e7b-b23923001a5a
-DTSTART:20160206T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160207T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:TSM vs FOX
-DESCRIPTION:TSM (TSM) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 2016 S
- pring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b739e9a-1399-4a70-a496-15cccdb5fa86
-DTSTART:20160221T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:DIG vs TSM
-DESCRIPTION:Team Dignitas (DIG) vs TSM (TSM)\nType : BO1\nTournament : NA 2
- 016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7b2fdc90-2d55-4769-af77-e01029b2728a
-DTSTART:20160116T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:C9 vs IMT
-DESCRIPTION:Cloud9  (C9) vs Immortals (IMT)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-77933566-624e-4a8d-bb4b-833cd12d6eeb
-DTSTART:20160312T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160312T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:CLG vs TL
-DESCRIPTION:Counter Logic Gaming (CLG) vs Liquid (TL)\nType : BO1\nTourname
- nt : NA 2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4dab28b6-f9ff-4f18-8a52-dbdbc4f8c5e5
-DTSTART:20160313T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:DIG vs IMT
-DESCRIPTION:Team Dignitas (DIG) vs Immortals (IMT)\nType : BO1\nTournament 
- : NA 2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5d292563-481f-4e50-9452-af1f77e27aa5
-DTSTART:20160124T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T220000Z
+DTEND:20160125T010000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
  season/2
-SUMMARY:NRG vs IMT
-DESCRIPTION:NRG Esports (NRG) vs Immortals (IMT)\nType : BO1\nTournament : 
- NA 2016 Spring Split\nWeek : 2\n
+SUMMARY:REN vs TIP
+DESCRIPTION:Renegades (REN) vs Team Impulse (TIP)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-7c4342f8-82e0-4ab2-b729-14b1f0a83699
-DTSTART:20160320T190000Z
+UID:match-a44c32cc-eafe-4bd0-aa98-b1bd357bacf5
+DTSTART:20160228T000000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160320T200000Z
+DTEND:20160228T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:C9 vs DIG
+DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
+ A 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-71985e73-16b6-4d83-8142-d6ee67ac37ec
+DTSTART:20160220T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:TSM vs C9
+DESCRIPTION:TSM (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 Spr
+ ing Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fe49249c-717d-4cc3-afb3-347f1313291c
+DTSTART:20160320T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160321T000000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
  season/9
-SUMMARY:REN vs FOX
-DESCRIPTION:Renegades (REN) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 9\n
+SUMMARY:TSM vs NRG
+DESCRIPTION:TSM (TSM) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-940c9846-3cb7-46f9-bd18-71da52b3ccb9
-DTSTART:20160220T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:REN vs IMT
-DESCRIPTION:Renegades (REN) vs Immortals (IMT)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-595576ab-268c-4654-9647-3c0a0e840469
-DTSTART:20160117T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:REN vs NRG
-DESCRIPTION:Renegades (REN) vs NRG Esports (NRG)\nType : BO1\nTournament : 
- NA 2016 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-da247161-dab1-4689-a128-42b97885a833
-DTSTART:20160118T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160118T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:IMT vs TIP
-DESCRIPTION:Immortals (IMT) vs Team Impulse (TIP)\nType : BO1\nTournament :
-  NA 2016 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b63224a8-b89e-4728-aff0-e71c5d8c2135
-DTSTART:20160227T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:TIP vs TL
-DESCRIPTION:Team Impulse (TIP) vs Liquid (TL)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e61c1a31-d703-4e83-ba1c-d9e4a067a60b
-DTSTART:20160221T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:NRG vs C9
-DESCRIPTION:NRG Esports (NRG) vs Cloud9  (C9)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b422c544-2416-46ec-8e36-8dd291ffa0ff
-DTSTART:20160213T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160213T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:FOX vs REN
-DESCRIPTION:Echo Fox (FOX) vs Renegades (REN)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-639c747f-6c82-4e49-9071-e56c698e929f
-DTSTART:20160214T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:FOX vs NRG
-DESCRIPTION:Echo Fox (FOX) vs NRG Esports (NRG)\nType : BO1\nTournament : N
- A 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-df049c85-4f26-4c08-a5e5-b53fa4c3cc83
-DTSTART:20160130T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160130T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:TL vs NRG
-DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 2
- 016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b55c595-043d-467a-a9d2-a07abdc8afd3
-DTSTART:20160131T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160201T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:FOX vs IMT
-DESCRIPTION:Echo Fox (FOX) vs Immortals (IMT)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0d05d127-a19c-40f3-bc4d-492ea95afcb1
-DTSTART:20160319T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:TIP vs REN
-DESCRIPTION:Team Impulse (TIP) vs Renegades (REN)\nType : BO1\nTournament :
-  NA 2016 Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cf0346d2-2614-4b2a-987a-a90b80ce0c74
-DTSTART:20160215T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160215T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:DIG vs TIP
-DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
- nt : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2eb2690b-90a0-4263-8079-4a073041c9e3
-DTSTART:20160227T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:FOX vs TSM
-DESCRIPTION:Echo Fox (FOX) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 S
- pring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-93cbe3ea-0b4f-42a7-b097-b5ea6a7dc128
-DTSTART:20160214T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:CLG vs TSM
-DESCRIPTION:Counter Logic Gaming (CLG) vs TSM (TSM)\nType : BO1\nTournament
-  : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a1ff1570-993c-4c19-ada2-6e018699c7f2
-DTSTART:20160116T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:DIG vs NRG
-DESCRIPTION:Team Dignitas (DIG) vs NRG Esports (NRG)\nType : BO1\nTournamen
- t : NA 2016 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-001e39c9-43cc-41ec-a05d-f69db2a42380
-DTSTART:20160222T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160222T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:TL vs IMT
-DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b45fde17-e4c0-418c-9c5d-2de0b7f6b91b
-DTSTART:20160229T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160229T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:IMT vs FOX
-DESCRIPTION:Immortals (IMT) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-113795d3-6119-4330-a645-b5bdb44ae6a6
-DTSTART:20160220T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:NRG vs DIG
-DESCRIPTION:NRG Esports (NRG) vs Team Dignitas (DIG)\nType : BO1\nTournamen
- t : NA 2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2e885697-2a0e-4be5-a091-e733e07ae644
@@ -1093,7 +211,7 @@ SUMMARY:C9 vs TL
 DESCRIPTION:Cloud9  (C9) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 S
  pring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6b79fde2-bd2e-4025-999a-61dd3511a36a
@@ -1107,7 +225,7 @@ SUMMARY:C9 vs TIP
 DESCRIPTION:Cloud9  (C9) vs Team Impulse (TIP)\nType : BO1\nTournament : NA
   2016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5c4e3f06-abd8-46df-a645-8e20345783ec
@@ -1121,7 +239,7 @@ SUMMARY:DIG vs C9
 DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A 2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3cb4eabc-9315-4830-8162-c455682d1061
@@ -1135,7 +253,7 @@ SUMMARY:TL vs CLG
 DESCRIPTION:Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA 2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-35f192bb-43db-47f4-af81-f4aba957f296
@@ -1149,7 +267,7 @@ SUMMARY:DIG vs FOX
 DESCRIPTION:Team Dignitas (DIG) vs Echo Fox (FOX)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-43d930fc-6dc4-48cd-af1b-17ddc689613e
@@ -1163,7 +281,7 @@ SUMMARY:IMT vs C9
 DESCRIPTION:Immortals (IMT) vs Cloud9  (C9)\nType : BO1\nTournament : NA 20
  16 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac027c02-a3c7-4eab-abf7-3cda57a6b4da
@@ -1177,7 +295,7 @@ SUMMARY:CLG vs DIG
 DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA 2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8405a2a5-4df9-4e23-ac53-a254cb036a36
@@ -1191,7 +309,7 @@ SUMMARY:C9 vs TSM
 DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spr
  ing Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7b809628-73af-4bf0-8183-6d8eb63935ba
@@ -1205,7 +323,7 @@ SUMMARY:CLG vs FOX
 DESCRIPTION:Counter Logic Gaming (CLG) vs Echo Fox (FOX)\nType : BO1\nTourn
  ament : NA 2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7587680b-ea08-4f75-ba9a-8f842cad7810
@@ -1219,7 +337,7 @@ SUMMARY:IMT vs CLG
 DESCRIPTION:Immortals (IMT) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
  nament : NA 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9f4651cd-85b2-4f16-b94b-cac2994b899c
@@ -1233,105 +351,7 @@ SUMMARY:TIP vs REN
 DESCRIPTION:Team Impulse (TIP) vs Renegades (REN)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ad45ebec-c2b5-4d74-9cb0-5639aa17de75
-DTSTART:20160207T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160207T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:REN vs TSM
-DESCRIPTION:Renegades (REN) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
- Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f1860197-3986-4a09-8e73-d30035c3638f
-DTSTART:20160116T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:TSM vs CLG
-DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
-  : NA 2016 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fab8ea2b-6eb9-42ab-b269-3cc9d6aea4e3
-DTSTART:20160117T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160118T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:FOX vs C9
-DESCRIPTION:Echo Fox (FOX) vs Cloud9  (C9)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6ac28a2a-cb9a-4032-b56c-5301d54da845
-DTSTART:20160320T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:TIP vs IMT
-DESCRIPTION:Team Impulse (TIP) vs Immortals (IMT)\nType : BO1\nTournament :
-  NA 2016 Spring Split\nWeek : 9\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0d35a37e-76c6-484a-91a0-8d8521a3fd68
-DTSTART:20160213T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160213T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:NRG vs CLG
-DESCRIPTION:NRG Esports (NRG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
- urnament : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fa9b79d8-2ba0-4eed-9985-d4ba6c1b2733
-DTSTART:20160220T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:CLG vs TIP
-DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
- ournament : NA 2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0f8b4f7f-359b-4e80-942a-e3438f5f4ff1
-DTSTART:20160228T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160229T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:REN vs DIG
-DESCRIPTION:Renegades (REN) vs Team Dignitas (DIG)\nType : BO1\nTournament 
- : NA 2016 Spring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-87224bd7-b515-4592-b410-15d7d2c14a6f
@@ -1345,21 +365,105 @@ SUMMARY:CLG vs TL
 DESCRIPTION:Counter Logic Gaming (CLG) vs Liquid (TL)\nType : BO5\nTourname
  nt : NA 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-f1c6634a-f25a-484e-8605-3e028e2ca5d3
-DTSTART:20160319T220000Z
+UID:match-ad45ebec-c2b5-4d74-9cb0-5639aa17de75
+DTSTART:20160207T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160319T230000Z
+DTEND:20160207T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:REN vs TSM
+DESCRIPTION:Renegades (REN) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
+ Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f1860197-3986-4a09-8e73-d30035c3638f
+DTSTART:20160116T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:TSM vs CLG
+DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
+  : NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fab8ea2b-6eb9-42ab-b269-3cc9d6aea4e3
+DTSTART:20160117T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160118T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:FOX vs C9
+DESCRIPTION:Echo Fox (FOX) vs Cloud9  (C9)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6ac28a2a-cb9a-4032-b56c-5301d54da845
+DTSTART:20160320T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T220000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
  season/9
-SUMMARY:DIG vs TL
-DESCRIPTION:Team Dignitas (DIG) vs Liquid (TL)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 9\n
+SUMMARY:TIP vs IMT
+DESCRIPTION:Team Impulse (TIP) vs Immortals (IMT)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0d35a37e-76c6-484a-91a0-8d8521a3fd68
+DTSTART:20160213T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160213T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:NRG vs CLG
+DESCRIPTION:NRG Esports (NRG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
+ urnament : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fa9b79d8-2ba0-4eed-9985-d4ba6c1b2733
+DTSTART:20160220T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:CLG vs TIP
+DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO1\nT
+ ournament : NA 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0f8b4f7f-359b-4e80-942a-e3438f5f4ff1
+DTSTART:20160228T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160229T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:REN vs DIG
+DESCRIPTION:Renegades (REN) vs Team Dignitas (DIG)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f37596bc-1647-4481-87eb-ed735a187a40
@@ -1373,6 +477,916 @@ SUMMARY:C9 vs TSM
 DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO5\nTournament : NA 2016 Spr
  ing Split\nWeek : Quarterfinals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160407T130052Z
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f1c6634a-f25a-484e-8605-3e028e2ca5d3
+DTSTART:20160319T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:DIG vs TL
+DESCRIPTION:Team Dignitas (DIG) vs Liquid (TL)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3a574ec8-efc1-4133-a196-d3948ade31bc
+DTSTART:20160319T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:IMT vs TSM
+DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
+ Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9285a10b-c63b-4b41-95fd-a25f08a802ac
+DTSTART:20160117T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:DIG vs CLG
+DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
+ Tournament : NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f8631794-fc4e-4ddc-b33d-28467fa4c0b3
+DTSTART:20160319T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:CLG vs NRG
+DESCRIPTION:Counter Logic Gaming (CLG) vs NRG Esports (NRG)\nType : BO1\nTo
+ urnament : NA 2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c63b5909-4cd6-4df0-a7f8-8528ec5403f6
+DTSTART:20160228T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:TIP vs NRG
+DESCRIPTION:Team Impulse (TIP) vs NRG Esports (NRG)\nType : BO1\nTournament
+  : NA 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e715a9c6-09f3-4080-baa3-c52ec8c6692e
+DTSTART:20160116T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:REN vs TL
+DESCRIPTION:Renegades (REN) vs Liquid (TL)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-02fa5a4f-7f67-437f-9bb1-192d7877788f
+DTSTART:20160206T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160206T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:CLG vs IMT
+DESCRIPTION:Counter Logic Gaming (CLG) vs Immortals (IMT)\nType : BO1\nTour
+ nament : NA 2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-361d0f49-2621-48bd-addf-c4e55d96b708
+DTSTART:20160407T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160407T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_promotion_relegation/Round%201
+SUMMARY:DIG vs TDK
+DESCRIPTION:Team Dignitas (DIG) vs Team Dragon Knights (TDK)\nType : BO5\nT
+ ournament : NA 2016 Spring Split\nWeek : Round 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c86a55b3-8ea8-431f-8b6e-3b0f864f5ea4
+DTSTART:20160407T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160407T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_promotion_relegation/Round%202
+SUMMARY:REN vs TDK
+DESCRIPTION:Renegades (REN) vs Team Dragon Knights (TDK)\nType : BO5\nTourn
+ ament : NA 2016 Spring Split\nWeek : Round 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bae87161-57e5-4529-b0b3-afd507581c6b
+DTSTART:20160313T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:FOX vs DIG
+DESCRIPTION:Echo Fox (FOX) vs Team Dignitas (DIG)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-056395fc-4987-4f70-8fcd-4f431e0b2b60
+DTSTART:20160123T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:TIP vs C9
+DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5ca3c26d-2af3-42c1-8166-e32a83be8d78
+DTSTART:20160131T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:IMT vs REN
+DESCRIPTION:Immortals (IMT) vs Renegades (REN)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f268f5f5-fec9-4f31-8ff5-91654dcd67c5
+DTSTART:20160213T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:TIP vs TSM
+DESCRIPTION:Team Impulse (TIP) vs TSM (TSM)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7810f3db-c4de-4926-ae0b-f62c16174357
+DTSTART:20160124T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160125T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:FOX vs TL
+DESCRIPTION:Echo Fox (FOX) vs Liquid (TL)\nType : BO1\nTournament : NA 2016
+  Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bcd8810c-125b-4e26-a096-5dbdd187a943
+DTSTART:20160130T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160130T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:TIP vs DIG
+DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
+ nt : NA 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d6272882-d1df-4dff-b156-bf8a750c82df
+DTSTART:20160124T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:TSM vs DIG
+DESCRIPTION:TSM (TSM) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9945b7df-5485-4c2f-a4b3-759c82b891e2
+DTSTART:20160123T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:DIG vs REN
+DESCRIPTION:Team Dignitas (DIG) vs Renegades (REN)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ab0dbd05-c150-4041-a252-da145de95ebb
+DTSTART:20160201T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160201T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:CLG vs REN
+DESCRIPTION:Counter Logic Gaming (CLG) vs Renegades (REN)\nType : BO1\nTour
+ nament : NA 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1f8a9847-a82d-4ce8-8b6f-f4caa44e06f6
+DTSTART:20160207T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160207T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:IMT vs TL
+DESCRIPTION:Immortals (IMT) vs Liquid (TL)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f0c6153b-79a7-4a45-bbb9-9ce3db3deaf0
+DTSTART:20160312T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160312T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:REN vs C9
+DESCRIPTION:Renegades (REN) vs Cloud9  (C9)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1b4aad81-5b81-4634-a5a8-dfa24eabcbcb
+DTSTART:20160207T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160207T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:C9 vs NRG
+DESCRIPTION:Cloud9  (C9) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ef217d0d-8bd9-4bb9-9c57-2ed6e04ee521
+DTSTART:20160124T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:NRG vs FOX
+DESCRIPTION:NRG Esports (NRG) vs Echo Fox (FOX)\nType : BO1\nTournament : N
+ A 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ebdb2e4c-11b9-4e9f-a7ac-4b23950cd949
+DTSTART:20160313T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160314T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:FOX vs CLG
+DESCRIPTION:Echo Fox (FOX) vs Counter Logic Gaming (CLG)\nType : BO1\nTourn
+ ament : NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ecd76d66-45fc-49c6-904e-675485aac2ef
+DTSTART:20160206T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160206T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:TL vs DIG
+DESCRIPTION:Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f644face-7d9f-4bfc-9896-03eddf79622c
+DTSTART:20160227T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:NRG vs REN
+DESCRIPTION:NRG Esports (NRG) vs Renegades (REN)\nType : BO1\nTournament : 
+ NA 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bf624333-9c31-474a-8362-45e30f5eb9ab
+DTSTART:20160123T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:TSM vs IMT
+DESCRIPTION:TSM (TSM) vs Immortals (IMT)\nType : BO1\nTournament : NA 2016 
+ Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d2a8ff8d-4e74-4aa8-b99f-9da5aec96f58
+DTSTART:20160312T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:TSM vs TIP
+DESCRIPTION:TSM (TSM) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4403d39e-f613-48a1-b3c7-c8b9479f531f
+DTSTART:20160124T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:CLG vs C9
+DESCRIPTION:Counter Logic Gaming (CLG) vs Cloud9  (C9)\nType : BO1\nTournam
+ ent : NA 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-505de084-1aba-4112-8239-200d66ea3519
+DTSTART:20160403T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160403T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_playoffs/Quarterfinals
+SUMMARY:TL vs NRG
+DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO5\nTournament : NA 2
+ 016 Spring Split\nWeek : Quarterfinals\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a758d97a-8fec-49a8-a26a-fcc1888fe16a
+DTSTART:20160131T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:TL vs TIP
+DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41e3799a-4415-479c-a641-09157cb06794
+DTSTART:20160117T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:TSM vs TL
+DESCRIPTION:TSM (TSM) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 Spri
+ ng Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-97cd5049-d6f9-499a-abf6-bb388a471d50
+DTSTART:20160206T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160206T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:C9 vs REN
+DESCRIPTION:Cloud9  (C9) vs Renegades (REN)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2573ea0a-b277-4a85-b7b2-74c3aa96968d
+DTSTART:20160408T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160408T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_promotion_relegation/Round%203
+SUMMARY:TDK vs APX
+DESCRIPTION:Team Dragon Knights (TDK) vs Apex (APX)\nType : BO5\nTournament
+  : NA 2016 Spring Split\nWeek : Round 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7b2fdc90-2d55-4769-af77-e01029b2728a
+DTSTART:20160116T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:C9 vs IMT
+DESCRIPTION:Cloud9  (C9) vs Immortals (IMT)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-77933566-624e-4a8d-bb4b-833cd12d6eeb
+DTSTART:20160312T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160312T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:CLG vs TL
+DESCRIPTION:Counter Logic Gaming (CLG) vs Liquid (TL)\nType : BO1\nTourname
+ nt : NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4dab28b6-f9ff-4f18-8a52-dbdbc4f8c5e5
+DTSTART:20160313T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:DIG vs IMT
+DESCRIPTION:Team Dignitas (DIG) vs Immortals (IMT)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5d292563-481f-4e50-9452-af1f77e27aa5
+DTSTART:20160124T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:NRG vs IMT
+DESCRIPTION:NRG Esports (NRG) vs Immortals (IMT)\nType : BO1\nTournament : 
+ NA 2016 Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7c4342f8-82e0-4ab2-b729-14b1f0a83699
+DTSTART:20160320T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:REN vs FOX
+DESCRIPTION:Renegades (REN) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-940c9846-3cb7-46f9-bd18-71da52b3ccb9
+DTSTART:20160220T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:REN vs IMT
+DESCRIPTION:Renegades (REN) vs Immortals (IMT)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-595576ab-268c-4654-9647-3c0a0e840469
+DTSTART:20160117T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:REN vs NRG
+DESCRIPTION:Renegades (REN) vs NRG Esports (NRG)\nType : BO1\nTournament : 
+ NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-da247161-dab1-4689-a128-42b97885a833
+DTSTART:20160118T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160118T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:IMT vs TIP
+DESCRIPTION:Immortals (IMT) vs Team Impulse (TIP)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cbb6777d-edea-4f92-9e4f-8ac8aceb39e8
+DTSTART:20160221T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:TL vs FOX
+DESCRIPTION:Liquid (TL) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 2016
+  Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e283eb8d-4ca4-406c-a447-7bcd02258df3
+DTSTART:20160221T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160222T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:TIP vs FOX
+DESCRIPTION:Team Impulse (TIP) vs Echo Fox (FOX)\nType : BO1\nTournament : 
+ NA 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-43c24453-6851-4492-8916-0141bcb520fd
+DTSTART:20160313T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:NRG vs TL
+DESCRIPTION:NRG Esports (NRG) vs Liquid (TL)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7ab19f98-dc0e-402b-a274-9100a31023b6
+DTSTART:20160207T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160207T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:NRG vs TIP
+DESCRIPTION:NRG Esports (NRG) vs Team Impulse (TIP)\nType : BO1\nTournament
+  : NA 2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a2b124d3-2d1e-4277-9eb6-b20c961758d9
+DTSTART:20160214T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:IMT vs DIG
+DESCRIPTION:Immortals (IMT) vs Team Dignitas (DIG)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5bdbdd61-2a2b-4733-a5f6-2d497bf54953
+DTSTART:20160319T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:C9 vs FOX
+DESCRIPTION:Cloud9  (C9) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2279e680-45fb-4edd-9e7b-b23923001a5a
+DTSTART:20160206T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160207T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:TSM vs FOX
+DESCRIPTION:TSM (TSM) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 2016 S
+ pring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b739e9a-1399-4a70-a496-15cccdb5fa86
+DTSTART:20160221T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:DIG vs TSM
+DESCRIPTION:Team Dignitas (DIG) vs TSM (TSM)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b63224a8-b89e-4728-aff0-e71c5d8c2135
+DTSTART:20160227T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:TIP vs TL
+DESCRIPTION:Team Impulse (TIP) vs Liquid (TL)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e61c1a31-d703-4e83-ba1c-d9e4a067a60b
+DTSTART:20160221T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:NRG vs C9
+DESCRIPTION:NRG Esports (NRG) vs Cloud9  (C9)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b422c544-2416-46ec-8e36-8dd291ffa0ff
+DTSTART:20160213T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160213T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:FOX vs REN
+DESCRIPTION:Echo Fox (FOX) vs Renegades (REN)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-639c747f-6c82-4e49-9071-e56c698e929f
+DTSTART:20160214T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:FOX vs NRG
+DESCRIPTION:Echo Fox (FOX) vs NRG Esports (NRG)\nType : BO1\nTournament : N
+ A 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-df049c85-4f26-4c08-a5e5-b53fa4c3cc83
+DTSTART:20160130T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160130T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:TL vs NRG
+DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b55c595-043d-467a-a9d2-a07abdc8afd3
+DTSTART:20160131T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160201T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:FOX vs IMT
+DESCRIPTION:Echo Fox (FOX) vs Immortals (IMT)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0d05d127-a19c-40f3-bc4d-492ea95afcb1
+DTSTART:20160319T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:TIP vs REN
+DESCRIPTION:Team Impulse (TIP) vs Renegades (REN)\nType : BO1\nTournament :
+  NA 2016 Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-93cbe3ea-0b4f-42a7-b097-b5ea6a7dc128
+DTSTART:20160214T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:CLG vs TSM
+DESCRIPTION:Counter Logic Gaming (CLG) vs TSM (TSM)\nType : BO1\nTournament
+  : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a1ff1570-993c-4c19-ada2-6e018699c7f2
+DTSTART:20160116T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:DIG vs NRG
+DESCRIPTION:Team Dignitas (DIG) vs NRG Esports (NRG)\nType : BO1\nTournamen
+ t : NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2eb2690b-90a0-4263-8079-4a073041c9e3
+DTSTART:20160227T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:FOX vs TSM
+DESCRIPTION:Echo Fox (FOX) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 S
+ pring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-001e39c9-43cc-41ec-a05d-f69db2a42380
+DTSTART:20160222T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160222T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:TL vs IMT
+DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cf0346d2-2614-4b2a-987a-a90b80ce0c74
+DTSTART:20160215T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160215T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:DIG vs TIP
+DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
+ nt : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b45fde17-e4c0-418c-9c5d-2de0b7f6b91b
+DTSTART:20160229T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160229T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:IMT vs FOX
+DESCRIPTION:Immortals (IMT) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-113795d3-6119-4330-a645-b5bdb44ae6a6
+DTSTART:20160220T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:NRG vs DIG
+DESCRIPTION:NRG Esports (NRG) vs Team Dignitas (DIG)\nType : BO1\nTournamen
+ t : NA 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8120797c-6305-4045-860e-33d07f153e8e
+DTSTART:20160320T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:TL vs C9
+DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 S
+ pring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ef5400c8-9ad7-4251-a71c-b1780a6be74e
+DTSTART:20160228T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:TL vs TSM
+DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spri
+ ng Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160408T130054Z
 END:VEVENT
 END:VCALENDAR

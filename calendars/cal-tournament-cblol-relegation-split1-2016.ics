@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-cblol-relegation-split1-2016
+X-WR-CALNAME:LoL eSports Cblol relegation split1 2016
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-07e8a17e-ad91-4f8a-8cf3-64ed029cbb45
+DTSTART:20160410T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160410T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_relegation_split1_20
+ 16/schedule/elimination/s%C3%A9rie%20de%20promo%C3%A7%C3%A3o
+SUMMARY:CNB vs REM
+DESCRIPTION:CNB e-Sports Club (CNB) vs Remo Brave eSports (REM)\nType : BO5
+ \nTournament : Relegation for CBLOL split 1 2016\nWeek : série de promoç
+ ão\n
+CATEGORIES:Relegation for CBLOL split 1 2016
+DTSTAMP:20160408T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8e892d9c-63b9-4187-9b21-5c901c022054
+DTSTART:20160409T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160409T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_relegation_split1_20
+ 16/schedule/elimination/s%C3%A9rie%20de%20promo%C3%A7%C3%A3o
+SUMMARY:PNG vs OVL
+DESCRIPTION:paiN Gaming (PNG) vs Overload (OVL)\nType : BO5\nTournament : R
+ elegation for CBLOL split 1 2016\nWeek : série de promoção\n
+CATEGORIES:Relegation for CBLOL split 1 2016
+DTSTAMP:20160408T130102Z
+END:VEVENT
+END:VCALENDAR
