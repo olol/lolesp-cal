@@ -15,7 +15,7 @@ SUMMARY:M3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : Migrated to
  urnament for lpl_2015_summer\nWeek : 3\nWinner : OMG\nLooser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cc13159d-1f81-4589-bff2-3b0727b0d475
@@ -30,7 +30,7 @@ DESCRIPTION:Master3 (M3) vs Qiao Gu Reapers (QG)\nType : BO2\nTournament :
  Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Qiao Gu Reaper
  s\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c573e485-fcfd-4d23-b2e9-78125dda5811
@@ -44,7 +44,7 @@ SUMMARY:M3 vs EDG
 DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO2\nTournament : M
  igrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-73aa8ea8-df1a-4745-856f-a1b2c8d496ba
@@ -58,7 +58,7 @@ SUMMARY:M3 vs HYG
 DESCRIPTION:Master3 (M3) vs Hyper Youth Gaming (HYG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0ca04213-f982-4743-b81d-1179c6951d66
@@ -72,7 +72,7 @@ SUMMARY:M3 vs QG
 DESCRIPTION:Master3 (M3) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : 
  LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3aacff64-0df2-4a68-a59b-7fd0a125ca2e
@@ -86,194 +86,7 @@ SUMMARY:M3 vs SS
 DESCRIPTION:Master3 (M3) vs Snake Esports (SS)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-90158554-663c-4852-8add-2c325c5ebf27
-DTSTART:20150724T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/9
-SUMMARY:QG vs M3
-DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO2\nTournament : 
- Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Master3\nLoose
- r : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-80ee4d92-3b9f-4450-ac69-0cdd2047d7c0
-DTSTART:20150719T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150719T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/8
-SUMMARY:M3 vs LGD
-DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migr
- ated tournament for lpl_2015_summer\nWeek : 8\nWinner : LGD Gaming\nLooser
-  : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c7768a88-a29f-4809-937c-cc30a89819ee
-DTSTART:20150718T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150718T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/8
-SUMMARY:OMG vs M3
-DESCRIPTION:OMG (OMG) vs Master3 (M3)\nType : BO2\nTournament : Migrated to
- urnament for lpl_2015_summer\nWeek : 8\nWinner : OMG\nLooser : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1abe8ab8-d8d8-4577-bf38-82d4e0368dbf
-DTSTART:20150726T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150726T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/9
-SUMMARY:M3 vs VG
-DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO2\nTournament : Migr
- ated tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\nLoose
- r : Vici Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8cf4a1db-e537-498d-a494-0eddb64236bc
-DTSTART:20160319T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:M3 vs RNG
-DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-beb63730-79c3-4edb-b583-6aa92869e6ae
-DTSTART:20160410T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160410T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:EPA vs M3
-DESCRIPTION:Energy Pace Maker (EPA) vs Master3 (M3)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bcbca423-f570-44df-8a97-d30dd0237b48
-DTSTART:20160131T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/3
-SUMMARY:WE vs M3
-DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-152cd0e4-0947-48bc-8bf6-6066caede81e
-DTSTART:20150619T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150619T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/5
-SUMMARY:M3 vs IG
-DESCRIPTION:Master3 (M3) vs Invictus Gaming (IG)\nType : BO2\nTournament : 
- Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Master3\nLoose
- r : Invictus Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ac5b4500-df1c-48db-abed-090eb4e0ae3d
-DTSTART:20150705T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/7
-SUMMARY:UP vs M3
-DESCRIPTION:Unlimited Potential (UP) vs Master3 (M3)\nType : BO2\nTournamen
- t : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Master3\nL
- ooser : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2de32150-ec68-4fd0-be8d-be32e427d8c1
-DTSTART:20160317T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160317T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:M3 vs EDG
-DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO3\nTournament : L
- PL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3d0369d2-3205-4345-90ef-cedc3e8f01e5
-DTSTART:20160327T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/8
-SUMMARY:M3 vs WE
-DESCRIPTION:Master3 (M3) vs Team World Elite (WE)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f25941c8-6f06-4957-a738-6497fbd3f01b
-DTSTART:20160123T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/2
-SUMMARY:QG vs M3
-DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO3\nTournament : 
- LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8b47a82d-cbd6-4e06-b5fd-8beef4257328
-DTSTART:20160408T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160408T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:M3 vs LGD
-DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-aab93dfe-8108-41a2-ae26-30d0ded42ae1
@@ -288,7 +101,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Master3 (M3)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Master3\n
  Looser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c34e51a2-98fa-44b7-aa17-b2dcb77d8755
@@ -303,7 +116,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Master3 (M3)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 2\nWinner : Master3\nLooser : 
  Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d7dc10ed-9483-43eb-a14b-0fd83e5ffb4d
@@ -318,7 +131,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : M
  igrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Edward Gaming\n
  Looser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f4743b0-3cc8-409a-b511-7b5ad52391b9
@@ -333,7 +146,7 @@ DESCRIPTION:Master3 (M3) vs Unlimited Potential (UP)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Master3\nL
  ooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8c8b4ae2-2b0e-40cf-a852-12173fa13b6f
@@ -347,7 +160,7 @@ SUMMARY:M3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO3\nTournament : LPL 2016 Sp
  ring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fef1333f-ffe3-4df4-95b8-da11a4efe859
@@ -361,7 +174,7 @@ SUMMARY:SS vs M3
 DESCRIPTION:Snake Esports (SS) vs Master3 (M3)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4702b2d2-1779-466a-bcb6-8daf43d6d745
@@ -375,7 +188,194 @@ SUMMARY:M3 vs IG
 DESCRIPTION:Master3 (M3) vs Invictus Gaming (IG)\nType : BO3\nTournament : 
  LPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-152cd0e4-0947-48bc-8bf6-6066caede81e
+DTSTART:20150619T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/5
+SUMMARY:M3 vs IG
+DESCRIPTION:Master3 (M3) vs Invictus Gaming (IG)\nType : BO2\nTournament : 
+ Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Master3\nLoose
+ r : Invictus Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ac5b4500-df1c-48db-abed-090eb4e0ae3d
+DTSTART:20150705T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:UP vs M3
+DESCRIPTION:Unlimited Potential (UP) vs Master3 (M3)\nType : BO2\nTournamen
+ t : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Master3\nL
+ ooser : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2de32150-ec68-4fd0-be8d-be32e427d8c1
+DTSTART:20160317T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:M3 vs EDG
+DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO3\nTournament : L
+ PL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3d0369d2-3205-4345-90ef-cedc3e8f01e5
+DTSTART:20160327T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160327T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/8
+SUMMARY:M3 vs WE
+DESCRIPTION:Master3 (M3) vs Team World Elite (WE)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f25941c8-6f06-4957-a738-6497fbd3f01b
+DTSTART:20160123T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/2
+SUMMARY:QG vs M3
+DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO3\nTournament : 
+ LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8b47a82d-cbd6-4e06-b5fd-8beef4257328
+DTSTART:20160408T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160408T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:M3 vs LGD
+DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-90158554-663c-4852-8add-2c325c5ebf27
+DTSTART:20150724T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/9
+SUMMARY:QG vs M3
+DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO2\nTournament : 
+ Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Master3\nLoose
+ r : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-80ee4d92-3b9f-4450-ac69-0cdd2047d7c0
+DTSTART:20150719T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/8
+SUMMARY:M3 vs LGD
+DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migr
+ ated tournament for lpl_2015_summer\nWeek : 8\nWinner : LGD Gaming\nLooser
+  : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c7768a88-a29f-4809-937c-cc30a89819ee
+DTSTART:20150718T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/8
+SUMMARY:OMG vs M3
+DESCRIPTION:OMG (OMG) vs Master3 (M3)\nType : BO2\nTournament : Migrated to
+ urnament for lpl_2015_summer\nWeek : 8\nWinner : OMG\nLooser : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1abe8ab8-d8d8-4577-bf38-82d4e0368dbf
+DTSTART:20150726T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150726T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/9
+SUMMARY:M3 vs VG
+DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO2\nTournament : Migr
+ ated tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\nLoose
+ r : Vici Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8cf4a1db-e537-498d-a494-0eddb64236bc
+DTSTART:20160319T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:M3 vs RNG
+DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-beb63730-79c3-4edb-b583-6aa92869e6ae
+DTSTART:20160410T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160410T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:EPA vs M3
+DESCRIPTION:Energy Pace Maker (EPA) vs Master3 (M3)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bcbca423-f570-44df-8a97-d30dd0237b48
+DTSTART:20160131T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/3
+SUMMARY:WE vs M3
+DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8854cc21-75d5-4cac-952a-57b0cf01e85c
@@ -390,7 +390,7 @@ DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Master3\nLoos
  er : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53a2c5ac-3865-4679-be05-70a85279980f
@@ -405,7 +405,7 @@ DESCRIPTION:Vici Gaming (VG) vs Master3 (M3)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 5\nWinner : Master3\nLooser : 
  Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1ad46c00-04e5-4ef8-ae72-72a4fc312c9a
@@ -419,7 +419,7 @@ SUMMARY:M3 vs KNG
 DESCRIPTION:Master3 (M3) vs King (KNG)\nType : BO2\nTournament : Migrated t
  ournament for lpl_2015_summer\nWeek : 1\nWinner : Master3\nLooser : King\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7217da4a-f693-47b6-a42b-343f39cd29fa
@@ -434,7 +434,7 @@ DESCRIPTION:Master3 (M3) vs Snake Esports (SS)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 6\nWinner : Snake Esports\nL
  ooser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7207f7ea-d839-4883-a7f7-19e9bb8443a8
@@ -449,7 +449,7 @@ DESCRIPTION:Master3 (M3) vs Royal Never Give Up (RNG)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Master3\n
  Looser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7cd08cab-bee1-4578-8aa2-dd9ea2cc1c07
@@ -464,7 +464,7 @@ DESCRIPTION:King (KNG) vs Master3 (M3)\nType : BO2\nTournament : Migrated t
  ournament for lpl_2015_summer\nWeek : 7\nWinner : Master3\nLooser : Master
  3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcbab89a-ac9a-4c76-99a2-d2cd5ef313e9
@@ -479,7 +479,7 @@ DESCRIPTION:Master3 (M3) vs Team World Elite (WE)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Team World El
  ite\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3345b0af-5f81-4a74-8726-7133b2fe9ef2
@@ -494,7 +494,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Master3 (M3)\nType : BO2\nTournament :
  Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Invictus Gami
  ng\nLooser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8bd37182-4ce1-4dbe-a3cc-192cab9710ee
@@ -509,7 +509,7 @@ DESCRIPTION:Snake Esports (SS) vs Master3 (M3)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 10\nWinner : Snake Esports\n
  Looser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-11322be2-822c-4812-9cdf-ab350b6c98cc
@@ -523,7 +523,7 @@ SUMMARY:M3 vs VG
 DESCRIPTION:Master3 (M3) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3d9792b9-dadf-49c6-9a2f-129594dbf253
@@ -537,7 +537,7 @@ SUMMARY:M3 vs LGD
 DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c8a846ab-1932-4772-a605-5a1976ae9766
@@ -551,6 +551,6 @@ SUMMARY:M3 vs EPA
 DESCRIPTION:Master3 (M3) vs Energy Pace Maker (EPA)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 END:VCALENDAR

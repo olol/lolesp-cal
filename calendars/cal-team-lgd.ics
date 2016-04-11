@@ -16,7 +16,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs LGD Gaming (LGD)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : LGD G
  aming\nLooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89616530-d931-414e-8538-5fa426d8fdbe
@@ -31,7 +31,7 @@ DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO2\nTournament :
  Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Vici Gaming\nL
  ooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-98f4501c-9108-48ba-8414-18fab948cae3
@@ -46,7 +46,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Esport
  s\nLooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4c688442-1551-42f7-80f5-c9ad453921d5
@@ -61,7 +61,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Edward Gaming (EDG)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Edward Gami
  ng\nLooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0eb67b5-d2f8-4a7a-84f4-ebe5e6d98ccb
@@ -75,7 +75,7 @@ SUMMARY:LGD vs QG
 DESCRIPTION:LGD Gaming (LGD) vs Qiao Gu Reapers (QG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8062728b-3a73-4efc-8090-29a0b7025e02
@@ -89,7 +89,7 @@ SUMMARY:WE vs LGD
 DESCRIPTION:Team World Elite (WE) vs LGD Gaming (LGD)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a02b0e41-80e3-4991-93e9-465a391d3e7f
@@ -103,7 +103,7 @@ SUMMARY:SS vs LGD
 DESCRIPTION:Snake Esports (SS) vs LGD Gaming (LGD)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ecaa024e-1736-43c5-bd3a-028e3a776d13
@@ -117,7 +117,7 @@ SUMMARY:EDG vs LGD
 DESCRIPTION:Edward Gaming (EDG) vs LGD Gaming (LGD)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b6667a18-6d49-46ef-be7f-f45fdfe21235
@@ -131,208 +131,7 @@ SUMMARY:LGD vs RNG
 DESCRIPTION:LGD Gaming (LGD) vs Royal Never Give Up (RNG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-80ee4d92-3b9f-4450-ac69-0cdd2047d7c0
-DTSTART:20150719T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150719T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/8
-SUMMARY:M3 vs LGD
-DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migr
- ated tournament for lpl_2015_summer\nWeek : 8\nWinner : LGD Gaming\nLooser
-  : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-be0fa613-b266-414b-aac1-ce4e9caa08d8
-DTSTART:20150718T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150718T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/8
-SUMMARY:SS vs LGD
-DESCRIPTION:Snake Esports (SS) vs LGD Gaming (LGD)\nType : BO2\nTournament 
- : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : LGD Gaming\n
- Looser : LGD Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8f08e23b-06c5-4a18-9961-0286240e9d28
-DTSTART:20150809T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150809T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/11
-SUMMARY:LGD vs VG
-DESCRIPTION:LGD Gaming (LGD) vs Vici Gaming (VG)\nType : BO2\nTournament : 
- Migrated tournament for lpl_2015_summer\nWeek : 11\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b0486e50-510f-4d28-b7d8-1c627267f2cd
-DTSTART:20150808T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150808T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/11
-SUMMARY:LGD vs OMG
-DESCRIPTION:LGD Gaming (LGD) vs OMG (OMG)\nType : BO2\nTournament : Migrate
- d tournament for lpl_2015_summer\nWeek : 11\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c3d44055-f5bb-4d96-a96d-47430a46a49a
-DTSTART:20160310T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160310T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:LGD vs OMG
-DESCRIPTION:LGD Gaming (LGD) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
- 6 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-736be5ed-fc55-458e-84ab-aa6356f72406
-DTSTART:20160228T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:IG vs LGD
-DESCRIPTION:Invictus Gaming (IG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ad073804-2119-413d-8cc7-fc072739a58b
-DTSTART:20160131T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:EPA vs LGD
-DESCRIPTION:Energy Pace Maker (EPA) vs LGD Gaming (LGD)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b9863182-384a-481c-af5f-4b6d79cea5f5
-DTSTART:20150522T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150522T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/1
-SUMMARY:QG vs LGD
-DESCRIPTION:Qiao Gu Reapers (QG) vs LGD Gaming (LGD)\nType : BO2\nTournamen
- t : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Qiao Gu Re
- apers\nLooser : LGD Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-287000c9-7252-4ead-8569-85a2bc9ed92e
-DTSTART:20150627T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150627T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/6
-SUMMARY:UP vs LGD
-DESCRIPTION:Unlimited Potential (UP) vs LGD Gaming (LGD)\nType : BO2\nTourn
- ament : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : LGD Ga
- ming\nLooser : LGD Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5f83b959-aac7-4169-a6c1-1ec5089a3234
-DTSTART:20150626T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/6
-SUMMARY:EDG vs LGD
-DESCRIPTION:Edward Gaming (EDG) vs LGD Gaming (LGD)\nType : BO2\nTournament
-  : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : LGD Gaming\
- nLooser : LGD Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-14d16646-09b4-4add-ad43-85a9ac53f251
-DTSTART:20160123T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:LGD vs WE
-DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-42df839a-9d6f-4738-901e-058f74fcdca5
-DTSTART:20160312T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160312T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:VG vs LGD
-DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO3\nTournament : 
- LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-da3f7834-51df-4cc2-9995-c957aa87d56d
-DTSTART:20160117T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:LGD vs SS
-DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8b47a82d-cbd6-4e06-b5fd-8beef4257328
-DTSTART:20160408T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160408T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:M3 vs LGD
-DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89956a80-254a-4318-8381-50cad3b226c9
@@ -347,7 +146,7 @@ DESCRIPTION:Team World Elite (WE) vs LGD Gaming (LGD)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : LGD Gamin
  g\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c34e51a2-98fa-44b7-aa17-b2dcb77d8755
@@ -362,7 +161,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Master3 (M3)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 2\nWinner : Master3\nLooser : 
  Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-65faf50b-a8e1-42c5-aaaa-7ee4b53c21ba
@@ -377,7 +176,7 @@ DESCRIPTION:OMG (OMG) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migrate
  d tournament for lpl_2015_summer\nWeek : 5\nWinner : LGD Gaming\nLooser : 
  OMG\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2f7e51d0-168f-40db-9cb9-b551238cae94
@@ -392,7 +191,7 @@ DESCRIPTION:King (KNG) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migrat
  ed tournament for lpl_2015_summer\nWeek : 4\nWinner : LGD Gaming\nLooser :
   LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a247983-837f-4d9d-abe3-82bf4500e2d5
@@ -407,7 +206,7 @@ DESCRIPTION:LGD Gaming (LGD) vs King (KNG)\nType : BO2\nTournament : Migrat
  ed tournament for lpl_2015_summer\nWeek : 10\nWinner : King\nLooser : King
  \n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4371f7b1-6ef4-444c-9853-6350338a659d
@@ -422,7 +221,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Qiao Gu Reapers (QG)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Qiao Gu Re
  apers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ca05fbe9-ce40-415f-b08d-a132c9676ad0
@@ -437,7 +236,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : LGD Gamin
  g\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8d53aa37-3f06-4b5e-a377-56ee1efd8116
@@ -451,7 +250,208 @@ SUMMARY:HYG vs LGD
 DESCRIPTION:Hyper Youth Gaming (HYG) vs LGD Gaming (LGD)\nType : BO3\nTourn
  ament : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b9863182-384a-481c-af5f-4b6d79cea5f5
+DTSTART:20150522T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/1
+SUMMARY:QG vs LGD
+DESCRIPTION:Qiao Gu Reapers (QG) vs LGD Gaming (LGD)\nType : BO2\nTournamen
+ t : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Qiao Gu Re
+ apers\nLooser : LGD Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-287000c9-7252-4ead-8569-85a2bc9ed92e
+DTSTART:20150627T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150627T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/6
+SUMMARY:UP vs LGD
+DESCRIPTION:Unlimited Potential (UP) vs LGD Gaming (LGD)\nType : BO2\nTourn
+ ament : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : LGD Ga
+ ming\nLooser : LGD Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5f83b959-aac7-4169-a6c1-1ec5089a3234
+DTSTART:20150626T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/6
+SUMMARY:EDG vs LGD
+DESCRIPTION:Edward Gaming (EDG) vs LGD Gaming (LGD)\nType : BO2\nTournament
+  : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : LGD Gaming\
+ nLooser : LGD Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-14d16646-09b4-4add-ad43-85a9ac53f251
+DTSTART:20160123T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:LGD vs WE
+DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-42df839a-9d6f-4738-901e-058f74fcdca5
+DTSTART:20160312T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160312T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:VG vs LGD
+DESCRIPTION:Vici Gaming (VG) vs LGD Gaming (LGD)\nType : BO3\nTournament : 
+ LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-da3f7834-51df-4cc2-9995-c957aa87d56d
+DTSTART:20160117T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:LGD vs SS
+DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8b47a82d-cbd6-4e06-b5fd-8beef4257328
+DTSTART:20160408T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160408T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:M3 vs LGD
+DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-80ee4d92-3b9f-4450-ac69-0cdd2047d7c0
+DTSTART:20150719T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150719T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/8
+SUMMARY:M3 vs LGD
+DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migr
+ ated tournament for lpl_2015_summer\nWeek : 8\nWinner : LGD Gaming\nLooser
+  : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-be0fa613-b266-414b-aac1-ce4e9caa08d8
+DTSTART:20150718T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150718T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/8
+SUMMARY:SS vs LGD
+DESCRIPTION:Snake Esports (SS) vs LGD Gaming (LGD)\nType : BO2\nTournament 
+ : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : LGD Gaming\n
+ Looser : LGD Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8f08e23b-06c5-4a18-9961-0286240e9d28
+DTSTART:20150809T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150809T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/11
+SUMMARY:LGD vs VG
+DESCRIPTION:LGD Gaming (LGD) vs Vici Gaming (VG)\nType : BO2\nTournament : 
+ Migrated tournament for lpl_2015_summer\nWeek : 11\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b0486e50-510f-4d28-b7d8-1c627267f2cd
+DTSTART:20150808T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/11
+SUMMARY:LGD vs OMG
+DESCRIPTION:LGD Gaming (LGD) vs OMG (OMG)\nType : BO2\nTournament : Migrate
+ d tournament for lpl_2015_summer\nWeek : 11\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c3d44055-f5bb-4d96-a96d-47430a46a49a
+DTSTART:20160310T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:LGD vs OMG
+DESCRIPTION:LGD Gaming (LGD) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
+ 6 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-736be5ed-fc55-458e-84ab-aa6356f72406
+DTSTART:20160228T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:IG vs LGD
+DESCRIPTION:Invictus Gaming (IG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ad073804-2119-413d-8cc7-fc072739a58b
+DTSTART:20160131T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:EPA vs LGD
+DESCRIPTION:Energy Pace Maker (EPA) vs LGD Gaming (LGD)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ec632e57-3321-4f75-9cd9-f15c0a8319c8
@@ -466,7 +466,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Invictus Gaming (IG)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Invictus G
  aming\nLooser : Invictus Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-27756fc2-baf4-45cb-83e2-fbfefe1fde4b
@@ -481,7 +481,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Royal Never Give Up (RNG)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : LGD G
  aming\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1209e433-514a-4796-8b5c-086ab076265f
@@ -495,7 +495,7 @@ SUMMARY:IG vs LGD
 DESCRIPTION:Invictus Gaming (IG) vs LGD Gaming (LGD)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3d9792b9-dadf-49c6-9a2f-129594dbf253
@@ -509,7 +509,7 @@ SUMMARY:M3 vs LGD
 DESCRIPTION:Master3 (M3) vs LGD Gaming (LGD)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39f12dd5-41f6-4020-ab7a-78c91a1dca05
@@ -523,7 +523,7 @@ SUMMARY:EPA vs LGD
 DESCRIPTION:Energy Pace Maker (EPA) vs LGD Gaming (LGD)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36e27109-be3b-4d1a-bd52-b3e6800b771a
@@ -537,7 +537,7 @@ SUMMARY:QG vs LGD
 DESCRIPTION:Qiao Gu Reapers (QG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbe5227b-c24d-46cb-be52-632577c52936
@@ -552,7 +552,7 @@ DESCRIPTION:Origen (OG) vs LGD Gaming (LGD)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-7\nWinner : LGD Gaming\nLooser : 
  Origen\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac047b2b-89d0-425a-9ca9-5659ad9ad48a
@@ -567,7 +567,7 @@ DESCRIPTION:LGD Gaming (LGD) vs TSM (TSM)\nType : BO1\nTournament : The 201
  5 World Championship\nWeek : paris-day-7\nWinner : LGD Gaming\nLooser : TS
  M\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78a3db38-d827-4b71-980c-30afa31fa836
@@ -582,7 +582,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Origen (OG)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-2\nWinner : Origen\nLooser : LGD 
  Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-620dd9bf-4279-4716-8d3f-6819a8b893f5
@@ -597,7 +597,7 @@ DESCRIPTION:LGD Gaming (LGD) vs KT Rolster (KT)\nType : BO1\nTournament : T
  he 2015 World Championship\nWeek : paris-day-3\nWinner : KT Rolster\nLoose
  r : LGD Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69399c33-527a-4bca-b485-eb97cd37a249
@@ -612,7 +612,7 @@ DESCRIPTION:TSM (TSM) vs LGD Gaming (LGD)\nType : BO1\nTournament : The 201
  5 World Championship\nWeek : paris-day-4\nWinner : TSM\nLooser : LGD Gamin
  g\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd1e125b-7dbc-49bd-8b02-6dfbdea2e088
@@ -627,6 +627,6 @@ DESCRIPTION:KT Rolster (KT) vs LGD Gaming (LGD)\nType : BO1\nTournament : T
  he 2015 World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLoose
  r : LGD Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130058Z
+DTSTAMP:20160411T130111Z
 END:VEVENT
 END:VCALENDAR

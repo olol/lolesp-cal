@@ -16,7 +16,7 @@ DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-80505e12-b31e-4c7f-94d0-3db27f1f2cc8
@@ -30,7 +30,7 @@ SUMMARY:FNC vs ROC
 DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-14805e5b-ea1d-4b69-ab23-6c6edf539b23
@@ -44,7 +44,7 @@ SUMMARY:FNC vs G2
 DESCRIPTION:Fnatic (FNC) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
  16 Spring Split\nWeek : 6\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-09a138cd-c1f4-47b5-a303-39f541583ee4
@@ -58,123 +58,7 @@ SUMMARY:FNC vs VIT
 DESCRIPTION:Fnatic (FNC) vs Team Vitality (VIT)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d24bff4e-d81e-45a3-8f11-a6d04f2d6ee3
-DTSTART:20150625T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150625T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:FNC vs H2K
-DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
- urnament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser : H2K\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-07ef9530-69c2-4116-85c6-d9894c9b7068
-DTSTART:20150605T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:GMB vs FNC
-DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : M
- igrated tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser :
-  Gambit Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4adc8c6b-3008-4a9c-a9e3-85adc5b4d1c6
-DTSTART:20150717T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150717T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/8
-SUMMARY:EL vs FNC
-DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : Migrate
- d tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : Eleme
- nts\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-06448f6f-a4fa-44a0-aab3-557b3667897f
-DTSTART:20150716T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150716T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/8
-SUMMARY:ROC vs FNC
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : ROCCAT
- \n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f40cb2f1-9fd6-47ac-ac8b-72d71da68d60
-DTSTART:20150723T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150723T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/9
-SUMMARY:SKG vs FNC
-DESCRIPTION:SK Gaming (SKG) vs Fnatic (FNC)\nType : BO1\nTournament : Migra
- ted tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLooser : SK 
- Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d13671bc-a0dd-4520-a617-43f7f67a002d
-DTSTART:20160225T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160225T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/7
-SUMMARY:H2K vs FNC
-DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 Spr
- ing Split\nWeek : 7\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ce43758d-4450-440f-b9cc-a69dd2060c2a
-DTSTART:20160204T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160204T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/4
-SUMMARY:GIA vs FNC
-DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
- Spring Split\nWeek : 4\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b7be0749-4284-4770-a18a-535c8b37b6e8
-DTSTART:20160410T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160410T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
- spring_playoffs/Semifinals
-SUMMARY:G2 vs FNC
-DESCRIPTION:G2 Esports (G2) vs Fnatic (FNC)\nType : BO5\nTournament : EU 20
- 16 Spring Split\nWeek : Semifinals\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d124737a-cf26-4e98-a5fa-1b4e35f2118b
@@ -189,7 +73,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLoose
  r : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e45e554-20a7-48fa-8bd6-1bed9345be3f
@@ -203,7 +87,21 @@ SUMMARY:FNC vs UOL
 DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO3\nTournament 
  : Generated tournament for the 2015 summer playoffs\nWeek : semifinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e934dab3-d36b-42e2-b622-abe06b7b6720
+DTSTART:20160416T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160416T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
+ spring_playoffs/Finals
+SUMMARY:H2K vs FNC
+DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO5\nTournament : EU 2016 Spr
+ ing Split\nWeek : Finals\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-628326ae-046b-4a2e-a050-18bfe2b3394b
@@ -217,7 +115,7 @@ SUMMARY:FNC vs SPY
 DESCRIPTION:Fnatic (FNC) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee38df28-79a8-4471-90db-8d819f61f49f
@@ -231,136 +129,123 @@ SUMMARY:VIT vs FNC
 DESCRIPTION:Team Vitality (VIT) vs Fnatic (FNC)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-7cafbf72-0041-4444-a023-b1b2e3ec0820
-DTSTART:20150612T160000Z
+UID:match-d24bff4e-d81e-45a3-8f11-a6d04f2d6ee3
+DTSTART:20150625T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150612T170000Z
+DTEND:20150625T200000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:FNC vs GIA
-DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Giants
+ lcs-summer/5
+SUMMARY:FNC vs H2K
+DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
+ urnament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser : H2K\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-07ef9530-69c2-4116-85c6-d9894c9b7068
+DTSTART:20150605T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:GMB vs FNC
+DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : M
+ igrated tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser :
+  Gambit Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4adc8c6b-3008-4a9c-a9e3-85adc5b4d1c6
+DTSTART:20150717T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150717T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:EL vs FNC
+DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : Eleme
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-06448f6f-a4fa-44a0-aab3-557b3667897f
+DTSTART:20150716T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150716T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/8
+SUMMARY:ROC vs FNC
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-d61f0bd8-417d-4096-a41c-f443ed5e61c4
-DTSTART:20150529T190000Z
+UID:match-f40cb2f1-9fd6-47ac-ac8b-72d71da68d60
+DTSTART:20150723T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150529T200000Z
+DTEND:20150723T190000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:FNC vs SKG
-DESCRIPTION:Fnatic (FNC) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
- ted tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLooser : SK 
+ lcs-summer/9
+SUMMARY:SKG vs FNC
+DESCRIPTION:SK Gaming (SKG) vs Fnatic (FNC)\nType : BO1\nTournament : Migra
+ ted tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLooser : SK 
  Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-3a488add-64ea-4b4b-947c-6b757dd10f2c
-DTSTART:20150703T180000Z
+UID:match-d13671bc-a0dd-4520-a617-43f7f67a002d
+DTSTART:20160225T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150703T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:FNC vs CW
-DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLoose
- r : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTEND:20160225T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:H2K vs FNC
+DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 Spr
+ ing Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-086c8e9b-d976-4eeb-b461-7c4e06fc9ef4
-DTSTART:20150823T150000Z
+UID:match-ce43758d-4450-440f-b9cc-a69dd2060c2a
+DTSTART:20160204T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150823T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
- /eu_2015_summer_playoffs/finals
-SUMMARY:FNC vs OG
-DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO5\nTournament : Generated
-  tournament for the 2015 summer playoffs\nWeek : finals\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3547016f-eedc-4392-9271-99633d16ea09
-DTSTART:20160205T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160205T220000Z
+DTEND:20160204T190000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
  season/4
-SUMMARY:ROC vs FNC
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
+SUMMARY:GIA vs FNC
+DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 4\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-be0024a8-1e6a-4cd6-8f2b-ac93fe1607f5
-DTSTART:20160128T190000Z
+UID:match-b7be0749-4284-4770-a18a-535c8b37b6e8
+DTSTART:20160410T150000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160128T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/3
+DTEND:20160410T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
+ spring_playoffs/Semifinals
 SUMMARY:G2 vs FNC
-DESCRIPTION:G2 Esports (G2) vs Fnatic (FNC)\nType : BO1\nTournament : EU 20
- 16 Spring Split\nWeek : 3\n
+DESCRIPTION:G2 Esports (G2) vs Fnatic (FNC)\nType : BO5\nTournament : EU 20
+ 16 Spring Split\nWeek : Semifinals\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5a5ad78a-d9b3-4a39-aac5-bf2fab02e950
-DTSTART:20160211T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160211T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/5
-SUMMARY:FNC vs EL
-DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : EU 2016
-  Spring Split\nWeek : 5\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-41a3aae2-5fce-4f41-a4f9-5eb6093d4a73
-DTSTART:20160310T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160310T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/8
-SUMMARY:FNC vs GIA
-DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
- Spring Split\nWeek : 8\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e152e312-6cae-45a7-83c8-bb1acaa60fcc
-DTSTART:20160122T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160122T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/2
-SUMMARY:FNC vs UOL
-DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
- : EU 2016 Spring Split\nWeek : 2\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d03bd4c7-857b-4917-a085-13ddfafb92ce
@@ -375,7 +260,7 @@ DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7f677e9f-f18f-45cb-b75e-ba9d7914ce88
@@ -390,7 +275,7 @@ DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ada4c537-f698-4df0-b323-2d70ebea4b42
@@ -405,7 +290,7 @@ DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 4\nWinner : Fnatic\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e5fe9677-9a58-4b10-86f9-422fce9ee234
@@ -420,7 +305,7 @@ DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Eleme
  nts\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c57d6214-7e8a-4bbc-a0c5-f8ff1a3a4f2a
@@ -435,7 +320,7 @@ DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLooser : Giants
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a06b1974-1553-4c61-92f8-04f0d5fb3735
@@ -449,7 +334,7 @@ SUMMARY:H2K vs FNC
 DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f0c8b2f3-b981-4ba8-bcd6-b6f76c7b6c60
@@ -464,7 +349,7 @@ DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Fnatic\nLoose
  r : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1fa16104-1fe1-46f9-bdff-9dbe28321326
@@ -478,7 +363,7 @@ SUMMARY:UOL vs FNC
 DESCRIPTION:Unicorns of Love (UOL) vs Fnatic (FNC)\nType : BO1\nTournament 
  : EU 2016 Spring Split\nWeek : 5\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0cae384-2d17-4322-90bf-49bf257d0d31
@@ -492,7 +377,7 @@ SUMMARY:EL vs FNC
 DESCRIPTION:Elements (EL) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016
   Spring Split\nWeek : 9\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c0b8175-974e-4f08-bccb-d03fd43c2d9d
@@ -506,7 +391,7 @@ SUMMARY:OG vs FNC
 DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 9\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-11e4354b-b0a7-4e61-a05c-e313d00cc882
@@ -520,7 +405,7 @@ SUMMARY:FNC vs OG
 DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-afaed9bf-01c2-40a0-a740-eb188cb8b74b
@@ -534,7 +419,7 @@ SUMMARY:VIT vs FNC
 DESCRIPTION:Team Vitality (VIT) vs Fnatic (FNC)\nType : BO5\nTournament : E
  U 2016 Spring Split\nWeek : Quarterfinals\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5836bd8e-b41e-4bbe-aa29-4ba869effd5a
@@ -548,7 +433,7 @@ SUMMARY:FNC vs H2K
 DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-231dc995-c1fb-454d-8961-b47c9ed8e094
@@ -562,7 +447,136 @@ SUMMARY:SPY vs FNC
 DESCRIPTION:Splyce (SPY) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 6\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7cafbf72-0041-4444-a023-b1b2e3ec0820
+DTSTART:20150612T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/3
+SUMMARY:FNC vs GIA
+DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d61f0bd8-417d-4096-a41c-f443ed5e61c4
+DTSTART:20150529T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:FNC vs SKG
+DESCRIPTION:Fnatic (FNC) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
+ ted tournament for eu_2015_summer\nWeek : 1\nWinner : Fnatic\nLooser : SK 
+ Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3a488add-64ea-4b4b-947c-6b757dd10f2c
+DTSTART:20150703T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:FNC vs CW
+DESCRIPTION:Fnatic (FNC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-086c8e9b-d976-4eeb-b461-7c4e06fc9ef4
+DTSTART:20150823T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
+ /eu_2015_summer_playoffs/finals
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO5\nTournament : Generated
+  tournament for the 2015 summer playoffs\nWeek : finals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3547016f-eedc-4392-9271-99633d16ea09
+DTSTART:20160205T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:ROC vs FNC
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-be0024a8-1e6a-4cd6-8f2b-ac93fe1607f5
+DTSTART:20160128T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160128T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/3
+SUMMARY:G2 vs FNC
+DESCRIPTION:G2 Esports (G2) vs Fnatic (FNC)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5a5ad78a-d9b3-4a39-aac5-bf2fab02e950
+DTSTART:20160211T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160211T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:FNC vs EL
+DESCRIPTION:Fnatic (FNC) vs Elements (EL)\nType : BO1\nTournament : EU 2016
+  Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41a3aae2-5fce-4f41-a4f9-5eb6093d4a73
+DTSTART:20160310T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160310T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/8
+SUMMARY:FNC vs GIA
+DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 8\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160411T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e152e312-6cae-45a7-83c8-bb1acaa60fcc
+DTSTART:20160122T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:FNC vs UOL
+DESCRIPTION:Fnatic (FNC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5d67b8a0-dcd0-4e71-b339-5fe46f04ac14
@@ -577,7 +591,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Fnatic (FNC)\nType : BO1\nTournament :
  The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser :
   Invictus Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5deddc1b-8a0d-421b-8784-449fb5053e35
@@ -592,7 +606,7 @@ DESCRIPTION:Cloud9  (C9) vs Fnatic (FNC)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-4\nWinner : Cloud9 \nLooser : Fnatic
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22851f97-7555-494d-b234-1e4bbeaf8dd5
@@ -607,7 +621,7 @@ DESCRIPTION:Fnatic (FNC) vs Invictus Gaming (IG)\nType : BO1\nTournament :
  The 2015 World Championship\nWeek : paris-day-1\nWinner : Fnatic\nLooser :
   Invictus Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc87a054-6895-4db3-a0ad-63aba1332206
@@ -622,7 +636,7 @@ DESCRIPTION:Fnatic (FNC) vs ahq e-Sports Club (AHQ)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLoose
  r : ahq e-Sports Club\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6d7d736-56c1-4eaa-b9d0-28a92f994503
@@ -636,7 +650,7 @@ SUMMARY:FNC vs EDG
 DESCRIPTION:Fnatic (FNC) vs Edward Gaming (EDG)\nType : BO5\nTournament : T
  he 2015 World Championship\nWeek : london-day-3\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fecf171a-ae6c-4699-95e2-654f15153139
@@ -650,7 +664,7 @@ SUMMARY:FNC vs ROX
 DESCRIPTION:Fnatic (FNC) vs ROX Tigers (ROX)\nType : BO5\nTournament : The 
  2015 World Championship\nWeek : brussels-day-2\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dd7bfe7d-cd4c-4b33-99a7-ee014c14aff7
@@ -665,7 +679,7 @@ DESCRIPTION:Fnatic (FNC) vs Cloud9  (C9)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-8\nWinner : Fnatic\nLooser : Cloud9 
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16689429-96bd-47f2-9429-275eb08064b6
@@ -680,6 +694,6 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Fnatic (FNC)\nType : BO1\nTournament
   : The 2015 World Championship\nWeek : paris-day-3\nWinner : ahq e-Sports 
  Club\nLooser : Fnatic\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160408T130054Z
+DTSTAMP:20160411T130109Z
 END:VEVENT
 END:VCALENDAR

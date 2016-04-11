@@ -4,20 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-eu-2015-regionals
 X-WR-CALNAME:LoL eSports Eu 2015 regionals
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-ab8ff511-f17b-4dba-8169-25c5f2d05ee2
-DTSTART:20150831T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150831T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_regionals/schedule/eu_20
- 15_regionals/quarterfinals
-SUMMARY:GIA vs ROC
-DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
- ummer regional playoffs\nWeek : quarterfinals\n
-CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160408T130055Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-357320c5-b8d9-469f-8c95-1c74826e4f94
 DTSTART:20150830T150000Z
 SEQUENCE:0
@@ -29,7 +15,7 @@ SUMMARY:UOL vs OG
 DESCRIPTION:Unicorns of Love (UOL) vs Origen (OG)\nType : BO5\nTournament :
   EU LCS Summer regional playoffs\nWeek : finals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160408T130055Z
+DTSTAMP:20160411T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc252aac-9fdb-4439-afee-5869778ba600
@@ -43,6 +29,20 @@ SUMMARY:OG vs ROC
 DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS Su
  mmer regional playoffs\nWeek : semifinals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160408T130055Z
+DTSTAMP:20160411T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ab8ff511-f17b-4dba-8169-25c5f2d05ee2
+DTSTART:20150831T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_regionals/schedule/eu_20
+ 15_regionals/quarterfinals
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
+ ummer regional playoffs\nWeek : quarterfinals\n
+CATEGORIES:EU LCS Summer regional playoffs
+DTSTAMP:20160411T130110Z
 END:VEVENT
 END:VCALENDAR
