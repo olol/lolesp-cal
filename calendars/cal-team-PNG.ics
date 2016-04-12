@@ -16,7 +16,7 @@ DESCRIPTION:Flash Wolves (FW) vs paiN Gaming (PNG)\nType : BO1\nTournament
  : The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\n
  Looser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-84181fd4-2704-4a04-91dd-88efe430074a
@@ -31,7 +31,7 @@ DESCRIPTION:ROX Tigers (ROX) vs paiN Gaming (PNG)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Tigers\nLoo
  ser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f90c01ba-d4e5-4441-a50a-8d2fe7e2afd3
@@ -46,7 +46,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs paiN Gaming (PNG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-2\nWinner : Count
  er Logic Gaming\nLooser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f5b319b8-1a81-48b8-8715-baa079c2ddd6
@@ -61,7 +61,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Flash Wolves (FW)\nType : BO1\nTournament
  : The 2015 World Championship\nWeek : paris-day-4\nWinner : paiN Gaming\nL
  ooser : Flash Wolves\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b70f89d3-d4a6-41ab-a978-72a395e92970
@@ -76,7 +76,7 @@ DESCRIPTION:paiN Gaming (PNG) vs ROX Tigers (ROX)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-1\nWinner : ROX Tigers\nLoo
  ser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bfde3b6a-18de-49a3-abe6-a568b99afebc
@@ -91,7 +91,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
  urnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : paiN 
  Gaming\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c814fa5f-4f71-4b55-b8c6-c9907fd445ef
@@ -106,7 +106,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs paiN Gaming (PNG)\nType : BO1\nTourn
  ament : Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\n
  Winner : paiN Gaming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e422b6a-d3a8-4ac4-b804-4db7656da238
@@ -120,7 +120,7 @@ SUMMARY:PNG vs KMV
 DESCRIPTION:paiN Gaming (PNG) vs Kaos Latin Gamers (KMV)\nType : BO5\nTourn
  ament : Migrated tournament for desafio_internacional_2015\nWeek : Final\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1ca35438-9170-4cea-b6cf-960692f0f8e1
@@ -135,7 +135,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Kaos Latin Gamers (KMV)\nType : BO1\nTourn
  ament : Migrated tournament for desafio_internacional_2015\nWeek : Dia 1\n
  Winner : paiN Gaming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b2e66dc5-25ea-4e19-8886-3cbb67d70470
@@ -150,7 +150,7 @@ DESCRIPTION:Hard Random (HR) vs paiN Gaming (PNG)\nType : BO1\nTournament :
   Migrated tournament for desafio_internacional_2015\nWeek : Dia 1\nWinner 
  : paiN Gaming\nLooser : Hard Random\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a7844a10-d195-4418-b26d-243de9ae4c94
@@ -165,7 +165,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Hard Random (HR)\nType : BO1\nTournament :
   Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\nWinner 
  : paiN Gaming\nLooser : Hard Random\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4a066e17-e8a3-491c-b101-a8dec7598fec
@@ -179,7 +179,7 @@ SUMMARY:PNG vs RED
 DESCRIPTION:paiN Gaming (PNG) vs INTZ Red (RED)\nType : BO3\nTournament : M
  igrated tournament for CBLOL 2015\nWeek : Quartas\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a273477a-fa75-429b-919d-abd3933306de
@@ -194,7 +194,7 @@ DESCRIPTION:KaBuM Black (KBB) vs paiN Gaming (PNG)\nType : BO2\nTournament
  : Migrated tournament for CBLOL 2015\nWeek : Semana 1\nWinner : paiN Gamin
  g\nLooser : paiN Gaming\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a01f31d-65d0-4a57-b2c6-d159ed022fbd
@@ -208,7 +208,7 @@ SUMMARY:ITZ vs PNG
 DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO5\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Final\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a98a468-ad53-4696-9c5e-1e3e95796322
@@ -222,7 +222,7 @@ SUMMARY:PNG vs KBM
 DESCRIPTION:paiN Gaming (PNG) vs KaBuM eSports (KBM)\nType : BO3\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Quartas de Final\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-05047ed9-bf23-4645-acb6-5fa6e76c4237
@@ -237,7 +237,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Operation Kino (OPK)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Operatio
  n Kino\nLooser : paiN Gaming\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-530c1fb4-c576-4116-bbae-01eace573c6c
@@ -252,7 +252,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs paiN Gaming (PNG)\nType : BO2\nTourn
  ament : Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : paiN
   Gaming\nLooser : CNB e-Sports Club\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8056ace6-3c75-4f02-bc0d-bc61e5c9fcb5
@@ -266,7 +266,7 @@ SUMMARY:VFK vs PNG
 DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO5\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semifinais\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1862c3c5-ba0e-409f-9e92-1859180b10f9
@@ -281,7 +281,7 @@ DESCRIPTION:INTZ Red (RED) vs paiN Gaming (PNG)\nType : BO2\nTournament : M
  igrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : paiN Gaming\n
  Looser : paiN Gaming\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9de54bd7-93b6-4674-b015-44af421be220
@@ -296,7 +296,7 @@ DESCRIPTION:paiN Gaming (PNG) vs g3nerationX (G3X)\nType : BO2\nTournament
  : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : g3nerat
  ionX\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e892d9c-63b9-4187-9b21-5c901c022054
@@ -310,7 +310,7 @@ SUMMARY:PNG vs OVL
 DESCRIPTION:paiN Gaming (PNG) vs Overload (OVL)\nType : BO5\nTournament : R
  elegation for CBLOL split 1 2016\nWeek : série de promoção\n
 CATEGORIES:Relegation for CBLOL split 1 2016
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-925aef07-41b9-4b75-81b9-c15bca4468c8
@@ -325,7 +325,7 @@ DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO2\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Semana 6\nWinner : INTZ\nLooser : pa
  iN Gaming\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-66b7f6a0-8eea-4053-9033-ef59a0fb09be
@@ -340,7 +340,7 @@ DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : paiN Gaming
  \nLooser : paiN Gaming\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1b93d846-6da1-4673-8d9e-edb781a3767c
@@ -355,7 +355,7 @@ DESCRIPTION:KaBuM eSports (KBM) vs paiN Gaming (PNG)\nType : BO2\nTournamen
  t : Migrated tournament for CBLOL 2015\nWeek : Semana 3\nWinner : paiN Gam
  ing\nLooser : KaBuM eSports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b7956cae-ea41-4669-bdd3-5439fbc9778a
@@ -370,7 +370,7 @@ DESCRIPTION:paiN Gaming (PNG) vs INTZ (ITZ)\nType : BO2\nTournament : The C
  BLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : INTZ\nLooser : INT
  Z\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36154b69-3ac1-4e36-8006-5bff9d9d4c27
@@ -385,7 +385,7 @@ DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : paiN Gaming\
  nLooser : paiN Gaming\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54a0209a-190b-4040-8424-9a534580bd01
@@ -400,7 +400,7 @@ DESCRIPTION:paiN Gaming (PNG) vs KaBuM eSports (KBM)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : paiN Gami
  ng\nLooser : KaBuM eSports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d333d628-7683-4861-a701-34cc4e041d7a
@@ -415,7 +415,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Red Canids (RED)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : Red Cani
  ds\nLooser : Red Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c40865e-dc68-4d54-89e8-3a30c9b01b47
@@ -430,7 +430,7 @@ DESCRIPTION:g3nerationX (G3X) vs paiN Gaming (PNG)\nType : BO2\nTournament
  : Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : paiN Gamin
  g\nLooser : g3nerationX\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5b18fa19-f755-404b-b1af-915f7353faeb
@@ -444,7 +444,7 @@ SUMMARY:RED vs PNG
 DESCRIPTION:Red Canids (RED) vs paiN Gaming (PNG)\nType : BO3\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Quartas de Final\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab845c0e-76db-43fa-9e78-19999caa5c11
@@ -459,6 +459,6 @@ DESCRIPTION:paiN Gaming (PNG) vs CNB e-Sports Club (CNB)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : paiN 
  Gaming\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160411T130112Z
+DTSTAMP:20160412T130100Z
 END:VEVENT
 END:VCALENDAR

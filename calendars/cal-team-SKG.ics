@@ -15,7 +15,7 @@ SUMMARY:HMA vs SKG
 DESCRIPTION:Huma (HMA) vs SK Gaming (SKG)\nType : BO2\nTournament : EU CS 2
  016 Spring Split\nWeek : 2\nWinner : Huma\nLooser : SK Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160411T130110Z
+DTSTAMP:20160412T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0934a3d6-a640-47de-be46-3c98662f1b9b
@@ -30,7 +30,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs SK Gaming (SKG)\nType : BO2\nTourname
  nt : EU CS 2016 Spring Split\nWeek : 1\nWinner : Copenhagen Wolves\nLooser
   : SK Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160411T130110Z
+DTSTAMP:20160412T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0e53084-a86c-4ca2-a17e-b4aa80e62256
@@ -44,7 +44,7 @@ SUMMARY:MIL vs SKG
 DESCRIPTION:Millenium (MIL) vs SK Gaming (SKG)\nType : BO2\nTournament : EU
   CS 2016 Spring Split\nWeek : 5\nWinner : Millenium\nLooser : SK Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160411T130110Z
+DTSTAMP:20160412T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e31b04c8-9433-4d85-8ffb-fd4157ed20c4
@@ -59,7 +59,7 @@ DESCRIPTION:Inspire eSports (IE) vs SK Gaming (SKG)\nType : BO2\nTournament
   : EU CS 2016 Spring Split\nWeek : 3\nWinner : Inspire eSports\nLooser : S
  K Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160411T130110Z
+DTSTAMP:20160412T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b9155163-4d01-4688-ae25-c799e664e8cb
@@ -74,6 +74,6 @@ DESCRIPTION:Mousesports (MOU) vs SK Gaming (SKG)\nType : BO2\nTournament :
  EU CS 2016 Spring Split\nWeek : 4\nWinner : SK Gaming\nLooser : Mousesport
  s\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160411T130110Z
+DTSTAMP:20160412T130057Z
 END:VEVENT
 END:VCALENDAR
