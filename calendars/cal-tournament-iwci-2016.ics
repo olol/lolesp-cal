@@ -15,7 +15,7 @@ SUMMARY:HR vs ITZ
 DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-06a683a9-b9b1-4dc6-a5ce-4b7387219bb4
@@ -29,7 +29,7 @@ SUMMARY:CHF vs HR
 DESCRIPTION:Chiefs eSports Club (CHF) vs Hard Random (HR)\nType : BO1\nTour
  nament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c2122e9-24ed-4b4d-90ae-1956e4ba125f
@@ -43,7 +43,7 @@ SUMMARY:ISG vs DFM
 DESCRIPTION:Isurus Gaming (ISG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a6edc89f-60c7-49d5-986b-d7012f52905c
@@ -57,7 +57,7 @@ SUMMARY:CHF vs ITZ
 DESCRIPTION:Chiefs eSports Club (CHF) vs INTZ (ITZ)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c8936ab1-4199-4ab7-88bd-b0fffba8ed56
@@ -71,7 +71,7 @@ SUMMARY:SAJ vs SUP
 DESCRIPTION:Saigon Jokers (SAJ) vs SuperMassive eSports (SUP)\nType : BO1\n
  Tournament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c415095-a8ce-472c-bffb-694dd1dcfd0e
@@ -85,7 +85,7 @@ SUMMARY:ISG vs SAJ
 DESCRIPTION:Isurus Gaming (ISG) vs Saigon Jokers (SAJ)\nType : BO1\nTournam
  ent : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-48a28d74-751b-403f-81d6-c64b6a046f6d
@@ -99,7 +99,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive eSports (SUP) vs Hard Random (HR)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-01532236-86bc-43a5-9c45-dd80c26ddf23
@@ -113,7 +113,7 @@ SUMMARY:SAJ vs HR
 DESCRIPTION:Saigon Jokers (SAJ) vs Hard Random (HR)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0875c6f4-7511-4529-aabb-eff6f9e33c4e
@@ -127,7 +127,7 @@ SUMMARY:ITZ vs LG
 DESCRIPTION:INTZ (ITZ) vs Lyon Gaming (LG)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3502453e-92a6-4b9b-b788-e81cbbf47823
@@ -141,7 +141,7 @@ SUMMARY:ITZ vs DFM
 DESCRIPTION:INTZ (ITZ) vs DetonatioN FocusMe (DFM)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-518abab3-9e73-41ba-a34f-c8b061cb0f16
@@ -155,7 +155,7 @@ SUMMARY:CHF vs LG
 DESCRIPTION:Chiefs eSports Club (CHF) vs Lyon Gaming (LG)\nType : BO1\nTour
  nament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0b2e0c4-36cb-4397-bb3d-1cc07cac4856
@@ -169,7 +169,7 @@ SUMMARY:LG vs SAJ
 DESCRIPTION:Lyon Gaming (LG) vs Saigon Jokers (SAJ)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36f07b8d-12ea-4804-b63c-a6df4d4597cc
@@ -183,7 +183,7 @@ SUMMARY:SUP vs ITZ
 DESCRIPTION:SuperMassive eSports (SUP) vs INTZ (ITZ)\nType : BO1\nTournamen
  t : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3bda6b2f-e949-4270-b5c7-0900f942db23
@@ -197,7 +197,7 @@ SUMMARY:ITZ vs SAJ
 DESCRIPTION:INTZ (ITZ) vs Saigon Jokers (SAJ)\nType : BO1\nTournament : int
  ernational wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4561374b-92ef-44c7-af24-7ada6340b0af
@@ -211,7 +211,7 @@ SUMMARY:LG vs ISG
 DESCRIPTION:Lyon Gaming (LG) vs Isurus Gaming (ISG)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bd36e7fb-200e-4cec-af57-f0230ea31839
@@ -225,7 +225,7 @@ SUMMARY:ITZ vs ISG
 DESCRIPTION:INTZ (ITZ) vs Isurus Gaming (ISG)\nType : BO1\nTournament : int
  ernational wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-500ce792-0254-4f1a-b2f3-9c0a7a8d9e07
@@ -239,7 +239,7 @@ SUMMARY:SAJ vs CHF
 DESCRIPTION:Saigon Jokers (SAJ) vs Chiefs eSports Club (CHF)\nType : BO1\nT
  ournament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-883e4de9-1926-4117-bf2d-a0e43ba3840c
@@ -253,7 +253,7 @@ SUMMARY:HR vs ISG
 DESCRIPTION:Hard Random (HR) vs Isurus Gaming (ISG)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cf453c72-1d43-4c38-9275-0b0de333a0b3
@@ -267,7 +267,7 @@ SUMMARY:ISG vs SUP
 DESCRIPTION:Isurus Gaming (ISG) vs SuperMassive eSports (SUP)\nType : BO1\n
  Tournament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c26989b-f560-4076-9378-ccaf86bdd22f
@@ -281,7 +281,7 @@ SUMMARY:CHF vs ISG
 DESCRIPTION:Chiefs eSports Club (CHF) vs Isurus Gaming (ISG)\nType : BO1\nT
  ournament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-917dd01c-72a5-46d9-8de6-bbb2f984ddfc
@@ -295,7 +295,7 @@ SUMMARY:HR vs DFM
 DESCRIPTION:Hard Random (HR) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6a7e063f-264d-48c7-b816-3833b50f7443
@@ -309,7 +309,7 @@ SUMMARY:LG vs SUP
 DESCRIPTION:Lyon Gaming (LG) vs SuperMassive eSports (SUP)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4565f6fa-c7f6-44bf-9cc0-f0917d0c1971
@@ -323,7 +323,7 @@ SUMMARY:DFM vs SAJ
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Saigon Jokers (SAJ)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6f85f521-69d0-4a31-ba64-0f66327e5215
@@ -338,7 +338,7 @@ DESCRIPTION:SuperMassive eSports (SUP) vs Chiefs eSports Club (CHF)\nType :
   BO1\nTournament : international wildcard invitational 2016\nWeek : Day 1\
  n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9c4dce89-7210-43c6-8826-0d561b8dd166
@@ -352,7 +352,7 @@ SUMMARY:HR vs LG
 DESCRIPTION:Hard Random (HR) vs Lyon Gaming (LG)\nType : BO1\nTournament : 
  international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4823bac5-b6d6-4091-aa55-ecdfe87250ff
@@ -366,7 +366,7 @@ SUMMARY:LG vs DFM
 DESCRIPTION:Lyon Gaming (LG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc3a19f9-c03b-4fa2-8abb-dc6df9c6a5c6
@@ -380,7 +380,7 @@ SUMMARY:DFM vs SUP
 DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive eSports (SUP)\nType : 
  BO1\nTournament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0315d725-0f0c-497c-b5a4-934bcd65c01f
@@ -394,6 +394,6 @@ SUMMARY:DFM vs CHF
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
  O1\nTournament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 END:VCALENDAR

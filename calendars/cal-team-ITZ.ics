@@ -15,7 +15,7 @@ SUMMARY:HR vs ITZ
 DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a6edc89f-60c7-49d5-986b-d7012f52905c
@@ -29,7 +29,7 @@ SUMMARY:CHF vs ITZ
 DESCRIPTION:Chiefs eSports Club (CHF) vs INTZ (ITZ)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0875c6f4-7511-4529-aabb-eff6f9e33c4e
@@ -43,7 +43,7 @@ SUMMARY:ITZ vs LG
 DESCRIPTION:INTZ (ITZ) vs Lyon Gaming (LG)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3502453e-92a6-4b9b-b788-e81cbbf47823
@@ -57,7 +57,7 @@ SUMMARY:ITZ vs DFM
 DESCRIPTION:INTZ (ITZ) vs DetonatioN FocusMe (DFM)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36f07b8d-12ea-4804-b63c-a6df4d4597cc
@@ -71,7 +71,7 @@ SUMMARY:SUP vs ITZ
 DESCRIPTION:SuperMassive eSports (SUP) vs INTZ (ITZ)\nType : BO1\nTournamen
  t : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3bda6b2f-e949-4270-b5c7-0900f942db23
@@ -85,7 +85,7 @@ SUMMARY:ITZ vs SAJ
 DESCRIPTION:INTZ (ITZ) vs Saigon Jokers (SAJ)\nType : BO1\nTournament : int
  ernational wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bd36e7fb-200e-4cec-af57-f0230ea31839
@@ -99,7 +99,7 @@ SUMMARY:ITZ vs ISG
 DESCRIPTION:INTZ (ITZ) vs Isurus Gaming (ISG)\nType : BO1\nTournament : int
  ernational wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a01f31d-65d0-4a57-b2c6-d159ed022fbd
@@ -113,7 +113,7 @@ SUMMARY:ITZ vs PNG
 DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO5\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Final\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1a070c5-6127-4d08-a922-c2bff936db6f
@@ -128,7 +128,7 @@ DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : INTZ\nLoose
  r : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0fc12a0e-c9bc-4c3a-b6f0-e1c8f8c5ef04
@@ -143,7 +143,7 @@ DESCRIPTION:INTZ (ITZ) vs INTZ Red (RED)\nType : BO2\nTournament : Migrated
   tournament for CBLOL 2015\nWeek : Semana 2\nWinner : INTZ\nLooser : INTZ 
  Red\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cfb0f9a0-a865-46cf-9c9b-661f06a347d3
@@ -158,7 +158,7 @@ DESCRIPTION:g3nerationX (G3X) vs INTZ (ITZ)\nType : BO2\nTournament : The C
  BLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : INTZ\nLooser : g3n
  erationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2aeecd01-6514-451d-845d-63e0bb2042b3
@@ -173,7 +173,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : INTZ\nLooser
   : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95dbe91e-e16c-4c6d-8268-fe8d61e5b3f1
@@ -187,7 +187,7 @@ SUMMARY:ITZ vs G3X
 DESCRIPTION:INTZ (ITZ) vs g3nerationX (G3X)\nType : BO5\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Semifinais\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1fdab052-153c-4a22-b072-22a40eb76e2d
@@ -201,7 +201,7 @@ SUMMARY:VFK vs ITZ
 DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO5\nTournament : The CB
  LOL 2016 Split 1 Tournament\nWeek : Final\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39d0d69b-67da-489b-bf3f-8d42cdc9030f
@@ -216,7 +216,7 @@ DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
  LOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : INTZ\nLooser : Keyd
   Stars\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-925aef07-41b9-4b75-81b9-c15bca4468c8
@@ -231,7 +231,7 @@ DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO2\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Semana 6\nWinner : INTZ\nLooser : pa
  iN Gaming\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e92bfe79-a91d-4372-8ba7-972015487fee
@@ -246,7 +246,7 @@ DESCRIPTION:INTZ (ITZ) vs Keyd Stars (VFK)\nType : BO2\nTournament : Migrat
  ed tournament for CBLOL 2015\nWeek : Semana 1\nWinner : Keyd Stars\nLooser
   : INTZ\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a717fe22-08f4-40b9-a20f-2443e31881e6
@@ -261,7 +261,7 @@ DESCRIPTION:INTZ (ITZ) vs CNB e-Sports Club (CNB)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : INTZ\nLoose
  r : CNB e-Sports Club\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b7956cae-ea41-4669-bdd3-5439fbc9778a
@@ -276,7 +276,7 @@ DESCRIPTION:paiN Gaming (PNG) vs INTZ (ITZ)\nType : BO2\nTournament : The C
  BLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : INTZ\nLooser : INT
  Z\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5321a44d-a737-4fec-936b-38ae57171e8f
@@ -291,7 +291,7 @@ DESCRIPTION:KaBuM eSports (KBM) vs INTZ (ITZ)\nType : BO2\nTournament : The
   CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : INTZ\nLooser
   : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9cae01ab-49ee-45c7-8003-cb5e2abcb0f7
@@ -306,7 +306,7 @@ DESCRIPTION:INTZ (ITZ) vs g3nerationX (G3X)\nType : BO2\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Semana 7\nWinner : INTZ\nLooser : g3
  nerationX\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d257940f-b807-460a-ba9d-dd43ee16c885
@@ -321,7 +321,7 @@ DESCRIPTION:INTZ (ITZ) vs KaBuM Black (KBB)\nType : BO2\nTournament : Migra
  ted tournament for CBLOL 2015\nWeek : Semana 3\nWinner : INTZ\nLooser : Ka
  BuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe923806-cfdc-4b23-afe3-6feca712c475
@@ -336,7 +336,7 @@ DESCRIPTION:INTZ (ITZ) vs KaBuM eSports (KBM)\nType : BO2\nTournament : Mig
  rated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : INTZ\nLooser : 
  KaBuM eSports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-631d7072-50e4-44b0-829c-5be2ae5507ee
@@ -350,7 +350,7 @@ SUMMARY:ITZ vs OPK
 DESCRIPTION:INTZ (ITZ) vs Operation Kino (OPK)\nType : BO5\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Semifinais\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c0809f9-1149-4991-ad89-b4d38b45ad8e
@@ -365,6 +365,6 @@ DESCRIPTION:Red Canids (RED) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
  LOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : INTZ\nLooser : Red 
  Canids\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 END:VCALENDAR

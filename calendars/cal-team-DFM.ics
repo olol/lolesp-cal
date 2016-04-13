@@ -15,7 +15,7 @@ SUMMARY:ISG vs DFM
 DESCRIPTION:Isurus Gaming (ISG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3502453e-92a6-4b9b-b788-e81cbbf47823
@@ -29,7 +29,7 @@ SUMMARY:ITZ vs DFM
 DESCRIPTION:INTZ (ITZ) vs DetonatioN FocusMe (DFM)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-917dd01c-72a5-46d9-8de6-bbb2f984ddfc
@@ -43,7 +43,7 @@ SUMMARY:HR vs DFM
 DESCRIPTION:Hard Random (HR) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4565f6fa-c7f6-44bf-9cc0-f0917d0c1971
@@ -57,7 +57,7 @@ SUMMARY:DFM vs SAJ
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Saigon Jokers (SAJ)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4823bac5-b6d6-4091-aa55-ecdfe87250ff
@@ -71,7 +71,7 @@ SUMMARY:LG vs DFM
 DESCRIPTION:Lyon Gaming (LG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc3a19f9-c03b-4fa2-8abb-dc6df9c6a5c6
@@ -85,7 +85,7 @@ SUMMARY:DFM vs SUP
 DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive eSports (SUP)\nType : 
  BO1\nTournament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0315d725-0f0c-497c-b5a4-934bcd65c01f
@@ -99,6 +99,6 @@ SUMMARY:DFM vs CHF
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
  O1\nTournament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ SUMMARY:SAJ vs SUP
 DESCRIPTION:Saigon Jokers (SAJ) vs SuperMassive eSports (SUP)\nType : BO1\n
  Tournament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-48a28d74-751b-403f-81d6-c64b6a046f6d
@@ -29,7 +29,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive eSports (SUP) vs Hard Random (HR)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36f07b8d-12ea-4804-b63c-a6df4d4597cc
@@ -43,7 +43,7 @@ SUMMARY:SUP vs ITZ
 DESCRIPTION:SuperMassive eSports (SUP) vs INTZ (ITZ)\nType : BO1\nTournamen
  t : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cf453c72-1d43-4c38-9275-0b0de333a0b3
@@ -57,7 +57,7 @@ SUMMARY:ISG vs SUP
 DESCRIPTION:Isurus Gaming (ISG) vs SuperMassive eSports (SUP)\nType : BO1\n
  Tournament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6a7e063f-264d-48c7-b816-3833b50f7443
@@ -71,7 +71,7 @@ SUMMARY:LG vs SUP
 DESCRIPTION:Lyon Gaming (LG) vs SuperMassive eSports (SUP)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6f85f521-69d0-4a31-ba64-0f66327e5215
@@ -86,7 +86,7 @@ DESCRIPTION:SuperMassive eSports (SUP) vs Chiefs eSports Club (CHF)\nType :
   BO1\nTournament : international wildcard invitational 2016\nWeek : Day 1\
  n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc3a19f9-c03b-4fa2-8abb-dc6df9c6a5c6
@@ -100,6 +100,6 @@ SUMMARY:DFM vs SUP
 DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive eSports (SUP)\nType : 
  BO1\nTournament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160412T130101Z
+DTSTAMP:20160413T130100Z
 END:VEVENT
 END:VCALENDAR
