@@ -4,6 +4,20 @@ PRODID:www.lolesports.com|cal-team-TDK
 X-WR-CALNAME:LoL eSports TDK
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-2573ea0a-b277-4a85-b7b2-74c3aa96968d
+DTSTART:20160408T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160408T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_promotion_relegation/Round%203
+SUMMARY:TDK vs APX
+DESCRIPTION:Team Dragon Knights (TDK) vs Apex (APX)\nType : BO5\nTournament
+  : NA 2016 Spring Split\nWeek : Round 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-361d0f49-2621-48bd-addf-c4e55d96b708
 DTSTART:20160407T000000Z
 SEQUENCE:0
@@ -15,7 +29,7 @@ SUMMARY:DIG vs TDK
 DESCRIPTION:Team Dignitas (DIG) vs Team Dragon Knights (TDK)\nType : BO5\nT
  ournament : NA 2016 Spring Split\nWeek : Round 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c86a55b3-8ea8-431f-8b6e-3b0f864f5ea4
@@ -29,21 +43,7 @@ SUMMARY:REN vs TDK
 DESCRIPTION:Renegades (REN) vs Team Dragon Knights (TDK)\nType : BO5\nTourn
  ament : NA 2016 Spring Split\nWeek : Round 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2573ea0a-b277-4a85-b7b2-74c3aa96968d
-DTSTART:20160408T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160408T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_promotion_relegation/Round%203
-SUMMARY:TDK vs APX
-DESCRIPTION:Team Dragon Knights (TDK) vs Apex (APX)\nType : BO5\nTournament
-  : NA 2016 Spring Split\nWeek : Round 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b9f5529c-6ea4-4cfc-a507-85207a3d07fc
@@ -58,7 +58,7 @@ DESCRIPTION:Dream Team (DT) vs Team Dragon Knights (TDK)\nType : BO2\nTourn
  ament : NA CS 2016 Spring Split\nWeek : 2\nWinner : Team Dragon Knights\nL
  ooser : Team Dragon Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3812394a-1ee4-44ab-9d0b-fbb701ee332f
@@ -73,7 +73,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Team Dragon Knights (TDK)\nType :
  BO2\nTournament : NA CS 2016 Spring Split\nWeek : 3\nWinner : Team Dragon 
  Knights\nLooser : Team Liquid Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe038025-3562-474b-9384-9d351bff9f79
@@ -88,7 +88,7 @@ DESCRIPTION:Enemy (NME) vs Team Dragon Knights (TDK)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 1\nWinner : Team Dragon Knights\nLoose
  r : Team Dragon Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a648f8b-e2da-4e87-9b0d-57ee03464e70
@@ -102,7 +102,7 @@ SUMMARY:MBR vs TDK
 DESCRIPTION:Ember (MBR) vs Team Dragon Knights (TDK)\nType : BO5\nTournamen
  t : NA CS 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-347cd1c4-f062-4fef-8556-761504e967bb
@@ -117,7 +117,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Apex (APX)\nType : BO2\nTournament
   : NA CS 2016 Spring Split\nWeek : 4\nWinner : Apex\nLooser : Team Dragon 
  Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd4a0fdc-b448-4e3c-9c92-3a00da943d36
@@ -131,7 +131,7 @@ SUMMARY:TDK vs MBR
 DESCRIPTION:Team Dragon Knights (TDK) vs Ember (MBR)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 5\nWinner : Ember\nLooser : Ember\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2b236d37-7436-498d-83b8-a0cf51c957b9
@@ -145,6 +145,6 @@ SUMMARY:APX vs TDK
 DESCRIPTION:Apex (APX) vs Team Dragon Knights (TDK)\nType : BO5\nTournament
   : NA CS 2016 Spring Split\nWeek : Finals\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 END:VCALENDAR

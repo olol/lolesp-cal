@@ -4,63 +4,6 @@ PRODID:www.lolesports.com|cal-team-GIA
 X-WR-CALNAME:LoL eSports GIA
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-54a615aa-b263-4f6e-a211-ff19b84af89e
-DTSTART:20150611T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150611T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/3
-SUMMARY:ROC vs GIA
-DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 3\nWinner : Giants\nLooser : ROCCAT
- \n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0902a8ce-b939-4eed-b38f-d3037a906d40
-DTSTART:20160218T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/6
-SUMMARY:UOL vs GIA
-DESCRIPTION:Unicorns of Love (UOL) vs Giants (GIA)\nType : BO1\nTournament 
- : EU 2016 Spring Split\nWeek : 6\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6efb86b5-f9dd-47d4-8172-34d805b43a1f
-DTSTART:20160225T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160225T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/7
-SUMMARY:GIA vs VIT
-DESCRIPTION:Giants (GIA) vs Team Vitality (VIT)\nType : BO1\nTournament : E
- U 2016 Spring Split\nWeek : 7\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-48a83d01-28b2-493d-b6ee-17349dc8dc5e
-DTSTART:20160327T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
- spring_promotion_relegation/Round%203
-SUMMARY:GIA vs HMA
-DESCRIPTION:Giants (GIA) vs Huma (HMA)\nType : BO5\nTournament : EU 2016 Sp
- ring Split\nWeek : Round 3\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-7cafbf72-0041-4444-a023-b1b2e3ec0820
 DTSTART:20150612T160000Z
 SEQUENCE:0
@@ -73,7 +16,7 @@ DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser : Giants
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7d92cf9f-54dd-4edf-95df-41590fcea2e3
@@ -88,7 +31,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Giants (GIA)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 7\nWinner : Giants\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c406e996-8932-4b15-8258-087d964af2e1
@@ -103,7 +46,7 @@ DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : Tiebreaker\nWinner : ROCCAT\nLooser
   : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13a6f14d-d467-45f1-865a-a88dbab99212
@@ -118,7 +61,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Giants (GIA)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : Giants\nLoose
  r : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77028ae8-ce8a-419c-87c7-4cda6894a100
@@ -133,7 +76,7 @@ DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 7\nWinner : Origen\nLooser : Giants\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b3e92b4b-c7a3-40c9-9fdd-e9fa2726205f
@@ -147,7 +90,7 @@ SUMMARY:G2 vs GIA
 DESCRIPTION:G2 Esports (G2) vs Giants (GIA)\nType : BO1\nTournament : EU 20
  16 Spring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-afc73a54-a857-4542-9263-aa9ea2814522
@@ -161,7 +104,7 @@ SUMMARY:VIT vs GIA
 DESCRIPTION:Team Vitality (VIT) vs Giants (GIA)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-41a3aae2-5fce-4f41-a4f9-5eb6093d4a73
@@ -175,7 +118,7 @@ SUMMARY:FNC vs GIA
 DESCRIPTION:Fnatic (FNC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-352381f4-69de-464e-b992-6b1807ea1bed
@@ -189,7 +132,7 @@ SUMMARY:SPY vs GIA
 DESCRIPTION:Splyce (SPY) vs Giants (GIA)\nType : BO5\nTournament : EU 2016 
  Spring Split\nWeek : Round 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2a9b2246-45e1-48c5-a5c1-60cbcba6b526
@@ -203,7 +146,7 @@ SUMMARY:GIA vs G2
 DESCRIPTION:Giants (GIA) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
  16 Spring Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-577425d6-d1e7-4d0e-b50d-1c71bc34f475
@@ -217,152 +160,64 @@ SUMMARY:ROC vs GIA
 DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 5\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-ee37ccaf-b6b0-4a06-9307-426255706e87
-DTSTART:20150529T170000Z
+UID:match-54a615aa-b263-4f6e-a211-ff19b84af89e
+DTSTART:20150611T170000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150529T180000Z
+DTEND:20150611T180000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:GIA vs CW
-DESCRIPTION:Giants (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Giants\nLoose
- r : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-53db8379-e23c-4533-9b98-f5f0237c950a
-DTSTART:20150605T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:GIA vs SKG
-DESCRIPTION:Giants (GIA) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
- ted tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : SK 
- Gaming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cd272475-23d1-4a5c-8dbb-fa9526697ca8
-DTSTART:20150626T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150626T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/5
-SUMMARY:GIA vs EL
-DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : Migrate
- d tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : Gia
- nts\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-31fca2ea-41cf-4e20-89b3-683ce139c4e4
-DTSTART:20150724T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/9
-SUMMARY:CW vs GIA
-DESCRIPTION:Copenhagen Wolves (CW) vs Giants (GIA)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Giants\nLoose
- r : Copenhagen Wolves\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c57d6214-7e8a-4bbc-a0c5-f8ff1a3a4f2a
-DTSTART:20150702T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150702T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/6
-SUMMARY:GIA vs FNC
-DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLooser : Giants
+ lcs-summer/3
+SUMMARY:ROC vs GIA
+DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 3\nWinner : Giants\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-ac838c76-04a2-4350-adef-df304cd702c6
-DTSTART:20160226T180000Z
+UID:match-0902a8ce-b939-4eed-b38f-d3037a906d40
+DTSTART:20160218T190000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160226T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/7
-SUMMARY:GIA vs H2K
-DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
- ing Split\nWeek : 7\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4734a140-e3a4-4ce0-a65e-c1ae82cef637
-DTSTART:20160318T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160318T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/9
-SUMMARY:GIA vs ROC
-DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
- Spring Split\nWeek : 9\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7214d9f8-9730-4299-8d6e-692ac66679c2
-DTSTART:20160205T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160205T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/4
-SUMMARY:OG vs GIA
-DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 S
- pring Split\nWeek : 4\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-dcbd191e-a3c2-4a68-ba1e-cd0e3f3750f4
-DTSTART:20160219T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160219T180000Z
+DTEND:20160218T200000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
  season/6
-SUMMARY:GIA vs EL
-DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : EU 2016
-  Spring Split\nWeek : 6\n
+SUMMARY:UOL vs GIA
+DESCRIPTION:Unicorns of Love (UOL) vs Giants (GIA)\nType : BO1\nTournament 
+ : EU 2016 Spring Split\nWeek : 6\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-e0db3189-332c-44e8-b307-b6421116cdd0
-DTSTART:20160317T170000Z
+UID:match-6efb86b5-f9dd-47d4-8172-34d805b43a1f
+DTSTART:20160225T180000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160317T180000Z
+DTEND:20160225T190000Z
 URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/9
-SUMMARY:GIA vs OG
-DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
- pring Split\nWeek : 9\n
+ season/7
+SUMMARY:GIA vs VIT
+DESCRIPTION:Giants (GIA) vs Team Vitality (VIT)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-48a83d01-28b2-493d-b6ee-17349dc8dc5e
+DTSTART:20160327T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160327T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
+ spring_promotion_relegation/Round%203
+SUMMARY:GIA vs HMA
+DESCRIPTION:Giants (GIA) vs Huma (HMA)\nType : BO5\nTournament : EU 2016 Sp
+ ring Split\nWeek : Round 3\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbf4f194-fe10-490f-9e73-4cb7a0d71a3d
@@ -377,7 +232,7 @@ DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : Giants\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-46f94c6c-3fec-4ca2-a4f0-bf20168debb1
@@ -391,7 +246,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dc2d2cb0-643d-4d46-819b-81e831aff46e
@@ -405,7 +260,7 @@ SUMMARY:GIA vs H2K
 DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 8\nWinner : H2K\nLooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c406e996-8932-4b15-8258-087d964af2e1
@@ -420,7 +275,7 @@ DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 8\nWinner : ROCCAT\nLooser : Giants
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-eeeb5e96-5dc5-45ed-bead-2fa2b5f2a6db
@@ -434,7 +289,7 @@ SUMMARY:EL vs GIA
 DESCRIPTION:Elements (EL) vs Giants (GIA)\nType : BO1\nTournament : EU 2016
   Spring Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-523a2270-5708-455e-82a9-2324537ca805
@@ -448,7 +303,7 @@ SUMMARY:SPY vs GIA
 DESCRIPTION:Splyce (SPY) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 5\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f5378621-f84d-4dfc-82a7-72ad458a1afe
@@ -462,7 +317,152 @@ SUMMARY:GIA vs CW
 DESCRIPTION:Giants (GIA) vs Copenhagen Wolves (CW)\nType : BO5\nTournament 
  : EU 2016 Spring Split\nWeek : Round 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ee37ccaf-b6b0-4a06-9307-426255706e87
+DTSTART:20150529T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:GIA vs CW
+DESCRIPTION:Giants (GIA) vs Copenhagen Wolves (CW)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Giants\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-53db8379-e23c-4533-9b98-f5f0237c950a
+DTSTART:20150605T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:GIA vs SKG
+DESCRIPTION:Giants (GIA) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
+ ted tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : SK 
+ Gaming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cd272475-23d1-4a5c-8dbb-fa9526697ca8
+DTSTART:20150626T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150626T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/5
+SUMMARY:GIA vs EL
+DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : Migrate
+ d tournament for eu_2015_summer\nWeek : 5\nWinner : Elements\nLooser : Gia
+ nts\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-31fca2ea-41cf-4e20-89b3-683ce139c4e4
+DTSTART:20150724T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/9
+SUMMARY:CW vs GIA
+DESCRIPTION:Copenhagen Wolves (CW) vs Giants (GIA)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Giants\nLoose
+ r : Copenhagen Wolves\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c57d6214-7e8a-4bbc-a0c5-f8ff1a3a4f2a
+DTSTART:20150702T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150702T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/6
+SUMMARY:GIA vs FNC
+DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : 6\nWinner : Fnatic\nLooser : Giants
+ \n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ac838c76-04a2-4350-adef-df304cd702c6
+DTSTART:20160226T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160226T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:GIA vs H2K
+DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
+ ing Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4734a140-e3a4-4ce0-a65e-c1ae82cef637
+DTSTART:20160318T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160318T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7214d9f8-9730-4299-8d6e-692ac66679c2
+DTSTART:20160205T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:OG vs GIA
+DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-dcbd191e-a3c2-4a68-ba1e-cd0e3f3750f4
+DTSTART:20160219T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160219T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:GIA vs EL
+DESCRIPTION:Giants (GIA) vs Elements (EL)\nType : BO1\nTournament : EU 2016
+  Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160418T130100Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e0db3189-332c-44e8-b307-b6421116cdd0
+DTSTART:20160317T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:GIA vs OG
+DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71884799-3396-400f-845e-28bebc1b1a71
@@ -477,7 +477,7 @@ DESCRIPTION:Giants (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 4\nWinner : Gambit Gaming\nL
  ooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ecb0f39-5fc6-4fd6-8b5d-9f8d116b5d46
@@ -492,7 +492,7 @@ DESCRIPTION:Elements (EL) vs Giants (GIA)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser : Eleme
  nts\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6dbd720-1e82-408b-bb13-6444a915ac36
@@ -507,7 +507,7 @@ DESCRIPTION:SK Gaming (SKG) vs Giants (GIA)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 6\nWinner : Giants\nLooser : SK 
  Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b82922c0-61d6-4914-b15d-a972f8c3dbf3
@@ -522,7 +522,7 @@ DESCRIPTION:Giants (GIA) vs Unicorns of Love (UOL)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Unicorns of L
  ove\nLooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-88fef2cf-9289-427d-852f-6034ac2ba8d3
@@ -536,7 +536,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO3\nTournament : Generated t
  ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab8ff511-f17b-4dba-8169-25c5f2d05ee2
@@ -550,7 +550,7 @@ SUMMARY:GIA vs ROC
 DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
  ummer regional playoffs\nWeek : quarterfinals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cef39e73-8377-49b5-95fc-28e938537841
@@ -564,7 +564,7 @@ SUMMARY:GIA vs UOL
 DESCRIPTION:Giants (GIA) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
  : EU 2016 Spring Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ce43758d-4450-440f-b9cc-a69dd2060c2a
@@ -578,7 +578,7 @@ SUMMARY:GIA vs FNC
 DESCRIPTION:Giants (GIA) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 4\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-786f3e3f-0abe-4c52-8f3a-c3b854bfcde8
@@ -592,7 +592,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-81228b06-e582-40e8-99f7-da49ba47384c
@@ -606,6 +606,6 @@ SUMMARY:GIA vs SPY
 DESCRIPTION:Giants (GIA) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160415T130100Z
+DTSTAMP:20160418T130100Z
 END:VEVENT
 END:VCALENDAR

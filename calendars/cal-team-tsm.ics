@@ -4,32 +4,18 @@ PRODID:www.lolesports.com|cal-team-TSM
 X-WR-CALNAME:LoL eSports TSM
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-17c42b7e-11e7-4a86-8535-6c92e2f838c2
-DTSTART:20160313T210000Z
+UID:match-71985e73-16b6-4d83-8142-d6ee67ac37ec
+DTSTART:20160220T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160313T220000Z
+DTEND:20160220T230000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:TSM vs REN
-DESCRIPTION:TSM (TSM) vs Renegades (REN)\nType : BO1\nTournament : NA 2016 
- Spring Split\nWeek : 8\n
+ season/6
+SUMMARY:TSM vs C9
+DESCRIPTION:TSM (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 Spr
+ ing Split\nWeek : 6\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6baeea3a-5b80-410c-a3e6-b2ebd0f56159
-DTSTART:20160131T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:NRG vs TSM
-DESCRIPTION:NRG Esports (NRG) vs TSM (TSM)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5e9af7b0-fff9-4aa9-a3a0-ee285b3bd372
@@ -43,21 +29,7 @@ SUMMARY:IMT vs TSM
 DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO5\nTournament : NA 2016 
  Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-71985e73-16b6-4d83-8142-d6ee67ac37ec
-DTSTART:20160220T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:TSM vs C9
-DESCRIPTION:TSM (TSM) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 Spr
- ing Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe49249c-717d-4cc3-afb3-347f1313291c
@@ -71,49 +43,35 @@ SUMMARY:TSM vs NRG
 DESCRIPTION:TSM (TSM) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 201
  6 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-0aad477b-bb7b-455c-b666-8b0f5fd6db97
-DTSTART:20150823T200000Z
+UID:match-17c42b7e-11e7-4a86-8535-6c92e2f838c2
+DTSTART:20160313T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150823T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
- /na_2015_summer_playoffs/finals
-SUMMARY:TSM vs CLG
-DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nTournament
-  : Generated tournament for the 2015 summer playoffs\nWeek : finals\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3a574ec8-efc1-4133-a196-d3948ade31bc
-DTSTART:20160319T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T220000Z
+DTEND:20160313T220000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/9
-SUMMARY:IMT vs TSM
-DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
- Spring Split\nWeek : 9\n
+ season/8
+SUMMARY:TSM vs REN
+DESCRIPTION:TSM (TSM) vs Renegades (REN)\nType : BO1\nTournament : NA 2016 
+ Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-f268f5f5-fec9-4f31-8ff5-91654dcd67c5
-DTSTART:20160213T230000Z
+UID:match-6baeea3a-5b80-410c-a3e6-b2ebd0f56159
+DTSTART:20160131T210000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160214T000000Z
+DTEND:20160131T220000Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:TIP vs TSM
-DESCRIPTION:Team Impulse (TIP) vs TSM (TSM)\nType : BO1\nTournament : NA 20
- 16 Spring Split\nWeek : 5\n
+ season/3
+SUMMARY:NRG vs TSM
+DESCRIPTION:NRG Esports (NRG) vs TSM (TSM)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8405a2a5-4df9-4e23-ac53-a254cb036a36
@@ -127,7 +85,7 @@ SUMMARY:C9 vs TSM
 DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spr
  ing Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ad45ebec-c2b5-4d74-9cb0-5639aa17de75
@@ -141,7 +99,7 @@ SUMMARY:REN vs TSM
 DESCRIPTION:Renegades (REN) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
  Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1860197-3986-4a09-8e73-d30035c3638f
@@ -155,7 +113,7 @@ SUMMARY:TSM vs CLG
 DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO1\nTournament
   : NA 2016 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-849dec4f-e3ca-4760-84dd-6c80c0ddd221
@@ -169,7 +127,7 @@ SUMMARY:CLG vs TSM
 DESCRIPTION:Counter Logic Gaming (CLG) vs TSM (TSM)\nType : BO5\nTournament
   : NA 2016 Spring Split\nWeek : Finals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f37596bc-1647-4481-87eb-ed735a187a40
@@ -183,7 +141,7 @@ SUMMARY:C9 vs TSM
 DESCRIPTION:Cloud9  (C9) vs TSM (TSM)\nType : BO5\nTournament : NA 2016 Spr
  ing Split\nWeek : Quarterfinals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a9968710-452c-4b8b-bed2-85cdb780ab55
@@ -197,7 +155,7 @@ SUMMARY:TL vs TSM
 DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO4\nTournament : Generated to
  urnament for the 2015 summer playoffs\nWeek : semifinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6272882-d1df-4dff-b156-bf8a750c82df
@@ -211,7 +169,7 @@ SUMMARY:TSM vs DIG
 DESCRIPTION:TSM (TSM) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA 2
  016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bf624333-9c31-474a-8362-45e30f5eb9ab
@@ -225,7 +183,7 @@ SUMMARY:TSM vs IMT
 DESCRIPTION:TSM (TSM) vs Immortals (IMT)\nType : BO1\nTournament : NA 2016 
  Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d2a8ff8d-4e74-4aa8-b99f-9da5aec96f58
@@ -239,7 +197,7 @@ SUMMARY:TSM vs TIP
 DESCRIPTION:TSM (TSM) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 20
  16 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-41e3799a-4415-479c-a641-09157cb06794
@@ -253,7 +211,49 @@ SUMMARY:TSM vs TL
 DESCRIPTION:TSM (TSM) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 Spri
  ng Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0aad477b-bb7b-455c-b666-8b0f5fd6db97
+DTSTART:20150823T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
+ /na_2015_summer_playoffs/finals
+SUMMARY:TSM vs CLG
+DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nTournament
+  : Generated tournament for the 2015 summer playoffs\nWeek : finals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3a574ec8-efc1-4133-a196-d3948ade31bc
+DTSTART:20160319T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/9
+SUMMARY:IMT vs TSM
+DESCRIPTION:Immortals (IMT) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 
+ Spring Split\nWeek : 9\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f268f5f5-fec9-4f31-8ff5-91654dcd67c5
+DTSTART:20160213T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:TIP vs TSM
+DESCRIPTION:Team Impulse (TIP) vs TSM (TSM)\nType : BO1\nTournament : NA 20
+ 16 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9ac829ec-d231-45ba-ba24-0adde0f6cc6f
@@ -267,63 +267,7 @@ SUMMARY:GV vs TSM
 DESCRIPTION:Gravity (GV) vs TSM (TSM)\nType : BO4\nTournament : Generated t
  ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2279e680-45fb-4edd-9e7b-b23923001a5a
-DTSTART:20160206T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160207T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:TSM vs FOX
-DESCRIPTION:TSM (TSM) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 2016 S
- pring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b739e9a-1399-4a70-a496-15cccdb5fa86
-DTSTART:20160221T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:DIG vs TSM
-DESCRIPTION:Team Dignitas (DIG) vs TSM (TSM)\nType : BO1\nTournament : NA 2
- 016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-93cbe3ea-0b4f-42a7-b097-b5ea6a7dc128
-DTSTART:20160214T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:CLG vs TSM
-DESCRIPTION:Counter Logic Gaming (CLG) vs TSM (TSM)\nType : BO1\nTournament
-  : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2eb2690b-90a0-4263-8079-4a073041c9e3
-DTSTART:20160227T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/7
-SUMMARY:FOX vs TSM
-DESCRIPTION:Echo Fox (FOX) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 S
- pring Split\nWeek : 7\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ef5400c8-9ad7-4251-a71c-b1780a6be74e
@@ -337,7 +281,63 @@ SUMMARY:TL vs TSM
 DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spri
  ng Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2279e680-45fb-4edd-9e7b-b23923001a5a
+DTSTART:20160206T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160207T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:TSM vs FOX
+DESCRIPTION:TSM (TSM) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 2016 S
+ pring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b739e9a-1399-4a70-a496-15cccdb5fa86
+DTSTART:20160221T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:DIG vs TSM
+DESCRIPTION:Team Dignitas (DIG) vs TSM (TSM)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2eb2690b-90a0-4263-8079-4a073041c9e3
+DTSTART:20160227T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/7
+SUMMARY:FOX vs TSM
+DESCRIPTION:Echo Fox (FOX) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 S
+ pring Split\nWeek : 7\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-93cbe3ea-0b4f-42a7-b097-b5ea6a7dc128
+DTSTART:20160214T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:CLG vs TSM
+DESCRIPTION:Counter Logic Gaming (CLG) vs TSM (TSM)\nType : BO1\nTournament
+  : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39761fd1-2486-46b6-b9d9-3518a46363cf
@@ -351,7 +351,7 @@ SUMMARY:OG vs TSM
 DESCRIPTION:Origen (OG) vs TSM (TSM)\nType : BO1\nTournament : The 2015 Wor
  ld Championship\nWeek : paris-day-3\nWinner : Origen\nLooser : TSM\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4d9b8bc1-ffde-4e43-a297-200adc48eadf
@@ -366,7 +366,7 @@ DESCRIPTION:KT Rolster (KT) vs TSM (TSM)\nType : BO1\nTournament : The 2015
   World Championship\nWeek : paris-day-2\nWinner : KT Rolster\nLooser : TSM
  \n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac047b2b-89d0-425a-9ca9-5659ad9ad48a
@@ -381,36 +381,7 @@ DESCRIPTION:LGD Gaming (LGD) vs TSM (TSM)\nType : BO1\nTournament : The 201
  5 World Championship\nWeek : paris-day-7\nWinner : LGD Gaming\nLooser : TS
  M\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-814eb469-c995-4399-a0ec-bd633dfbe8ad
-DTSTART:20151010T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151010T130000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_d/paris-day-7
-SUMMARY:TSM vs KT
-DESCRIPTION:TSM (TSM) vs KT Rolster (KT)\nType : BO1\nTournament : The 2015
-  World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : TSM
- \n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160415T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-59c1b40c-6c64-4017-86b8-0a49be9cf955
-DTSTART:20151010T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151010T110000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_d/paris-day-7
-SUMMARY:TSM vs OG
-DESCRIPTION:TSM (TSM) vs Origen (OG)\nType : BO1\nTournament : The 2015 Wor
- ld Championship\nWeek : paris-day-7\nWinner : Origen\nLooser : TSM\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69399c33-527a-4bca-b485-eb97cd37a249
@@ -425,6 +396,35 @@ DESCRIPTION:TSM (TSM) vs LGD Gaming (LGD)\nType : BO1\nTournament : The 201
  5 World Championship\nWeek : paris-day-4\nWinner : TSM\nLooser : LGD Gamin
  g\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160415T130059Z
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-814eb469-c995-4399-a0ec-bd633dfbe8ad
+DTSTART:20151010T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151010T130000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_d/paris-day-7
+SUMMARY:TSM vs KT
+DESCRIPTION:TSM (TSM) vs KT Rolster (KT)\nType : BO1\nTournament : The 2015
+  World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : TSM
+ \n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160418T130059Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-59c1b40c-6c64-4017-86b8-0a49be9cf955
+DTSTART:20151010T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151010T110000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_d/paris-day-7
+SUMMARY:TSM vs OG
+DESCRIPTION:TSM (TSM) vs Origen (OG)\nType : BO1\nTournament : The 2015 Wor
+ ld Championship\nWeek : paris-day-7\nWinner : Origen\nLooser : TSM\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160418T130059Z
 END:VEVENT
 END:VCALENDAR

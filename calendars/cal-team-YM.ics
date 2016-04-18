@@ -4,17 +4,17 @@ PRODID:www.lolesports.com|cal-team-YM
 X-WR-CALNAME:LoL eSports YM
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-aff59cec-c744-494f-a9e1-c8fa4e9c29b7
+UID:match-c7c53382-9a83-43d8-92c6-a435ed9c4caf
 DTSTART:20160416T050000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20160416T060000Z
 URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
  2016_spring_promotion_relegation/Promotion%20-%20Round%202
-SUMMARY:YM vs EPA
-DESCRIPTION:Young Miracles (YM) vs Energy Pace Maker (EPA)\nType : BO5\nTou
- rnament : LPL 2016 Spring Split\nWeek : Promotion - Round 2\n
+SUMMARY:YM vs HYG
+DESCRIPTION:Young Miracles (YM) vs Hyper Youth Gaming (HYG)\nType : BO5\nTo
+ urnament : LPL 2016 Spring Split\nWeek : Promotion - Round 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160415T130102Z
+DTSTAMP:20160418T130102Z
 END:VEVENT
 END:VCALENDAR
