@@ -4,35 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-na-2015-summer-playoffs
 X-WR-CALNAME:LoL eSports Na 2015 summer playoffs
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-9e7db3a2-f25e-4b87-ad03-5bb1251060c0
-DTSTART:20150808T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150808T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
- /na_2015_summer_playoffs/quarterfinals
-SUMMARY:TIP vs DIG
-DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO3\nTourname
- nt : Generated tournament for the 2015 summer playoffs\nWeek : quarterfina
- ls\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160418T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a9968710-452c-4b8b-bed2-85cdb780ab55
-DTSTART:20150816T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150816T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
- /na_2015_summer_playoffs/semifinals
-SUMMARY:TL vs TSM
-DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO4\nTournament : Generated to
- urnament for the 2015 summer playoffs\nWeek : semifinals\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160418T130059Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-8c8ab8a2-12c2-4a52-af6e-135f5d106a0c
 DTSTART:20150822T220000Z
 SEQUENCE:0
@@ -44,7 +15,7 @@ SUMMARY:TL vs TIP
 DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO4\nTournament : Gen
  erated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160418T130059Z
+DTSTAMP:20160419T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0aad477b-bb7b-455c-b666-8b0f5fd6db97
@@ -58,7 +29,7 @@ SUMMARY:TSM vs CLG
 DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nTournament
   : Generated tournament for the 2015 summer playoffs\nWeek : finals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160418T130059Z
+DTSTAMP:20160419T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e5a2b2d-19a9-4ae6-bde0-bebe6bd97f57
@@ -73,7 +44,36 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO3\nT
  ournament : Generated tournament for the 2015 summer playoffs\nWeek : semi
  finals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160418T130059Z
+DTSTAMP:20160419T130101Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9e7db3a2-f25e-4b87-ad03-5bb1251060c0
+DTSTART:20150808T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150808T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
+ /na_2015_summer_playoffs/quarterfinals
+SUMMARY:TIP vs DIG
+DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO3\nTourname
+ nt : Generated tournament for the 2015 summer playoffs\nWeek : quarterfina
+ ls\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160419T130101Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a9968710-452c-4b8b-bed2-85cdb780ab55
+DTSTART:20150816T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
+ /na_2015_summer_playoffs/semifinals
+SUMMARY:TL vs TSM
+DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO4\nTournament : Generated to
+ urnament for the 2015 summer playoffs\nWeek : semifinals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160419T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9ac829ec-d231-45ba-ba24-0adde0f6cc6f
@@ -87,6 +87,6 @@ SUMMARY:GV vs TSM
 DESCRIPTION:Gravity (GV) vs TSM (TSM)\nType : BO4\nTournament : Generated t
  ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160418T130059Z
+DTSTAMP:20160419T130101Z
 END:VEVENT
 END:VCALENDAR

@@ -16,7 +16,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs ROX Tigers (ROX)\nType : BO2\nTournament : Mig
  rated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers\nLoose
  r : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5571bc51-cd0c-4b4d-a496-223e8ceef8f4
@@ -31,7 +31,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO2\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTelecom T1
  \nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
@@ -46,7 +46,7 @@ DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 4\nWinner : KT Rolster\nLoo
  ser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-698f2c31-c7cc-4062-b89d-5f9be92c0618
@@ -61,7 +61,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Rebels Anarchy (ANC)\nType : BO2\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tigers
  \nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-db333bfe-c8af-4edd-9461-b4224aefdb61
@@ -75,7 +75,7 @@ SUMMARY:JAG vs ROX
 DESCRIPTION:Jin Air Green Wings (JAG) vs ROX Tigers (ROX)\nType : BO2\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 12\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00ef436b-01d9-4f42-b436-59b431da7bd1
@@ -90,7 +90,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Longzhu Gaming (LZ)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : ROX Tigers\
  nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
@@ -105,7 +105,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : ROX Tigers
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49dea7c5-bb24-4af0-a871-3a6101549e46
@@ -120,7 +120,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Samsung Galaxy (SSG)\nType : BO3\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 7\nWinner : ROX Tigers
  \nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-916ba9d9-2923-4aab-9293-c3f7043fd5ea
@@ -135,7 +135,7 @@ DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO2\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : SKTelecom T1
  \nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57f96889-288f-44e9-abce-1392ca9e5682
@@ -150,7 +150,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Kongdoo Monster (KDM)\nType : BO3\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : Kongdoo M
  onster\nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85f98a6e-fa66-447c-8a7d-29ef79609d2b
@@ -165,7 +165,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Jin Air Green Wings (JAG)\nType : BO3\nTour
  nament : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : ROX T
  igers\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-698f2c31-c7cc-4062-b89d-5f9be92c0618
@@ -180,52 +180,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Rebels Anarchy (ANC)\nType : BO2\nTournamen
  t : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : ROX Tiger
  s\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-312140e7-5e75-4f32-abe9-da84f83cef9f
-DTSTART:20150605T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/3
-SUMMARY:ROX vs CJ
-DESCRIPTION:ROX Tigers (ROX) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Mig
- rated tournament for lck_2015_summer\nWeek : 3\nWinner : CJ ENTUS\nLooser 
- : ROX Tigers\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
-DTSTART:20150813T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150813T060000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/13
-SUMMARY:SSB vs ROX
-DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
- nt : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : ROX Tige
- rs\nLooser : SBENU SONICBOOM\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-57f96889-288f-44e9-abce-1392ca9e5682
-DTSTART:20150725T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150725T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
- ummer-split/10
-SUMMARY:ROX vs KDM
-DESCRIPTION:ROX Tigers (ROX) vs Kongdoo Monster (KDM)\nType : BO3\nTourname
- nt : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : Kongdoo 
- Monster\nLooser : ROX Tigers\n
-CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
@@ -240,7 +195,7 @@ DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : ROX Tiger
  s\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78c9d80f-179f-489f-8cfd-f667e34c6460
@@ -255,7 +210,7 @@ DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO3\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 11\nWinner : KT Rolster\nLo
  oser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-230e43bf-c048-4091-9586-91161e2bdea3
@@ -270,7 +225,52 @@ DESCRIPTION:Longzhu Gaming (LZ) vs ROX Tigers (ROX)\nType : BO2\nTournament
   : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : ROX Tigers\
  nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-312140e7-5e75-4f32-abe9-da84f83cef9f
+DTSTART:20150605T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/3
+SUMMARY:ROX vs CJ
+DESCRIPTION:ROX Tigers (ROX) vs CJ ENTUS (CJ)\nType : BO3\nTournament : Mig
+ rated tournament for lck_2015_summer\nWeek : 3\nWinner : CJ ENTUS\nLooser 
+ : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160419T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-85ef196c-d093-4d7f-8566-c79177d770cc
+DTSTART:20150813T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150813T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/13
+SUMMARY:SSB vs ROX
+DESCRIPTION:SBENU SONICBOOM (SSB) vs ROX Tigers (ROX)\nType : BO2\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : ROX Tige
+ rs\nLooser : SBENU SONICBOOM\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160419T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-57f96889-288f-44e9-abce-1392ca9e5682
+DTSTART:20150725T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2015_summer/schedule/2015-lck-s
+ ummer-split/10
+SUMMARY:ROX vs KDM
+DESCRIPTION:ROX Tigers (ROX) vs Kongdoo Monster (KDM)\nType : BO3\nTourname
+ nt : Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : Kongdoo 
+ Monster\nLooser : ROX Tigers\n
+CATEGORIES:Migrated tournament for lck_2015_summer
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ae7620ed-f117-483a-9844-a3d285e71f8a
@@ -285,7 +285,7 @@ DESCRIPTION:Flash Wolves (FW) vs ROX Tigers (ROX)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-2\nWinner : Flash Wolves\nL
  ooser : ROX Tigers\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-adc2b46b-5df6-4bcc-b931-65e3c605499a
@@ -299,7 +299,7 @@ SUMMARY:SKT vs ROX
 DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO5\nTournament 
  : The 2015 World Championship\nWeek : berlin-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c256d8e7-5724-41a8-9f66-2eb33106a97b
@@ -314,7 +314,7 @@ DESCRIPTION:ROX Tigers (ROX) vs Counter Logic Gaming (CLG)\nType : BO1\nTou
  rnament : The 2015 World Championship\nWeek : paris-day-4\nWinner : ROX Ti
  gers\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-84181fd4-2704-4a04-91dd-88efe430074a
@@ -329,50 +329,7 @@ DESCRIPTION:ROX Tigers (ROX) vs paiN Gaming (PNG)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Tigers\nLoo
  ser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fecf171a-ae6c-4699-95e2-654f15153139
-DTSTART:20151025T133000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151025T143000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /elimination/brussels-day-2
-SUMMARY:FNC vs ROX
-DESCRIPTION:Fnatic (FNC) vs ROX Tigers (ROX)\nType : BO5\nTournament : The 
- 2015 World Championship\nWeek : brussels-day-2\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f4f15861-27e7-4b86-8dc6-24d6fe34504e
-DTSTART:20151008T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151008T170000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /group_a/paris-day-5
-SUMMARY:ROX vs FW
-DESCRIPTION:ROX Tigers (ROX) vs Flash Wolves (FW)\nType : BO1\nTournament :
-  The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\nL
- ooser : ROX Tigers\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3863275c-31e7-4eaf-a15a-34c3a342a275
-DTSTART:20151018T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20151018T140000Z
-URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
- /elimination/london-day-4
-SUMMARY:KT vs ROX
-DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO5\nTournament : T
- he 2015 World Championship\nWeek : london-day-4\n
-CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ef5c4f4a-6a05-423e-b51e-21a21c13bb9f
@@ -387,7 +344,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs ROX Tigers (ROX)\nType : BO1\nTou
  rnament : The 2015 World Championship\nWeek : paris-day-5\nWinner : ROX Ti
  gers\nLooser : Counter Logic Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b70f89d3-d4a6-41ab-a978-72a395e92970
@@ -402,6 +359,49 @@ DESCRIPTION:paiN Gaming (PNG) vs ROX Tigers (ROX)\nType : BO1\nTournament :
   The 2015 World Championship\nWeek : paris-day-1\nWinner : ROX Tigers\nLoo
  ser : paiN Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160418T130101Z
+DTSTAMP:20160419T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fecf171a-ae6c-4699-95e2-654f15153139
+DTSTART:20151025T133000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151025T143000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /elimination/brussels-day-2
+SUMMARY:FNC vs ROX
+DESCRIPTION:Fnatic (FNC) vs ROX Tigers (ROX)\nType : BO5\nTournament : The 
+ 2015 World Championship\nWeek : brussels-day-2\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160419T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f4f15861-27e7-4b86-8dc6-24d6fe34504e
+DTSTART:20151008T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151008T170000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /group_a/paris-day-5
+SUMMARY:ROX vs FW
+DESCRIPTION:ROX Tigers (ROX) vs Flash Wolves (FW)\nType : BO1\nTournament :
+  The 2015 World Championship\nWeek : paris-day-5\nWinner : Flash Wolves\nL
+ ooser : ROX Tigers\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160419T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3863275c-31e7-4eaf-a15a-34c3a342a275
+DTSTART:20151018T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20151018T140000Z
+URL:http://www.lolesports.com/en_US/worlds/world_championship_2015/schedule
+ /elimination/london-day-4
+SUMMARY:KT vs ROX
+DESCRIPTION:KT Rolster (KT) vs ROX Tigers (ROX)\nType : BO5\nTournament : T
+ he 2015 World Championship\nWeek : london-day-4\n
+CATEGORIES:The 2015 World Championship
+DTSTAMP:20160419T130102Z
 END:VEVENT
 END:VCALENDAR
