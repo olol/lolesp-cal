@@ -4,62 +4,6 @@ PRODID:www.lolesports.com|cal-tournament-iwci-2016
 X-WR-CALNAME:LoL eSports Iwci 2016
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-15bb046f-21ef-4318-ab17-baf4a0cd4803
-DTSTART:20160418T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160418T030000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 202
-SUMMARY:ISG vs SAJ
-DESCRIPTION:Isurus Gaming (ISG) vs Saigon Jokers (SAJ)\nType : BO1\nTournam
- ent : international wildcard invitational 2016\nWeek : Day 2\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bd49c160-dda5-4d02-b21f-e7d628a85504
-DTSTART:20160419T010000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160419T020000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 203
-SUMMARY:CHF vs LG
-DESCRIPTION:Chiefs eSports Club (CHF) vs Lyon Gaming (LG)\nType : BO1\nTour
- nament : international wildcard invitational 2016\nWeek : Day 3\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8dce6db3-656c-430d-b557-f3fd60635459
-DTSTART:20160420T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160420T010000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 204
-SUMMARY:CHF vs ISG
-DESCRIPTION:Chiefs eSports Club (CHF) vs Isurus Gaming (ISG)\nType : BO1\nT
- ournament : international wildcard invitational 2016\nWeek : Day 4\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-49411b4e-6b2f-4a33-970d-4c3881464170
-DTSTART:20160417T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160417T040000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 201
-SUMMARY:ISG vs DFM
-DESCRIPTION:Isurus Gaming (ISG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTo
- urnament : international wildcard invitational 2016\nWeek : Day 1\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-639032f0-d55f-43ec-91df-1b9e86f5d7b2
 DTSTART:20160418T010000Z
 SEQUENCE:0
@@ -71,21 +15,7 @@ SUMMARY:LG vs DFM
 DESCRIPTION:Lyon Gaming (LG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-71ba58f4-8390-4d66-89be-7389ffab2f82
-DTSTART:20160419T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160419T010000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 203
-SUMMARY:HR vs ISG
-DESCRIPTION:Hard Random (HR) vs Isurus Gaming (ISG)\nType : BO1\nTournament
-  : international wildcard invitational 2016\nWeek : Day 3\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab5380bb-22a1-428f-923b-e8ec8219cc07
@@ -99,7 +29,77 @@ SUMMARY:LG vs SAJ
 DESCRIPTION:Lyon Gaming (LG) vs Saigon Jokers (SAJ)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-71ba58f4-8390-4d66-89be-7389ffab2f82
+DTSTART:20160419T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160419T010000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 203
+SUMMARY:HR vs ISG
+DESCRIPTION:Hard Random (HR) vs Isurus Gaming (ISG)\nType : BO1\nTournament
+  : international wildcard invitational 2016\nWeek : Day 3\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-49411b4e-6b2f-4a33-970d-4c3881464170
+DTSTART:20160417T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160417T040000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 201
+SUMMARY:ISG vs DFM
+DESCRIPTION:Isurus Gaming (ISG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTo
+ urnament : international wildcard invitational 2016\nWeek : Day 1\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-15bb046f-21ef-4318-ab17-baf4a0cd4803
+DTSTART:20160418T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160418T030000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 202
+SUMMARY:ISG vs SAJ
+DESCRIPTION:Isurus Gaming (ISG) vs Saigon Jokers (SAJ)\nType : BO1\nTournam
+ ent : international wildcard invitational 2016\nWeek : Day 2\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bd49c160-dda5-4d02-b21f-e7d628a85504
+DTSTART:20160419T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160419T020000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 203
+SUMMARY:CHF vs LG
+DESCRIPTION:Chiefs eSports Club (CHF) vs Lyon Gaming (LG)\nType : BO1\nTour
+ nament : international wildcard invitational 2016\nWeek : Day 3\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8dce6db3-656c-430d-b557-f3fd60635459
+DTSTART:20160420T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160420T010000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 204
+SUMMARY:CHF vs ISG
+DESCRIPTION:Chiefs eSports Club (CHF) vs Isurus Gaming (ISG)\nType : BO1\nT
+ ournament : international wildcard invitational 2016\nWeek : Day 4\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9f31c71d-62ef-46d8-9ad9-b90cbb8ccd86
@@ -113,7 +113,7 @@ SUMMARY:ITZ vs LG
 DESCRIPTION:INTZ (ITZ) vs Lyon Gaming (LG)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8895ba82-e287-4e08-a9bf-00e106d3d31b
@@ -127,21 +127,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive eSports (SUP) vs Hard Random (HR)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-23c0132b-3205-43e1-b2b9-87ab7c17606f
-DTSTART:20160419T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160419T230000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 204
-SUMMARY:DFM vs CHF
-DESCRIPTION:DetonatioN FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
- O1\nTournament : international wildcard invitational 2016\nWeek : Day 4\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00c67ee2-eda9-4108-9ce3-5292b4f62285
@@ -155,7 +141,147 @@ SUMMARY:HR vs DFM
 DESCRIPTION:Hard Random (HR) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-23c0132b-3205-43e1-b2b9-87ab7c17606f
+DTSTART:20160419T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160419T230000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 204
+SUMMARY:DFM vs CHF
+DESCRIPTION:DetonatioN FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
+ O1\nTournament : international wildcard invitational 2016\nWeek : Day 4\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3bac9ecf-4fce-44ff-9851-1860d333f9b8
+DTSTART:20160420T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160420T180000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/playoffs/Semifin
+ als
+SUMMARY:HR vs ITZ
+DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO5\nTournament : intern
+ ational wildcard invitational 2016\nWeek : Semifinals\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e4602b3f-3124-4028-af73-56f37d267b99
+DTSTART:20160421T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160421T220000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/playoffs/Semifin
+ als
+SUMMARY:SUP vs SAJ
+DESCRIPTION:SuperMassive eSports (SUP) vs Saigon Jokers (SAJ)\nType : BO5\n
+ Tournament : international wildcard invitational 2016\nWeek : Semifinals\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-60d2d951-46f2-44bb-a7a4-7fb0e184f820
+DTSTART:20160417T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160417T230000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 202
+SUMMARY:SAJ vs SUP
+DESCRIPTION:Saigon Jokers (SAJ) vs SuperMassive eSports (SUP)\nType : BO1\n
+ Tournament : international wildcard invitational 2016\nWeek : Day 2\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f6770e80-9c95-41aa-a367-d1ce54a42d13
+DTSTART:20160418T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160418T040000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 202
+SUMMARY:DFM vs SUP
+DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive eSports (SUP)\nType : 
+ BO1\nTournament : international wildcard invitational 2016\nWeek : Day 2\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4ebe2dfd-ca65-4e71-a3ca-b103dd23cd22
+DTSTART:20160418T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160418T010000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 202
+SUMMARY:ITZ vs ISG
+DESCRIPTION:INTZ (ITZ) vs Isurus Gaming (ISG)\nType : BO1\nTournament : int
+ ernational wildcard invitational 2016\nWeek : Day 2\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-18b42e26-a0ad-4483-9dae-7eae6792be57
+DTSTART:20160418T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160419T000000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 203
+SUMMARY:ITZ vs DFM
+DESCRIPTION:INTZ (ITZ) vs DetonatioN FocusMe (DFM)\nType : BO1\nTournament 
+ : international wildcard invitational 2016\nWeek : Day 3\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-750568e1-6ef1-4163-9a14-850e62896491
+DTSTART:20160419T020000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160419T030000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 203
+SUMMARY:ISG vs SUP
+DESCRIPTION:Isurus Gaming (ISG) vs SuperMassive eSports (SUP)\nType : BO1\n
+ Tournament : international wildcard invitational 2016\nWeek : Day 3\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b65835ff-2724-4c9c-8299-2a9dd09454a9
+DTSTART:20160419T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160419T220000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 204
+SUMMARY:SAJ vs HR
+DESCRIPTION:Saigon Jokers (SAJ) vs Hard Random (HR)\nType : BO1\nTournament
+  : international wildcard invitational 2016\nWeek : Day 4\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f17b1d5b-a51f-484f-9ee1-3f5efe6a4e7b
+DTSTART:20160420T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160420T040000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 204
+SUMMARY:ITZ vs SAJ
+DESCRIPTION:INTZ (ITZ) vs Saigon Jokers (SAJ)\nType : BO1\nTournament : int
+ ernational wildcard invitational 2016\nWeek : Day 4\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7b263097-e548-456c-9f25-268fbe828e2f
@@ -170,7 +296,7 @@ DESCRIPTION:SuperMassive eSports (SUP) vs Chiefs eSports Club (CHF)\nType :
   BO1\nTournament : international wildcard invitational 2016\nWeek : Day 1\
  n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e7c43c1-35e2-4d21-8316-faa6718c8bad
@@ -184,7 +310,7 @@ SUMMARY:DFM vs SAJ
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Saigon Jokers (SAJ)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95286772-fb63-4b57-81a6-29c86a6dab70
@@ -198,119 +324,7 @@ SUMMARY:CHF vs HR
 DESCRIPTION:Chiefs eSports Club (CHF) vs Hard Random (HR)\nType : BO1\nTour
  nament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-60d2d951-46f2-44bb-a7a4-7fb0e184f820
-DTSTART:20160417T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160417T230000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 202
-SUMMARY:SAJ vs SUP
-DESCRIPTION:Saigon Jokers (SAJ) vs SuperMassive eSports (SUP)\nType : BO1\n
- Tournament : international wildcard invitational 2016\nWeek : Day 2\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4ebe2dfd-ca65-4e71-a3ca-b103dd23cd22
-DTSTART:20160418T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160418T010000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 202
-SUMMARY:ITZ vs ISG
-DESCRIPTION:INTZ (ITZ) vs Isurus Gaming (ISG)\nType : BO1\nTournament : int
- ernational wildcard invitational 2016\nWeek : Day 2\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f6770e80-9c95-41aa-a367-d1ce54a42d13
-DTSTART:20160418T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160418T040000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 202
-SUMMARY:DFM vs SUP
-DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive eSports (SUP)\nType : 
- BO1\nTournament : international wildcard invitational 2016\nWeek : Day 2\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-18b42e26-a0ad-4483-9dae-7eae6792be57
-DTSTART:20160418T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160419T000000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 203
-SUMMARY:ITZ vs DFM
-DESCRIPTION:INTZ (ITZ) vs DetonatioN FocusMe (DFM)\nType : BO1\nTournament 
- : international wildcard invitational 2016\nWeek : Day 3\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-750568e1-6ef1-4163-9a14-850e62896491
-DTSTART:20160419T020000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160419T030000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 203
-SUMMARY:ISG vs SUP
-DESCRIPTION:Isurus Gaming (ISG) vs SuperMassive eSports (SUP)\nType : BO1\n
- Tournament : international wildcard invitational 2016\nWeek : Day 3\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b65835ff-2724-4c9c-8299-2a9dd09454a9
-DTSTART:20160419T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160419T220000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 204
-SUMMARY:SAJ vs HR
-DESCRIPTION:Saigon Jokers (SAJ) vs Hard Random (HR)\nType : BO1\nTournament
-  : international wildcard invitational 2016\nWeek : Day 4\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f17b1d5b-a51f-484f-9ee1-3f5efe6a4e7b
-DTSTART:20160420T030000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160420T040000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 204
-SUMMARY:ITZ vs SAJ
-DESCRIPTION:INTZ (ITZ) vs Saigon Jokers (SAJ)\nType : BO1\nTournament : int
- ernational wildcard invitational 2016\nWeek : Day 4\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6ca81bab-bfae-4006-8671-2a80b2e270a7
-DTSTART:20160416T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160416T230000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 201
-SUMMARY:HR vs ITZ
-DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO1\nTournament : intern
- ational wildcard invitational 2016\nWeek : Day 1\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-81f50358-23eb-4b81-af7c-79d46260a0c7
@@ -324,7 +338,7 @@ SUMMARY:CHF vs ITZ
 DESCRIPTION:Chiefs eSports Club (CHF) vs INTZ (ITZ)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22148d83-3977-4bfd-98a1-a3678fc94881
@@ -338,7 +352,7 @@ SUMMARY:HR vs LG
 DESCRIPTION:Hard Random (HR) vs Lyon Gaming (LG)\nType : BO1\nTournament : 
  international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-40419400-3775-4a72-968b-9a3df3b2f1f8
@@ -352,7 +366,7 @@ SUMMARY:SAJ vs CHF
 DESCRIPTION:Saigon Jokers (SAJ) vs Chiefs eSports Club (CHF)\nType : BO1\nT
  ournament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5ab438b-28de-4a57-831b-5ee427e53a8f
@@ -366,7 +380,7 @@ SUMMARY:SUP vs ITZ
 DESCRIPTION:SuperMassive eSports (SUP) vs INTZ (ITZ)\nType : BO1\nTournamen
  t : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7baba786-dead-45e8-95d2-213b572e4d2c
@@ -380,7 +394,21 @@ SUMMARY:LG vs SUP
 DESCRIPTION:Lyon Gaming (LG) vs SuperMassive eSports (SUP)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6ca81bab-bfae-4006-8671-2a80b2e270a7
+DTSTART:20160416T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160416T230000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 201
+SUMMARY:HR vs ITZ
+DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO1\nTournament : intern
+ ational wildcard invitational 2016\nWeek : Day 1\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160420T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04694041-2e52-4f37-88e5-0764946290e6
@@ -394,6 +422,6 @@ SUMMARY:LG vs ISG
 DESCRIPTION:Lyon Gaming (LG) vs Isurus Gaming (ISG)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160419T130105Z
+DTSTAMP:20160420T130105Z
 END:VEVENT
 END:VCALENDAR
