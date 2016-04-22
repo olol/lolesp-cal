@@ -15,7 +15,7 @@ SUMMARY:LCK vs IWC
 DESCRIPTION:LCK All-Stars (LCK) vs IWC All-Stars (IWC)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160421T130105Z
+DTSTAMP:20160422T130123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c43bf921-896a-4040-9c9b-a683f19f5438
@@ -29,7 +29,7 @@ SUMMARY:LCK vs EUA
 DESCRIPTION:LCK All-Stars (LCK) vs EU LCS All-Stars (EUA)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160421T130105Z
+DTSTAMP:20160422T130123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c105f7e1-9068-432f-b508-439d61289da0
@@ -43,7 +43,7 @@ SUMMARY:LCK vs LPL
 DESCRIPTION:LCK All-Stars (LCK) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160421T130105Z
+DTSTAMP:20160422T130123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c641a74-9800-4e8b-a48f-926b65bf2d3e
@@ -57,7 +57,7 @@ SUMMARY:LCK vs LPL
 DESCRIPTION:LCK All-Stars (LCK) vs LPL All-Stars (LPL)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160421T130105Z
+DTSTAMP:20160422T130123Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e69a7182-d3a3-4f78-a51f-5e2c53488eb8
@@ -71,6 +71,6 @@ SUMMARY:EUA vs LCK
 DESCRIPTION:EU LCS All-Stars (EUA) vs LCK All-Stars (LCK)\nType : BO3\nTour
  nament : Initial All-Star format\nWeek : ase-day-4\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160421T130105Z
+DTSTAMP:20160422T130123Z
 END:VEVENT
 END:VCALENDAR

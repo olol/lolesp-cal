@@ -15,7 +15,20 @@ SUMMARY:SUP vs SAJ
 DESCRIPTION:SuperMassive eSports (SUP) vs Saigon Jokers (SAJ)\nType : BO5\n
  Tournament : international wildcard invitational 2016\nWeek : Semifinals\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-90b4fa68-8071-4a11-b379-92c57102fd6c
+DTSTART:20160423T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160423T180000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/playoffs/Finals
+SUMMARY:SUP vs HR
+DESCRIPTION:SuperMassive eSports (SUP) vs Hard Random (HR)\nType : BO5\nTou
+ rnament : international wildcard invitational 2016\nWeek : Finals\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8895ba82-e287-4e08-a9bf-00e106d3d31b
@@ -29,7 +42,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive eSports (SUP) vs Hard Random (HR)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-60d2d951-46f2-44bb-a7a4-7fb0e184f820
@@ -43,7 +56,7 @@ SUMMARY:SAJ vs SUP
 DESCRIPTION:Saigon Jokers (SAJ) vs SuperMassive eSports (SUP)\nType : BO1\n
  Tournament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6770e80-9c95-41aa-a367-d1ce54a42d13
@@ -57,7 +70,7 @@ SUMMARY:DFM vs SUP
 DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive eSports (SUP)\nType : 
  BO1\nTournament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7b263097-e548-456c-9f25-268fbe828e2f
@@ -72,7 +85,7 @@ DESCRIPTION:SuperMassive eSports (SUP) vs Chiefs eSports Club (CHF)\nType :
   BO1\nTournament : international wildcard invitational 2016\nWeek : Day 1\
  n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-750568e1-6ef1-4163-9a14-850e62896491
@@ -86,7 +99,7 @@ SUMMARY:ISG vs SUP
 DESCRIPTION:Isurus Gaming (ISG) vs SuperMassive eSports (SUP)\nType : BO1\n
  Tournament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab9ab0b5-2346-484d-9955-d9b11e13aed7
@@ -100,7 +113,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive eSports (SUP) vs Hard Random (HR)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5ab438b-28de-4a57-831b-5ee427e53a8f
@@ -114,7 +127,7 @@ SUMMARY:SUP vs ITZ
 DESCRIPTION:SuperMassive eSports (SUP) vs INTZ (ITZ)\nType : BO1\nTournamen
  t : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7baba786-dead-45e8-95d2-213b572e4d2c
@@ -128,6 +141,6 @@ SUMMARY:LG vs SUP
 DESCRIPTION:Lyon Gaming (LG) vs SuperMassive eSports (SUP)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160421T130106Z
+DTSTAMP:20160422T130124Z
 END:VEVENT
 END:VCALENDAR
