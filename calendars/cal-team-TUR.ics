@@ -15,7 +15,7 @@ SUMMARY:BRA vs TUR
 DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars TUR (TUR)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160422T130124Z
+DTSTAMP:20160425T130116Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-08f71b4f-30c8-4797-b0a4-7e0240f49bad
@@ -29,7 +29,7 @@ SUMMARY:TUR vs CIS
 DESCRIPTION:All-Stars TUR (TUR) vs All-Stars CIS (CIS)\nType : BO5\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Final\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160422T130124Z
+DTSTAMP:20160425T130116Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8feafcba-3a5d-4ce2-9950-b29e631bd89a
@@ -43,6 +43,6 @@ SUMMARY:LAT vs TUR
 DESCRIPTION:All-Stars Latam (LAT) vs All-Stars TUR (TUR)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160422T130124Z
+DTSTAMP:20160425T130116Z
 END:VEVENT
 END:VCALENDAR
