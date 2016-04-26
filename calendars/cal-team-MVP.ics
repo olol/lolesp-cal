@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-MVP
+X-WR-CALNAME:LoL eSports MVP
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-27195add-5f4e-40df-8f20-33cdbaae6804
+DTSTART:20160429T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160429T100000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/lck_2016_s
+ pring_promotion_relegation/Promotion%20-%20Round%202
+SUMMARY:KDM vs MVP
+DESCRIPTION:Kongdoo Monster (KDM) vs MVP (MVP)\nType : BO5\nTournament : LC
+ K 2016 Spring Split\nWeek : Promotion - Round 2\n
+CATEGORIES:LCK 2016 Spring Split
+DTSTAMP:20160426T130212Z
+END:VEVENT
+END:VCALENDAR

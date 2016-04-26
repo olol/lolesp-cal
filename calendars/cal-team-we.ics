@@ -4,149 +4,6 @@ PRODID:www.lolesports.com|cal-team-WE
 X-WR-CALNAME:LoL eSports WE
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-a349688c-a8fd-45fd-a841-6a38f29e4801
-DTSTART:20150606T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150606T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:WE vs VG
-DESCRIPTION:Team World Elite (WE) vs Vici Gaming (VG)\nType : BO2\nTourname
- nt : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Vici Gami
- ng\nLooser : Vici Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c754ed83-9cde-40fe-8ff2-f51def2bcb63
-DTSTART:20150612T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/4
-SUMMARY:WE vs QG
-DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO2\nTour
- nament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Qiao 
- Gu Reapers\nLooser : Team World Elite\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b98a9ee2-d856-45c5-8d54-716419314111
-DTSTART:20150724T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/9
-SUMMARY:OMG vs WE
-DESCRIPTION:OMG (OMG) vs Team World Elite (WE)\nType : BO2\nTournament : Mi
- grated tournament for lpl_2015_summer\nWeek : 9\nWinner : Team World Elite
- \nLooser : Team World Elite\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-089155c2-33d7-4225-a4a6-8aa14276c74b
-DTSTART:20160319T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160319T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:WE vs OMG
-DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO3\nTournament : LP
- L 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c657313d-af83-4ec9-b9e4-56a36a84bc65
-DTSTART:20160117T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:WE vs QG
-DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
- nament : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e8de5732-240f-45da-a6f4-a77263647a27
-DTSTART:20160129T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160129T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:WE vs SS
-DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bcbca423-f570-44df-8a97-d30dd0237b48
-DTSTART:20160131T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/3
-SUMMARY:WE vs M3
-DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-43fe89bf-42b4-4eb7-b935-a497f9dd15cb
-DTSTART:20160410T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160410T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:WE vs QG
-DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
- nament : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b85286bd-aadc-4255-9969-1f897b248d86
-DTSTART:20160227T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:VG vs WE
-DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f709b9c3-f099-4e69-b080-e771eec81194
-DTSTART:20160408T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160408T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:WE vs SS
-DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-3d5e20c6-edb9-4b5f-918a-aa74b958decf
 DTSTART:20150613T090000Z
 SEQUENCE:0
@@ -159,7 +16,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Team World Elite (WE)\nType : BO2\
  nTournament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : 
  Royal Never Give Up\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6750ad53-4199-463f-9a13-a4111cd8b494
@@ -174,35 +31,7 @@ DESCRIPTION:Snake Esports (SS) vs Team World Elite (WE)\nType : BO2\nTourna
  ment : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Team Wo
  rld Elite\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-caf768a1-2922-44dc-b2b3-f3b6005babc2
-DTSTART:20160417T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160417T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- 2016_spring_playoffs/Semifinals
-SUMMARY:RNG vs WE
-DESCRIPTION:Royal Never Give Up (RNG) vs Team World Elite (WE)\nType : BO5\
- nTournament : LPL 2016 Spring Split\nWeek : Semifinals\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b4cb3b2-990d-4be4-88ca-a1c4090ec309
-DTSTART:20160225T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160225T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:EDG vs WE
-DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO3\nTourn
- ament : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9073f180-ca71-417a-bfb7-f135bed408e2
@@ -216,7 +45,7 @@ SUMMARY:WE vs QG
 DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO5\nTour
  nament : LPL 2016 Spring Split\nWeek : Finals\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8062728b-3a73-4efc-8090-29a0b7025e02
@@ -230,7 +59,178 @@ SUMMARY:WE vs LGD
 DESCRIPTION:Team World Elite (WE) vs LGD Gaming (LGD)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-caf768a1-2922-44dc-b2b3-f3b6005babc2
+DTSTART:20160417T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160417T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ 2016_spring_playoffs/Semifinals
+SUMMARY:RNG vs WE
+DESCRIPTION:Royal Never Give Up (RNG) vs Team World Elite (WE)\nType : BO5\
+ nTournament : LPL 2016 Spring Split\nWeek : Semifinals\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b4cb3b2-990d-4be4-88ca-a1c4090ec309
+DTSTART:20160225T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:EDG vs WE
+DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO3\nTourn
+ ament : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a349688c-a8fd-45fd-a841-6a38f29e4801
+DTSTART:20150606T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:WE vs VG
+DESCRIPTION:Team World Elite (WE) vs Vici Gaming (VG)\nType : BO2\nTourname
+ nt : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Vici Gami
+ ng\nLooser : Vici Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c754ed83-9cde-40fe-8ff2-f51def2bcb63
+DTSTART:20150612T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:WE vs QG
+DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO2\nTour
+ nament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Qiao 
+ Gu Reapers\nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b98a9ee2-d856-45c5-8d54-716419314111
+DTSTART:20150724T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/9
+SUMMARY:OMG vs WE
+DESCRIPTION:OMG (OMG) vs Team World Elite (WE)\nType : BO2\nTournament : Mi
+ grated tournament for lpl_2015_summer\nWeek : 9\nWinner : Team World Elite
+ \nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-089155c2-33d7-4225-a4a6-8aa14276c74b
+DTSTART:20160319T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160319T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:WE vs OMG
+DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO3\nTournament : LP
+ L 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c657313d-af83-4ec9-b9e4-56a36a84bc65
+DTSTART:20160117T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:WE vs QG
+DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e8de5732-240f-45da-a6f4-a77263647a27
+DTSTART:20160129T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160129T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:WE vs SS
+DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bcbca423-f570-44df-8a97-d30dd0237b48
+DTSTART:20160131T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/3
+SUMMARY:WE vs M3
+DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-43fe89bf-42b4-4eb7-b935-a497f9dd15cb
+DTSTART:20160410T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160410T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:WE vs QG
+DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b85286bd-aadc-4255-9969-1f897b248d86
+DTSTART:20160227T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:VG vs WE
+DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f709b9c3-f099-4e69-b080-e771eec81194
+DTSTART:20160408T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160408T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:WE vs SS
+DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-17607115-efc3-4ac1-9f4f-73205c125c13
@@ -245,7 +245,7 @@ DESCRIPTION:Team World Elite (WE) vs Unlimited Potential (UP)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : U
  nlimited Potential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-84f1fa25-9447-4a34-81b9-1e7429cb12a6
@@ -260,7 +260,7 @@ DESCRIPTION:Team World Elite (WE) vs King (KNG)\nType : BO2\nTournament : M
  igrated tournament for lpl_2015_summer\nWeek : 6\nWinner : King\nLooser : 
  King\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-abfc6df0-18eb-44be-90c9-75e390abf4cb
@@ -275,7 +275,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Team W
  orld Elite\nLooser : Edward Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-eed08b21-002b-4d1a-b8d8-e43cefec9e52
@@ -290,7 +290,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Team World Elite (WE)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Team
   World Elite\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e71c6320-554a-418f-b4ee-0e79d23c70c8
@@ -305,7 +305,7 @@ DESCRIPTION:Team World Elite (WE) vs Edward Gaming (EDG)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Edwar
  d Gaming\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bb1cb9d8-53c7-4702-932e-b7192a74b4f9
@@ -320,7 +320,7 @@ DESCRIPTION:Vici Gaming (VG) vs Team World Elite (WE)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Team Worl
  d Elite\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3c0a8ba0-2888-4db1-b051-13c739c501b8
@@ -334,7 +334,7 @@ SUMMARY:HYG vs WE
 DESCRIPTION:Hyper Youth Gaming (HYG) vs Team World Elite (WE)\nType : BO3\n
  Tournament : LPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-14d16646-09b4-4add-ad43-85a9ac53f251
@@ -348,7 +348,7 @@ SUMMARY:LGD vs WE
 DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3d0369d2-3205-4345-90ef-cedc3e8f01e5
@@ -362,7 +362,7 @@ SUMMARY:M3 vs WE
 DESCRIPTION:Master3 (M3) vs Team World Elite (WE)\nType : BO3\nTournament :
   LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0169bafc-3a7e-4914-8917-9bf844569631
@@ -376,109 +376,7 @@ SUMMARY:EPA vs WE
 DESCRIPTION:Energy Pace Maker (EPA) vs Team World Elite (WE)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-83457e60-83c2-4dba-9f2a-82bc8460be4d
-DTSTART:20150522T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150522T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/1
-SUMMARY:WE vs IG
-DESCRIPTION:Team World Elite (WE) vs Invictus Gaming (IG)\nType : BO2\nTour
- nament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Invic
- tus Gaming\nLooser : Team World Elite\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-89956a80-254a-4318-8381-50cad3b226c9
-DTSTART:20150605T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:WE vs LGD
-DESCRIPTION:Team World Elite (WE) vs LGD Gaming (LGD)\nType : BO2\nTourname
- nt : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : LGD Gamin
- g\nLooser : Team World Elite\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f65dfb4a-38da-471d-b286-ba52f3fd5d9d
-DTSTART:20150801T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150801T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/10
-SUMMARY:KNG vs WE
-DESCRIPTION:King (KNG) vs Team World Elite (WE)\nType : BO2\nTournament : M
- igrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Team World Eli
- te\nLooser : Team World Elite\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ca05fbe9-ce40-415f-b08d-a132c9676ad0
-DTSTART:20150725T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150725T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/9
-SUMMARY:LGD vs WE
-DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO2\nTourname
- nt : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : LGD Gamin
- g\nLooser : Team World Elite\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-66eb660f-26e1-48fe-84b6-7b441c37c324
-DTSTART:20160311T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160311T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:IG vs WE
-DESCRIPTION:Invictus Gaming (IG) vs Team World Elite (WE)\nType : BO3\nTour
- nament : LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7816913a-cd32-4795-9623-15c3f8d00126
-DTSTART:20160115T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160115T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/1
-SUMMARY:WE vs EPA
-DESCRIPTION:Team World Elite (WE) vs Energy Pace Maker (EPA)\nType : BO3\nT
- ournament : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4afa7605-d473-40d2-9070-6b13748c8a70
-DTSTART:20160218T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:WE vs RNG
-DESCRIPTION:Team World Elite (WE) vs Royal Never Give Up (RNG)\nType : BO3\
- nTournament : LPL 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8854cc21-75d5-4cac-952a-57b0cf01e85c
@@ -493,7 +391,7 @@ DESCRIPTION:Team World Elite (WE) vs Master3 (M3)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Master3\nLoos
  er : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-de64fed0-c518-49d0-9042-a7a32eb6d271
@@ -508,7 +406,7 @@ DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO2\nTourna
  ment : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Snake E
  sports\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ae2a6fe6-c91a-4202-957c-b77b4bc65ea9
@@ -523,7 +421,7 @@ DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 2\nWinner : OMG\nLooser : OM
  G\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcbab89a-ac9a-4c76-99a2-d2cd5ef313e9
@@ -538,7 +436,7 @@ DESCRIPTION:Master3 (M3) vs Team World Elite (WE)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Team World El
  ite\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d36edc6e-e06b-4dcd-9911-1864bea5b26f
@@ -553,7 +451,7 @@ DESCRIPTION:Team World Elite (WE) vs Royal Never Give Up (RNG)\nType : BO2\
  nTournament : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : 
  Team World Elite\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ca18712-356a-425d-8883-111091653aa2
@@ -567,7 +465,7 @@ SUMMARY:UP vs WE
 DESCRIPTION:Unlimited Potential (UP) vs Team World Elite (WE)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d49152c4-5956-4b05-948c-76290d3341a4
@@ -581,7 +479,7 @@ SUMMARY:IG vs WE
 DESCRIPTION:Invictus Gaming (IG) vs Team World Elite (WE)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-76005b4a-8809-4047-815c-1019b60cf140
@@ -595,6 +493,108 @@ SUMMARY:WE vs VG
 DESCRIPTION:Team World Elite (WE) vs Vici Gaming (VG)\nType : BO5\nTourname
  nt : LPL 2016 Spring Split\nWeek : Round 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160425T130113Z
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-83457e60-83c2-4dba-9f2a-82bc8460be4d
+DTSTART:20150522T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150522T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/1
+SUMMARY:WE vs IG
+DESCRIPTION:Team World Elite (WE) vs Invictus Gaming (IG)\nType : BO2\nTour
+ nament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Invic
+ tus Gaming\nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-89956a80-254a-4318-8381-50cad3b226c9
+DTSTART:20150605T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:WE vs LGD
+DESCRIPTION:Team World Elite (WE) vs LGD Gaming (LGD)\nType : BO2\nTourname
+ nt : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : LGD Gamin
+ g\nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f65dfb4a-38da-471d-b286-ba52f3fd5d9d
+DTSTART:20150801T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/10
+SUMMARY:KNG vs WE
+DESCRIPTION:King (KNG) vs Team World Elite (WE)\nType : BO2\nTournament : M
+ igrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Team World Eli
+ te\nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ca05fbe9-ce40-415f-b08d-a132c9676ad0
+DTSTART:20150725T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150725T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/9
+SUMMARY:LGD vs WE
+DESCRIPTION:LGD Gaming (LGD) vs Team World Elite (WE)\nType : BO2\nTourname
+ nt : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : LGD Gamin
+ g\nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-66eb660f-26e1-48fe-84b6-7b441c37c324
+DTSTART:20160311T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160311T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:IG vs WE
+DESCRIPTION:Invictus Gaming (IG) vs Team World Elite (WE)\nType : BO3\nTour
+ nament : LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7816913a-cd32-4795-9623-15c3f8d00126
+DTSTART:20160115T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160115T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/1
+SUMMARY:WE vs EPA
+DESCRIPTION:Team World Elite (WE) vs Energy Pace Maker (EPA)\nType : BO3\nT
+ ournament : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4afa7605-d473-40d2-9070-6b13748c8a70
+DTSTART:20160218T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:WE vs RNG
+DESCRIPTION:Team World Elite (WE) vs Royal Never Give Up (RNG)\nType : BO3\
+ nTournament : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160426T130213Z
 END:VEVENT
 END:VCALENDAR

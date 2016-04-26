@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-ESC
+X-WR-CALNAME:LoL eSports ESC
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-70f6ca4c-89a7-4117-b295-9ccaf0864e0e
+DTSTART:20160428T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160428T100000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/lck_2016_s
+ pring_promotion_relegation/Promotion%20-%20Round%201
+SUMMARY:SSB vs ESC
+DESCRIPTION:SBENU SONICBOOM (SSB) vs ESC Ever (ESC)\nType : BO5\nTournament
+  : LCK 2016 Spring Split\nWeek : Promotion - Round 1\n
+CATEGORIES:LCK 2016 Spring Split
+DTSTAMP:20160426T130212Z
+END:VEVENT
+END:VCALENDAR
