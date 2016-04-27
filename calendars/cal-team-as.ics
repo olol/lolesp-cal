@@ -16,7 +16,7 @@ DESCRIPTION:Machi (M17) vs Assassin Sniper (AS)\nType : BO2\nTournament : M
  igrated tournament for lms_2015_summer\nWeek : 2\nWinner : Machi\nLooser :
   Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b5e70758-3f46-4aab-bd1b-312aa3f88204
@@ -31,7 +31,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Assassin Sniper (AS)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : Ass
  assin Sniper\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d7fb15fa-5326-4b0e-a9c5-2ef1120740be
@@ -46,7 +46,7 @@ DESCRIPTION:Flash Wolves (FW) vs Assassin Sniper (AS)\nType : BO2\nTourname
  nt : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : Flash Wol
  ves\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-197968f5-0dfb-4c3b-bb57-09155d2a1974
@@ -61,7 +61,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Assassin Sniper (AS)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner : Hon
  g Kong Esports\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ed2e053d-4900-4c33-a7a6-248a0eb8a653
@@ -76,7 +76,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Machi (M17)\nType : BO2\nTournament : M
  igrated tournament for lms_2015_summer\nWeek : 6\nWinner : Machi\nLooser :
   Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-51f77654-354e-42de-af83-462e07342f65
@@ -91,7 +91,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Hong Kong Esports (HKE)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : Hon
  g Kong Esports\nLooser : Hong Kong Esports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-05e8fd7c-d543-4141-ae1b-2162b85bf3e8
@@ -106,7 +106,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Taipei Assassins (TPA)\nType : BO2\nTou
  rnament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Taip
  ei Assassins\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c2cfbe8a-dd9d-4e7f-a5fc-be6b92a90ba4
@@ -121,7 +121,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Logitech G Sniper (LGS)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Log
  itech G Sniper\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-319afdcf-d589-49c4-a7c0-cdc82ce0d358
@@ -136,7 +136,7 @@ DESCRIPTION:Assassin Sniper (AS) vs ahq e-Sports Club (AHQ)\nType : BO2\nTo
  urnament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : ahq
   e-Sports Club\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba23d4a8-cdb4-4de0-8682-6d2355d2caac
@@ -151,7 +151,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Assassin Sniper (AS)\nType : BO2\nTou
  rnament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Assa
  ssin Sniper\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-343f259c-25a2-4233-a8b5-d6c7a81903db
@@ -166,7 +166,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Assassin Sniper (AS)\nType : BO2
  \nTournament : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner :
   Assassin Sniper\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac2d443a-1ee0-4c76-8a22-29757c8edf26
@@ -181,7 +181,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Midnight Sun e-Sports (MSE)\nType : BO2
  \nTournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner :
   Midnight Sun e-Sports\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f2b93351-68ee-4dce-aa44-d036ed397415
@@ -196,6 +196,6 @@ DESCRIPTION:Assassin Sniper (AS) vs Flash Wolves (FW)\nType : BO2\nTourname
  nt : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Flash Wol
  ves\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160426T130216Z
+DTSTAMP:20160427T130111Z
 END:VEVENT
 END:VCALENDAR
