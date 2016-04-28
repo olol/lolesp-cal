@@ -15,7 +15,7 @@ SUMMARY:UOL vs OG
 DESCRIPTION:Unicorns of Love (UOL) vs Origen (OG)\nType : BO5\nTournament :
   EU LCS Summer regional playoffs\nWeek : finals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160427T130107Z
+DTSTAMP:20160428T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc252aac-9fdb-4439-afee-5869778ba600
@@ -29,7 +29,7 @@ SUMMARY:OG vs ROC
 DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS Su
  mmer regional playoffs\nWeek : semifinals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160427T130107Z
+DTSTAMP:20160428T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab8ff511-f17b-4dba-8169-25c5f2d05ee2
@@ -43,6 +43,6 @@ SUMMARY:GIA vs ROC
 DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
  ummer regional playoffs\nWeek : quarterfinals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160427T130107Z
+DTSTAMP:20160428T130101Z
 END:VEVENT
 END:VCALENDAR
