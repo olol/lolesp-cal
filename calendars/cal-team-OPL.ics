@@ -15,7 +15,7 @@ SUMMARY:CIS vs OPL
 DESCRIPTION:All-Stars CIS (CIS) vs All-Stars OPL (OPL)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160428T130107Z
+DTSTAMP:20160429T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b914ef58-8730-4d36-91fe-cb41c5da104a
@@ -29,7 +29,7 @@ SUMMARY:BRA vs OPL
 DESCRIPTION:All-Stars CBLoL (BRA) vs All-Stars OPL (OPL)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 2\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160428T130107Z
+DTSTAMP:20160429T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-90c701ea-5a03-4000-967a-0422e92b8c22
@@ -43,6 +43,6 @@ SUMMARY:SEA vs OPL
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars OPL (OPL)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160428T130107Z
+DTSTAMP:20160429T130114Z
 END:VEVENT
 END:VCALENDAR
