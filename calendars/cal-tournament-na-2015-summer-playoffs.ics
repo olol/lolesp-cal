@@ -15,7 +15,7 @@ SUMMARY:TL vs TIP
 DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO4\nTournament : Gen
  erated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160502T130107Z
+DTSTAMP:20160503T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0aad477b-bb7b-455c-b666-8b0f5fd6db97
@@ -29,7 +29,7 @@ SUMMARY:TSM vs CLG
 DESCRIPTION:TSM (TSM) vs Counter Logic Gaming (CLG)\nType : BO3\nTournament
   : Generated tournament for the 2015 summer playoffs\nWeek : finals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160502T130107Z
+DTSTAMP:20160503T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e5a2b2d-19a9-4ae6-bde0-bebe6bd97f57
@@ -44,7 +44,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Team Impulse (TIP)\nType : BO3\nT
  ournament : Generated tournament for the 2015 summer playoffs\nWeek : semi
  finals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160502T130107Z
+DTSTAMP:20160503T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9e7db3a2-f25e-4b87-ad03-5bb1251060c0
@@ -59,7 +59,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO3\nTourname
  nt : Generated tournament for the 2015 summer playoffs\nWeek : quarterfina
  ls\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160502T130107Z
+DTSTAMP:20160503T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a9968710-452c-4b8b-bed2-85cdb780ab55
@@ -73,7 +73,7 @@ SUMMARY:TL vs TSM
 DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO4\nTournament : Generated to
  urnament for the 2015 summer playoffs\nWeek : semifinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160502T130107Z
+DTSTAMP:20160503T130107Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9ac829ec-d231-45ba-ba24-0adde0f6cc6f
@@ -87,6 +87,6 @@ SUMMARY:GV vs TSM
 DESCRIPTION:Gravity (GV) vs TSM (TSM)\nType : BO4\nTournament : Generated t
  ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160502T130107Z
+DTSTAMP:20160503T130107Z
 END:VEVENT
 END:VCALENDAR

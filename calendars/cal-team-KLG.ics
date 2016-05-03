@@ -16,7 +16,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Hafnet 
  E-Sports\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bbdc96d8-9048-4df8-8db7-147cdd22b1c5
@@ -31,7 +31,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Last Kings (LK)\nType : BO2\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Last Kings\nL
  ooser : Last Kings\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0bbf32d-e72e-40e3-8e8b-fc4d22a3cabf
@@ -46,7 +46,7 @@ DESCRIPTION:Furious Gaming (FG) vs Kaos Latin Gamers (KMV)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Furious G
  aming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d8f13f6-cff6-4084-919c-566f35492e9a
@@ -61,7 +61,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Hafnet E-Sports (HAF)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Hafnet 
  E-Sports\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-af2daf0b-1294-41e1-8949-b05c5e4eee0d
@@ -76,7 +76,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Rebirth
   eSports\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-978eca8f-b9e6-4a8b-a142-d750d9912aeb
@@ -91,7 +91,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Furious Gaming (FG)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Furious G
  aming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cba85e68-ad83-42e8-a362-6dab715654d6
@@ -106,7 +106,7 @@ DESCRIPTION:Last Kings (LK) vs Kaos Latin Gamers (KMV)\nType : BO2\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Kaos Latin Ga
  mers\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a9b71baf-ca07-498a-862b-64b4b45ed897
@@ -121,7 +121,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Rebirth eSports (RBT)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Kaos La
  tin Gamers\nLooser : Rebirth eSports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-351196b3-ec00-4133-aa7a-97e6dfad31be
@@ -136,7 +136,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Kaos Latin Gamers (KMV)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Isurus Ga
  ming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-df67ca9d-7136-46fa-918c-7ffb3d08970f
@@ -151,6 +151,6 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Isurus Gaming (ISG)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Isurus Ga
  ming\nLooser : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160502T130112Z
+DTSTAMP:20160503T130112Z
 END:VEVENT
 END:VCALENDAR

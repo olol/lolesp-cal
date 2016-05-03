@@ -16,7 +16,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Hong Kong Esports (HKE)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : H
  ong Kong Esports\nLooser : Hong Kong Esports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d9bcce1-90fe-41a8-8084-3cbd045fe93b
@@ -31,7 +31,7 @@ DESCRIPTION:Logitech G Sniper (LGS) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : T
  aipei Assassins\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5ed1175-8db0-4d2b-9bec-18de27212307
@@ -46,7 +46,7 @@ DESCRIPTION:Machi (M17) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
   Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : Taipei Assass
  ins\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-40b9d290-e8fd-44f8-95ac-96bb37065120
@@ -61,7 +61,7 @@ DESCRIPTION:Machi (M17) vs Taipei Assassins (TPA)\nType : BO2\nTournament :
   LMS 2016 Spring Split\nWeek : 9\nWinner : Taipei Assassins\nLooser : Taip
  ei Assassins\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4c48e255-1ac8-481a-abd4-8b7af26d4405
@@ -76,7 +76,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
  O2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner
   : Taipei Assassins\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0857bb77-9782-473c-a4a2-8d843fa2e354
@@ -91,7 +91,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Machi (M17)\nType : BO2\nTournament :
   Migrated tournament for lms_2015_summer\nWeek : 4\nWinner : Machi\nLooser
   : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f5b16d8a-7986-4dfd-b898-defbe38c7476
@@ -106,7 +106,7 @@ DESCRIPTION:Flash Wolves (FW) vs Taipei Assassins (TPA)\nType : BO2\nTourna
  ment : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : Flash W
  olves\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16f7d635-deaa-4646-98fc-35e97ef61b18
@@ -121,7 +121,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : H
  ong Kong Esports\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbad94fb-57fb-44df-a059-cd0371a1e871
@@ -136,7 +136,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner : T
  aipei Assassins\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e027a78-8f60-4941-adb3-6f54ec0ced42
@@ -151,7 +151,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (FW)\nType : BO2\nTourna
  ment : LMS 2016 Spring Split\nWeek : 2\nWinner : Flash Wolves\nLooser : Ta
  ipei Assassins\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6d43a18-a119-4f06-a143-5df76ca29bf8
@@ -166,7 +166,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinner : a
  hq e-Sports Club\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d5b24b61-20ac-4ece-a587-eb37a6fe15b9
@@ -181,7 +181,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Logitech G Sniper (LGS)\nType : BO2\n
  Tournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : T
  aipei Assassins\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-05e8fd7c-d543-4141-ae1b-2162b85bf3e8
@@ -196,7 +196,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Taipei Assassins (TPA)\nType : BO2\nTou
  rnament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Taip
  ei Assassins\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b5c06e18-89ee-478c-b8a6-8778fe9d76ce
@@ -211,7 +211,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
  O2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : Taipei Assassin
  s\nLooser : Taipei Assassins\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c6d9e9a7-db0e-4724-9ccd-1c3759537928
@@ -226,7 +226,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : LMS 2016 Spring Split\nWeek : 5\nWinner : ahq e-Sports Club\n
  Looser : Taipei Assassins\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ce09d9e0-080f-447c-968a-ff4f5674bd47
@@ -241,7 +241,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
  O2\nTournament : LMS 2016 Spring Split\nWeek : 6\nWinner : Taipei Assassin
  s\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba23d4a8-cdb4-4de0-8682-6d2355d2caac
@@ -256,7 +256,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Assassin Sniper (AS)\nType : BO2\nTou
  rnament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Assa
  ssin Sniper\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-acf06ba4-77a4-4c93-abcc-677337c934a2
@@ -271,7 +271,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs eXtreme Gamers eSports Club (XG)\nTyp
  e : BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : Taipei Ass
  assins\nLooser : eXtreme Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-adb3036b-e99e-4856-8f27-0cc31204d463
@@ -286,7 +286,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Cougar eSports (CGE)\nType : BO2\nTou
  rnament : LMS 2016 Spring Split\nWeek : 2\nWinner : Taipei Assassins\nLoos
  er : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6fac6369-4d98-42c2-9308-40f7fa75a886
@@ -301,7 +301,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Hong Kong Esports (HKE)\nType : BO2\n
  Tournament : LMS 2016 Spring Split\nWeek : 7\nWinner : Hong Kong Esports\n
  Looser : Hong Kong Esports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-25fc06c6-5cdf-4734-988a-ef2a3712929a
@@ -315,7 +315,7 @@ SUMMARY:TPA vs M17
 DESCRIPTION:Taipei Assassins (TPA) vs Machi (M17)\nType : BO5\nTournament :
   LMS 2016 Spring Split\nWeek : Round 1\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1333cec7-2a8e-4584-8bc5-c077c08a6262
@@ -330,7 +330,7 @@ DESCRIPTION:Flash Wolves (FW) vs Taipei Assassins (TPA)\nType : BO2\nTourna
  ment : LMS 2016 Spring Split\nWeek : 9\nWinner : Taipei Assassins\nLooser 
  : Flash Wolves\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e9287451-66bd-45cd-ab4f-595ae644df0d
@@ -345,7 +345,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Flash Wolves (FW)\nType : BO2\nTourna
  ment : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner : Flash W
  olves\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c084fb25-5ef7-4753-8200-47ebc9f62f6d
@@ -360,7 +360,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
  O2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner
   : Midnight Sun e-Sports\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3d362ddd-cdbe-4728-bd01-5221a1172cf0
@@ -375,7 +375,7 @@ DESCRIPTION:eXtreme Gamers eSports Club (XG) vs Taipei Assassins (TPA)\nTyp
  e : BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\nWinner : Taipei Ass
  assins\nLooser : eXtreme Gamers eSports Club\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95c34b1f-6677-4ae8-80dc-28cef9d6e03e
@@ -390,7 +390,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs ahq e-Sports Club (AHQ)\nType : BO2\n
  Tournament : LMS 2016 Spring Split\nWeek : 8\nWinner : ahq e-Sports Club\n
  Looser : Taipei Assassins\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-83fa25e8-1544-4d3b-b7a7-d5596fcb8ed4
@@ -405,7 +405,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Taipei Assassins (TPA)\nType : BO2\n
  Tournament : LMS 2016 Spring Split\nWeek : 3\nWinner : Taipei Assassins\nL
  ooser : Taipei Assassins\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4667b5ec-7828-4d85-8cf3-3e16115900c4
@@ -420,7 +420,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Machi (M17)\nType : BO2\nTournament :
   LMS 2016 Spring Split\nWeek : 1\nWinner : Taipei Assassins\nLooser : Mach
  i\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7ed036fd-2b96-40fe-bc0a-e2a03932ce0e
@@ -435,6 +435,6 @@ DESCRIPTION:Cougar eSports (CGE) vs Taipei Assassins (TPA)\nType : BO2\nTou
  rnament : LMS 2016 Spring Split\nWeek : 6\nWinner : Taipei Assassins\nLoos
  er : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160502T130111Z
+DTSTAMP:20160503T130111Z
 END:VEVENT
 END:VCALENDAR

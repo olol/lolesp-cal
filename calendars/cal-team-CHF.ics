@@ -15,7 +15,7 @@ SUMMARY:CHF vs LG
 DESCRIPTION:Chiefs eSports Club (CHF) vs Lyon Gaming (LG)\nType : BO1\nTour
  nament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8dce6db3-656c-430d-b557-f3fd60635459
@@ -29,7 +29,7 @@ SUMMARY:CHF vs ISG
 DESCRIPTION:Chiefs eSports Club (CHF) vs Isurus Gaming (ISG)\nType : BO1\nT
  ournament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-23c0132b-3205-43e1-b2b9-87ab7c17606f
@@ -43,21 +43,7 @@ SUMMARY:DFM vs CHF
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
  O1\nTournament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160502T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-81f50358-23eb-4b81-af7c-79d46260a0c7
-DTSTART:20160417T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160417T220000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
- 202
-SUMMARY:CHF vs ITZ
-DESCRIPTION:Chiefs eSports Club (CHF) vs INTZ (ITZ)\nType : BO1\nTournament
-  : international wildcard invitational 2016\nWeek : Day 2\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-40419400-3775-4a72-968b-9a3df3b2f1f8
@@ -71,7 +57,21 @@ SUMMARY:SAJ vs CHF
 DESCRIPTION:Saigon Jokers (SAJ) vs Chiefs eSports Club (CHF)\nType : BO1\nT
  ournament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-81f50358-23eb-4b81-af7c-79d46260a0c7
+DTSTART:20160417T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160417T220000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/round_robin/Day%
+ 202
+SUMMARY:CHF vs ITZ
+DESCRIPTION:Chiefs eSports Club (CHF) vs INTZ (ITZ)\nType : BO1\nTournament
+  : international wildcard invitational 2016\nWeek : Day 2\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7b263097-e548-456c-9f25-268fbe828e2f
@@ -85,7 +85,7 @@ SUMMARY:SUP vs CHF
 DESCRIPTION:SuperMassive (SUP) vs Chiefs eSports Club (CHF)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95286772-fb63-4b57-81a6-29c86a6dab70
@@ -99,7 +99,7 @@ SUMMARY:CHF vs HR
 DESCRIPTION:Chiefs eSports Club (CHF) vs Hard Random (HR)\nType : BO1\nTour
  nament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee685746-2a8f-40fa-a444-99c9ad7d3ec8
@@ -114,7 +114,7 @@ DESCRIPTION:Sin Gaming (SIN) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 10\nWinner : Chiefs eSports Club\nL
  ooser : Sin Gaming\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0a8be37-ec28-4493-8890-59041bfabb5f
@@ -129,7 +129,7 @@ DESCRIPTION:Trident Esports (TRI) vs Chiefs eSports Club (CHF)\nType : BO3\
  nTournament : OPL 2016 Spring Split\nWeek : 1\nWinner : Chiefs eSports Clu
  b\nLooser : Trident Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0d745be6-8bdd-4d7d-bf9a-0985a67b167b
@@ -144,7 +144,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Infernum (INF)\nType : BO3\nTourna
  ment : OPL 2016 Spring Split\nWeek : 5\nWinner : Chiefs eSports Club\nLoos
  er : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ad6f3bf6-57a3-4998-9d3a-189306ff942b
@@ -158,7 +158,7 @@ SUMMARY:LGC vs CHF
 DESCRIPTION:Legacy eSports (LGC) vs Chiefs eSports Club (CHF)\nType : BO5\n
  Tournament : OPL 2016 Spring Split\nWeek : finals\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b51f7a9b-c185-4472-a57a-562d4eb23c26
@@ -173,7 +173,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Trident Esports (TRI)\nType : BO3\
  nTournament : OPL 2016 Spring Split\nWeek : 8\nWinner : Chiefs eSports Clu
  b\nLooser : Trident Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c936a0dd-f772-4fca-85e9-f073ac3fc0a6
@@ -188,7 +188,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Legacy eSports (LGC)\nType : BO3\n
  Tournament : OPL 2016 Spring Split\nWeek : 9\nWinner : Chiefs eSports Club
  \nLooser : Legacy eSports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f55b3a53-f9ce-48f3-8c7c-ef26b7517073
@@ -203,7 +203,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Dire Wolves (DW)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 2\nWinner : Dire Wolves\nLooser : C
  hiefs eSports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9c6cf7b9-aead-4991-a9b1-02187bb5ac5b
@@ -218,7 +218,7 @@ DESCRIPTION:Avant Garde (AV) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 4\nWinner : Chiefs eSports Club\nLo
  oser : Avant Garde\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fd904356-885e-4cf8-b212-928e1532b678
@@ -233,7 +233,7 @@ DESCRIPTION:Dire Wolves (DW) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 7\nWinner : Dire Wolves\nLooser : C
  hiefs eSports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ca368374-3ff4-4244-bbce-9df516767054
@@ -248,7 +248,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Chiefs eSports Club (CHF)\nType
   : BO3\nTournament : OPL 2016 Spring Split\nWeek : 6\nWinner : Chiefs eSpo
  rts Club\nLooser : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-76e1b940-09a6-4f7f-beec-9acf7cb27de2
@@ -263,7 +263,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Sin Gaming (SIN)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 7\nWinner : Sin Gaming\nLooser : Ch
  iefs eSports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5694422a-6b2d-4167-8a26-a94412a36357
@@ -277,6 +277,6 @@ SUMMARY:CHF vs SIN
 DESCRIPTION:Chiefs eSports Club (CHF) vs Sin Gaming (SIN)\nType : BO5\nTour
  nament : OPL 2016 Spring Split\nWeek : quarterfinals\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160502T130113Z
+DTSTAMP:20160503T130113Z
 END:VEVENT
 END:VCALENDAR
