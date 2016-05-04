@@ -14,7 +14,7 @@ SUMMARY:CLG vs SUP
 DESCRIPTION:Counter Logic Gaming (CLG) vs SuperMassive (SUP)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 3\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-29043a92-2a1f-4487-8595-43997c182b2f
@@ -27,7 +27,7 @@ SUMMARY:FW vs SUP
 DESCRIPTION:Flash Wolves (FW) vs SuperMassive (SUP)\nType : BO1\nTournament
   : MSI 2016\nWeek : 2\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-93a566bc-f896-429e-b9ff-dc2f648e0408
@@ -40,7 +40,7 @@ SUMMARY:SUP vs SKT
 DESCRIPTION:SuperMassive (SUP) vs SKTelecom T1 (SKT)\nType : BO1\nTournamen
  t : MSI 2016\nWeek : 4\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-498cdb45-0517-43c5-a9dd-3d7484fd0b2a
@@ -53,7 +53,7 @@ SUMMARY:SUP vs CLG
 DESCRIPTION:SuperMassive (SUP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 2\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6dd0c12d-50ab-4d00-bb99-ca6c65a697ed
@@ -66,7 +66,7 @@ SUMMARY:SUP vs FW
 DESCRIPTION:SuperMassive (SUP) vs Flash Wolves (FW)\nType : BO1\nTournament
   : MSI 2016\nWeek : 5\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-14a30d6b-a05e-4bd0-b3de-a980c173cbde
@@ -79,7 +79,7 @@ SUMMARY:SUP vs G2
 DESCRIPTION:SuperMassive (SUP) vs G2 Esports (G2)\nType : BO1\nTournament :
   MSI 2016\nWeek : 3\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c297a06-9d4e-4081-b3d0-4c27a6e82cb5
@@ -92,7 +92,7 @@ SUMMARY:RNG vs SUP
 DESCRIPTION:Royal Never Give Up (RNG) vs SuperMassive (SUP)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 5\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-51c2e942-1d21-45e8-95a7-012a8b245dd8
@@ -103,9 +103,9 @@ DTEND:20160504T090000Z
 URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/1
 SUMMARY:SKT vs SUP
 DESCRIPTION:SKTelecom T1 (SKT) vs SuperMassive (SUP)\nType : BO1\nTournamen
- t : MSI 2016\nWeek : 1\n
+ t : MSI 2016\nWeek : 1\nWinner : SKTelecom T1\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4fed5283-d056-44fe-8d38-7a6a4324e0b8
@@ -118,7 +118,7 @@ SUMMARY:SUP vs RNG
 DESCRIPTION:SuperMassive (SUP) vs Royal Never Give Up (RNG)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3a59a734-33dc-440f-94d6-88c944bab5de
@@ -131,7 +131,7 @@ SUMMARY:G2 vs SUP
 DESCRIPTION:G2 Esports (G2) vs SuperMassive (SUP)\nType : BO1\nTournament :
   MSI 2016\nWeek : 4\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e4602b3f-3124-4028-af73-56f37d267b99
@@ -145,7 +145,20 @@ SUMMARY:SUP vs SAJ
 DESCRIPTION:SuperMassive (SUP) vs Saigon Jokers (SAJ)\nType : BO5\nTourname
  nt : international wildcard invitational 2016\nWeek : Semifinals\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-90b4fa68-8071-4a11-b379-92c57102fd6c
+DTSTART:20160423T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160423T180000Z
+URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/playoffs/Finals
+SUMMARY:SUP vs HR
+DESCRIPTION:SuperMassive (SUP) vs Hard Random (HR)\nType : BO5\nTournament 
+ : international wildcard invitational 2016\nWeek : Finals\n
+CATEGORIES:international wildcard invitational 2016
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8895ba82-e287-4e08-a9bf-00e106d3d31b
@@ -159,20 +172,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive (SUP) vs Hard Random (HR)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-90b4fa68-8071-4a11-b379-92c57102fd6c
-DTSTART:20160423T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160423T180000Z
-URL:http://www.lolesports.com/en_US/iwc/iwci_2016/schedule/playoffs/Finals
-SUMMARY:SUP vs HR
-DESCRIPTION:SuperMassive (SUP) vs Hard Random (HR)\nType : BO5\nTournament 
- : international wildcard invitational 2016\nWeek : Finals\n
-CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7baba786-dead-45e8-95d2-213b572e4d2c
@@ -186,7 +186,7 @@ SUMMARY:LG vs SUP
 DESCRIPTION:Lyon Gaming (LG) vs SuperMassive (SUP)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab9ab0b5-2346-484d-9955-d9b11e13aed7
@@ -200,7 +200,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive (SUP) vs Hard Random (HR)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5ab438b-28de-4a57-831b-5ee427e53a8f
@@ -214,7 +214,7 @@ SUMMARY:SUP vs ITZ
 DESCRIPTION:SuperMassive (SUP) vs INTZ (ITZ)\nType : BO1\nTournament : inte
  rnational wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-60d2d951-46f2-44bb-a7a4-7fb0e184f820
@@ -228,7 +228,7 @@ SUMMARY:SAJ vs SUP
 DESCRIPTION:Saigon Jokers (SAJ) vs SuperMassive (SUP)\nType : BO1\nTourname
  nt : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6770e80-9c95-41aa-a367-d1ce54a42d13
@@ -242,7 +242,7 @@ SUMMARY:DFM vs SUP
 DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive (SUP)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7b263097-e548-456c-9f25-268fbe828e2f
@@ -256,7 +256,7 @@ SUMMARY:SUP vs CHF
 DESCRIPTION:SuperMassive (SUP) vs Chiefs eSports Club (CHF)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-750568e1-6ef1-4163-9a14-850e62896491
@@ -270,6 +270,6 @@ SUMMARY:ISG vs SUP
 DESCRIPTION:Isurus Gaming (ISG) vs SuperMassive (SUP)\nType : BO1\nTourname
  nt : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160503T130113Z
+DTSTAMP:20160504T130106Z
 END:VEVENT
 END:VCALENDAR

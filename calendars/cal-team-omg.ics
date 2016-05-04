@@ -4,120 +4,6 @@ PRODID:www.lolesports.com|cal-team-OMG
 X-WR-CALNAME:LoL eSports OMG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-2c4f8b15-c97f-4a92-b48a-9c33e5c1d46a
-DTSTART:20150605T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:OMG vs SS
-DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO2\nTournament : Migra
- ted tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Esports\nLoos
- er : Snake Esports\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-15f7a05d-2ea5-4b6c-b716-f98b8cdbb7a1
-DTSTART:20150606T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150606T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:M3 vs OMG
-DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : Migrated to
- urnament for lpl_2015_summer\nWeek : 3\nWinner : OMG\nLooser : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a990fc0c-d9f6-472f-ba1c-42d84a31ae16
-DTSTART:20150705T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/7
-SUMMARY:RNG vs OMG
-DESCRIPTION:Royal Never Give Up (RNG) vs OMG (OMG)\nType : BO2\nTournament 
- : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : OMG\nLooser 
- : OMG\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-40e9ce82-853f-4d1f-8639-8801bbbcbe5a
-DTSTART:20150807T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150807T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/11
-SUMMARY:QG vs OMG
-DESCRIPTION:Qiao Gu Reapers (QG) vs OMG (OMG)\nType : BO2\nTournament : Mig
- rated tournament for lpl_2015_summer\nWeek : 11\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8234373c-f177-4ec6-b028-a7743ea50d3d
-DTSTART:20150802T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150802T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/10
-SUMMARY:KNG vs OMG
-DESCRIPTION:King (KNG) vs OMG (OMG)\nType : BO2\nTournament : Migrated tour
- nament for lpl_2015_summer\nWeek : 10\nWinner : OMG\nLooser : OMG\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2e609fd8-3b56-4c75-88de-67c69611e0f3
-DTSTART:20160401T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160401T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/9
-SUMMARY:OMG vs IG
-DESCRIPTION:OMG (OMG) vs Invictus Gaming (IG)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3677988b-339d-41c8-8974-0ef59afaaec7
-DTSTART:20160219T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160219T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:OMG vs QG
-DESCRIPTION:OMG (OMG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-15ea840c-61a8-4d99-8616-597e0e8ceaab
-DTSTART:20160403T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160403T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/9
-SUMMARY:OMG vs RNG
-DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-dc416765-8b35-44dc-a0d9-3c58031eccf4
 DTSTART:20150524T070000Z
 SEQUENCE:0
@@ -130,7 +16,7 @@ DESCRIPTION:OMG (OMG) vs Qiao Gu Reapers (QG)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 1\nWinner : Qiao Gu Reapers\n
  Looser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c7768a88-a29f-4809-937c-cc30a89819ee
@@ -144,7 +30,7 @@ SUMMARY:OMG vs M3
 DESCRIPTION:OMG (OMG) vs Master3 (M3)\nType : BO2\nTournament : Migrated to
  urnament for lpl_2015_summer\nWeek : 8\nWinner : OMG\nLooser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fbc35f41-cedf-427a-bf01-e325290ac231
@@ -159,7 +45,7 @@ DESCRIPTION:Unlimited Potential (UP) vs OMG (OMG)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Unlimited Pot
  ential\nLooser : OMG\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ce548e9-309d-475c-be72-baf5a50c190a
@@ -173,7 +59,7 @@ SUMMARY:OMG vs EDG
 DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b0486e50-510f-4d28-b7d8-1c627267f2cd
@@ -187,7 +73,7 @@ SUMMARY:LGD vs OMG
 DESCRIPTION:LGD Gaming (LGD) vs OMG (OMG)\nType : BO2\nTournament : Migrate
  d tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b98a9ee2-d856-45c5-8d54-716419314111
@@ -202,7 +88,7 @@ DESCRIPTION:OMG (OMG) vs Team World Elite (WE)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 9\nWinner : Team World Elite
  \nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f927529b-297c-47a8-abd7-c555feec5e0d
@@ -217,7 +103,7 @@ DESCRIPTION:Invictus Gaming (IG) vs OMG (OMG)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 9\nWinner : OMG\nLooser : OMG
  \n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-089155c2-33d7-4225-a4a6-8aa14276c74b
@@ -231,7 +117,7 @@ SUMMARY:WE vs OMG
 DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9db72a49-b6a6-47b5-8529-e0d4db74d564
@@ -245,7 +131,7 @@ SUMMARY:HYG vs OMG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs OMG (OMG)\nType : BO3\nTournament :
   LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0aa3dfc6-8a3b-40e3-a643-e6411c6555d3
@@ -259,7 +145,7 @@ SUMMARY:OMG vs SS
 DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO3\nTournament : LPL 2
  016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c3d44055-f5bb-4d96-a96d-47430a46a49a
@@ -273,7 +159,121 @@ SUMMARY:LGD vs OMG
 DESCRIPTION:LGD Gaming (LGD) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
  6 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2c4f8b15-c97f-4a92-b48a-9c33e5c1d46a
+DTSTART:20150605T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:OMG vs SS
+DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO2\nTournament : Migra
+ ted tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Esports\nLoos
+ er : Snake Esports\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-15f7a05d-2ea5-4b6c-b716-f98b8cdbb7a1
+DTSTART:20150606T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:M3 vs OMG
+DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO2\nTournament : Migrated to
+ urnament for lpl_2015_summer\nWeek : 3\nWinner : OMG\nLooser : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a990fc0c-d9f6-472f-ba1c-42d84a31ae16
+DTSTART:20150705T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:RNG vs OMG
+DESCRIPTION:Royal Never Give Up (RNG) vs OMG (OMG)\nType : BO2\nTournament 
+ : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : OMG\nLooser 
+ : OMG\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-40e9ce82-853f-4d1f-8639-8801bbbcbe5a
+DTSTART:20150807T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150807T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/11
+SUMMARY:QG vs OMG
+DESCRIPTION:Qiao Gu Reapers (QG) vs OMG (OMG)\nType : BO2\nTournament : Mig
+ rated tournament for lpl_2015_summer\nWeek : 11\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8234373c-f177-4ec6-b028-a7743ea50d3d
+DTSTART:20150802T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150802T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/10
+SUMMARY:KNG vs OMG
+DESCRIPTION:King (KNG) vs OMG (OMG)\nType : BO2\nTournament : Migrated tour
+ nament for lpl_2015_summer\nWeek : 10\nWinner : OMG\nLooser : OMG\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2e609fd8-3b56-4c75-88de-67c69611e0f3
+DTSTART:20160401T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160401T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/9
+SUMMARY:OMG vs IG
+DESCRIPTION:OMG (OMG) vs Invictus Gaming (IG)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3677988b-339d-41c8-8974-0ef59afaaec7
+DTSTART:20160219T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160219T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:OMG vs QG
+DESCRIPTION:OMG (OMG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-15ea840c-61a8-4d99-8616-597e0e8ceaab
+DTSTART:20160403T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160403T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/9
+SUMMARY:OMG vs RNG
+DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-aad79dc7-0327-451f-b59e-3cf99e7cf8d8
@@ -288,7 +288,7 @@ DESCRIPTION:OMG (OMG) vs Invictus Gaming (IG)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 4\nWinner : OMG\nLooser : Inv
  ictus Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-38f522c4-de01-4eb8-b5ee-612a9e8c5213
@@ -303,93 +303,7 @@ DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO2\nTournament : Migrate
  d tournament for lpl_2015_summer\nWeek : 1\nWinner : Vici Gaming\nLooser :
   Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ae2a6fe6-c91a-4202-957c-b77b4bc65ea9
-DTSTART:20150530T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150530T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/2
-SUMMARY:WE vs OMG
-DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO2\nTournament : Mi
- grated tournament for lpl_2015_summer\nWeek : 2\nWinner : OMG\nLooser : OM
- G\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b52f9f33-97da-4313-81a4-d6d8d6f15090
-DTSTART:20150703T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/7
-SUMMARY:VG vs OMG
-DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO2\nTournament : Migrate
- d tournament for lpl_2015_summer\nWeek : 7\nWinner : OMG\nLooser : Vici Ga
- ming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-41863ee4-b2a2-472a-afdb-f9e23c73b46b
-DTSTART:20160114T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160114T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:VG vs OMG
-DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
- 6 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-277386bd-9545-4e6d-9ae7-fa83f90a555c
-DTSTART:20160124T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:IG vs OMG
-DESCRIPTION:Invictus Gaming (IG) vs OMG (OMG)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-982e36cd-e805-4d8b-b3f9-c5a1141a2d61
-DTSTART:20160409T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160409T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:OMG vs EDG
-DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-000799fe-19ff-4d71-9ae6-8c213e23af6c
-DTSTART:20160407T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160407T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:OMG vs VG
-DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 201
- 6 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-05d53331-7ae3-40d2-b9a1-f7e506775b1d
@@ -404,7 +318,7 @@ DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : OMG\nLooser 
  : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8b29cabb-1e1b-4f23-b1fa-f1bb697d03e7
@@ -418,7 +332,7 @@ SUMMARY:OMG vs KNG
 DESCRIPTION:OMG (OMG) vs King (KNG)\nType : BO2\nTournament : Migrated tour
  nament for lpl_2015_summer\nWeek : 5\nWinner : King\nLooser : King\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6098ab2e-7974-44ee-b49e-9079fa0ab381
@@ -433,7 +347,7 @@ DESCRIPTION:OMG (OMG) vs Unlimited Potential (UP)\nType : BO2\nTournament :
   Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Unlimited Pot
  ential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9b42f90a-9c58-466c-bba7-9a128bf669c2
@@ -448,7 +362,7 @@ DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 5\nWinner : OMG\nLooser : OMG\
  n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-65faf50b-a8e1-42c5-aaaa-7ee4b53c21ba
@@ -463,7 +377,7 @@ DESCRIPTION:OMG (OMG) vs LGD Gaming (LGD)\nType : BO2\nTournament : Migrate
  d tournament for lpl_2015_summer\nWeek : 5\nWinner : LGD Gaming\nLooser : 
  OMG\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcbdc1e4-7130-4053-97c7-3c7403f894b6
@@ -478,7 +392,7 @@ DESCRIPTION:Snake Esports (SS) vs OMG (OMG)\nType : BO2\nTournament : Migra
  ted tournament for lpl_2015_summer\nWeek : 8\nWinner : Snake Esports\nLoos
  er : OMG\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8dd602d8-48f2-491e-ad69-f65d2da5e7a4
@@ -492,7 +406,7 @@ SUMMARY:OMG vs RNG
 DESCRIPTION:OMG (OMG) vs Royal Never Give Up (RNG)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a99a42d2-03b7-42c8-87e8-ee4b7701176a
@@ -506,7 +420,7 @@ SUMMARY:EDG vs OMG
 DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8c8b4ae2-2b0e-40cf-a852-12173fa13b6f
@@ -520,7 +434,7 @@ SUMMARY:M3 vs OMG
 DESCRIPTION:Master3 (M3) vs OMG (OMG)\nType : BO3\nTournament : LPL 2016 Sp
  ring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-446385b6-0955-4e92-8391-076196a68a15
@@ -534,7 +448,7 @@ SUMMARY:EPA vs OMG
 DESCRIPTION:Energy Pace Maker (EPA) vs OMG (OMG)\nType : BO3\nTournament : 
  LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dc3c2d4c-376e-4383-b8c1-03eaf0c3788a
@@ -548,7 +462,7 @@ SUMMARY:HYG vs OMG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs OMG (OMG)\nType : BO3\nTournament :
   LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7554db0d-2732-40e7-83ca-f387f8dd5af5
@@ -562,6 +476,92 @@ SUMMARY:EPA vs OMG
 DESCRIPTION:Energy Pace Maker (EPA) vs OMG (OMG)\nType : BO5\nTournament : 
  LPL 2016 Spring Split\nWeek : Promotion - Round 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160503T130110Z
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ae2a6fe6-c91a-4202-957c-b77b4bc65ea9
+DTSTART:20150530T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150530T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/2
+SUMMARY:WE vs OMG
+DESCRIPTION:Team World Elite (WE) vs OMG (OMG)\nType : BO2\nTournament : Mi
+ grated tournament for lpl_2015_summer\nWeek : 2\nWinner : OMG\nLooser : OM
+ G\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b52f9f33-97da-4313-81a4-d6d8d6f15090
+DTSTART:20150703T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:VG vs OMG
+DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO2\nTournament : Migrate
+ d tournament for lpl_2015_summer\nWeek : 7\nWinner : OMG\nLooser : Vici Ga
+ ming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41863ee4-b2a2-472a-afdb-f9e23c73b46b
+DTSTART:20160114T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160114T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:VG vs OMG
+DESCRIPTION:Vici Gaming (VG) vs OMG (OMG)\nType : BO3\nTournament : LPL 201
+ 6 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-277386bd-9545-4e6d-9ae7-fa83f90a555c
+DTSTART:20160124T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:IG vs OMG
+DESCRIPTION:Invictus Gaming (IG) vs OMG (OMG)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-982e36cd-e805-4d8b-b3f9-c5a1141a2d61
+DTSTART:20160409T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160409T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:OMG vs EDG
+DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160504T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-000799fe-19ff-4d71-9ae6-8c213e23af6c
+DTSTART:20160407T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160407T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:OMG vs VG
+DESCRIPTION:OMG (OMG) vs Vici Gaming (VG)\nType : BO3\nTournament : LPL 201
+ 6 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160504T130103Z
 END:VEVENT
 END:VCALENDAR
