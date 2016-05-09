@@ -16,7 +16,7 @@ DESCRIPTION:OMG (OMG) vs Qiao Gu Reapers (QG)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 1\nWinner : Qiao Gu Reapers\n
  Looser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f0cd259-2b88-4240-a9f0-52800ddcf1af
@@ -31,7 +31,7 @@ DESCRIPTION:King (KNG) vs Qiao Gu Reapers (QG)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 3\nWinner : Qiao Gu Reapers\
  nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4796e668-d562-4dbb-a9e2-a39e089eaebd
@@ -46,7 +46,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Unlimited Potential (UP)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Qi
  ao Gu Reapers\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c754ed83-9cde-40fe-8ff2-f51def2bcb63
@@ -61,7 +61,7 @@ DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Qiao 
  Gu Reapers\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-90158554-663c-4852-8add-2c325c5ebf27
@@ -76,7 +76,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO2\nTournament :
  Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Master3\nLoose
  r : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0dea10c-8946-4302-830a-4c8e6093685a
@@ -90,7 +90,7 @@ SUMMARY:QG vs RNG
 DESCRIPTION:Qiao Gu Reapers (QG) vs Royal Never Give Up (RNG)\nType : BO3\n
  Tournament : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c657313d-af83-4ec9-b9e4-56a36a84bc65
@@ -104,7 +104,7 @@ SUMMARY:WE vs QG
 DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-43fe89bf-42b4-4eb7-b935-a497f9dd15cb
@@ -118,7 +118,7 @@ SUMMARY:WE vs QG
 DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO3\nTour
  nament : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cc13159d-1f81-4589-bff2-3b0727b0d475
@@ -133,7 +133,7 @@ DESCRIPTION:Master3 (M3) vs Qiao Gu Reapers (QG)\nType : BO2\nTournament :
  Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Qiao Gu Reaper
  s\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9b489697-4e85-4519-9921-d9cb77b84f44
@@ -148,7 +148,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Vici Gaming (VG)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Qiao Gu Re
  apers\nLooser : Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba4e8165-6dcf-4172-b77b-8a9e8c0978a8
@@ -163,7 +163,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Edward Gaming (EDG)\nType : BO2\nTourna
  ment : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Edward 
  Gaming\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-40e9ce82-853f-4d1f-8639-8801bbbcbe5a
@@ -177,7 +177,7 @@ SUMMARY:QG vs OMG
 DESCRIPTION:Qiao Gu Reapers (QG) vs OMG (OMG)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0ca04213-f982-4743-b81d-1179c6951d66
@@ -191,7 +191,7 @@ SUMMARY:M3 vs QG
 DESCRIPTION:Master3 (M3) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : 
  LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3677988b-339d-41c8-8974-0ef59afaaec7
@@ -205,7 +205,7 @@ SUMMARY:OMG vs QG
 DESCRIPTION:OMG (OMG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournament : LPL
   2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0eb67b5-d2f8-4a7a-84f4-ebe5e6d98ccb
@@ -219,7 +219,7 @@ SUMMARY:LGD vs QG
 DESCRIPTION:LGD Gaming (LGD) vs Qiao Gu Reapers (QG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9073f180-ca71-417a-bfb7-f135bed408e2
@@ -233,7 +233,7 @@ SUMMARY:WE vs QG
 DESCRIPTION:Team World Elite (WE) vs Qiao Gu Reapers (QG)\nType : BO5\nTour
  nament : LPL 2016 Spring Split\nWeek : Finals\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b9863182-384a-481c-af5f-4b6d79cea5f5
@@ -248,7 +248,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs LGD Gaming (LGD)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Qiao Gu Re
  apers\nLooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-516232d9-c2c9-402c-91d6-3a5aca54ed32
@@ -263,7 +263,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Qiao Gu Reapers (QG)\nType : BO2\nTourna
  ment : Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Qiao Gu
   Reapers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d94960bd-d696-4a3d-997d-f114396ba06d
@@ -278,7 +278,7 @@ DESCRIPTION:Vici Gaming (VG) vs Qiao Gu Reapers (QG)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Qiao Gu Re
  apers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-eed08b21-002b-4d1a-b8d8-e43cefec9e52
@@ -293,7 +293,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Team World Elite (WE)\nType : BO2\nTour
  nament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Team
   World Elite\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab6db652-9e53-43d4-9292-692e3ca04be0
@@ -308,7 +308,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Qiao Gu Reapers (QG)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Q
  iao Gu Reapers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f25941c8-6f06-4957-a738-6497fbd3f01b
@@ -322,7 +322,7 @@ SUMMARY:QG vs M3
 DESCRIPTION:Qiao Gu Reapers (QG) vs Master3 (M3)\nType : BO3\nTournament : 
  LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee8be2ee-a380-4adf-b02f-5d7df6f38dae
@@ -336,7 +336,7 @@ SUMMARY:IG vs QG
 DESCRIPTION:Invictus Gaming (IG) vs Qiao Gu Reapers (QG)\nType : BO3\nTourn
  ament : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c89d73cf-4615-4e00-a62a-63964060c2a5
@@ -350,7 +350,7 @@ SUMMARY:QG vs SS
 DESCRIPTION:Qiao Gu Reapers (QG) vs Snake Esports (SS)\nType : BO3\nTournam
  ent : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-20c0b41f-bddb-4608-957f-49c0b1b03ad0
@@ -364,7 +364,7 @@ SUMMARY:SS vs QG
 DESCRIPTION:Snake Esports (SS) vs Qiao Gu Reapers (QG)\nType : BO3\nTournam
  ent : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-80b374d0-8762-4b24-bdcc-98243a619416
@@ -378,7 +378,7 @@ SUMMARY:HYG vs QG
 DESCRIPTION:Hyper Youth Gaming (HYG) vs Qiao Gu Reapers (QG)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8500c718-db3a-4a1e-821d-6b4d63a63242
@@ -392,7 +392,7 @@ SUMMARY:EDG vs QG
 DESCRIPTION:Edward Gaming (EDG) vs Qiao Gu Reapers (QG)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-df647283-05b5-45f2-84e1-44b569248b74
@@ -407,7 +407,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Qiao Gu Reapers (QG)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Qiao G
  u Reapers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f42bd301-7f77-4bb3-a899-82abe250b578
@@ -422,7 +422,7 @@ DESCRIPTION:Snake Esports (SS) vs Qiao Gu Reapers (QG)\nType : BO2\nTournam
  ent : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Qiao Gu 
  Reapers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d0b47cbc-4eaf-40e8-b013-26c576101df0
@@ -437,7 +437,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Royal Never Give Up (RNG)\nType : BO2\n
  Tournament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : 
  Royal Never Give Up\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4371f7b1-6ef4-444c-9853-6350338a659d
@@ -452,7 +452,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Qiao Gu Reapers (QG)\nType : BO2\nTournamen
  t : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Qiao Gu Re
  apers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8313e192-f4bf-4978-af38-440ef0172126
@@ -466,7 +466,7 @@ SUMMARY:EPA vs QG
 DESCRIPTION:Energy Pace Maker (EPA) vs Qiao Gu Reapers (QG)\nType : BO3\nTo
  urnament : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5c593c43-fedb-48c8-ab3a-6809c8620372
@@ -480,7 +480,7 @@ SUMMARY:VG vs QG
 DESCRIPTION:Vici Gaming (VG) vs Qiao Gu Reapers (QG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-30682ecd-815d-4f05-af17-49a8e91b2c47
@@ -495,7 +495,7 @@ DESCRIPTION:Unlimited Potential (UP) vs Qiao Gu Reapers (QG)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Qi
  ao Gu Reapers\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c81ce5cc-6ad4-427b-a40d-0ba2eb9de97c
@@ -510,7 +510,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs King (KNG)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 8\nWinner : King\nLooser : K
  ing\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-df647283-05b5-45f2-84e1-44b569248b74
@@ -525,7 +525,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Qiao Gu Reapers (QG)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Qiao G
  u Reapers\nLooser : Qiao Gu Reapers\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69ab4840-8a2e-42be-9898-59af18423e50
@@ -540,7 +540,7 @@ DESCRIPTION:Qiao Gu Reapers (QG) vs Snake Esports (SS)\nType : BO2\nTournam
  ent : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Snake Es
  ports\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36e27109-be3b-4d1a-bd52-b3e6800b771a
@@ -554,7 +554,7 @@ SUMMARY:QG vs LGD
 DESCRIPTION:Qiao Gu Reapers (QG) vs LGD Gaming (LGD)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0607574-cb7c-4642-b0c8-0eeb5ab3614e
@@ -568,7 +568,7 @@ SUMMARY:QG vs EDG
 DESCRIPTION:Qiao Gu Reapers (QG) vs Edward Gaming (EDG)\nType : BO5\nTourna
  ment : LPL 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53c6d1d6-e9cf-4e44-836c-9bd48d3222c2
@@ -582,6 +582,6 @@ SUMMARY:EPA vs QG
 DESCRIPTION:Energy Pace Maker (EPA) vs Qiao Gu Reapers (QG)\nType : BO3\nTo
  urnament : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160504T130103Z
+DTSTAMP:20160509T130105Z
 END:VEVENT
 END:VCALENDAR
