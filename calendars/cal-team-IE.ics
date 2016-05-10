@@ -16,7 +16,7 @@ DESCRIPTION:Millenium (MIL) vs Inspire eSports (IE)\nType : BO2\nTournament
   : EU CS 2016 Spring Split\nWeek : 4\nWinner : Inspire eSports\nLooser : M
  illenium\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160509T130104Z
+DTSTAMP:20160510T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f668e1f-4371-4700-84ae-e3fa6fa88fbe
@@ -30,7 +30,7 @@ SUMMARY:IE vs HMA
 DESCRIPTION:Inspire eSports (IE) vs Huma (HMA)\nType : BO2\nTournament : EU
   CS 2016 Spring Split\nWeek : 5\nWinner : Huma\nLooser : Inspire eSports\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160509T130104Z
+DTSTAMP:20160510T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d580093a-d3e6-4add-82ce-1b0c357a58c8
@@ -44,7 +44,7 @@ SUMMARY:IE vs HMA
 DESCRIPTION:Inspire eSports (IE) vs Huma (HMA)\nType : BO5\nTournament : EU
   CS 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160509T130104Z
+DTSTAMP:20160510T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9556bcd3-007b-4c72-b972-f7e148f8c00b
@@ -59,7 +59,7 @@ DESCRIPTION:Inspire eSports (IE) vs Copenhagen Wolves (CW)\nType : BO2\nTou
  rnament : EU CS 2016 Spring Split\nWeek : 2\nWinner : Copenhagen Wolves\nL
  ooser : Copenhagen Wolves\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160509T130104Z
+DTSTAMP:20160510T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e31b04c8-9433-4d85-8ffb-fd4157ed20c4
@@ -74,7 +74,7 @@ DESCRIPTION:Inspire eSports (IE) vs SK Gaming (SKG)\nType : BO2\nTournament
   : EU CS 2016 Spring Split\nWeek : 3\nWinner : Inspire eSports\nLooser : S
  K Gaming\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160509T130104Z
+DTSTAMP:20160510T130100Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-88451760-5e31-4ce2-b950-ef953e35e41e
@@ -89,6 +89,6 @@ DESCRIPTION:Inspire eSports (IE) vs Mousesports (MOU)\nType : BO2\nTourname
  nt : EU CS 2016 Spring Split\nWeek : 1\nWinner : Inspire eSports\nLooser :
   Mousesports\n
 CATEGORIES:EU CS 2016 Spring Split
-DTSTAMP:20160509T130104Z
+DTSTAMP:20160510T130100Z
 END:VEVENT
 END:VCALENDAR

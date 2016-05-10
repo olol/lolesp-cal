@@ -15,7 +15,7 @@ SUMMARY:D9 vs LG
 DESCRIPTION:Dash9 Gaming (D9) vs Lyon Gaming (LG)\nType : BO3\nTournament :
   Copa Latinoamerica Norte\nWeek : 3\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-753723b4-cae8-4dad-8417-833e861521a7
@@ -29,7 +29,7 @@ SUMMARY:HVK vs D9
 DESCRIPTION:Havoks Gaming (HVK) vs Dash9 Gaming (D9)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 5\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-afd1f6d6-ba0b-47d4-8328-803c668eb199
@@ -43,7 +43,7 @@ SUMMARY:D9 vs RvG
 DESCRIPTION:Dash9 Gaming (D9) vs Revenge eSports (RvG)\nType : BO3\nTournam
  ent : Copa Latinoamerica Norte\nWeek : 6\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2e0787fb-4a15-41f9-bd9b-dd2c98fec14e
@@ -57,7 +57,7 @@ SUMMARY:LG vs D9
 DESCRIPTION:Lyon Gaming (LG) vs Dash9 Gaming (D9)\nType : BO3\nTournament :
   Copa Latinoamerica Norte\nWeek : 7\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ed1a20c4-adfc-43e7-93f5-f8545d9eed6a
@@ -71,7 +71,7 @@ SUMMARY:D9 vs GG
 DESCRIPTION:Dash9 Gaming (D9) vs Galactic Gaming (GG)\nType : BO3\nTourname
  nt : Copa Latinoamerica Norte\nWeek : 8\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89b6a84f-9e40-45a8-9b46-4f7e695b9632
@@ -85,7 +85,7 @@ SUMMARY:RvG vs D9
 DESCRIPTION:Revenge eSports (RvG) vs Dash9 Gaming (D9)\nType : BO3\nTournam
  ent : Copa Latinoamerica Norte\nWeek : 2\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bdffeeed-a29f-4333-9e10-16e655ee23f6
@@ -99,7 +99,7 @@ SUMMARY:TSE vs D9
 DESCRIPTION:Tesla eSports (TSE) vs Dash9 Gaming (D9)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 2\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dc9013e1-cea4-4f15-bfc4-e0e521756d24
@@ -113,7 +113,7 @@ SUMMARY:D9 vs TSE
 DESCRIPTION:Dash9 Gaming (D9) vs Tesla eSports (TSE)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 6\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b26ba976-f9cb-44fb-9d90-85005afe2a13
@@ -127,7 +127,7 @@ SUMMARY:D9 vs HVK
 DESCRIPTION:Dash9 Gaming (D9) vs Havoks Gaming (HVK)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 1\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-61053dd1-a5da-44eb-b208-e4b73049ce2a
@@ -141,6 +141,6 @@ SUMMARY:GG vs D9
 DESCRIPTION:Galactic Gaming (GG) vs Dash9 Gaming (D9)\nType : BO3\nTourname
  nt : Copa Latinoamerica Norte\nWeek : 4\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160509T130109Z
+DTSTAMP:20160510T130104Z
 END:VEVENT
 END:VCALENDAR
