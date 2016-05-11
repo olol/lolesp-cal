@@ -4,78 +4,6 @@ PRODID:www.lolesports.com|cal-team-ROC
 X-WR-CALNAME:LoL eSports ROC
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-0d05a4dd-acc8-42ce-b296-a055d8d914c9
-DTSTART:20150605T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:UOL vs ROC
-DESCRIPTION:Unicorns of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament 
- : Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Unicorns of L
- ove\nLooser : ROCCAT\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c406e996-8932-4b15-8258-087d964af2e1
-DTSTART:20150724T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150724T230000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/Tiebreaker
-SUMMARY:GIA vs ROC
-DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
-  tournament for eu_2015_summer\nWeek : Tiebreaker\nWinner : ROCCAT\nLooser
-  : Giants\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3547016f-eedc-4392-9271-99633d16ea09
-DTSTART:20160205T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160205T220000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/4
-SUMMARY:ROC vs FNC
-DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
- Spring Split\nWeek : 4\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e73b1474-86cc-4fe6-baf1-245891f5b35a
-DTSTART:20160115T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160115T220000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/1
-SUMMARY:G2 vs ROC
-DESCRIPTION:G2 Esports (G2) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 20
- 16 Spring Split\nWeek : 1\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-577425d6-d1e7-4d0e-b50d-1c71bc34f475
-DTSTART:20160211T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160211T220000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/5
-SUMMARY:ROC vs GIA
-DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
- Spring Split\nWeek : 5\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-12170806-d529-459e-96d6-1bb33452258f
 DTSTART:20150529T180000Z
 SEQUENCE:0
@@ -88,7 +16,7 @@ DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 1\nWinner : ROCCAT\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f21b5e32-716b-4f0e-a508-a369a4dbf26b
@@ -103,7 +31,7 @@ DESCRIPTION:SK Gaming (SKG) vs ROCCAT (ROC)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 4\nWinner : SK Gaming\nLooser : 
  ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e4aa0613-2c15-445a-936e-ddc3df3a2ca5
@@ -118,7 +46,7 @@ DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 3\nWinner : ROCCAT\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ea287843-73e1-4083-8538-ab503aac8c02
@@ -133,7 +61,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit Gaming\nL
  ooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e2151ae3-b4b3-448d-8512-f7eb394b0dc5
@@ -148,7 +76,7 @@ DESCRIPTION:ROCCAT (ROC) vs Unicorns of Love (UOL)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : ROCCAT\nLoose
  r : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c406e996-8932-4b15-8258-087d964af2e1
@@ -163,7 +91,7 @@ DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 8\nWinner : ROCCAT\nLooser : Giants
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc252aac-9fdb-4439-afee-5869778ba600
@@ -177,7 +105,7 @@ SUMMARY:OG vs ROC
 DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS Su
  mmer regional playoffs\nWeek : semifinals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-20f9394a-e275-4691-b2da-6d249b830e60
@@ -191,35 +119,7 @@ SUMMARY:H2K vs ROC
 DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8a343202-29e6-49c5-a6aa-6469d49d7d72
-DTSTART:20160212T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160212T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/5
-SUMMARY:EL vs ROC
-DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016
-  Spring Split\nWeek : 5\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-aa432ac3-a922-4759-bc68-ea115ad88b22
-DTSTART:20160114T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160114T220000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/1
-SUMMARY:VIT vs ROC
-DESCRIPTION:Team Vitality (VIT) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U 2016 Spring Split\nWeek : 1\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-47d10243-0678-4ddf-ba16-75fa926ec4ac
@@ -233,7 +133,35 @@ SUMMARY:ROC vs EL
 DESCRIPTION:ROCCAT (ROC) vs Elements (EL)\nType : BO1\nTournament : EU 2016
   Spring Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8a343202-29e6-49c5-a6aa-6469d49d7d72
+DTSTART:20160212T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160212T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:EL vs ROC
+DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016
+  Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-aa432ac3-a922-4759-bc68-ea115ad88b22
+DTSTART:20160114T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160114T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:VIT vs ROC
+DESCRIPTION:Team Vitality (VIT) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39bee909-71f5-4d68-8e7d-93d9a5d6b22a
@@ -247,7 +175,79 @@ SUMMARY:UOL vs ROC
 DESCRIPTION:Unicorns of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament 
  : EU 2016 Spring Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0d05a4dd-acc8-42ce-b296-a055d8d914c9
+DTSTART:20150605T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:UOL vs ROC
+DESCRIPTION:Unicorns of Love (UOL) vs ROCCAT (ROC)\nType : BO1\nTournament 
+ : Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Unicorns of L
+ ove\nLooser : ROCCAT\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c406e996-8932-4b15-8258-087d964af2e1
+DTSTART:20150724T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150724T230000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/Tiebreaker
+SUMMARY:GIA vs ROC
+DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
+  tournament for eu_2015_summer\nWeek : Tiebreaker\nWinner : ROCCAT\nLooser
+  : Giants\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3547016f-eedc-4392-9271-99633d16ea09
+DTSTART:20160205T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:ROC vs FNC
+DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e73b1474-86cc-4fe6-baf1-245891f5b35a
+DTSTART:20160115T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160115T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:G2 vs ROC
+DESCRIPTION:G2 Esports (G2) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 20
+ 16 Spring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-577425d6-d1e7-4d0e-b50d-1c71bc34f475
+DTSTART:20160211T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160211T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:ROC vs GIA
+DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab180458-8aeb-4fb6-97b3-b8e13c2735fd
@@ -261,7 +261,7 @@ SUMMARY:H2K vs ROC
 DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 1\nWinner : H2K\nLooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e423d30-2688-424d-8993-9aa260da1121
@@ -276,7 +276,7 @@ DESCRIPTION:ROCCAT (ROC) vs Elements (EL)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 7\nWinner : Elements\nLooser : ROC
  CAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54a615aa-b263-4f6e-a211-ff19b84af89e
@@ -291,7 +291,7 @@ DESCRIPTION:ROCCAT (ROC) vs Giants (GIA)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 3\nWinner : Giants\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89b691a5-b11a-443f-86f3-b324e66d5d33
@@ -306,7 +306,7 @@ DESCRIPTION:Elements (EL) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrate
  d tournament for eu_2015_summer\nWeek : 4\nWinner : Elements\nLooser : ROC
  CAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3c5dd95f-247f-444b-a53e-414df56ad7c8
@@ -320,7 +320,7 @@ SUMMARY:ROC vs H2K
 DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 7\nWinner : ROCCAT\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c7b23602-eb4b-4b9c-a0c0-c177d4d43364
@@ -335,7 +335,7 @@ DESCRIPTION:ROCCAT (ROC) vs SK Gaming (SKG)\nType : BO1\nTournament : Migra
  ted tournament for eu_2015_summer\nWeek : 6\nWinner : ROCCAT\nLooser : SK 
  Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e74d417-5dd3-465d-b38d-c2372c17bf2c
@@ -349,7 +349,7 @@ SUMMARY:ROC vs H2K
 DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-80505e12-b31e-4c7f-94d0-3db27f1f2cc8
@@ -363,21 +363,7 @@ SUMMARY:FNC vs ROC
 DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d3ad92bc-c578-4e97-8692-40b8199fb2ce
-DTSTART:20160122T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160122T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/2
-SUMMARY:SPY vs ROC
-DESCRIPTION:Splyce (SPY) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
- Spring Split\nWeek : 2\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8dddf7f2-d235-4131-b3f9-8fea9e7b99db
@@ -391,7 +377,7 @@ SUMMARY:ROC vs UOL
 DESCRIPTION:ROCCAT (ROC) vs Unicorns of Love (UOL)\nType : BO1\nTournament 
  : EU 2016 Spring Split\nWeek : 4\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-244c2042-7d13-431a-8f24-adffd2bfe4aa
@@ -405,7 +391,7 @@ SUMMARY:OG vs ROC
 DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f092c28a-865f-40e3-8309-d40444b73511
@@ -419,7 +405,21 @@ SUMMARY:ROC vs OG
 DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d3ad92bc-c578-4e97-8692-40b8199fb2ce
+DTSTART:20160122T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:SPY vs ROC
+DESCRIPTION:Splyce (SPY) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-06448f6f-a4fa-44a0-aab3-557b3667897f
@@ -434,7 +434,7 @@ DESCRIPTION:ROCCAT (ROC) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22830cee-3546-484d-ad69-b940edb78936
@@ -449,7 +449,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs ROCCAT (ROC)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Copenhagen Wo
  lves\nLooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3aa429b1-ab2a-4fd0-af1a-28c842790b4f
@@ -464,7 +464,7 @@ DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 9\nWinner : ROCCAT\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a65316d-7e56-4022-a39e-982fac2323bb
@@ -479,7 +479,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs ROCCAT (ROC)\nType : BO5\nTournament
  : Generated tournament for the 2015 summer playoffs\nWeek : quarterfinals\
  n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab8ff511-f17b-4dba-8169-25c5f2d05ee2
@@ -493,35 +493,7 @@ SUMMARY:GIA vs ROC
 DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS S
  ummer regional playoffs\nWeek : quarterfinals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e0e2df59-0794-4cf5-a6b3-be82af481c54
-DTSTART:20160218T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/6
-SUMMARY:ROC vs SPY
-DESCRIPTION:ROCCAT (ROC) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 
- Spring Split\nWeek : 6\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2d7e61ac-26c4-475d-8075-2f62fa2c1342
-DTSTART:20160326T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160326T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
- spring_promotion_relegation/Round%202
-SUMMARY:ROC vs HMA
-DESCRIPTION:ROCCAT (ROC) vs Huma (HMA)\nType : BO5\nTournament : EU 2016 Sp
- ring Split\nWeek : Round 2\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f209cb04-b550-4134-ba58-794f713433f0
@@ -535,7 +507,35 @@ SUMMARY:ROC vs G2
 DESCRIPTION:ROCCAT (ROC) vs G2 Esports (G2)\nType : BO1\nTournament : EU 20
  16 Spring Split\nWeek : 6\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e0e2df59-0794-4cf5-a6b3-be82af481c54
+DTSTART:20160218T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:ROC vs SPY
+DESCRIPTION:ROCCAT (ROC) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 
+ Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2d7e61ac-26c4-475d-8075-2f62fa2c1342
+DTSTART:20160326T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160326T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
+ spring_promotion_relegation/Round%202
+SUMMARY:ROC vs HMA
+DESCRIPTION:ROCCAT (ROC) vs Huma (HMA)\nType : BO5\nTournament : EU 2016 Sp
+ ring Split\nWeek : Round 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d03bd4c7-857b-4917-a085-13ddfafb92ce
@@ -550,7 +550,7 @@ DESCRIPTION:Fnatic (FNC) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser : ROCCAT
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-87c044c9-f117-4124-8c8f-47982dab92ef
@@ -565,7 +565,7 @@ DESCRIPTION:ROCCAT (ROC) vs Copenhagen Wolves (CW)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : ROCCAT\nLoose
  r : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4734a140-e3a4-4ce0-a65e-c1ae82cef637
@@ -579,7 +579,7 @@ SUMMARY:GIA vs ROC
 DESCRIPTION:Giants (GIA) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 9\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-72e8bf84-608d-46f2-afb6-3163c708c6a5
@@ -593,6 +593,6 @@ SUMMARY:ROC vs VIT
 DESCRIPTION:ROCCAT (ROC) vs Team Vitality (VIT)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 9\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160510T130059Z
+DTSTAMP:20160511T130103Z
 END:VEVENT
 END:VCALENDAR
