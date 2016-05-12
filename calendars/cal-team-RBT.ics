@@ -16,7 +16,7 @@ DESCRIPTION:Furious Gaming (FG) vs Rebirth eSports (RBT)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Rebirth eSp
  orts\nLooser : Rebirth eSports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-df1dc421-982d-465d-85da-2a0cee35402e
@@ -31,7 +31,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Rebirth eSports (RBT)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Rebirth e
  Sports\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c0939570-982e-48b9-a51a-082e63d93cb9
@@ -46,7 +46,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Furious Gaming (FG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Furious Gam
  ing\nLooser : Furious Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-381d3a2b-d281-4b3f-83b7-ac6a35b403aa
@@ -60,7 +60,7 @@ SUMMARY:RBT vs FG
 DESCRIPTION:Rebirth eSports (RBT) vs Furious Gaming (FG)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c579cbb-d998-47f4-96a2-cb718830c6c2
@@ -74,7 +74,7 @@ SUMMARY:ISG vs RBT
 DESCRIPTION:Isurus Gaming (ISG) vs Rebirth eSports (RBT)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 6\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6ba0eb73-6eb0-4210-9377-104b6343bca3
@@ -88,7 +88,7 @@ SUMMARY:FG vs RBT
 DESCRIPTION:Furious Gaming (FG) vs Rebirth eSports (RBT)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 1\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fee9caa2-cca3-4ec1-81d7-deb4ea1275b1
@@ -103,7 +103,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Rebirth eSports (RBT)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Rebirth eSp
  orts\nLooser : Rebirth eSports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c113b80-5c94-496f-8fc8-60f6a3883cc3
@@ -118,7 +118,7 @@ DESCRIPTION:Last Kings (LK) vs Rebirth eSports (RBT)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Rebirth eSports
  \nLooser : Rebirth eSports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc8d2c9f-3174-47b5-ba24-335a4d79cc14
@@ -133,7 +133,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Isurus Gaming (ISG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Rebirth eSp
  orts\nLooser : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-81459086-4c28-4171-8008-7c661ebadb51
@@ -147,7 +147,7 @@ SUMMARY:RBT vs ISG
 DESCRIPTION:Rebirth eSports (RBT) vs Isurus Gaming (ISG)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-376defee-5c25-4d97-b02a-e8b8be781ebd
@@ -161,7 +161,7 @@ SUMMARY:HAF vs RBT
 DESCRIPTION:Hafnet E-Sports (HAF) vs Rebirth eSports (RBT)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e75a6f51-14cb-46dd-a38e-7585553aa8fa
@@ -175,7 +175,7 @@ SUMMARY:RBT vs KMV
 DESCRIPTION:Rebirth eSports (RBT) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
  ournament : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-af2daf0b-1294-41e1-8949-b05c5e4eee0d
@@ -190,7 +190,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Rebirth
   eSports\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6da9e620-b6e4-4f9e-aa02-5fcdf3753ea1
@@ -205,21 +205,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Hafnet E-Sports (HAF)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Hafnet E-
  Sports\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d1991ce4-24aa-4d8a-a9d8-d539ed12c5b0
-DTSTART:20160609T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160609T230000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/3
-SUMMARY:RBT vs LK
-DESCRIPTION:Rebirth eSports (RBT) vs Last Kings (LK)\nType : BO2\nTournamen
- t : Clausura - Copa Latinoamérica Sur\nWeek : 3\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bc322dc3-e25a-4820-b1ef-d82d2800838d
@@ -233,7 +219,21 @@ SUMMARY:KMV vs RBT
 DESCRIPTION:Kaos Latin Gamers (KMV) vs Rebirth eSports (RBT)\nType : BO2\nT
  ournament : Clausura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d1991ce4-24aa-4d8a-a9d8-d539ed12c5b0
+DTSTART:20160609T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160609T230000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/3
+SUMMARY:RBT vs LK
+DESCRIPTION:Rebirth eSports (RBT) vs Last Kings (LK)\nType : BO2\nTournamen
+ t : Clausura - Copa Latinoamérica Sur\nWeek : 3\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0a42e3fa-7c7f-4205-af3a-c9f21c96946f
@@ -247,7 +247,7 @@ SUMMARY:RBT vs HAF
 DESCRIPTION:Rebirth eSports (RBT) vs Hafnet E-Sports (HAF)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 7\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d438e149-d041-456e-9ce8-25a8275f0a62
@@ -262,7 +262,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Last Kings (LK)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Last Kings\nLoo
  ser : Rebirth eSports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a9b71baf-ca07-498a-862b-64b4b45ed897
@@ -277,7 +277,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Rebirth eSports (RBT)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Kaos La
  tin Gamers\nLooser : Rebirth eSports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-27283080-144a-425d-b111-17a6dfd61bc1
@@ -291,7 +291,7 @@ SUMMARY:LK vs RBT
 DESCRIPTION:Last Kings (LK) vs Rebirth eSports (RBT)\nType : BO5\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 6\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd61e107-db99-4254-afc6-390ce5abf11e
@@ -305,6 +305,6 @@ SUMMARY:LK vs RBT
 DESCRIPTION:Last Kings (LK) vs Rebirth eSports (RBT)\nType : BO2\nTournamen
  t : Clausura - Copa Latinoamérica Sur\nWeek : 8\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160511T130108Z
+DTSTAMP:20160512T130119Z
 END:VEVENT
 END:VCALENDAR

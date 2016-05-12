@@ -15,7 +15,7 @@ SUMMARY:HVK vs D9
 DESCRIPTION:Havoks Gaming (HVK) vs Dash9 Gaming (D9)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 5\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e11045cd-5e7d-446d-9100-d4b9e5cd5ed6
@@ -29,7 +29,7 @@ SUMMARY:HVK vs GG
 DESCRIPTION:Havoks Gaming (HVK) vs Galactic Gaming (GG)\nType : BO3\nTourna
  ment : Copa Latinoamerica Norte\nWeek : 7\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ae06ea94-4dda-4f59-9500-badd0b85d0e7
@@ -43,7 +43,7 @@ SUMMARY:GG vs HVK
 DESCRIPTION:Galactic Gaming (GG) vs Havoks Gaming (HVK)\nType : BO3\nTourna
  ment : Copa Latinoamerica Norte\nWeek : 3\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ea5ee261-149f-4757-83bf-df7223e3284f
@@ -57,7 +57,7 @@ SUMMARY:TSE vs HVK
 DESCRIPTION:Tesla eSports (TSE) vs Havoks Gaming (HVK)\nType : BO3\nTournam
  ent : Copa Latinoamerica Norte\nWeek : 8\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-73ca4abc-eea6-42d6-b7c9-f4837a2ae86d
@@ -71,7 +71,7 @@ SUMMARY:HVK vs LG
 DESCRIPTION:Havoks Gaming (HVK) vs Lyon Gaming (LG)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 5\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7a974e34-f4b9-49dd-a6ee-10d754ec35e4
@@ -85,7 +85,7 @@ SUMMARY:HVK vs TSE
 DESCRIPTION:Havoks Gaming (HVK) vs Tesla eSports (TSE)\nType : BO3\nTournam
  ent : Copa Latinoamerica Norte\nWeek : 4\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b26ba976-f9cb-44fb-9d90-85005afe2a13
@@ -99,7 +99,7 @@ SUMMARY:D9 vs HVK
 DESCRIPTION:Dash9 Gaming (D9) vs Havoks Gaming (HVK)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 1\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d271d06f-0bff-4029-a273-c172c433981a
@@ -113,7 +113,7 @@ SUMMARY:HVK vs RvG
 DESCRIPTION:Havoks Gaming (HVK) vs Revenge eSports (RvG)\nType : BO3\nTourn
  ament : Copa Latinoamerica Norte\nWeek : 3\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b49cdc0a-2a62-4d4d-b4a2-28fa6e830ce9
@@ -127,7 +127,7 @@ SUMMARY:RvG vs HVK
 DESCRIPTION:Revenge eSports (RvG) vs Havoks Gaming (HVK)\nType : BO3\nTourn
  ament : Copa Latinoamerica Norte\nWeek : 7\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3e2f6ecb-6a22-4dc1-9d55-e9bb2482e21e
@@ -141,6 +141,6 @@ SUMMARY:LG vs HVK
 DESCRIPTION:Lyon Gaming (LG) vs Havoks Gaming (HVK)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 1\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160511T130110Z
+DTSTAMP:20160512T130121Z
 END:VEVENT
 END:VCALENDAR

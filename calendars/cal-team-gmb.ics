@@ -16,7 +16,7 @@ DESCRIPTION:ROCCAT (ROC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 1\nWinner : ROCCAT\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1e3a274b-4645-435d-990d-559a17bd858d
@@ -31,7 +31,7 @@ DESCRIPTION:Elements (EL) vs Gambit Gaming (GMB)\nType : BO1\nTournament :
  Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : Elements\nLoose
  r : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ea287843-73e1-4083-8538-ab503aac8c02
@@ -46,7 +46,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs ROCCAT (ROC)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit Gaming\nL
  ooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-773c613c-7f6d-484e-8dc4-20ad21936647
@@ -61,7 +61,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Unicorns of Love (UOL)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 4\nWinner : Unicor
  ns of Love\nLooser : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7d92cf9f-54dd-4edf-95df-41590fcea2e3
@@ -76,7 +76,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Giants (GIA)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 7\nWinner : Giants\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-80351cc1-2fd3-4fec-a12b-8f6a34e806c7
@@ -91,7 +91,7 @@ DESCRIPTION:SK Gaming (SKG) vs Gambit Gaming (GMB)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Gambit Gaming
  \nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b22bae60-8576-4282-a949-20ba122a38d3
@@ -106,7 +106,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : Unicor
  ns of Love\nLooser : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-96ca259a-40da-4dc5-a940-b64ffb12ae9e
@@ -121,7 +121,7 @@ DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : Gambi
  t Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0137f685-1394-4e45-863e-0e826dd4ddde
@@ -136,7 +136,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Elements (EL)\nType : BO1\nTournament :
  Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Elements\nLoose
  r : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2a431093-2b89-479f-919c-d69799792a9e
@@ -151,7 +151,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Gambit
   Gaming\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71884799-3396-400f-845e-28bebc1b1a71
@@ -166,7 +166,7 @@ DESCRIPTION:Giants (GIA) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 4\nWinner : Gambit Gaming\nL
  ooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-07ef9530-69c2-4116-85c6-d9894c9b7068
@@ -181,7 +181,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Fnatic (FNC)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 2\nWinner : Fnatic\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c654cf87-7b73-407d-bdd7-c40a9a7e6b48
@@ -196,7 +196,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Origen (OG)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 8\nWinner : Gambit Gaming\nLo
  oser : Origen\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7f677e9f-f18f-45cb-b75e-ba9d7914ce88
@@ -211,7 +211,7 @@ DESCRIPTION:Fnatic (FNC) vs Gambit Gaming (GMB)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser :
   Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-23f4c47e-4a9a-44da-891a-f28f49c36090
@@ -226,7 +226,7 @@ DESCRIPTION:Origen (OG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser : 
  Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-027ccc98-505f-4733-a1eb-b72aab0064b6
@@ -241,7 +241,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs SK Gaming (SKG)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit Gaming
  \nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6cfe545d-a78f-4195-8daf-c53ed4ad8299
@@ -256,7 +256,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Gambit Gaming (GMB)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Gambit
   Gaming\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6723971e-ae69-483f-93b8-c7d2e3698829
@@ -271,6 +271,6 @@ DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 9\nWinner : H2K\nLooser : Gambi
  t Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160511T130102Z
+DTSTAMP:20160512T130112Z
 END:VEVENT
 END:VCALENDAR
