@@ -15,7 +15,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs SuperMassive (SUP)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 3\nWinner : Counter Logic Gaming\nLooser : Su
  perMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-360187fd-bdbb-4bf0-8788-035e4a3c10fa
@@ -29,7 +29,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Flash Wolves (FW)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 1\nWinner : Counter Logic Gaming\nLooser : Fla
  sh Wolves\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-29043a92-2a1f-4487-8595-43997c182b2f
@@ -42,7 +42,7 @@ SUMMARY:FW vs SUP
 DESCRIPTION:Flash Wolves (FW) vs SuperMassive (SUP)\nType : BO1\nTournament
   : MSI 2016\nWeek : 2\nWinner : Flash Wolves\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e296857-ecbf-4495-bacb-20c3ca000e84
@@ -56,73 +56,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Flash Wolves (FW)\nType : BO1\nTou
  rnament : MSI 2016\nWeek : 4\nWinner : Royal Never Give Up\nLooser : Flash
   Wolves\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6729ed0c-9c10-4308-b776-2331703cfec8
-DTSTART:20160514T053000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160514T063000Z
-URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/bracket_stage/Sem
- ifinals
-SUMMARY:CLG vs FW
-DESCRIPTION:Counter Logic Gaming (CLG) vs Flash Wolves (FW)\nType : BO5\nTo
- urnament : MSI 2016\nWeek : Semifinals\n
-CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-266d2c99-acbe-42e6-94d5-f1455c932d59
-DTSTART:20160504T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160504T110000Z
-URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/1
-SUMMARY:G2 vs SKT
-DESCRIPTION:G2 Esports (G2) vs SKTelecom T1 (SKT)\nType : BO1\nTournament :
-  MSI 2016\nWeek : 1\nWinner : SKTelecom T1\nLooser : G2 Esports\n
-CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cca08cbf-faef-4545-a5a9-606280f7fa0f
-DTSTART:20160505T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160505T113000Z
-URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/2
-SUMMARY:SKT vs FW
-DESCRIPTION:SKTelecom T1 (SKT) vs Flash Wolves (FW)\nType : BO1\nTournament
-  : MSI 2016\nWeek : 2\nWinner : Flash Wolves\nLooser : SKTelecom T1\n
-CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-93a566bc-f896-429e-b9ff-dc2f648e0408
-DTSTART:20160507T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160507T113000Z
-URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/4
-SUMMARY:SUP vs SKT
-DESCRIPTION:SuperMassive (SUP) vs SKTelecom T1 (SKT)\nType : BO1\nTournamen
- t : MSI 2016\nWeek : 4\nWinner : SKTelecom T1\nLooser : SuperMassive\n
-CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-93927620-144a-469f-b2a1-922292db73bf
-DTSTART:20160508T053000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160508T063000Z
-URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/5
-SUMMARY:SKT vs G2
-DESCRIPTION:SKTelecom T1 (SKT) vs G2 Esports (G2)\nType : BO1\nTournament :
-  MSI 2016\nWeek : 5\nWinner : SKTelecom T1\nLooser : G2 Esports\n
-CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-498cdb45-0517-43c5-a9dd-3d7484fd0b2a
@@ -136,7 +70,7 @@ DESCRIPTION:SuperMassive (SUP) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 2\nWinner : SuperMassive\nLooser : Counter Lo
  gic Gaming\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1337259a-3b96-4d0e-890b-a9d6db2c33c1
@@ -150,7 +84,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 4\nWinner : SKTelecom T1\nLooser : Counter Lo
  gic Gaming\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6dd0c12d-50ab-4d00-bb99-ca6c65a697ed
@@ -163,7 +97,7 @@ SUMMARY:SUP vs FW
 DESCRIPTION:SuperMassive (SUP) vs Flash Wolves (FW)\nType : BO1\nTournament
   : MSI 2016\nWeek : 5\nWinner : Flash Wolves\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e76bd7a3-6299-44a0-a412-0d435ec3c04d
@@ -176,7 +110,7 @@ SUMMARY:FW vs SKT
 DESCRIPTION:Flash Wolves (FW) vs SKTelecom T1 (SKT)\nType : BO1\nTournament
   : MSI 2016\nWeek : 3\nWinner : Flash Wolves\nLooser : SKTelecom T1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9f9911a7-df0e-42b3-88c6-cdf1688d2e72
@@ -190,7 +124,73 @@ DESCRIPTION:G2 Esports (G2) vs Counter Logic Gaming (CLG)\nType : BO1\nTour
  nament : MSI 2016\nWeek : 5\nWinner : Counter Logic Gaming\nLooser : G2 Es
  ports\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6729ed0c-9c10-4308-b776-2331703cfec8
+DTSTART:20160514T053000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160514T063000Z
+URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/bracket_stage/Sem
+ ifinals
+SUMMARY:CLG vs FW
+DESCRIPTION:Counter Logic Gaming (CLG) vs Flash Wolves (FW)\nType : BO5\nTo
+ urnament : MSI 2016\nWeek : Semifinals\n
+CATEGORIES:MSI 2016
+DTSTAMP:20160513T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-266d2c99-acbe-42e6-94d5-f1455c932d59
+DTSTART:20160504T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160504T110000Z
+URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/1
+SUMMARY:G2 vs SKT
+DESCRIPTION:G2 Esports (G2) vs SKTelecom T1 (SKT)\nType : BO1\nTournament :
+  MSI 2016\nWeek : 1\nWinner : SKTelecom T1\nLooser : G2 Esports\n
+CATEGORIES:MSI 2016
+DTSTAMP:20160513T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cca08cbf-faef-4545-a5a9-606280f7fa0f
+DTSTART:20160505T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160505T113000Z
+URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/2
+SUMMARY:SKT vs FW
+DESCRIPTION:SKTelecom T1 (SKT) vs Flash Wolves (FW)\nType : BO1\nTournament
+  : MSI 2016\nWeek : 2\nWinner : Flash Wolves\nLooser : SKTelecom T1\n
+CATEGORIES:MSI 2016
+DTSTAMP:20160513T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-93a566bc-f896-429e-b9ff-dc2f648e0408
+DTSTART:20160507T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160507T113000Z
+URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/4
+SUMMARY:SUP vs SKT
+DESCRIPTION:SuperMassive (SUP) vs SKTelecom T1 (SKT)\nType : BO1\nTournamen
+ t : MSI 2016\nWeek : 4\nWinner : SKTelecom T1\nLooser : SuperMassive\n
+CATEGORIES:MSI 2016
+DTSTAMP:20160513T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-93927620-144a-469f-b2a1-922292db73bf
+DTSTART:20160508T053000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160508T063000Z
+URL:http://www.lolesports.com/en_US/msi/msi_2016/schedule/group_stage/5
+SUMMARY:SKT vs G2
+DESCRIPTION:SKTelecom T1 (SKT) vs G2 Esports (G2)\nType : BO1\nTournament :
+  MSI 2016\nWeek : 5\nWinner : SKTelecom T1\nLooser : G2 Esports\n
+CATEGORIES:MSI 2016
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7b35481a-c161-488d-839d-9edaa2182b81
@@ -204,7 +204,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Counter Logic Gaming (CLG)\nType :
   BO1\nTournament : MSI 2016\nWeek : 1\nWinner : Royal Never Give Up\nLoose
  r : Counter Logic Gaming\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a9d7efa5-fa5f-438d-bc29-7497dd34be30
@@ -218,7 +218,7 @@ SUMMARY:RNG vs SKT
 DESCRIPTION:Royal Never Give Up (RNG) vs SKTelecom T1 (SKT)\nType : BO5\nTo
  urnament : MSI 2016\nWeek : Semifinals\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f0f02a3a-c737-4d9c-be7f-0d4dc718fa19
@@ -232,7 +232,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs G2 Esports (G2)\nType : BO1\nTour
  nament : MSI 2016\nWeek : 2\nWinner : Counter Logic Gaming\nLooser : G2 Es
  ports\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4c3a1f60-960b-4cdc-961f-20e09c2586a9
@@ -246,7 +246,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Royal Never Give Up (RNG)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 2\nWinner : Royal Never Give Up\nLooser : SKTe
  lecom T1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9e0d1636-b19b-4d7e-b46a-8f4633f2d52d
@@ -260,7 +260,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs SKTelecom T1 (SKT)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 3\nWinner : Counter Logic Gaming\nLooser : SK
  Telecom T1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-14a30d6b-a05e-4bd0-b3de-a980c173cbde
@@ -273,7 +273,7 @@ SUMMARY:SUP vs G2
 DESCRIPTION:SuperMassive (SUP) vs G2 Esports (G2)\nType : BO1\nTournament :
   MSI 2016\nWeek : 3\nWinner : G2 Esports\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6c86eb16-deef-437b-9439-ad5e58963a69
@@ -286,7 +286,7 @@ SUMMARY:FW vs G2
 DESCRIPTION:Flash Wolves (FW) vs G2 Esports (G2)\nType : BO1\nTournament : 
  MSI 2016\nWeek : 4\nWinner : Flash Wolves\nLooser : G2 Esports\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c297a06-9d4e-4081-b3d0-4c27a6e82cb5
@@ -300,7 +300,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs SuperMassive (SUP)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 5\nWinner : Royal Never Give Up\nLooser : Supe
  rMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-640c038d-43c2-4a42-b945-7ba1f0d22121
@@ -314,7 +314,7 @@ DESCRIPTION:Flash Wolves (FW) vs Counter Logic Gaming (CLG)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 5\nWinner : Counter Logic Gaming\nLooser : Fla
  sh Wolves\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f67d5296-cf95-4978-9f4c-e539923e0c7a
@@ -328,7 +328,7 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs Royal Never Give Up (RNG)\nType :
   BO1\nTournament : MSI 2016\nWeek : 4\nWinner : Counter Logic Gaming\nLoos
  er : Royal Never Give Up\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54cd54c9-4d8e-4bf7-85fc-b68ad3454afa
@@ -342,7 +342,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs G2 Esports (G2)\nType : BO1\nTourn
  ament : MSI 2016\nWeek : 2\nWinner : Royal Never Give Up\nLooser : G2 Espo
  rts\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a0b3b3a-05d2-424e-900c-1b944d395779
@@ -355,7 +355,7 @@ SUMMARY:G2 vs FW
 DESCRIPTION:G2 Esports (G2) vs Flash Wolves (FW)\nType : BO1\nTournament : 
  MSI 2016\nWeek : 1\nWinner : Flash Wolves\nLooser : G2 Esports\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-51c2e942-1d21-45e8-95a7-012a8b245dd8
@@ -368,7 +368,7 @@ SUMMARY:SKT vs SUP
 DESCRIPTION:SKTelecom T1 (SKT) vs SuperMassive (SUP)\nType : BO1\nTournamen
  t : MSI 2016\nWeek : 1\nWinner : SKTelecom T1\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4fed5283-d056-44fe-8d38-7a6a4324e0b8
@@ -382,7 +382,7 @@ DESCRIPTION:SuperMassive (SUP) vs Royal Never Give Up (RNG)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 1\nWinner : Royal Never Give Up\nLooser : Supe
  rMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a1cd6552-a72c-4108-8d70-d4272df6769f
@@ -396,7 +396,7 @@ DESCRIPTION:Flash Wolves (FW) vs Royal Never Give Up (RNG)\nType : BO1\nTou
  rnament : MSI 2016\nWeek : 3\nWinner : Royal Never Give Up\nLooser : Flash
   Wolves\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8fde8c7f-8e5b-491b-bebb-93f454b56b46
@@ -410,7 +410,7 @@ DESCRIPTION:G2 Esports (G2) vs Royal Never Give Up (RNG)\nType : BO1\nTourn
  ament : MSI 2016\nWeek : 3\nWinner : Royal Never Give Up\nLooser : G2 Espo
  rts\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-232fc203-1791-4c94-b249-03ca1d750257
@@ -424,7 +424,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs SKTelecom T1 (SKT)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 5\nWinner : SKTelecom T1\nLooser : Royal Never
   Give Up\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3a59a734-33dc-440f-94d6-88c944bab5de
@@ -437,6 +437,6 @@ SUMMARY:G2 vs SUP
 DESCRIPTION:G2 Esports (G2) vs SuperMassive (SUP)\nType : BO1\nTournament :
   MSI 2016\nWeek : 4\nWinner : G2 Esports\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160512T130120Z
+DTSTAMP:20160513T130108Z
 END:VEVENT
 END:VCALENDAR
