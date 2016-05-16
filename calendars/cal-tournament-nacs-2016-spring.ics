@@ -16,7 +16,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Dream Team (DT)\nType : BO2\nTourn
  ament : NA CS 2016 Spring Split\nWeek : 1\nWinner : Team Liquid Academy\nL
  ooser : Dream Team\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-65a6c406-3d48-439f-91bb-290356dfddd8
@@ -31,7 +31,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Ember (MBR)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 2\nWinner : Ember\nLooser : Team Liqui
  d Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b9f5529c-6ea4-4cfc-a507-85207a3d07fc
@@ -46,7 +46,7 @@ DESCRIPTION:Dream Team (DT) vs Team Dragon Knights (TDK)\nType : BO2\nTourn
  ament : NA CS 2016 Spring Split\nWeek : 2\nWinner : Team Dragon Knights\nL
  ooser : Team Dragon Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d74ba8c4-68e0-4be9-ad69-9fb6f14676fb
@@ -60,7 +60,7 @@ SUMMARY:DT vs MBR
 DESCRIPTION:Dream Team (DT) vs Ember (MBR)\nType : BO2\nTournament : NA CS 
  2016 Spring Split\nWeek : 4\nWinner : Ember\nLooser : Dream Team\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3812394a-1ee4-44ab-9d0b-fbb701ee332f
@@ -75,7 +75,7 @@ DESCRIPTION:Team Liquid Academy (TLA) vs Team Dragon Knights (TDK)\nType :
  BO2\nTournament : NA CS 2016 Spring Split\nWeek : 3\nWinner : Team Dragon 
  Knights\nLooser : Team Liquid Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a99af98b-d1a9-4f57-b134-796e05d03111
@@ -90,7 +90,7 @@ DESCRIPTION:Enemy (NME) vs Team Liquid Academy (TLA)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 4\nWinner : Team Liquid Academy\nLoose
  r : Team Liquid Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1b924c55-428a-4b76-b373-7c61b7877aae
@@ -104,7 +104,7 @@ SUMMARY:DT vs APX
 DESCRIPTION:Dream Team (DT) vs Apex (APX)\nType : BO2\nTournament : NA CS 2
  016 Spring Split\nWeek : 3\nWinner : Apex\nLooser : Apex\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-341efdab-1286-4bce-8a6f-7f59eedf69b7
@@ -118,7 +118,7 @@ SUMMARY:APX vs MBR
 DESCRIPTION:Apex (APX) vs Ember (MBR)\nType : BO2\nTournament : NA CS 2016 
  Spring Split\nWeek : 1\nWinner : Apex\nLooser : Ember\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe038025-3562-474b-9384-9d351bff9f79
@@ -133,7 +133,7 @@ DESCRIPTION:Enemy (NME) vs Team Dragon Knights (TDK)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 1\nWinner : Team Dragon Knights\nLoose
  r : Team Dragon Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a648f8b-e2da-4e87-9b0d-57ee03464e70
@@ -147,7 +147,7 @@ SUMMARY:MBR vs TDK
 DESCRIPTION:Ember (MBR) vs Team Dragon Knights (TDK)\nType : BO5\nTournamen
  t : NA CS 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5387f757-1612-45f4-88a1-3a1f18fdaf6f
@@ -161,7 +161,7 @@ SUMMARY:APX vs TLA
 DESCRIPTION:Apex (APX) vs Team Liquid Academy (TLA)\nType : BO5\nTournament
   : NA CS 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36c25add-898d-404f-b09d-272a51d3785d
@@ -175,7 +175,7 @@ SUMMARY:NME vs APX
 DESCRIPTION:Enemy (NME) vs Apex (APX)\nType : BO2\nTournament : NA CS 2016 
  Spring Split\nWeek : 2\nWinner : Apex\nLooser : Enemy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1e5e6652-5963-4246-bffa-4127869077f7
@@ -189,7 +189,7 @@ SUMMARY:NME vs MBR
 DESCRIPTION:Enemy (NME) vs Ember (MBR)\nType : BO2\nTournament : NA CS 2016
   Spring Split\nWeek : 3\nWinner : Ember\nLooser : Enemy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-347cd1c4-f062-4fef-8556-761504e967bb
@@ -204,7 +204,7 @@ DESCRIPTION:Team Dragon Knights (TDK) vs Apex (APX)\nType : BO2\nTournament
   : NA CS 2016 Spring Split\nWeek : 4\nWinner : Apex\nLooser : Team Dragon 
  Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd4a0fdc-b448-4e3c-9c92-3a00da943d36
@@ -218,7 +218,7 @@ SUMMARY:TDK vs MBR
 DESCRIPTION:Team Dragon Knights (TDK) vs Ember (MBR)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 5\nWinner : Ember\nLooser : Ember\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab6d1c71-cbaa-4c90-8694-37a685dbe333
@@ -232,7 +232,7 @@ SUMMARY:TLA vs APX
 DESCRIPTION:Team Liquid Academy (TLA) vs Apex (APX)\nType : BO2\nTournament
   : NA CS 2016 Spring Split\nWeek : 5\nWinner : Apex\nLooser : Apex\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-aff579d7-dfa1-4b31-9752-9e8196cb5f6b
@@ -246,7 +246,7 @@ SUMMARY:NME vs DT
 DESCRIPTION:Enemy (NME) vs Dream Team (DT)\nType : BO2\nTournament : NA CS 
  2016 Spring Split\nWeek : 5\nWinner : Dream Team\nLooser : Enemy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2b236d37-7436-498d-83b8-a0cf51c957b9
@@ -260,6 +260,6 @@ SUMMARY:APX vs TDK
 DESCRIPTION:Apex (APX) vs Team Dragon Knights (TDK)\nType : BO5\nTournament
   : NA CS 2016 Spring Split\nWeek : Finals\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160513T130104Z
+DTSTAMP:20160516T130057Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ SUMMARY:INF vs SIN
 DESCRIPTION:Infernum (INF) vs Sin Gaming (SIN)\nType : BO3\nTournament : OP
  L 2016 Spring Split\nWeek : 8\nWinner : Sin Gaming\nLooser : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0d745be6-8bdd-4d7d-bf9a-0985a67b167b
@@ -30,7 +30,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Infernum (INF)\nType : BO3\nTourna
  ment : OPL 2016 Spring Split\nWeek : 5\nWinner : Chiefs eSports Club\nLoos
  er : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0cb5da5e-0bdd-4227-ab97-f6064f474f9f
@@ -44,7 +44,7 @@ SUMMARY:DW vs INF
 DESCRIPTION:Dire Wolves (DW) vs Infernum (INF)\nType : BO3\nTournament : OP
  L 2016 Spring Split\nWeek : 1\nWinner : Dire Wolves\nLooser : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71270b3b-44d9-495d-9fa1-c94fd0a19821
@@ -59,7 +59,7 @@ DESCRIPTION:Infernum (INF) vs Hellions e-Sports Club (HLN)\nType : BO3\nTou
  rnament : OPL 2016 Spring Split\nWeek : 2\nWinner : Hellions e-Sports Club
  \nLooser : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-807effd8-8cc1-4121-bdbc-fc8f64f9f83e
@@ -74,7 +74,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Infernum (INF)\nType : BO3\nTou
  rnament : OPL 2016 Spring Split\nWeek : 7\nWinner : Infernum\nLooser : Hel
  lions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f3f7ff2d-d2ed-448c-a452-914e8cb419d2
@@ -89,7 +89,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Infernum (INF)\nType : BO3\nTournament
  : OPL 2016 Spring Split\nWeek : 6\nWinner : Legacy eSports\nLooser : Infer
  num\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7fdad47f-320a-4859-aeee-736b9464d257
@@ -104,7 +104,7 @@ DESCRIPTION:Infernum (INF) vs Trident Esports (TRI)\nType : BO3\nTournament
   : OPL 2016 Spring Split\nWeek : 10\nWinner : Trident Esports\nLooser : In
  fernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bc3ec608-541b-4659-8062-c6e362197fd7
@@ -119,7 +119,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Infernum (INF)\nType : BO3\nTournament
  : OPL 2016 Spring Split\nWeek : 4\nWinner : Legacy eSports\nLooser : Infer
  num\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e1663b40-9ef5-4d57-8693-9feb13b3f158
@@ -133,7 +133,7 @@ SUMMARY:AV vs INF
 DESCRIPTION:Avant Garde (AV) vs Infernum (INF)\nType : BO3\nTournament : OP
  L 2016 Spring Split\nWeek : 3\nWinner : Infernum\nLooser : Avant Garde\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89b18b81-e8fa-4dd3-af0a-d3ad4209179d
@@ -147,6 +147,6 @@ SUMMARY:INF vs AV
 DESCRIPTION:Infernum (INF) vs Avant Garde (AV)\nType : BO3\nTournament : OP
  L 2016 Spring Split\nWeek : 9\nWinner : Avant Garde\nLooser : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160513T130108Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 END:VCALENDAR

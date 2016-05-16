@@ -16,7 +16,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs paiN Gaming (PNG)\nType : BO2\nTourn
  ament : Migrated tournament for CBLOL 2015\nWeek : Semana 2\nWinner : paiN
   Gaming\nLooser : CNB e-Sports Club\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-74585f7f-d3a4-4560-8b82-abc916580069
@@ -31,7 +31,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM eSports (KBM)\nType : BO2\nTou
  rnament : Migrated tournament for CBLOL 2015\nWeek : Semana 6\nWinner : Ka
  BuM eSports\nLooser : KaBuM eSports\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-46fff703-2dd9-4d9f-8d9f-dde83af7d255
@@ -45,7 +45,7 @@ SUMMARY:CNB vs G3X
 DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO3\nTourn
  ament : Migrated tournament for CBLOL 2015\nWeek : Quartas\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e365e0e1-cf4a-4723-8dda-72790727a008
@@ -60,7 +60,7 @@ DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
  ment : Migrated tournament for CBLOL 2015\nWeek : Semana 3\nWinner : Keyd 
  Stars\nLooser : CNB e-Sports Club\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b65e7cea-33d7-4743-a86b-7047b6d64539
@@ -75,7 +75,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO2\nTourn
  ament : Migrated tournament for CBLOL 2015\nWeek : Semana 5\nWinner : CNB 
  e-Sports Club\nLooser : g3nerationX\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2aeecd01-6514-451d-845d-63e0bb2042b3
@@ -90,7 +90,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
   The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : INTZ\nLooser
   : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a717fe22-08f4-40b9-a20f-2443e31881e6
@@ -105,7 +105,7 @@ DESCRIPTION:INTZ (ITZ) vs CNB e-Sports Club (CNB)\nType : BO2\nTournament :
   Migrated tournament for CBLOL 2015\nWeek : Semana 4\nWinner : INTZ\nLoose
  r : CNB e-Sports Club\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee758b6f-8372-4ad0-8ba7-21418e63dc17
@@ -120,7 +120,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM Black (KBB)\nType : BO2\nTourn
  ament : Migrated tournament for CBLOL 2015\nWeek : Semana 7\nWinner : CNB 
  e-Sports Club\nLooser : KaBuM Black\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-54178354-af73-4936-b38a-24c9145cc3c2
@@ -135,7 +135,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM eSports (KBM)\nType : BO2\nTou
  rnament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner :
   KaBuM eSports\nLooser : KaBuM eSports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-da671912-e3f8-4b41-9e0d-4c1e12849c83
@@ -149,7 +149,7 @@ SUMMARY:G3X vs CNB
 DESCRIPTION:g3nerationX (G3X) vs CNB e-Sports Club (CNB)\nType : BO3\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Quartas de Final\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36f51af9-9286-4ed5-b759-9fb3bb22adce
@@ -163,7 +163,7 @@ SUMMARY:CNB vs RED
 DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ Red (RED)\nType : BO3\nTourname
  nt : Migrated tournament for CBLOL 2015\nWeek : Quartas\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7c726e50-06b0-413c-b363-4fc762a1edff
@@ -178,7 +178,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Red Canids (RED)\nType : BO2\nTourna
  ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Red Ca
  nids\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
@@ -193,7 +193,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
  eration Kino\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-535d74fb-2dc6-40fa-84d1-d7098d13fa2d
@@ -208,7 +208,7 @@ DESCRIPTION:Keyd Stars (VFK) vs CNB e-Sports Club (CNB)\nType : BO2\nTourna
  ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : Keyd S
  tars\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-07e8a17e-ad91-4f8a-8cf3-64ed029cbb45
@@ -223,7 +223,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Remo Brave eSports (REM)\nType : BO5
  \nTournament : Relegation for CBLOL split 1 2016\nWeek : série de promoç
  ão\n
 CATEGORIES:Relegation for CBLOL split 1 2016
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-862d4adb-b362-448b-8217-9fcf41b3deab
@@ -238,7 +238,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ Red (RED)\nType : BO2\nTourname
  nt : Migrated tournament for CBLOL 2015\nWeek : Semana 1\nWinner : INTZ Re
  d\nLooser : INTZ Red\n
 CATEGORIES:Migrated tournament for CBLOL 2015
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-afae6555-428e-4ec9-8e6c-8f9a7c440097
@@ -253,7 +253,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs g3nerationX (G3X)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : g
  3nerationX\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab845c0e-76db-43fa-9e78-19999caa5c11
@@ -268,6 +268,6 @@ DESCRIPTION:paiN Gaming (PNG) vs CNB e-Sports Club (CNB)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : paiN 
  Gaming\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160513T130109Z
+DTSTAMP:20160516T130101Z
 END:VEVENT
 END:VCALENDAR
