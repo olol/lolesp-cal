@@ -15,7 +15,7 @@ SUMMARY:SEA vs BRA
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars CBLoL (BRA)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160516T130101Z
+DTSTAMP:20160517T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a4ea29c8-d339-465f-a957-b9176a867ca0
@@ -29,7 +29,7 @@ SUMMARY:SEA vs LAT
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars Latam (LAT)\nType : BO1\nTourn
  ament : Generated tournament for the IWC AllStar Australia\nWeek : Dia 3\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160516T130101Z
+DTSTAMP:20160517T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-90c701ea-5a03-4000-967a-0422e92b8c22
@@ -43,6 +43,6 @@ SUMMARY:SEA vs OPL
 DESCRIPTION:All-Stars SEA (SEA) vs All-Stars OPL (OPL)\nType : BO1\nTournam
  ent : Generated tournament for the IWC AllStar Australia\nWeek : Dia 1\n
 CATEGORIES:Generated tournament for the IWC AllStar Australia
-DTSTAMP:20160516T130101Z
+DTSTAMP:20160517T130113Z
 END:VEVENT
 END:VCALENDAR

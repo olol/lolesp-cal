@@ -15,7 +15,7 @@ SUMMARY:FG vs ISG
 DESCRIPTION:Furious Gaming (FG) vs Isurus Gaming (ISG)\nType : BO5\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 6\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2c579cbb-d998-47f4-96a2-cb718830c6c2
@@ -29,7 +29,7 @@ SUMMARY:ISG vs RBT
 DESCRIPTION:Isurus Gaming (ISG) vs Rebirth eSports (RBT)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 6\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fee9caa2-cca3-4ec1-81d7-deb4ea1275b1
@@ -44,7 +44,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Rebirth eSports (RBT)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Rebirth eSp
  orts\nLooser : Rebirth eSports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-94c23aad-76a4-4abe-9320-086d07d03411
@@ -59,7 +59,7 @@ DESCRIPTION:Furious Gaming (FG) vs Isurus Gaming (ISG)\nType : BO2\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Isurus Gaming
  \nLooser : Furious Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc8d2c9f-3174-47b5-ba24-335a4d79cc14
@@ -74,7 +74,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Isurus Gaming (ISG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Rebirth eSp
  orts\nLooser : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-81459086-4c28-4171-8008-7c661ebadb51
@@ -88,7 +88,7 @@ SUMMARY:RBT vs ISG
 DESCRIPTION:Rebirth eSports (RBT) vs Isurus Gaming (ISG)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5cff6768-6f8f-4a3a-a238-80817b07528b
@@ -103,7 +103,7 @@ DESCRIPTION:Last Kings (LK) vs Isurus Gaming (ISG)\nType : BO2\nTournament
  : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Last Kings\nLoose
  r : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-64df06bb-a30e-4743-8391-81810425a096
@@ -117,7 +117,7 @@ SUMMARY:ISG vs LK
 DESCRIPTION:Isurus Gaming (ISG) vs Last Kings (LK)\nType : BO5\nTournament 
  : Apertura - Copa Latinoamérica Sur\nWeek : 7\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e355bf24-87fb-4d7e-b64f-70a7c8ab6373
@@ -131,7 +131,7 @@ SUMMARY:ISG vs FG
 DESCRIPTION:Isurus Gaming (ISG) vs Furious Gaming (FG)\nType : BO2\nTournam
  ent : Clausura - Copa Latinoamérica Sur\nWeek : 3\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bd393c5d-8470-4117-b301-ef42c6242d96
@@ -145,7 +145,7 @@ SUMMARY:ISG vs HAF
 DESCRIPTION:Isurus Gaming (ISG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-45bc2118-c0c1-48e9-8b0e-96b649b937a3
@@ -159,7 +159,7 @@ SUMMARY:FG vs ISG
 DESCRIPTION:Furious Gaming (FG) vs Isurus Gaming (ISG)\nType : BO2\nTournam
  ent : Clausura - Copa Latinoamérica Sur\nWeek : 7\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e7af5ae1-0f4b-4d2a-8c4d-89d45d5b65a4
@@ -174,21 +174,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Isurus Gaming (ISG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Isurus Gami
  ng\nLooser : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-02329f2b-3207-4aa9-b20a-702b3e6a0bdf
-DTSTART:20160527T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160527T010000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/1
-SUMMARY:HAF vs ISG
-DESCRIPTION:Hafnet E-Sports (HAF) vs Isurus Gaming (ISG)\nType : BO2\nTourn
- ament : Clausura - Copa Latinoamérica Sur\nWeek : 1\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-20333a49-117a-423a-a931-7790e6f1ec59
@@ -202,7 +188,7 @@ SUMMARY:ISG vs LK
 DESCRIPTION:Isurus Gaming (ISG) vs Last Kings (LK)\nType : BO2\nTournament 
  : Clausura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8de622f-f37f-401e-9a27-2e4c9fbcf9a2
@@ -216,7 +202,21 @@ SUMMARY:KMV vs ISG
 DESCRIPTION:Kaos Latin Gamers (KMV) vs Isurus Gaming (ISG)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-02329f2b-3207-4aa9-b20a-702b3e6a0bdf
+DTSTART:20160527T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160527T010000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/1
+SUMMARY:HAF vs ISG
+DESCRIPTION:Hafnet E-Sports (HAF) vs Isurus Gaming (ISG)\nType : BO2\nTourn
+ ament : Clausura - Copa Latinoamérica Sur\nWeek : 1\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-14714416-4af3-4237-9a27-9b57118a2f95
@@ -231,7 +231,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Last Kings (LK)\nType : BO2\nTournament
  : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Last Kings\nLoose
  r : Last Kings\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e1825ea0-8397-4080-9c85-de6cd881b3cf
@@ -246,7 +246,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Furious Gaming (FG)\nType : BO2\nTournam
  ent : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Furious Gamin
  g\nLooser : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-872114cd-5dfa-4343-8ebb-e20d6726012e
@@ -260,7 +260,7 @@ SUMMARY:ISG vs HAF
 DESCRIPTION:Isurus Gaming (ISG) vs Hafnet E-Sports (HAF)\nType : BO1\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-351196b3-ec00-4133-aa7a-97e6dfad31be
@@ -275,7 +275,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Kaos Latin Gamers (KMV)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Isurus Ga
  ming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-df67ca9d-7136-46fa-918c-7ffb3d08970f
@@ -290,7 +290,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Isurus Gaming (ISG)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Isurus Ga
  ming\nLooser : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36ee7f5b-d6ec-462a-931f-82d4d4025557
@@ -305,7 +305,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Hafnet E-Sp
  orts\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-abc4e33e-c7d0-4ace-b666-0358e60eca5d
@@ -319,7 +319,7 @@ SUMMARY:ISG vs KMV
 DESCRIPTION:Isurus Gaming (ISG) vs Kaos Latin Gamers (KMV)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 1\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6f66e42e-2d1f-47a6-8157-6c77bfb1ecf8
@@ -333,7 +333,7 @@ SUMMARY:LK vs ISG
 DESCRIPTION:Last Kings (LK) vs Isurus Gaming (ISG)\nType : BO2\nTournament 
  : Clausura - Copa Latinoamérica Sur\nWeek : 7\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49411b4e-6b2f-4a33-970d-4c3881464170
@@ -347,7 +347,7 @@ SUMMARY:ISG vs DFM
 DESCRIPTION:Isurus Gaming (ISG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71ba58f4-8390-4d66-89be-7389ffab2f82
@@ -361,7 +361,7 @@ SUMMARY:HR vs ISG
 DESCRIPTION:Hard Random (HR) vs Isurus Gaming (ISG)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8dce6db3-656c-430d-b557-f3fd60635459
@@ -375,7 +375,7 @@ SUMMARY:CHF vs ISG
 DESCRIPTION:Chiefs eSports Club (CHF) vs Isurus Gaming (ISG)\nType : BO1\nT
  ournament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-15bb046f-21ef-4318-ab17-baf4a0cd4803
@@ -389,7 +389,7 @@ SUMMARY:ISG vs SAJ
 DESCRIPTION:Isurus Gaming (ISG) vs Saigon Jokers (SAJ)\nType : BO1\nTournam
  ent : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04694041-2e52-4f37-88e5-0764946290e6
@@ -403,7 +403,7 @@ SUMMARY:LG vs ISG
 DESCRIPTION:Lyon Gaming (LG) vs Isurus Gaming (ISG)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-750568e1-6ef1-4163-9a14-850e62896491
@@ -417,7 +417,7 @@ SUMMARY:ISG vs SUP
 DESCRIPTION:Isurus Gaming (ISG) vs SuperMassive (SUP)\nType : BO1\nTourname
  nt : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ebe2dfd-ca65-4e71-a3ca-b103dd23cd22
@@ -431,6 +431,6 @@ SUMMARY:ITZ vs ISG
 DESCRIPTION:INTZ (ITZ) vs Isurus Gaming (ISG)\nType : BO1\nTournament : int
  ernational wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160516T130100Z
+DTSTAMP:20160517T130112Z
 END:VEVENT
 END:VCALENDAR
