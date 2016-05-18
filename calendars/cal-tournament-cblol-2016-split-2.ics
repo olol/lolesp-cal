@@ -1,0 +1,398 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-tournament-cblol-2016-split-2
+X-WR-CALNAME:LoL eSports Cblol 2016 split 2
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-c4f93c23-80e7-4eb1-bfbf-2a4611eed1ba
+DTSTART:20160521T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160521T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:CNB vs ITZ
+DESCRIPTION:CNB e-Sports Club (CNB) vs INTZ (ITZ)\nType : BO2\nTournament :
+  The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-973bd313-a346-4249-9237-085f4756cb7d
+DTSTART:20160617T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160617T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:OPK vs VFK
+DESCRIPTION:Operation Kino (OPK) vs Keyd Stars (VFK)\nType : BO2\nTournamen
+ t : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3d3a45f4-928b-4c8c-9c4b-4ebbb119dbcc
+DTSTART:20160529T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160529T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%202%20
+SUMMARY:PNG vs KBM
+DESCRIPTION:paiN Gaming (PNG) vs KaBuM eSports (KBM)\nType : BO2\nTournamen
+ t : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 2 \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1af0a093-1236-405c-971a-c84a93f37cfd
+DTSTART:20160520T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160520T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:PNG vs BG
+DESCRIPTION:paiN Gaming (PNG) vs Big Gods eSports (BG)\nType : BO2\nTournam
+ ent : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f12b814b-9c67-4e97-8fc3-702af6ef0c69
+DTSTART:20160616T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160616T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:ITZ vs KBM
+DESCRIPTION:INTZ (ITZ) vs KaBuM eSports (KBM)\nType : BO2\nTournament : The
+  CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5d851487-6af8-4a6f-b9d0-164251c518b3
+DTSTART:20160522T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160522T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:KBM vs BG
+DESCRIPTION:KaBuM eSports (KBM) vs Big Gods eSports (BG)\nType : BO2\nTourn
+ ament : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d72b8b1b-3cab-4d0a-b8ba-3b26e9c95cab
+DTSTART:20160604T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160604T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%203
+SUMMARY:CNB vs PNG
+DESCRIPTION:CNB e-Sports Club (CNB) vs paiN Gaming (PNG)\nType : BO2\nTourn
+ ament : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 3\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2e464cfe-2df2-4ae8-869a-0e755c348787
+DTSTART:20160618T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160618T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:ITZ vs PNG
+DESCRIPTION:INTZ (ITZ) vs paiN Gaming (PNG)\nType : BO2\nTournament : The C
+ BLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-48216cf4-9fac-4c13-ac0f-12e37ff2de4c
+DTSTART:20160520T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160520T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:OPK vs KBM
+DESCRIPTION:Operation Kino (OPK) vs KaBuM eSports (KBM)\nType : BO2\nTourna
+ ment : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-908a7315-f99e-4bb7-ad59-41b2f1fe7fb0
+DTSTART:20160618T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160618T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:KBM vs RED
+DESCRIPTION:KaBuM eSports (KBM) vs Red Canids (RED)\nType : BO2\nTournament
+  : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5ebaea41-aa54-46b8-bc8d-039d0fcce06c
+DTSTART:20160619T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160619T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:OPK vs BG
+DESCRIPTION:Operation Kino (OPK) vs Big Gods eSports (BG)\nType : BO2\nTour
+ nament : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1eee8cf9-c4c3-4d0a-b42f-8ebf5cdc78d2
+DTSTART:20160519T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160519T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:VFK vs ITZ
+DESCRIPTION:Keyd Stars (VFK) vs INTZ (ITZ)\nType : BO2\nTournament : The CB
+ LOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-53c671b5-0773-4716-a084-4d3b2808b54c
+DTSTART:20160605T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160605T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%203
+SUMMARY:RED vs BG
+DESCRIPTION:Red Canids (RED) vs Big Gods eSports (BG)\nType : BO2\nTourname
+ nt : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 3\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-02afba2b-8bee-494b-9551-ea1bee4414c3
+DTSTART:20160519T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160519T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:CNB vs RED
+DESCRIPTION:CNB e-Sports Club (CNB) vs Red Canids (RED)\nType : BO2\nTourna
+ ment : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a286cdfa-d39f-4b0e-8ed6-ca36abd81572
+DTSTART:20160529T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160529T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%202%20
+SUMMARY:VFK vs BG
+DESCRIPTION:Keyd Stars (VFK) vs Big Gods eSports (BG)\nType : BO2\nTourname
+ nt : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 2 \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ceb9fc32-d172-451e-a4ab-be8446a59c09
+DTSTART:20160611T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:CNB vs KBM
+DESCRIPTION:CNB e-Sports Club (CNB) vs KaBuM eSports (KBM)\nType : BO2\nTou
+ rnament : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9516f33e-e834-47ef-9158-9032a20270ce
+DTSTART:20160612T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160612T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:OPK vs RED
+DESCRIPTION:Operation Kino (OPK) vs Red Canids (RED)\nType : BO2\nTournamen
+ t : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-70999b96-9a38-49b1-bcba-98e0ca271988
+DTSTART:20160619T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160619T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:CNB vs VFK
+DESCRIPTION:CNB e-Sports Club (CNB) vs Keyd Stars (VFK)\nType : BO2\nTourna
+ ment : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c5ab3900-4888-4d77-9bc0-6648343c2895
+DTSTART:20160611T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:ITZ vs BG
+DESCRIPTION:INTZ (ITZ) vs Big Gods eSports (BG)\nType : BO2\nTournament : T
+ he CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8940ef92-262f-41a6-8183-acc1af10f128
+DTSTART:20160612T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160612T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:VFK vs PNG
+DESCRIPTION:Keyd Stars (VFK) vs paiN Gaming (PNG)\nType : BO2\nTournament :
+  The CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-378f690e-c21b-4645-8d90-948b1989b728
+DTSTART:20160522T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160522T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:OPK vs PNG
+DESCRIPTION:Operation Kino (OPK) vs paiN Gaming (PNG)\nType : BO2\nTourname
+ nt : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1d58c49c-a863-4efc-ae80-502f979420ce
+DTSTART:20160528T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160528T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%202%20
+SUMMARY:ITZ vs RED
+DESCRIPTION:INTZ (ITZ) vs Red Canids (RED)\nType : BO2\nTournament : The CB
+ LOL 2016 Split 2 Tournament\nWeek : Semana 2 \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-67d40656-e9ac-4b15-adc8-ef9e146a36f2
+DTSTART:20160521T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160521T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:VFK vs RED
+DESCRIPTION:Keyd Stars (VFK) vs Red Canids (RED)\nType : BO2\nTournament : 
+ The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e362b6f4-e84e-410e-b865-d6882b9e5f15
+DTSTART:20160528T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160528T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%202%20
+SUMMARY:OPK vs CNB
+DESCRIPTION:Operation Kino (OPK) vs CNB e-Sports Club (CNB)\nType : BO2\nTo
+ urnament : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 2 \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-28319833-9e3d-42c3-a48f-c14b7c7bba52
+DTSTART:20160604T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160604T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%203
+SUMMARY:VFK vs KBM
+DESCRIPTION:Keyd Stars (VFK) vs KaBuM eSports (KBM)\nType : BO2\nTournament
+  : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 3\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-110e050d-3374-4073-a5d4-b3f618dc8354
+DTSTART:20160617T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160617T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:CNB vs BG
+DESCRIPTION:CNB e-Sports Club (CNB) vs Big Gods eSports (BG)\nType : BO2\nT
+ ournament : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6c6a136c-c318-4bf8-95d4-f71fa48a38d2
+DTSTART:20160616T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160616T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Super%20Semana%20
+SUMMARY:PNG vs RED
+DESCRIPTION:paiN Gaming (PNG) vs Red Canids (RED)\nType : BO2\nTournament :
+  The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f9288380-7262-4001-b2e0-306bc618e5e7
+DTSTART:20160605T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160605T190000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%203
+SUMMARY:OPK vs ITZ
+DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
+ e CBLOL 2016 Split 2 Tournament\nWeek : Semana 3\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160518T130110Z
+END:VEVENT
+END:VCALENDAR
