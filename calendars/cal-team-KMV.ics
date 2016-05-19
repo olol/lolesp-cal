@@ -4,144 +4,144 @@ PRODID:www.lolesports.com|cal-team-KMV
 X-WR-CALNAME:LoL eSports KMV
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-1d870075-bbcb-4fa2-b08a-2c4685fee1a9
-DTSTART:20160701T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160701T010000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/6
-SUMMARY:KMV vs LK
-DESCRIPTION:Kaos Latin Gamers (KMV) vs Last Kings (LK)\nType : BO2\nTournam
- ent : Clausura - Copa Latinoamérica Sur\nWeek : 6\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-e20e5d3a-8335-4108-8ba8-11f91e9ef3ff
-DTSTART:20160707T220000Z
+DTSTART:20160707T230000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160707T230000Z
+DTEND:20160708T000000Z
 URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
  ausura/schedule/round_robin/7
 SUMMARY:HAF vs KMV
 DESCRIPTION:Hafnet E-Sports (HAF) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
  ournament : Clausura - Copa Latinoamérica Sur\nWeek : 7\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-d6cfeeb4-1f4d-49f2-ad84-bc1164db6df5
-DTSTART:20160608T220000Z
+UID:match-1d870075-bbcb-4fa2-b08a-2c4685fee1a9
+DTSTART:20160701T010000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160608T230000Z
+DTEND:20160701T020000Z
 URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/3
-SUMMARY:LK vs KMV
-DESCRIPTION:Last Kings (LK) vs Kaos Latin Gamers (KMV)\nType : BO2\nTournam
- ent : Clausura - Copa Latinoamérica Sur\nWeek : 3\n
+ ausura/schedule/round_robin/6
+SUMMARY:KMV vs LK
+DESCRIPTION:Kaos Latin Gamers (KMV) vs Last Kings (LK)\nType : BO2\nTournam
+ ent : Clausura - Copa Latinoamérica Sur\nWeek : 6\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e75a6f51-14cb-46dd-a38e-7585553aa8fa
-DTSTART:20160624T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160624T010000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/5
-SUMMARY:RBT vs KMV
-DESCRIPTION:Rebirth eSports (RBT) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
- ournament : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2eb5c1f2-e34f-412e-877a-6cea6cc94b39
-DTSTART:20160713T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160713T230000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/8
-SUMMARY:KMV vs FG
-DESCRIPTION:Kaos Latin Gamers (KMV) vs Furious Gaming (FG)\nType : BO2\nTou
- rnament : Clausura - Copa Latinoamérica Sur\nWeek : 8\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8de622f-f37f-401e-9a27-2e4c9fbcf9a2
-DTSTART:20160617T000000Z
+DTSTART:20160617T010000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160617T010000Z
+DTEND:20160617T020000Z
 URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
  ausura/schedule/round_robin/4
 SUMMARY:KMV vs ISG
 DESCRIPTION:Kaos Latin Gamers (KMV) vs Isurus Gaming (ISG)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bc322dc3-e25a-4820-b1ef-d82d2800838d
-DTSTART:20160601T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160601T230000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/2
-SUMMARY:KMV vs RBT
-DESCRIPTION:Kaos Latin Gamers (KMV) vs Rebirth eSports (RBT)\nType : BO2\nT
- ournament : Clausura - Copa Latinoamérica Sur\nWeek : 2\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-714a6788-28ba-4eff-97d0-9d57cc968666
-DTSTART:20160610T000000Z
+DTSTART:20160610T010000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160610T010000Z
+DTEND:20160610T020000Z
 URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
  ausura/schedule/round_robin/3
 SUMMARY:KMV vs HAF
 DESCRIPTION:Kaos Latin Gamers (KMV) vs Hafnet E-Sports (HAF)\nType : BO2\nT
  ournament : Clausura - Copa Latinoamérica Sur\nWeek : 3\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bc322dc3-e25a-4820-b1ef-d82d2800838d
+DTSTART:20160601T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160602T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/2
+SUMMARY:KMV vs RBT
+DESCRIPTION:Kaos Latin Gamers (KMV) vs Rebirth eSports (RBT)\nType : BO2\nT
+ ournament : Clausura - Copa Latinoamérica Sur\nWeek : 2\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160519T130120Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e75a6f51-14cb-46dd-a38e-7585553aa8fa
+DTSTART:20160624T010000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160624T020000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/5
+SUMMARY:RBT vs KMV
+DESCRIPTION:Rebirth eSports (RBT) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
+ ournament : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160519T130120Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2eb5c1f2-e34f-412e-877a-6cea6cc94b39
+DTSTART:20160713T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160714T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/8
+SUMMARY:KMV vs FG
+DESCRIPTION:Kaos Latin Gamers (KMV) vs Furious Gaming (FG)\nType : BO2\nTou
+ rnament : Clausura - Copa Latinoamérica Sur\nWeek : 8\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160519T130120Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d6cfeeb4-1f4d-49f2-ad84-bc1164db6df5
+DTSTART:20160608T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160609T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/3
+SUMMARY:LK vs KMV
+DESCRIPTION:Last Kings (LK) vs Kaos Latin Gamers (KMV)\nType : BO2\nTournam
+ ent : Clausura - Copa Latinoamérica Sur\nWeek : 3\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2ffe3cf0-8fca-4c98-b878-cda8efd25efc
-DTSTART:20160616T000000Z
+DTSTART:20160616T010000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160616T010000Z
+DTEND:20160616T020000Z
 URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
  ausura/schedule/round_robin/4
 SUMMARY:FG vs KMV
 DESCRIPTION:Furious Gaming (FG) vs Kaos Latin Gamers (KMV)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 4\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-abc4e33e-c7d0-4ace-b666-0358e60eca5d
-DTSTART:20160525T220000Z
+DTSTART:20160525T230000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160525T230000Z
+DTEND:20160526T000000Z
 URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
  ausura/schedule/round_robin/1
 SUMMARY:ISG vs KMV
 DESCRIPTION:Isurus Gaming (ISG) vs Kaos Latin Gamers (KMV)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 1\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c814fa5f-4f71-4b55-b8c6-c9907fd445ef
@@ -156,7 +156,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs paiN Gaming (PNG)\nType : BO1\nTourn
  ament : Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\n
  Winner : paiN Gaming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e422b6a-d3a8-4ac4-b804-4db7656da238
@@ -170,7 +170,7 @@ SUMMARY:PNG vs KMV
 DESCRIPTION:paiN Gaming (PNG) vs Kaos Latin Gamers (KMV)\nType : BO5\nTourn
  ament : Migrated tournament for desafio_internacional_2015\nWeek : Final\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-70cf290e-d848-4cb7-8c4d-93a9f22653cd
@@ -185,7 +185,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Hard Random (HR)\nType : BO1\nTourna
  ment : Migrated tournament for desafio_internacional_2015\nWeek : Dia 1\nW
  inner : Hard Random\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0d05c17-7608-44dc-ac65-f04bc0518c8f
@@ -199,7 +199,7 @@ SUMMARY:HR vs KMV
 DESCRIPTION:Hard Random (HR) vs Kaos Latin Gamers (KMV)\nType : BO1\nTourna
  ment : Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c34a9eef-8c8b-4540-a4d6-2613b3a67e02
@@ -214,7 +214,7 @@ DESCRIPTION:Hard Random (HR) vs Kaos Latin Gamers (KMV)\nType : BO1\nTourna
  ment : Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\nW
  inner : Kaos Latin Gamers\nLooser : Hard Random\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1ca35438-9170-4cea-b6cf-960692f0f8e1
@@ -229,6 +229,6 @@ DESCRIPTION:paiN Gaming (PNG) vs Kaos Latin Gamers (KMV)\nType : BO1\nTourn
  ament : Migrated tournament for desafio_internacional_2015\nWeek : Dia 1\n
  Winner : paiN Gaming\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160518T130109Z
+DTSTAMP:20160519T130120Z
 END:VEVENT
 END:VCALENDAR

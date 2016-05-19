@@ -15,7 +15,7 @@ SUMMARY:DID vs ALC
 DESCRIPTION:Time Dioud (DID) vs Time Alocs (ALC)\nType : BO1\nTournament : 
  Generated tournament for the cblol allstar 2015\nWeek : rodada única\n
 CATEGORIES:Generated tournament for the cblol allstar 2015
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5eb2f899-058c-4251-a14b-0113dc2c0409
@@ -29,6 +29,6 @@ SUMMARY:ALC vs ESP
 DESCRIPTION:Time Alocs (ALC) vs Time Espeon (ESP)\nType : BO3\nTournament :
   Generated tournament for the cblol allstar 2015\nWeek : rodada única\n
 CATEGORIES:Generated tournament for the cblol allstar 2015
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
 END:VEVENT
 END:VCALENDAR

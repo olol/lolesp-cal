@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TBD
+X-WR-CALNAME:LoL eSports TBD
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-d6cc4b15-7fa8-44bd-af00-0379b05a024a
+DTSTART:20160618T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160618T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/3
+SUMMARY:TBD vs APX
+DESCRIPTION:TBD (TBD) vs Apex (APX)\nType : BO3\nTournament : NA 2016 Summe
+ r Split\nWeek : 3\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f75571b6-3731-422b-93f8-3db8c4571de9
+DTSTART:20160611T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/2
+SUMMARY:TBD vs C9
+DESCRIPTION:TBD (TBD) vs Cloud9  (C9)\nType : BO3\nTournament : NA 2016 Sum
+ mer Split\nWeek : 2\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-48ec32a1-cfd8-4853-a770-db6fcb384336
+DTSTART:20160605T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160605T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/1
+SUMMARY:IMT vs TBD
+DESCRIPTION:Immortals (IMT) vs TBD (TBD)\nType : BO3\nTournament : NA 2016 
+ Summer Split\nWeek : 1\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-49a1b702-eb91-46ef-90a6-d7b93ce73b89
+DTSTART:20160612T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160612T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/2
+SUMMARY:NV vs TBD
+DESCRIPTION:Team Envy (NV) vs TBD (TBD)\nType : BO3\nTournament : NA 2016 S
+ ummer Split\nWeek : 2\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e437aadf-3126-46ab-a191-d1aed8247012
+DTSTART:20160702T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160702T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/5
+SUMMARY:TBD vs TSM
+DESCRIPTION:TBD (TBD) vs TSM (TSM)\nType : BO3\nTournament : NA 2016 Summer
+  Split\nWeek : 5\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e677708c-1aea-4b04-956b-1646987b7ed2
+DTSTART:20160710T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160710T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/6
+SUMMARY:CLG vs TBD
+DESCRIPTION:Counter Logic Gaming (CLG) vs TBD (TBD)\nType : BO3\nTournament
+  : NA 2016 Summer Split\nWeek : 6\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9c260a6d-234d-4fbb-a5e6-61dbba01c6ed
+DTSTART:20160604T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160604T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/1
+SUMMARY:FOX vs TBD
+DESCRIPTION:Echo Fox (FOX) vs TBD (TBD)\nType : BO3\nTournament : NA 2016 S
+ ummer Split\nWeek : 1\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8a8e4ce3-7323-4d86-8d48-713dff0bb7ca
+DTSTART:20160703T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160703T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/5
+SUMMARY:APX vs TBD
+DESCRIPTION:Apex (APX) vs TBD (TBD)\nType : BO3\nTournament : NA 2016 Summe
+ r Split\nWeek : 5\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-55683a22-034e-4dae-afea-c833172b9b72
+DTSTART:20160716T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160716T040000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/7
+SUMMARY:TBD vs NRG
+DESCRIPTION:TBD (TBD) vs NRG Esports (NRG)\nType : BO3\nTournament : NA 201
+ 6 Summer Split\nWeek : 7\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a4fd73ae-949e-467c-bb16-bc6c234079e4
+DTSTART:20160716T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160716T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/7
+SUMMARY:TBD vs TL
+DESCRIPTION:TBD (TBD) vs Liquid (TL)\nType : BO3\nTournament : NA 2016 Summ
+ er Split\nWeek : 7\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-245b807b-79da-4812-9208-4d670ab42952
+DTSTART:20160730T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160730T040000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/9
+SUMMARY:TBD vs NV
+DESCRIPTION:TBD (TBD) vs Team Envy (NV)\nType : BO3\nTournament : NA 2016 S
+ ummer Split\nWeek : 9\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-23f2b349-3fc4-4a38-ac56-52f8c96e959e
+DTSTART:20160625T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160625T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/4
+SUMMARY:NRG vs TBD
+DESCRIPTION:NRG Esports (NRG) vs TBD (TBD)\nType : BO3\nTournament : NA 201
+ 6 Summer Split\nWeek : 4\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cd89c12c-0d82-4e4b-9411-501aca851286
+DTSTART:20160724T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160724T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/8
+SUMMARY:C9 vs TBD
+DESCRIPTION:Cloud9  (C9) vs TBD (TBD)\nType : BO3\nTournament : NA 2016 Sum
+ mer Split\nWeek : 8\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d45b68f3-6fca-4be5-8dd4-1eb0cf388c85
+DTSTART:20160723T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160723T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/8
+SUMMARY:TSM vs TBD
+DESCRIPTION:TSM (TSM) vs TBD (TBD)\nType : BO3\nTournament : NA 2016 Summer
+  Split\nWeek : 8\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ea5939f7-e22c-493d-aa75-4bee2870ffa0
+DTSTART:20160730T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160730T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/9
+SUMMARY:TBD vs IMT
+DESCRIPTION:TBD (TBD) vs Immortals (IMT)\nType : BO3\nTournament : NA 2016 
+ Summer Split\nWeek : 9\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b4890e6-beb1-4b73-8c18-6635c76ee740
+DTSTART:20160618T030000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160618T040000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/3
+SUMMARY:TL vs TBD
+DESCRIPTION:Liquid (TL) vs TBD (TBD)\nType : BO3\nTournament : NA 2016 Summ
+ er Split\nWeek : 3\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-046722f9-2e09-4667-9a42-f71f6960db03
+DTSTART:20160626T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160626T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/4
+SUMMARY:TBD vs CLG
+DESCRIPTION:TBD (TBD) vs Counter Logic Gaming (CLG)\nType : BO3\nTournament
+  : NA 2016 Summer Split\nWeek : 4\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9bb08b91-4685-4982-8ac2-77942c7bf62c
+DTSTART:20160709T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160709T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/6
+SUMMARY:TBD vs FOX
+DESCRIPTION:TBD (TBD) vs Echo Fox (FOX)\nType : BO3\nTournament : NA 2016 S
+ ummer Split\nWeek : 6\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160519T130115Z
+END:VEVENT
+END:VCALENDAR

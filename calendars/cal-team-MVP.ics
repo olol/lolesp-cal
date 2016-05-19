@@ -15,6 +15,258 @@ SUMMARY:KDM vs MVP
 DESCRIPTION:Kongdoo Monster (KDM) vs MVP (MVP)\nType : BO5\nTournament : LC
  K 2016 Spring Split\nWeek : Promotion - Round 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160518T130106Z
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-863d7898-15bf-4d2f-8f2a-7be180cde24b
+DTSTART:20160715T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160715T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/8
+SUMMARY:MVP vs AFS
+DESCRIPTION:MVP (MVP) vs Afreeca Freecs (AFS)\nType : BO3\nTournament : LCK
+  2016 Summer Split\nWeek : 8\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-527ee17c-5029-43a8-ba65-53ef2cb927ea
+DTSTART:20160803T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160803T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/11
+SUMMARY:MVP vs ROX
+DESCRIPTION:MVP (MVP) vs ROX Tigers (ROX)\nType : BO3\nTournament : LCK 201
+ 6 Summer Split\nWeek : 11\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9a374470-f9b0-4b21-8171-ac71afe9c399
+DTSTART:20160527T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160527T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/1
+SUMMARY:MVP vs KT
+DESCRIPTION:MVP (MVP) vs KT Rolster (KT)\nType : BO3\nTournament : LCK 2016
+  Summer Split\nWeek : 1\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2700764e-2191-46d7-983a-a6919f42aafe
+DTSTART:20160613T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160613T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/4
+SUMMARY:SKT vs MVP
+DESCRIPTION:SKTelecom T1 (SKT) vs MVP (MVP)\nType : BO3\nTournament : LCK 2
+ 016 Summer Split\nWeek : 4\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-783655bc-e831-4006-bc49-5cc1ee743257
+DTSTART:20160711T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160711T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/8
+SUMMARY:MVP vs SKT
+DESCRIPTION:MVP (MVP) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : LCK 2
+ 016 Summer Split\nWeek : 8\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-025d11a4-adee-4bbe-85c3-7ab44332cdfc
+DTSTART:20160719T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160719T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/9
+SUMMARY:KT vs MVP
+DESCRIPTION:KT Rolster (KT) vs MVP (MVP)\nType : BO3\nTournament : LCK 2016
+  Summer Split\nWeek : 9\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b2fda4e6-495b-449d-8423-7dd49c410e94
+DTSTART:20160622T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160622T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/5
+SUMMARY:MVP vs CJ
+DESCRIPTION:MVP (MVP) vs CJ ENTUS (CJ)\nType : BO3\nTournament : LCK 2016 S
+ ummer Split\nWeek : 5\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1d0e540f-43eb-4fa3-983a-96b019d6cadb
+DTSTART:20160705T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160705T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/7
+SUMMARY:LZ vs MVP
+DESCRIPTION:Longzhu Gaming (LZ) vs MVP (MVP)\nType : BO3\nTournament : LCK 
+ 2016 Summer Split\nWeek : 7\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3fed2790-eeca-4a6a-b321-b8f211a3f41d
+DTSTART:20160728T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160728T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/10
+SUMMARY:MVP vs JAG
+DESCRIPTION:MVP (MVP) vs Jin Air Green Wings (JAG)\nType : BO3\nTournament 
+ : LCK 2016 Summer Split\nWeek : 10\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a2d214cd-b874-4f76-b468-24f07f42a8f7
+DTSTART:20160730T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160730T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/10
+SUMMARY:MVP vs SSG
+DESCRIPTION:MVP (MVP) vs Samsung Galaxy (SSG)\nType : BO3\nTournament : LCK
+  2016 Summer Split\nWeek : 10\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b62c5440-c051-43c1-9f00-5b58b92c69c2
+DTSTART:20160620T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160620T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/5
+SUMMARY:JAG vs MVP
+DESCRIPTION:Jin Air Green Wings (JAG) vs MVP (MVP)\nType : BO3\nTournament 
+ : LCK 2016 Summer Split\nWeek : 5\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a76d7842-4d6d-4bcf-87fb-8377a72f719f
+DTSTART:20160627T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160627T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/6
+SUMMARY:MVP vs LZ
+DESCRIPTION:MVP (MVP) vs Longzhu Gaming (LZ)\nType : BO3\nTournament : LCK 
+ 2016 Summer Split\nWeek : 6\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5795655e-ac85-4deb-9f3a-045185009352
+DTSTART:20160629T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160629T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/6
+SUMMARY:AFS vs MVP
+DESCRIPTION:Afreeca Freecs (AFS) vs MVP (MVP)\nType : BO3\nTournament : LCK
+  2016 Summer Split\nWeek : 6\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d16beabe-25c3-4f45-b76c-dd94e6ecab65
+DTSTART:20160708T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160708T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/7
+SUMMARY:CJ vs MVP
+DESCRIPTION:CJ ENTUS (CJ) vs MVP (MVP)\nType : BO3\nTournament : LCK 2016 S
+ ummer Split\nWeek : 7\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41eed232-ce00-4aa8-a837-b64fbddf4c4f
+DTSTART:20160603T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160603T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/2
+SUMMARY:SSG vs MVP
+DESCRIPTION:Samsung Galaxy (SSG) vs MVP (MVP)\nType : BO3\nTournament : LCK
+  2016 Summer Split\nWeek : 2\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d8f7a4b1-19f2-4a1a-a0fc-77924b2e2be6
+DTSTART:20160601T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160601T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/2
+SUMMARY:ROX vs MVP
+DESCRIPTION:ROX Tigers (ROX) vs MVP (MVP)\nType : BO3\nTournament : LCK 201
+ 6 Summer Split\nWeek : 2\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c674b73f-318c-49f9-8ca5-ba50b3bbad9d
+DTSTART:20160611T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T060000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/3
+SUMMARY:MVP vs ESC
+DESCRIPTION:MVP (MVP) vs ESC Ever (ESC)\nType : BO3\nTournament : LCK 2016 
+ Summer Split\nWeek : 3\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7d2dabcb-d992-4894-8cdd-5553962da378
+DTSTART:20160723T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160723T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/9
+SUMMARY:ESC vs MVP
+DESCRIPTION:ESC Ever (ESC) vs MVP (MVP)\nType : BO3\nTournament : LCK 2016 
+ Summer Split\nWeek : 9\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160519T130117Z
 END:VEVENT
 END:VCALENDAR

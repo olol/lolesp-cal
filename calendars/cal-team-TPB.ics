@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-TPB
+X-WR-CALNAME:LoL eSports TPB
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-fa681945-f924-4dd8-87df-ab0b2c4d596c
+DTSTART:20160521T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160521T100000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/lms_2016_s
+ pring_promotion_relegation/Promotion
+SUMMARY:XG vs TPB
+DESCRIPTION:eXtreme Gamers (XG) vs Taipei Berserkers (TPB)\nType : BO5\nTou
+ rnament : LMS 2016 Spring Split\nWeek : Promotion\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160519T130120Z
+END:VEVENT
+END:VCALENDAR

@@ -15,7 +15,7 @@ SUMMARY:PNG vs BG
 DESCRIPTION:paiN Gaming (PNG) vs Big Gods eSports (BG)\nType : BO2\nTournam
  ent : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5d851487-6af8-4a6f-b9d0-164251c518b3
@@ -29,7 +29,7 @@ SUMMARY:KBM vs BG
 DESCRIPTION:KaBuM eSports (KBM) vs Big Gods eSports (BG)\nType : BO2\nTourn
  ament : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5ebaea41-aa54-46b8-bc8d-039d0fcce06c
@@ -43,7 +43,7 @@ SUMMARY:OPK vs BG
 DESCRIPTION:Operation Kino (OPK) vs Big Gods eSports (BG)\nType : BO2\nTour
  nament : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53c671b5-0773-4716-a084-4d3b2808b54c
@@ -57,7 +57,7 @@ SUMMARY:RED vs BG
 DESCRIPTION:Red Canids (RED) vs Big Gods eSports (BG)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 3\n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a286cdfa-d39f-4b0e-8ed6-ca36abd81572
@@ -71,21 +71,7 @@ SUMMARY:VFK vs BG
 DESCRIPTION:Keyd Stars (VFK) vs Big Gods eSports (BG)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 2 \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160518T130110Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c5ab3900-4888-4d77-9bc0-6648343c2895
-DTSTART:20160611T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160611T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
- e/fase_de_grupos/Semana%204
-SUMMARY:ITZ vs BG
-DESCRIPTION:INTZ (ITZ) vs Big Gods eSports (BG)\nType : BO2\nTournament : T
- he CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
-CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-110e050d-3374-4073-a5d4-b3f618dc8354
@@ -99,6 +85,20 @@ SUMMARY:CNB vs BG
 DESCRIPTION:CNB e-Sports Club (CNB) vs Big Gods eSports (BG)\nType : BO2\nT
  ournament : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160518T130110Z
+DTSTAMP:20160519T130122Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c5ab3900-4888-4d77-9bc0-6648343c2895
+DTSTART:20160611T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:ITZ vs BG
+DESCRIPTION:INTZ (ITZ) vs Big Gods eSports (BG)\nType : BO2\nTournament : T
+ he CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160519T130122Z
 END:VEVENT
 END:VCALENDAR

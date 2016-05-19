@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:www.lolesports.com|cal-team-FH
+X-WR-CALNAME:LoL eSports FH
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:match-7e0e7a42-43c3-47be-8a84-89c64a8af904
+DTSTART:20160522T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160522T100000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/lms_2016_s
+ pring_promotion_relegation/Promotion
+SUMMARY:CGE vs FH
+DESCRIPTION:Cougar eSports (CGE) vs Flash Husky (FH)\nType : BO5\nTournamen
+ t : LMS 2016 Spring Split\nWeek : Promotion\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160519T130120Z
+END:VEVENT
+END:VCALENDAR
