@@ -16,7 +16,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs Origen (OG)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser
   : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6c6f71ca-a83d-411b-9206-d64c8c447c43
@@ -31,7 +31,7 @@ DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-244c2042-7d13-431a-8f24-adffd2bfe4aa
@@ -45,7 +45,7 @@ SUMMARY:OG vs ROC
 DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f092c28a-865f-40e3-8309-d40444b73511
@@ -59,219 +59,7 @@ SUMMARY:ROC vs OG
 DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-13b4e537-b8a8-42ee-bb1d-6b0208b6958c
-DTSTART:20150604T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150604T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/2
-SUMMARY:SKG vs OG
-DESCRIPTION:SK Gaming (SKG) vs Origen (OG)\nType : BO1\nTournament : Migrat
- ed tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser : SK G
- aming\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2fd1e4b8-a0a4-431e-aecb-9f7ec2731e85
-DTSTART:20150529T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T170000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/1
-SUMMARY:OG vs H2K
-DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : Migrated tou
- rnament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : H2K\n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-77028ae8-ce8a-419c-87c7-4cda6894a100
-DTSTART:20150709T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150709T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
- lcs-summer/7
-SUMMARY:OG vs GIA
-DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : Migrated 
- tournament for eu_2015_summer\nWeek : 7\nWinner : Origen\nLooser : Giants\
- n
-CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-086c8e9b-d976-4eeb-b461-7c4e06fc9ef4
-DTSTART:20150823T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150823T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
- /eu_2015_summer_playoffs/finals
-SUMMARY:FNC vs OG
-DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO5\nTournament : Generated
-  tournament for the 2015 summer playoffs\nWeek : finals\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5e233ca1-1904-4b8f-a24e-f0a3f51a68fe
-DTSTART:20160115T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160115T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/1
-SUMMARY:H2K vs OG
-DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : EU 2016 Spri
- ng Split\nWeek : 1\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-38f3e739-70da-47d2-a3cf-a73ba16c3ca6
-DTSTART:20160403T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160403T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
- spring_playoffs/Quarterfinals
-SUMMARY:OG vs UOL
-DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO5\nTournament :
-  EU 2016 Spring Split\nWeek : Quarterfinals\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c79a4cae-a465-4396-b507-01c9cea282b1
-DTSTART:20160218T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/6
-SUMMARY:S04 vs OG
-DESCRIPTION:FC Schalke 04 (S04) vs Origen (OG)\nType : BO1\nTournament : EU
-  2016 Spring Split\nWeek : 6\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-55a0d133-ea3b-481d-8915-560e327440ed
-DTSTART:20160204T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160204T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/4
-SUMMARY:G2 vs OG
-DESCRIPTION:G2 Esports (G2) vs Origen (OG)\nType : BO1\nTournament : EU 201
- 6 Spring Split\nWeek : 4\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3d9143bb-9959-438d-ae1d-52f65cff3bc0
-DTSTART:20160122T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160122T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/2
-SUMMARY:VIT vs OG
-DESCRIPTION:Team Vitality (VIT) vs Origen (OG)\nType : BO1\nTournament : EU
-  2016 Spring Split\nWeek : 2\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-57e72f88-9ce1-4b8a-9dbd-6d301fcca164
-DTSTART:20160715T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160715T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
- season/7
-SUMMARY:OG vs ROC
-DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO2\nTournament : EU 2016 S
- ummer Split\nWeek : 7\n
-CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-23d35df0-e18d-4c21-8253-33db2b32d0a5
-DTSTART:20160617T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160617T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
- season/3
-SUMMARY:GIA vs OG
-DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO2\nTournament : EU 2016 S
- ummer Split\nWeek : 3\n
-CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b5301b6-61f9-48e6-ab35-48512181ffea
-DTSTART:20160610T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160610T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
- season/2
-SUMMARY:S04 vs OG
-DESCRIPTION:FC Schalke 04 (S04) vs Origen (OG)\nType : BO2\nTournament : EU
-  2016 Summer Split\nWeek : 2\n
-CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cfecfef3-d431-4583-a4c2-e20a9980a726
-DTSTART:20160623T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160623T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
- season/4
-SUMMARY:FNC vs OG
-DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO2\nTournament : EU 2016 S
- ummer Split\nWeek : 4\n
-CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fdcbf747-9c35-4577-b785-9ad5cd7ea338
-DTSTART:20160708T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160708T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
- season/6
-SUMMARY:OG vs UOL
-DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO2\nTournament :
-  EU 2016 Summer Split\nWeek : 6\n
-CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1cbf3bb0-5ed5-4cbd-be3a-a287b13e761b
-DTSTART:20160602T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160602T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
- season/1
-SUMMARY:OG vs G2
-DESCRIPTION:Origen (OG) vs G2 Esports (G2)\nType : BO2\nTournament : EU 201
- 6 Summer Split\nWeek : 1\n
-CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbf4f194-fe10-490f-9e73-4cb7a0d71a3d
@@ -286,7 +74,7 @@ DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : Giants\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e4aa0613-2c15-445a-936e-ddc3df3a2ca5
@@ -301,7 +89,7 @@ DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 3\nWinner : ROCCAT\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2e76a589-e781-470c-94c7-550197ee5234
@@ -316,7 +104,7 @@ DESCRIPTION:Origen (OG) vs SK Gaming (SKG)\nType : BO1\nTournament : Migrat
  ed tournament for eu_2015_summer\nWeek : 8\nWinner : Origen\nLooser : SK G
  aming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a49cdce3-d055-4848-9202-66b9806bf17d
@@ -331,7 +119,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs Origen (OG)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 6\nWinner : Origen\nLooser : 
  FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-357320c5-b8d9-469f-8c95-1c74826e4f94
@@ -345,7 +133,7 @@ SUMMARY:UOL vs OG
 DESCRIPTION:Unicorns of Love (UOL) vs Origen (OG)\nType : BO5\nTournament :
   EU LCS Summer regional playoffs\nWeek : finals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc252aac-9fdb-4439-afee-5869778ba600
@@ -359,49 +147,7 @@ SUMMARY:OG vs ROC
 DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO5\nTournament : EU LCS Su
  mmer regional playoffs\nWeek : semifinals\n
 CATEGORIES:EU LCS Summer regional playoffs
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-094d5710-8672-4956-b1c9-e7cbb4a07085
-DTSTART:20160212T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160212T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/5
-SUMMARY:OG vs VIT
-DESCRIPTION:Origen (OG) vs Team Vitality (VIT)\nType : BO1\nTournament : EU
-  2016 Spring Split\nWeek : 5\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0241ac4c-d105-4c88-a18a-694b9e425b58
-DTSTART:20160225T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160225T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/7
-SUMMARY:SPY vs OG
-DESCRIPTION:Splyce (SPY) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
- pring Split\nWeek : 7\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9932f492-f070-428c-a1f9-aa8d4cbc7fb2
-DTSTART:20160409T150000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160409T160000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
- spring_playoffs/Semifinals
-SUMMARY:H2K vs OG
-DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO5\nTournament : EU 2016 Spri
- ng Split\nWeek : Semifinals\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-52a1ee74-65a2-4a9e-9412-f6e839bb1c8a
@@ -415,7 +161,49 @@ SUMMARY:UOL vs OG
 DESCRIPTION:Unicorns of Love (UOL) vs Origen (OG)\nType : BO1\nTournament :
   EU 2016 Spring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-094d5710-8672-4956-b1c9-e7cbb4a07085
+DTSTART:20160212T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160212T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:OG vs VIT
+DESCRIPTION:Origen (OG) vs Team Vitality (VIT)\nType : BO1\nTournament : EU
+  2016 Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0241ac4c-d105-4c88-a18a-694b9e425b58
+DTSTART:20160225T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160225T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/7
+SUMMARY:SPY vs OG
+DESCRIPTION:Splyce (SPY) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 7\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9932f492-f070-428c-a1f9-aa8d4cbc7fb2
+DTSTART:20160409T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160409T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
+ spring_playoffs/Semifinals
+SUMMARY:H2K vs OG
+DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO5\nTournament : EU 2016 Spri
+ ng Split\nWeek : Semifinals\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69db9e11-ac7d-493e-bb83-b30e54ce5449
@@ -429,7 +217,7 @@ SUMMARY:OG vs S04
 DESCRIPTION:Origen (OG) vs FC Schalke 04 (S04)\nType : BO2\nTournament : EU
   2016 Summer Split\nWeek : 7\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9de7844a-6bc3-479e-8860-465fabdbb0ab
@@ -443,7 +231,7 @@ SUMMARY:ROC vs OG
 DESCRIPTION:ROCCAT (ROC) vs Origen (OG)\nType : BO2\nTournament : EU 2016 S
  ummer Split\nWeek : 3\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-583c3a46-6fa3-4edb-bf14-3b810e73443d
@@ -457,7 +245,7 @@ SUMMARY:G2 vs OG
 DESCRIPTION:G2 Esports (G2) vs Origen (OG)\nType : BO2\nTournament : EU 201
  6 Summer Split\nWeek : 5\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-61335341-1d80-4b27-8e11-a59c4ef878ae
@@ -471,7 +259,7 @@ SUMMARY:OG vs GIA
 DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO2\nTournament : EU 2016 S
  ummer Split\nWeek : 8\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-35d4128c-add3-45c6-9bc6-6eafa99c9e80
@@ -485,7 +273,7 @@ SUMMARY:OG vs H2K
 DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO2\nTournament : EU 2016 Summ
  er Split\nWeek : 9\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-30d1b229-84d7-4049-81fa-e539d9f5d6da
@@ -499,7 +287,7 @@ SUMMARY:OG vs SPY
 DESCRIPTION:Origen (OG) vs Splyce (SPY)\nType : BO2\nTournament : EU 2016 S
  ummer Split\nWeek : 9\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7da92a21-339d-4db6-b347-74eb550c1790
@@ -514,7 +302,7 @@ DESCRIPTION:Origen (OG) vs FC Schalke 04 (S04)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 4\nWinner : Origen\nLooser : 
  FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-23f4c47e-4a9a-44da-891a-f28f49c36090
@@ -529,7 +317,7 @@ DESCRIPTION:Origen (OG) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 5\nWinner : Origen\nLooser : 
  Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ada4c537-f698-4df0-b323-2d70ebea4b42
@@ -544,7 +332,7 @@ DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 4\nWinner : Fnatic\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1aac8f0f-a16c-4ddf-85ad-b0171b638ef9
@@ -558,77 +346,7 @@ SUMMARY:H2K vs OG
 DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : Migrated tou
  rnament for eu_2015_summer\nWeek : 9\nWinner : Origen\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7214d9f8-9730-4299-8d6e-692ac66679c2
-DTSTART:20160205T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160205T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/4
-SUMMARY:OG vs GIA
-DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 S
- pring Split\nWeek : 4\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1ed58b06-1e12-42fc-9034-b0da7ea4d87f
-DTSTART:20160121T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160121T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/2
-SUMMARY:OG vs UOL
-DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO1\nTournament :
-  EU 2016 Spring Split\nWeek : 2\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e0db3189-332c-44e8-b307-b6421116cdd0
-DTSTART:20160317T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160317T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/9
-SUMMARY:GIA vs OG
-DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
- pring Split\nWeek : 9\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-11e4354b-b0a7-4e61-a05c-e313d00cc882
-DTSTART:20160114T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160114T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/1
-SUMMARY:FNC vs OG
-DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
- pring Split\nWeek : 1\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6e21fe43-8797-4739-8511-e23c44c83761
-DTSTART:20160219T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160219T200000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/6
-SUMMARY:OG vs H2K
-DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spri
- ng Split\nWeek : 6\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c0b8175-974e-4f08-bccb-d03fd43c2d9d
@@ -642,7 +360,77 @@ SUMMARY:OG vs FNC
 DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 9\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7214d9f8-9730-4299-8d6e-692ac66679c2
+DTSTART:20160205T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160205T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:OG vs GIA
+DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1ed58b06-1e12-42fc-9034-b0da7ea4d87f
+DTSTART:20160121T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160121T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:OG vs UOL
+DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO1\nTournament :
+  EU 2016 Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e0db3189-332c-44e8-b307-b6421116cdd0
+DTSTART:20160317T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:GIA vs OG
+DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-11e4354b-b0a7-4e61-a05c-e313d00cc882
+DTSTART:20160114T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160114T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO1\nTournament : EU 2016 S
+ pring Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6e21fe43-8797-4739-8511-e23c44c83761
+DTSTART:20160219T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160219T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:OG vs H2K
+DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spri
+ ng Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69f0de8e-6730-4475-8cb5-99a07dab42da
@@ -656,7 +444,7 @@ SUMMARY:UOL vs OG
 DESCRIPTION:Unicorns of Love (UOL) vs Origen (OG)\nType : BO2\nTournament :
   EU 2016 Summer Split\nWeek : 1\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13de725f-a9bc-4330-86d3-75da3e48641b
@@ -670,7 +458,219 @@ SUMMARY:OG vs VIT
 DESCRIPTION:Origen (OG) vs Team Vitality (VIT)\nType : BO2\nTournament : EU
   2016 Summer Split\nWeek : 6\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-13b4e537-b8a8-42ee-bb1d-6b0208b6958c
+DTSTART:20150604T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150604T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/2
+SUMMARY:SKG vs OG
+DESCRIPTION:SK Gaming (SKG) vs Origen (OG)\nType : BO1\nTournament : Migrat
+ ed tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser : SK G
+ aming\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2fd1e4b8-a0a4-431e-aecb-9f7ec2731e85
+DTSTART:20150529T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T170000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/1
+SUMMARY:OG vs H2K
+DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : Migrated tou
+ rnament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : H2K\n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-77028ae8-ce8a-419c-87c7-4cda6894a100
+DTSTART:20150709T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150709T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer/schedule/2015-eu-
+ lcs-summer/7
+SUMMARY:OG vs GIA
+DESCRIPTION:Origen (OG) vs Giants (GIA)\nType : BO1\nTournament : Migrated 
+ tournament for eu_2015_summer\nWeek : 7\nWinner : Origen\nLooser : Giants\
+ n
+CATEGORIES:Migrated tournament for eu_2015_summer
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-086c8e9b-d976-4eeb-b461-7c4e06fc9ef4
+DTSTART:20150823T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150823T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2015_summer_playoffs/schedule
+ /eu_2015_summer_playoffs/finals
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO5\nTournament : Generated
+  tournament for the 2015 summer playoffs\nWeek : finals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5e233ca1-1904-4b8f-a24e-f0a3f51a68fe
+DTSTART:20160115T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160115T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/1
+SUMMARY:H2K vs OG
+DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : EU 2016 Spri
+ ng Split\nWeek : 1\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-38f3e739-70da-47d2-a3cf-a73ba16c3ca6
+DTSTART:20160403T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160403T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/eu_2016_
+ spring_playoffs/Quarterfinals
+SUMMARY:OG vs UOL
+DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO5\nTournament :
+  EU 2016 Spring Split\nWeek : Quarterfinals\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-55a0d133-ea3b-481d-8915-560e327440ed
+DTSTART:20160204T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160204T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/4
+SUMMARY:G2 vs OG
+DESCRIPTION:G2 Esports (G2) vs Origen (OG)\nType : BO1\nTournament : EU 201
+ 6 Spring Split\nWeek : 4\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3d9143bb-9959-438d-ae1d-52f65cff3bc0
+DTSTART:20160122T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160122T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/2
+SUMMARY:VIT vs OG
+DESCRIPTION:Team Vitality (VIT) vs Origen (OG)\nType : BO1\nTournament : EU
+  2016 Spring Split\nWeek : 2\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c79a4cae-a465-4396-b507-01c9cea282b1
+DTSTART:20160218T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:S04 vs OG
+DESCRIPTION:FC Schalke 04 (S04) vs Origen (OG)\nType : BO1\nTournament : EU
+  2016 Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-57e72f88-9ce1-4b8a-9dbd-6d301fcca164
+DTSTART:20160715T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160715T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
+ season/7
+SUMMARY:OG vs ROC
+DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO2\nTournament : EU 2016 S
+ ummer Split\nWeek : 7\n
+CATEGORIES:EU 2016 Summer Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-23d35df0-e18d-4c21-8253-33db2b32d0a5
+DTSTART:20160617T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160617T200000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
+ season/3
+SUMMARY:GIA vs OG
+DESCRIPTION:Giants (GIA) vs Origen (OG)\nType : BO2\nTournament : EU 2016 S
+ ummer Split\nWeek : 3\n
+CATEGORIES:EU 2016 Summer Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b5301b6-61f9-48e6-ab35-48512181ffea
+DTSTART:20160610T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160610T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
+ season/2
+SUMMARY:S04 vs OG
+DESCRIPTION:FC Schalke 04 (S04) vs Origen (OG)\nType : BO2\nTournament : EU
+  2016 Summer Split\nWeek : 2\n
+CATEGORIES:EU 2016 Summer Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cfecfef3-d431-4583-a4c2-e20a9980a726
+DTSTART:20160623T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160623T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
+ season/4
+SUMMARY:FNC vs OG
+DESCRIPTION:Fnatic (FNC) vs Origen (OG)\nType : BO2\nTournament : EU 2016 S
+ ummer Split\nWeek : 4\n
+CATEGORIES:EU 2016 Summer Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fdcbf747-9c35-4577-b785-9ad5cd7ea338
+DTSTART:20160708T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160708T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
+ season/6
+SUMMARY:OG vs UOL
+DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO2\nTournament :
+  EU 2016 Summer Split\nWeek : 6\n
+CATEGORIES:EU 2016 Summer Split
+DTSTAMP:20160520T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1cbf3bb0-5ed5-4cbd-be3a-a287b13e761b
+DTSTART:20160602T150000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160602T160000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_summer/schedule/regular_
+ season/1
+SUMMARY:OG vs G2
+DESCRIPTION:Origen (OG) vs G2 Esports (G2)\nType : BO2\nTournament : EU 201
+ 6 Summer Split\nWeek : 1\n
+CATEGORIES:EU 2016 Summer Split
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-affd07bf-5b19-4d27-9bc1-6563ba12f4ee
@@ -685,7 +685,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs Origen (OG)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 6\nWinner : Unicorns of Lo
  ve\nLooser : Origen\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b4ee976e-abfb-4318-a902-2b7a78a94a26
@@ -700,7 +700,7 @@ DESCRIPTION:Origen (OG) vs Unicorns of Love (UOL)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Origen\nLooser
   : Unicorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fabeab29-6708-42f4-bba4-eec8a8480fe2
@@ -715,7 +715,7 @@ DESCRIPTION:Origen (OG) vs Copenhagen Wolves (CW)\nType : BO1\nTournament :
   Migrated tournament for eu_2015_summer\nWeek : 2\nWinner : Origen\nLooser
   : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c654cf87-7b73-407d-bdd7-c40a9a7e6b48
@@ -730,7 +730,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs Origen (OG)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 8\nWinner : Gambit Gaming\nLo
  oser : Origen\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3aa429b1-ab2a-4fd0-af1a-28c842790b4f
@@ -745,7 +745,7 @@ DESCRIPTION:Origen (OG) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated
  tournament for eu_2015_summer\nWeek : 9\nWinner : ROCCAT\nLooser : Origen\
  n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-699aaccc-8977-462e-a11c-5f0aeb2d234b
@@ -759,7 +759,7 @@ SUMMARY:OG vs H2K
 DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO4\nTournament : Generated to
  urnament for the 2015 summer playoffs\nWeek : semifinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6ae80179-15ea-4536-bc80-400d076d0587
@@ -773,7 +773,7 @@ SUMMARY:OG vs SPY
 DESCRIPTION:Origen (OG) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 S
  pring Split\nWeek : 5\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7a50f361-f275-40ea-b185-7553e8f01fa9
@@ -787,7 +787,7 @@ SUMMARY:OG vs S04
 DESCRIPTION:Origen (OG) vs FC Schalke 04 (S04)\nType : BO1\nTournament : EU
   2016 Spring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57ad051a-5264-46c4-8932-6994e9f0df61
@@ -801,7 +801,7 @@ SUMMARY:OG vs G2
 DESCRIPTION:Origen (OG) vs G2 Esports (G2)\nType : BO1\nTournament : EU 201
  6 Spring Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-596d4025-711b-409b-9223-078b536ab0c8
@@ -815,7 +815,7 @@ SUMMARY:OG vs G2
 DESCRIPTION:Origen (OG) vs G2 Esports (G2)\nType : BO5\nTournament : EU 201
  6 Spring Split\nWeek : Finals\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b54df548-f329-4ae3-8fe8-603413a6e572
@@ -829,7 +829,7 @@ SUMMARY:VIT vs OG
 DESCRIPTION:Team Vitality (VIT) vs Origen (OG)\nType : BO2\nTournament : EU
   2016 Summer Split\nWeek : 2\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ebc436e-69f4-4b4b-843e-8c21f0868f96
@@ -843,7 +843,7 @@ SUMMARY:H2K vs OG
 DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO2\nTournament : EU 2016 Summ
  er Split\nWeek : 5\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d734c2ce-2729-45e3-8806-8d2cc97b8b6a
@@ -857,7 +857,7 @@ SUMMARY:SPY vs OG
 DESCRIPTION:Splyce (SPY) vs Origen (OG)\nType : BO2\nTournament : EU 2016 S
  ummer Split\nWeek : 4\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2b3a16ac-fc14-42ba-aa28-7122a6706ee5
@@ -871,7 +871,7 @@ SUMMARY:OG vs FNC
 DESCRIPTION:Origen (OG) vs Fnatic (FNC)\nType : BO2\nTournament : EU 2016 S
  ummer Split\nWeek : 8\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39761fd1-2486-46b6-b9d9-3518a46363cf
@@ -885,7 +885,7 @@ SUMMARY:OG vs TSM
 DESCRIPTION:Origen (OG) vs TSM (TSM)\nType : BO1\nTournament : The 2015 Wor
  ld Championship\nWeek : paris-day-3\nWinner : Origen\nLooser : TSM\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbe5227b-c24d-46cb-be52-632577c52936
@@ -900,7 +900,7 @@ DESCRIPTION:Origen (OG) vs LGD Gaming (LGD)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-7\nWinner : LGD Gaming\nLooser : 
  Origen\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78a3db38-d827-4b71-980c-30afa31fa836
@@ -915,7 +915,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Origen (OG)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-2\nWinner : Origen\nLooser : LGD 
  Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6d8daefb-66ce-4d65-b14c-11e42bb63bfb
@@ -929,7 +929,7 @@ SUMMARY:OG vs SKT
 DESCRIPTION:Origen (OG) vs SKTelecom T1 (SKT)\nType : BO5\nTournament : The
   2015 World Championship\nWeek : brussels-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8bf55bbf-fe95-4c55-8b8b-90f8693ae6b3
@@ -943,7 +943,7 @@ SUMMARY:FW vs OG
 DESCRIPTION:Flash Wolves (FW) vs Origen (OG)\nType : BO5\nTournament : The 
  2015 World Championship\nWeek : london-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-59c1b40c-6c64-4017-86b8-0a49be9cf955
@@ -957,7 +957,7 @@ SUMMARY:TSM vs OG
 DESCRIPTION:TSM (TSM) vs Origen (OG)\nType : BO1\nTournament : The 2015 Wor
  ld Championship\nWeek : paris-day-7\nWinner : Origen\nLooser : TSM\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2a29c4de-b846-4710-a62c-92f0fb7c9558
@@ -972,7 +972,7 @@ DESCRIPTION:KT Rolster (KT) vs Origen (OG)\nType : BO1\nTournament : The 20
  15 World Championship\nWeek : paris-day-4\nWinner : Origen\nLooser : KT Ro
  lster\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c8a1cd77-5988-4442-8224-accdbdcd3692
@@ -987,6 +987,6 @@ DESCRIPTION:Origen (OG) vs KT Rolster (KT)\nType : BO1\nTournament : The 20
  15 World Championship\nWeek : paris-day-7\nWinner : KT Rolster\nLooser : O
  rigen\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160519T130115Z
+DTSTAMP:20160520T130114Z
 END:VEVENT
 END:VCALENDAR
