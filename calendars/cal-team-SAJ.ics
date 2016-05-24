@@ -15,7 +15,7 @@ SUMMARY:SUP vs SAJ
 DESCRIPTION:SuperMassive (SUP) vs Saigon Jokers (SAJ)\nType : BO5\nTourname
  nt : international wildcard invitational 2016\nWeek : Semifinals\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab5380bb-22a1-428f-923b-e8ec8219cc07
@@ -29,7 +29,7 @@ SUMMARY:LG vs SAJ
 DESCRIPTION:Lyon Gaming (LG) vs Saigon Jokers (SAJ)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-15bb046f-21ef-4318-ab17-baf4a0cd4803
@@ -43,7 +43,7 @@ SUMMARY:ISG vs SAJ
 DESCRIPTION:Isurus Gaming (ISG) vs Saigon Jokers (SAJ)\nType : BO1\nTournam
  ent : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-60d2d951-46f2-44bb-a7a4-7fb0e184f820
@@ -57,7 +57,7 @@ SUMMARY:SAJ vs SUP
 DESCRIPTION:Saigon Jokers (SAJ) vs SuperMassive (SUP)\nType : BO1\nTourname
  nt : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b65835ff-2724-4c9c-8299-2a9dd09454a9
@@ -71,7 +71,7 @@ SUMMARY:SAJ vs HR
 DESCRIPTION:Saigon Jokers (SAJ) vs Hard Random (HR)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f17b1d5b-a51f-484f-9ee1-3f5efe6a4e7b
@@ -85,7 +85,7 @@ SUMMARY:ITZ vs SAJ
 DESCRIPTION:INTZ (ITZ) vs Saigon Jokers (SAJ)\nType : BO1\nTournament : int
  ernational wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e7c43c1-35e2-4d21-8316-faa6718c8bad
@@ -99,7 +99,7 @@ SUMMARY:DFM vs SAJ
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Saigon Jokers (SAJ)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-40419400-3775-4a72-968b-9a3df3b2f1f8
@@ -113,6 +113,6 @@ SUMMARY:SAJ vs CHF
 DESCRIPTION:Saigon Jokers (SAJ) vs Chiefs eSports Club (CHF)\nType : BO1\nT
  ournament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 END:VCALENDAR

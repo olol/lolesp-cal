@@ -15,7 +15,7 @@ SUMMARY:HR vs ISG
 DESCRIPTION:Hard Random (HR) vs Isurus Gaming (ISG)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fc6c92c6-c2d2-4a00-8eb5-be8925859c98
@@ -29,7 +29,7 @@ SUMMARY:HR vs ITZ
 DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-70cf290e-d848-4cb7-8c4d-93a9f22653cd
@@ -44,7 +44,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Hard Random (HR)\nType : BO1\nTourna
  ment : Migrated tournament for desafio_internacional_2015\nWeek : Dia 1\nW
  inner : Hard Random\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0d05c17-7608-44dc-ac65-f04bc0518c8f
@@ -58,7 +58,7 @@ SUMMARY:HR vs KMV
 DESCRIPTION:Hard Random (HR) vs Kaos Latin Gamers (KMV)\nType : BO1\nTourna
  ment : Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c34a9eef-8c8b-4540-a4d6-2613b3a67e02
@@ -73,7 +73,7 @@ DESCRIPTION:Hard Random (HR) vs Kaos Latin Gamers (KMV)\nType : BO1\nTourna
  ment : Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\nW
  inner : Kaos Latin Gamers\nLooser : Hard Random\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00c67ee2-eda9-4108-9ce3-5292b4f62285
@@ -87,7 +87,7 @@ SUMMARY:HR vs DFM
 DESCRIPTION:Hard Random (HR) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-90b4fa68-8071-4a11-b379-92c57102fd6c
@@ -100,7 +100,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive (SUP) vs Hard Random (HR)\nType : BO5\nTournament 
  : international wildcard invitational 2016\nWeek : Finals\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8895ba82-e287-4e08-a9bf-00e106d3d31b
@@ -114,7 +114,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive (SUP) vs Hard Random (HR)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b65835ff-2724-4c9c-8299-2a9dd09454a9
@@ -128,7 +128,7 @@ SUMMARY:SAJ vs HR
 DESCRIPTION:Saigon Jokers (SAJ) vs Hard Random (HR)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3bac9ecf-4fce-44ff-9851-1860d333f9b8
@@ -142,7 +142,7 @@ SUMMARY:HR vs ITZ
 DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO5\nTournament : intern
  ational wildcard invitational 2016\nWeek : Semifinals\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-95286772-fb63-4b57-81a6-29c86a6dab70
@@ -156,7 +156,7 @@ SUMMARY:CHF vs HR
 DESCRIPTION:Chiefs eSports Club (CHF) vs Hard Random (HR)\nType : BO1\nTour
  nament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b2e66dc5-25ea-4e19-8886-3cbb67d70470
@@ -171,7 +171,7 @@ DESCRIPTION:Hard Random (HR) vs paiN Gaming (PNG)\nType : BO1\nTournament :
   Migrated tournament for desafio_internacional_2015\nWeek : Dia 1\nWinner 
  : paiN Gaming\nLooser : Hard Random\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a7844a10-d195-4418-b26d-243de9ae4c94
@@ -186,7 +186,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Hard Random (HR)\nType : BO1\nTournament :
   Migrated tournament for desafio_internacional_2015\nWeek : Dia 2\nWinner 
  : paiN Gaming\nLooser : Hard Random\n
 CATEGORIES:Migrated tournament for desafio_internacional_2015
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab9ab0b5-2346-484d-9955-d9b11e13aed7
@@ -200,7 +200,7 @@ SUMMARY:SUP vs HR
 DESCRIPTION:SuperMassive (SUP) vs Hard Random (HR)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22148d83-3977-4bfd-98a1-a3678fc94881
@@ -214,7 +214,7 @@ SUMMARY:HR vs LG
 DESCRIPTION:Hard Random (HR) vs Lyon Gaming (LG)\nType : BO1\nTournament : 
  international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6ca81bab-bfae-4006-8671-2a80b2e270a7
@@ -228,6 +228,6 @@ SUMMARY:HR vs ITZ
 DESCRIPTION:Hard Random (HR) vs INTZ (ITZ)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130129Z
 END:VEVENT
 END:VCALENDAR

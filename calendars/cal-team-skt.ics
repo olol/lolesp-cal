@@ -16,7 +16,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO2\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTelecom T1
  \nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cb7d2665-0a30-4249-b70e-754faaec4327
@@ -31,7 +31,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs SKTelecom T1 (SKT)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 2\nWinner : SKTelec
  om T1\nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-469c6ad1-182c-4eb2-9848-49ec3cb8d8a5
@@ -45,7 +45,7 @@ SUMMARY:SKT vs CJ
 DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : L
  CK 2016 Spring Split\nWeek : 11\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e641bfed-8a48-4976-9683-99d8c73039a8
@@ -59,7 +59,7 @@ SUMMARY:SKT vs KT
 DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
   LCK 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6d2308f2-af8d-431a-b57e-7ef1d2b3a0d6
@@ -73,49 +73,7 @@ SUMMARY:SKT vs KDM
 DESCRIPTION:SKTelecom T1 (SKT) vs Kongdoo Monster (KDM)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6032d717-9f1e-4a54-aa5e-9654b5cb9ea4
-DTSTART:20160611T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160611T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
- ason/3
-SUMMARY:SKT vs SSG
-DESCRIPTION:SKTelecom T1 (SKT) vs Samsung Galaxy (SSG)\nType : BO3\nTournam
- ent : LCK 2016 Summer Split\nWeek : 3\n
-CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e7942c68-fca3-40bb-92e5-44bfb22351bd
-DTSTART:20160617T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160617T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
- ason/4
-SUMMARY:JAG vs SKT
-DESCRIPTION:Jin Air Green Wings (JAG) vs SKTelecom T1 (SKT)\nType : BO3\nTo
- urnament : LCK 2016 Summer Split\nWeek : 4\n
-CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e56c659a-ec6b-48fb-a162-9066c3c06006
-DTSTART:20160622T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160622T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
- ason/5
-SUMMARY:SKT vs AFS
-DESCRIPTION:SKTelecom T1 (SKT) vs Afreeca Freecs (AFS)\nType : BO3\nTournam
- ent : LCK 2016 Summer Split\nWeek : 5\n
-CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1cf3e71b-010d-4f27-a124-07716736d54e
@@ -129,7 +87,7 @@ SUMMARY:SKT vs KT
 DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
   LCK 2016 Summer Split\nWeek : 7\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-315773e8-20e5-4f0f-9661-0752355d1d88
@@ -143,7 +101,49 @@ SUMMARY:SKT vs JAG
 DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO3\nTo
  urnament : LCK 2016 Summer Split\nWeek : 11\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6032d717-9f1e-4a54-aa5e-9654b5cb9ea4
+DTSTART:20160611T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/3
+SUMMARY:SKT vs SSG
+DESCRIPTION:SKTelecom T1 (SKT) vs Samsung Galaxy (SSG)\nType : BO3\nTournam
+ ent : LCK 2016 Summer Split\nWeek : 3\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160524T130124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e7942c68-fca3-40bb-92e5-44bfb22351bd
+DTSTART:20160617T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160617T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/4
+SUMMARY:JAG vs SKT
+DESCRIPTION:Jin Air Green Wings (JAG) vs SKTelecom T1 (SKT)\nType : BO3\nTo
+ urnament : LCK 2016 Summer Split\nWeek : 4\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160524T130124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e56c659a-ec6b-48fb-a162-9066c3c06006
+DTSTART:20160622T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160622T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_summer/schedule/regular_se
+ ason/5
+SUMMARY:SKT vs AFS
+DESCRIPTION:SKTelecom T1 (SKT) vs Afreeca Freecs (AFS)\nType : BO3\nTournam
+ ent : LCK 2016 Summer Split\nWeek : 5\n
+CATEGORIES:LCK 2016 Summer Split
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-916ba9d9-2923-4aab-9293-c3f7043fd5ea
@@ -158,7 +158,7 @@ DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO2\nTournament
  : Migrated tournament for lck_2015_summer\nWeek : 9\nWinner : SKTelecom T1
  \nLooser : ROX Tigers\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fbf319ba-cdf4-4ce6-a874-2c63dd9de479
@@ -173,7 +173,7 @@ DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO2\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 4\nWinner : SKTelecom T1\nL
  ooser : CJ ENTUS\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26c0b6c5-98f9-48bf-8771-719b01977bac
@@ -188,7 +188,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 12\nWinner : SKTelec
  om T1\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba85ed2f-d30b-40ac-92e4-e13e7157450f
@@ -203,7 +203,7 @@ DESCRIPTION:Longzhu Gaming (LZ) vs SKTelecom T1 (SKT)\nType : BO2\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 11\nWinner : SKTeleco
  m T1\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-62c5333b-3215-4908-8fcb-39a3d412f207
@@ -217,7 +217,7 @@ SUMMARY:SSG vs SKT
 DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : LCK 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fd17a792-9b00-4522-bbba-9769a2dca961
@@ -231,7 +231,7 @@ SUMMARY:AFS vs SKT
 DESCRIPTION:Afreeca Freecs (AFS) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : LCK 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a316f0ac-22b1-423c-a398-80ded72cc489
@@ -245,7 +245,7 @@ SUMMARY:CJ vs SKT
 DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : L
  CK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f38c2b49-5f2c-4407-8fc8-32576f964747
@@ -259,7 +259,7 @@ SUMMARY:SKT vs AFS
 DESCRIPTION:SKTelecom T1 (SKT) vs Afreeca Freecs (AFS)\nType : BO3\nTournam
  ent : LCK 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ff66a778-3e32-44bb-a21a-be1f3c03afb9
@@ -273,7 +273,7 @@ SUMMARY:SKT vs LZ
 DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Gaming (LZ)\nType : BO3\nTourname
  nt : LCK 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee8bbac0-15de-4653-84ab-235064dd861f
@@ -287,7 +287,7 @@ SUMMARY:SKT vs SSG
 DESCRIPTION:SKTelecom T1 (SKT) vs Samsung Galaxy (SSG)\nType : BO3\nTournam
  ent : LCK 2016 Spring Split\nWeek : 12\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3c0f1eb9-795a-4990-90c8-8f178b486320
@@ -301,7 +301,7 @@ SUMMARY:KT vs SKT
 DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO5\nTournament :
   LCK 2016 Spring Split\nWeek : Round 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b7be72d7-9f94-4f2c-aec9-0f2bb727f4eb
@@ -315,7 +315,7 @@ SUMMARY:SKT vs CJ
 DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : L
  CK 2016 Summer Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a26a5096-f1a3-4cc2-9ff2-4af9ade591e0
@@ -329,7 +329,7 @@ SUMMARY:KT vs SKT
 DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO3\nTournament :
   LCK 2016 Summer Split\nWeek : 2\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2700764e-2191-46d7-983a-a6919f42aafe
@@ -343,7 +343,7 @@ SUMMARY:SKT vs MVP
 DESCRIPTION:SKTelecom T1 (SKT) vs MVP (MVP)\nType : BO3\nTournament : LCK 2
  016 Summer Split\nWeek : 4\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39f8a0f0-5eda-47a8-97f1-62908deea795
@@ -357,7 +357,7 @@ SUMMARY:LZ vs SKT
 DESCRIPTION:Longzhu Gaming (LZ) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : LCK 2016 Summer Split\nWeek : 5\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-783655bc-e831-4006-bc49-5cc1ee743257
@@ -371,7 +371,7 @@ SUMMARY:MVP vs SKT
 DESCRIPTION:MVP (MVP) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : LCK 2
  016 Summer Split\nWeek : 8\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8c4113f3-0eb7-43f5-9aff-f7241d761468
@@ -385,7 +385,7 @@ SUMMARY:AFS vs SKT
 DESCRIPTION:Afreeca Freecs (AFS) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : LCK 2016 Summer Split\nWeek : 9\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c6d4894-84de-453b-b595-ab1c00d8be7a
@@ -399,7 +399,7 @@ SUMMARY:SKT vs LZ
 DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Gaming (LZ)\nType : BO3\nTourname
  nt : LCK 2016 Summer Split\nWeek : 11\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-28877413-3c7c-4abc-bcc9-f6dd087e83ff
@@ -414,7 +414,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SSB)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 1\nWinner : SKTelec
  om T1\nLooser : SBENU SONICBOOM\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cb7d2665-0a30-4249-b70e-754faaec4327
@@ -429,7 +429,7 @@ DESCRIPTION:Kongdoo Monster (KDM) vs SKTelecom T1 (SKT)\nType : BO2\nTourna
  ment : Migrated tournament for lck_2015_summer\nWeek : 13\nWinner : SKTele
  com T1\nLooser : Kongdoo Monster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5119aeee-e59e-4cd0-8734-cb203a296c05
@@ -443,7 +443,7 @@ SUMMARY:JAG vs SKT
 DESCRIPTION:Jin Air Green Wings (JAG) vs SKTelecom T1 (SKT)\nType : BO3\nTo
  urnament : LCK 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba8a003c-0aae-41e3-b61c-0c772e3d049a
@@ -457,7 +457,7 @@ SUMMARY:KDM vs SKT
 DESCRIPTION:Kongdoo Monster (KDM) vs SKTelecom T1 (SKT)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 12\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7d2a632f-896b-46cc-92e3-b64887c49621
@@ -471,7 +471,7 @@ SUMMARY:ROX vs SKT
 DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO3\nTournament 
  : LCK 2016 Summer Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-98ba8b1a-3cd9-45ac-a530-ddd982d6e6c2
@@ -485,7 +485,7 @@ SUMMARY:SKT vs ROX
 DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO3\nTournament 
  : LCK 2016 Summer Split\nWeek : 7\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a570d375-7315-4eaa-886b-a6b2622119ff
@@ -499,7 +499,7 @@ SUMMARY:SSG vs SKT
 DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : LCK 2016 Summer Split\nWeek : 9\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-185db43a-9e71-4124-9727-44282e6f194c
@@ -513,7 +513,7 @@ SUMMARY:CJ vs SKT
 DESCRIPTION:CJ ENTUS (CJ) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : L
  CK 2016 Summer Split\nWeek : 10\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9286a543-8248-4209-a55e-a3fba7414026
@@ -528,7 +528,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Longzhu Gaming (LZ)\nType : BO2\nTourname
  nt : Migrated tournament for lck_2015_summer\nWeek : 5\nWinner : SKTelecom
   T1\nLooser : Longzhu Gaming\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-12335572-2a6d-481f-81c1-3d3b1213e278
@@ -543,7 +543,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Rebels Anarchy (ANC)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 4\nWinner : SKTeleco
  m T1\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-989d4e5a-2f19-4216-a9e4-ab288ffa8c9b
@@ -558,7 +558,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs CJ ENTUS (CJ)\nType : BO3\nTournament : M
  igrated tournament for lck_2015_summer\nWeek : 10\nWinner : CJ ENTUS\nLoos
  er : SKTelecom T1\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-296dafd3-ca9e-4c2b-85d7-dce368f64a9f
@@ -573,7 +573,7 @@ DESCRIPTION:Rebels Anarchy (ANC) vs SKTelecom T1 (SKT)\nType : BO2\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : SKTeleco
  m T1\nLooser : Rebels Anarchy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3217b65e-4307-462c-b86f-5f5afbaf7798
@@ -588,7 +588,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO2\nTo
  urnament : Migrated tournament for lck_2015_summer\nWeek : 8\nWinner : SKT
  elecom T1\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3217b65e-4307-462c-b86f-5f5afbaf7798
@@ -603,7 +603,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO2\nTo
  urnament : Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKT
  elecom T1\nLooser : Jin Air Green Wings\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f9a09901-0ab8-4580-9c81-8a0751409d57
@@ -617,7 +617,7 @@ SUMMARY:ROX vs SKT
 DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO3\nTournament 
  : LCK 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac75f39d-bce1-43e8-929d-114b3355aadd
@@ -631,7 +631,7 @@ SUMMARY:SKT vs JAG
 DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO3\nTo
  urnament : LCK 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-17a52170-bdd0-4ad8-bca3-dc09a8c0c15b
@@ -645,7 +645,7 @@ SUMMARY:KT vs SKT
 DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO3\nTournament :
   LCK 2016 Spring Split\nWeek : 13\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4025524d-ac1c-4b9f-81a1-7a4fdea6642b
@@ -659,7 +659,7 @@ SUMMARY:SKT vs SSB
 DESCRIPTION:SKTelecom T1 (SKT) vs SBENU SONICBOOM (SSB)\nType : BO3\nTourna
  ment : LCK 2016 Spring Split\nWeek : 13\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2fb835d7-004f-44e1-a2e3-6f619032c5e7
@@ -673,7 +673,7 @@ SUMMARY:SKT vs JAG
 DESCRIPTION:SKTelecom T1 (SKT) vs Jin Air Green Wings (JAG)\nType : BO5\nTo
  urnament : LCK 2016 Spring Split\nWeek : Round 2\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-26c0b6c5-98f9-48bf-8771-719b01977bac
@@ -688,7 +688,7 @@ DESCRIPTION:Samsung Galaxy (SSG) vs SKTelecom T1 (SKT)\nType : BO3\nTournam
  ent : Migrated tournament for lck_2015_summer\nWeek : 3\nWinner : SKTeleco
  m T1\nLooser : Samsung Galaxy\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1a74d22-3362-4fe2-a3f9-621d9b397c48
@@ -703,7 +703,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs KT Rolster (KT)\nType : BO3\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 10\nWinner : SKTelecom T1
  \nLooser : KT Rolster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6f6ae22-52d5-4b0b-9f8c-332d35b5f9a1
@@ -718,35 +718,7 @@ DESCRIPTION:KT Rolster (KT) vs SKTelecom T1 (SKT)\nType : BO2\nTournament :
   Migrated tournament for lck_2015_summer\nWeek : 6\nWinner : SKTelecom T1\
  nLooser : KT Rolster\n
 CATEGORIES:Migrated tournament for lck_2015_summer
-DTSTAMP:20160520T130116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a038054d-7ad3-41ae-b3a1-e2f959ae22e1
-DTSTART:20160204T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160204T120000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
- ason/4
-SUMMARY:SSB vs SKT
-DESCRIPTION:SBENU SONICBOOM (SSB) vs SKTelecom T1 (SKT)\nType : BO3\nTourna
- ment : LCK 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9759e0ef-7f22-4541-80d0-07c8cc9546f9
-DTSTART:20160423T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160423T090000Z
-URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/lck_2016_s
- pring_playoffs/Finals
-SUMMARY:ROX vs SKT
-DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO5\nTournament 
- : LCK 2016 Spring Split\nWeek : Finals\n
-CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a812e52d-caac-43cf-976d-929752225fb7
@@ -760,7 +732,7 @@ SUMMARY:SKT vs ROX
 DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO3\nTournament 
  : LCK 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e6362d74-4b9e-4580-89b5-f80e1f4c9603
@@ -774,7 +746,35 @@ SUMMARY:LZ vs SKT
 DESCRIPTION:Longzhu Gaming (LZ) vs SKTelecom T1 (SKT)\nType : BO3\nTourname
  nt : LCK 2016 Spring Split\nWeek : 11\n
 CATEGORIES:LCK 2016 Spring Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a038054d-7ad3-41ae-b3a1-e2f959ae22e1
+DTSTART:20160204T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160204T120000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/regular_se
+ ason/4
+SUMMARY:SSB vs SKT
+DESCRIPTION:SBENU SONICBOOM (SSB) vs SKTelecom T1 (SKT)\nType : BO3\nTourna
+ ment : LCK 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LCK 2016 Spring Split
+DTSTAMP:20160524T130124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9759e0ef-7f22-4541-80d0-07c8cc9546f9
+DTSTART:20160423T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160423T090000Z
+URL:http://www.lolesports.com/en_US/lck/lck_2016_spring/schedule/lck_2016_s
+ pring_playoffs/Finals
+SUMMARY:ROX vs SKT
+DESCRIPTION:ROX Tigers (ROX) vs SKTelecom T1 (SKT)\nType : BO5\nTournament 
+ : LCK 2016 Spring Split\nWeek : Finals\n
+CATEGORIES:LCK 2016 Spring Split
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e65d7270-4d21-4299-bd90-6f3f780e6922
@@ -788,7 +788,7 @@ SUMMARY:SKT vs ESC
 DESCRIPTION:SKTelecom T1 (SKT) vs ESC Ever (ESC)\nType : BO3\nTournament : 
  LCK 2016 Summer Split\nWeek : 6\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0671cf81-074f-4b7e-a86e-d939daad6907
@@ -802,7 +802,7 @@ SUMMARY:ESC vs SKT
 DESCRIPTION:ESC Ever (ESC) vs SKTelecom T1 (SKT)\nType : BO3\nTournament : 
  LCK 2016 Summer Split\nWeek : 10\n
 CATEGORIES:LCK 2016 Summer Split
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-adc2b46b-5df6-4bcc-b931-65e3c605499a
@@ -816,7 +816,7 @@ SUMMARY:SKT vs ROX
 DESCRIPTION:SKTelecom T1 (SKT) vs ROX Tigers (ROX)\nType : BO5\nTournament 
  : The 2015 World Championship\nWeek : berlin-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-eb04d900-367d-42e4-98ab-121a254e66ae
@@ -830,7 +830,7 @@ SUMMARY:SKT vs AHQ
 DESCRIPTION:SKTelecom T1 (SKT) vs ahq e-Sports Club (AHQ)\nType : BO5\nTour
  nament : The 2015 World Championship\nWeek : london-day-2\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7e792ef6-ae87-428a-8c40-55affe15a84d
@@ -845,7 +845,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs SKTelecom T1 (SKT)\nType : BO1\nTournam
  ent : The 2015 World Championship\nWeek : paris-day-2\nWinner : SKTelecom 
  T1\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9dc740f0-68bb-4da6-ae58-8ad873e17626
@@ -860,7 +860,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Bangkok Titans (BKT)\nType : BO1\nTournam
  ent : The 2015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom 
  T1\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6d8daefb-66ce-4d65-b14c-11e42bb63bfb
@@ -874,7 +874,7 @@ SUMMARY:OG vs SKT
 DESCRIPTION:Origen (OG) vs SKTelecom T1 (SKT)\nType : BO5\nTournament : The
   2015 World Championship\nWeek : brussels-day-1\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b4e26f33-21a5-4e46-8818-cf7e667926c1
@@ -889,7 +889,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO1\nTourname
  nt : The 2015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom T
  1\nLooser : Edward Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-245fc1f2-dab9-40fd-afa2-f24b6173e26a
@@ -904,7 +904,7 @@ DESCRIPTION:H2K (H2K) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom T1\nLooser 
  : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5a81f88e-8157-46b9-bb82-b9cf72662c07
@@ -919,7 +919,7 @@ DESCRIPTION:Edward Gaming (EDG) vs SKTelecom T1 (SKT)\nType : BO1\nTourname
  nt : The 2015 World Championship\nWeek : paris-day-3\nWinner : SKTelecom T
  1\nLooser : Edward Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c79c3fc6-b2db-4789-a588-65f226c549b2
@@ -934,7 +934,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs H2K (H2K)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-1\nWinner : SKTelecom T1\nLooser 
  : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1c0aa97a-8b1c-4eca-bdcb-5a41ec0c0701
@@ -948,7 +948,7 @@ SUMMARY:SKT vs CLG
 DESCRIPTION:SKTelecom T1 (SKT) vs Counter Logic Gaming (CLG)\nType : BO5\nT
  ournament : MSI 2016\nWeek : Finals\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1337259a-3b96-4d0e-890b-a9d6db2c33c1
@@ -962,7 +962,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Counter Logic Gaming (CLG)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 4\nWinner : SKTelecom T1\nLooser : Counter Lo
  gic Gaming\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e76bd7a3-6299-44a0-a412-0d435ec3c04d
@@ -975,7 +975,7 @@ SUMMARY:FW vs SKT
 DESCRIPTION:Flash Wolves (FW) vs SKTelecom T1 (SKT)\nType : BO1\nTournament
   : MSI 2016\nWeek : 3\nWinner : Flash Wolves\nLooser : SKTelecom T1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-266d2c99-acbe-42e6-94d5-f1455c932d59
@@ -988,7 +988,7 @@ SUMMARY:G2 vs SKT
 DESCRIPTION:G2 Esports (G2) vs SKTelecom T1 (SKT)\nType : BO1\nTournament :
   MSI 2016\nWeek : 1\nWinner : SKTelecom T1\nLooser : G2 Esports\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cca08cbf-faef-4545-a5a9-606280f7fa0f
@@ -1001,7 +1001,7 @@ SUMMARY:SKT vs FW
 DESCRIPTION:SKTelecom T1 (SKT) vs Flash Wolves (FW)\nType : BO1\nTournament
   : MSI 2016\nWeek : 2\nWinner : Flash Wolves\nLooser : SKTelecom T1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-93a566bc-f896-429e-b9ff-dc2f648e0408
@@ -1014,7 +1014,7 @@ SUMMARY:SUP vs SKT
 DESCRIPTION:SuperMassive (SUP) vs SKTelecom T1 (SKT)\nType : BO1\nTournamen
  t : MSI 2016\nWeek : 4\nWinner : SKTelecom T1\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-93927620-144a-469f-b2a1-922292db73bf
@@ -1027,7 +1027,7 @@ SUMMARY:SKT vs G2
 DESCRIPTION:SKTelecom T1 (SKT) vs G2 Esports (G2)\nType : BO1\nTournament :
   MSI 2016\nWeek : 5\nWinner : SKTelecom T1\nLooser : G2 Esports\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-51c2e942-1d21-45e8-95a7-012a8b245dd8
@@ -1040,7 +1040,7 @@ SUMMARY:SKT vs SUP
 DESCRIPTION:SKTelecom T1 (SKT) vs SuperMassive (SUP)\nType : BO1\nTournamen
  t : MSI 2016\nWeek : 1\nWinner : SKTelecom T1\nLooser : SuperMassive\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-232fc203-1791-4c94-b249-03ca1d750257
@@ -1054,7 +1054,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs SKTelecom T1 (SKT)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 5\nWinner : SKTelecom T1\nLooser : Royal Never
   Give Up\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a9d7efa5-fa5f-438d-bc29-7497dd34be30
@@ -1068,7 +1068,7 @@ SUMMARY:RNG vs SKT
 DESCRIPTION:Royal Never Give Up (RNG) vs SKTelecom T1 (SKT)\nType : BO5\nTo
  urnament : MSI 2016\nWeek : Semifinals\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4c3a1f60-960b-4cdc-961f-20e09c2586a9
@@ -1082,7 +1082,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Royal Never Give Up (RNG)\nType : BO1\nTo
  urnament : MSI 2016\nWeek : 2\nWinner : Royal Never Give Up\nLooser : SKTe
  lecom T1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9e0d1636-b19b-4d7e-b46a-8f4633f2d52d
@@ -1096,6 +1096,6 @@ DESCRIPTION:Counter Logic Gaming (CLG) vs SKTelecom T1 (SKT)\nType : BO1\nT
  ournament : MSI 2016\nWeek : 3\nWinner : Counter Logic Gaming\nLooser : SK
  Telecom T1\n
 CATEGORIES:MSI 2016
-DTSTAMP:20160520T130116Z
+DTSTAMP:20160524T130124Z
 END:VEVENT
 END:VCALENDAR

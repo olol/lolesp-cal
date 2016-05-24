@@ -15,7 +15,7 @@ SUMMARY:LG vs DFM
 DESCRIPTION:Lyon Gaming (LG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130130Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49411b4e-6b2f-4a33-970d-4c3881464170
@@ -29,7 +29,7 @@ SUMMARY:ISG vs DFM
 DESCRIPTION:Isurus Gaming (ISG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130130Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-23c0132b-3205-43e1-b2b9-87ab7c17606f
@@ -43,7 +43,7 @@ SUMMARY:DFM vs CHF
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Chiefs eSports Club (CHF)\nType : B
  O1\nTournament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130130Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00c67ee2-eda9-4108-9ce3-5292b4f62285
@@ -57,7 +57,7 @@ SUMMARY:HR vs DFM
 DESCRIPTION:Hard Random (HR) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130130Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-18b42e26-a0ad-4483-9dae-7eae6792be57
@@ -71,7 +71,7 @@ SUMMARY:ITZ vs DFM
 DESCRIPTION:INTZ (ITZ) vs DetonatioN FocusMe (DFM)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130130Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6770e80-9c95-41aa-a367-d1ce54a42d13
@@ -85,7 +85,7 @@ SUMMARY:DFM vs SUP
 DESCRIPTION:DetonatioN FocusMe (DFM) vs SuperMassive (SUP)\nType : BO1\nTou
  rnament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130130Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4e7c43c1-35e2-4d21-8316-faa6718c8bad
@@ -99,6 +99,6 @@ SUMMARY:DFM vs SAJ
 DESCRIPTION:DetonatioN FocusMe (DFM) vs Saigon Jokers (SAJ)\nType : BO1\nTo
  urnament : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160520T130120Z
+DTSTAMP:20160524T130130Z
 END:VEVENT
 END:VCALENDAR
