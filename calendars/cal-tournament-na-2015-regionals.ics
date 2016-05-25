@@ -15,7 +15,7 @@ SUMMARY:TIP vs C9
 DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO5\nTournament : NA
   LCS Summer regional playoffs\nWeek : semifinals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160524T130121Z
+DTSTAMP:20160525T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbca1277-25fa-4357-9990-84bbdfe5cce8
@@ -29,7 +29,7 @@ SUMMARY:TL vs C9
 DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS Su
  mmer regional playoffs\nWeek : finals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160524T130121Z
+DTSTAMP:20160525T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3294f2ca-0b24-4752-b6b3-177b362c2c16
@@ -43,6 +43,6 @@ SUMMARY:GV vs C9
 DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS S
  ummer regional playoffs\nWeek : quarterfinals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160524T130121Z
+DTSTAMP:20160525T130114Z
 END:VEVENT
 END:VCALENDAR

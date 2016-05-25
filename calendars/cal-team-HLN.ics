@@ -16,7 +16,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Avant Garde (AV)\nType : BO3\nT
  ournament : OPL 2016 Spring Split\nWeek : 5\nWinner : Avant Garde\nLooser 
  : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ed2e1e03-ab0d-4a7d-8634-5dd91c78d3d8
@@ -30,7 +30,7 @@ SUMMARY:HLN vs CHF
 DESCRIPTION:Hellions e-Sports Club (HLN) vs Chiefs eSports Club (CHF)\nType
   : BO3\nTournament : OPL 2016 Summer Split\nWeek : 5\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ee896872-02dd-496a-8657-8434d12278f1
@@ -44,7 +44,7 @@ SUMMARY:HLN vs AV
 DESCRIPTION:Hellions e-Sports Club (HLN) vs Avant Garde (AV)\nType : BO3\nT
  ournament : OPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ec6d67c-fcc5-4a87-a0c9-d6f9a73f6269
@@ -59,7 +59,7 @@ DESCRIPTION:Avant Garde (AV) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
  ournament : OPL 2016 Spring Split\nWeek : 1\nWinner : Hellions e-Sports Cl
  ub\nLooser : Avant Garde\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-870fc417-96af-4cd7-839c-dcfc0128cfe7
@@ -74,7 +74,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Abyss Esports (AE)\nType : BO3\
  nTournament : OPL 2016 Summer Split\nWeek : 1\nWinner : Abyss Esports\nLoo
  ser : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-75a11618-bc65-4b6b-8292-94a80f2fd25a
@@ -89,7 +89,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Sin Gaming (SIN)\nType : BO3\nT
  ournament : OPL 2016 Spring Split\nWeek : 9\nWinner : Sin Gaming\nLooser :
   Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5999c1e0-b2b6-42da-9558-60278b4980be
@@ -104,7 +104,7 @@ DESCRIPTION:Dire Wolves (DW) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
  ournament : OPL 2016 Spring Split\nWeek : 10\nWinner : Dire Wolves\nLooser
   : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bc34c124-dec6-4b5a-8ba4-3f910570b720
@@ -118,7 +118,7 @@ SUMMARY:HLN vs LGC
 DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
  3\nTournament : OPL 2016 Summer Split\nWeek : 2\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00d97eef-ee91-4d5f-b4bb-1d87952a2d6f
@@ -132,95 +132,7 @@ SUMMARY:TM vs HLN
 DESCRIPTION:Tainted Minds (TM) vs Hellions e-Sports Club (HLN)\nType : BO3\
  nTournament : OPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ca368374-3ff4-4244-bbce-9df516767054
-DTSTART:20160223T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160223T080000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/6
-SUMMARY:HLN vs CHF
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Chiefs eSports Club (CHF)\nType
-  : BO3\nTournament : OPL 2016 Spring Split\nWeek : 6\nWinner : Chiefs eSpo
- rts Club\nLooser : Hellions e-Sports Club\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b0078a3-dbd7-4617-b4bb-863c2e21f2a4
-DTSTART:20160209T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160209T080000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/4
-SUMMARY:HLN vs TRI
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Trident Esports (TRI)\nType : B
- O3\nTournament : OPL 2016 Spring Split\nWeek : 4\nWinner : Hellions e-Spor
- ts Club\nLooser : Trident Esports\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0695671c-830f-49e0-b090-f45a52b32886
-DTSTART:20160202T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160202T080000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/3
-SUMMARY:HLN vs LGC
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
- 3\nTournament : OPL 2016 Spring Split\nWeek : 3\nWinner : Legacy eSports\n
- Looser : Hellions e-Sports Club\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-926dbf02-cc0b-4244-9d15-c6c13165ab87
-DTSTART:20160308T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160308T110000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_b/8
-SUMMARY:LGC vs HLN
-DESCRIPTION:Legacy eSports (LGC) vs Hellions e-Sports Club (HLN)\nType : BO
- 3\nTournament : OPL 2016 Spring Split\nWeek : 8\nWinner : Legacy eSports\n
- Looser : Hellions e-Sports Club\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8e57fb7e-4df2-43ca-9436-b568e5b6d68a
-DTSTART:20160607T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160607T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/3
-SUMMARY:HLN vs DW
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Dire Wolves (DW)\nType : BO3\nT
- ournament : OPL 2016 Summer Split\nWeek : 3\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-97268313-3e9f-4045-b85a-deb8f391ae31
-DTSTART:20160725T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160725T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_b/10
-SUMMARY:AE vs HLN
-DESCRIPTION:Abyss Esports (AE) vs Hellions e-Sports Club (HLN)\nType : BO3\
- nTournament : OPL 2016 Summer Split\nWeek : 10\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-71270b3b-44d9-495d-9fa1-c94fd0a19821
@@ -235,7 +147,7 @@ DESCRIPTION:Infernum (INF) vs Hellions e-Sports Club (HLN)\nType : BO3\nTou
  rnament : OPL 2016 Spring Split\nWeek : 2\nWinner : Hellions e-Sports Club
  \nLooser : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-807effd8-8cc1-4121-bdbc-fc8f64f9f83e
@@ -250,7 +162,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Infernum (INF)\nType : BO3\nTou
  rnament : OPL 2016 Spring Split\nWeek : 7\nWinner : Infernum\nLooser : Hel
  lions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-efe59519-53e6-43df-8a0c-00d3de36146d
@@ -264,7 +176,7 @@ SUMMARY:HLN vs LGC
 DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
  3\nTournament : OPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0a28874a-353a-425a-b863-5fc2c164a46e
@@ -278,7 +190,7 @@ SUMMARY:DW vs HLN
 DESCRIPTION:Dire Wolves (DW) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
  ournament : OPL 2016 Summer Split\nWeek : 9\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cdc0ab74-84ab-42a3-866d-1a576fb079c4
@@ -292,6 +204,94 @@ SUMMARY:SIN vs HLN
 DESCRIPTION:Sin Gaming (SIN) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
  ournament : OPL 2016 Summer Split\nWeek : 6\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ca368374-3ff4-4244-bbce-9df516767054
+DTSTART:20160223T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160223T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/6
+SUMMARY:HLN vs CHF
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Chiefs eSports Club (CHF)\nType
+  : BO3\nTournament : OPL 2016 Spring Split\nWeek : 6\nWinner : Chiefs eSpo
+ rts Club\nLooser : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b0078a3-dbd7-4617-b4bb-863c2e21f2a4
+DTSTART:20160209T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160209T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/4
+SUMMARY:HLN vs TRI
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Trident Esports (TRI)\nType : B
+ O3\nTournament : OPL 2016 Spring Split\nWeek : 4\nWinner : Hellions e-Spor
+ ts Club\nLooser : Trident Esports\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0695671c-830f-49e0-b090-f45a52b32886
+DTSTART:20160202T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160202T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/3
+SUMMARY:HLN vs LGC
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
+ 3\nTournament : OPL 2016 Spring Split\nWeek : 3\nWinner : Legacy eSports\n
+ Looser : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-926dbf02-cc0b-4244-9d15-c6c13165ab87
+DTSTART:20160308T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160308T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_b/8
+SUMMARY:LGC vs HLN
+DESCRIPTION:Legacy eSports (LGC) vs Hellions e-Sports Club (HLN)\nType : BO
+ 3\nTournament : OPL 2016 Spring Split\nWeek : 8\nWinner : Legacy eSports\n
+ Looser : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8e57fb7e-4df2-43ca-9436-b568e5b6d68a
+DTSTART:20160607T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160607T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/3
+SUMMARY:HLN vs DW
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Dire Wolves (DW)\nType : BO3\nT
+ ournament : OPL 2016 Summer Split\nWeek : 3\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-97268313-3e9f-4045-b85a-deb8f391ae31
+DTSTART:20160725T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160725T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_b/10
+SUMMARY:AE vs HLN
+DESCRIPTION:Abyss Esports (AE) vs Hellions e-Sports Club (HLN)\nType : BO3\
+ nTournament : OPL 2016 Summer Split\nWeek : 10\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
 END:VEVENT
 END:VCALENDAR

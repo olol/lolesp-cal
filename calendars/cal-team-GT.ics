@@ -4,188 +4,6 @@ PRODID:www.lolesports.com|cal-team-GT
 X-WR-CALNAME:LoL eSports GT
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-d5390586-3f3a-4055-a82b-4e6b34d72471
-DTSTART:20160611T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160611T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/3
-SUMMARY:EDG vs GT
-DESCRIPTION:Edward Gaming (EDG) vs Game Talents (GT)\nType : BO3\nTournamen
- t : LPL 2016 Summer Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ceb66a9e-7062-43e2-ad32-6ac2a0434eb7
-DTSTART:20160605T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160605T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/2
-SUMMARY:GT vs IG
-DESCRIPTION:Game Talents (GT) vs Invictus Gaming (IG)\nType : BO3\nTourname
- nt : LPL 2016 Summer Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-167d589c-7147-407f-b23d-19f80c7bcf6a
-DTSTART:20160724T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160724T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/8
-SUMMARY:GT vs EDG
-DESCRIPTION:Game Talents (GT) vs Edward Gaming (EDG)\nType : BO3\nTournamen
- t : LPL 2016 Summer Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-da4a728f-6be1-4fd6-be88-77f59a05381b
-DTSTART:20160526T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160526T130000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/1
-SUMMARY:SS vs GT
-DESCRIPTION:Snake Esports (SS) vs Game Talents (GT)\nType : BO3\nTournament
-  : LPL 2016 Summer Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-10c8d0e3-64b7-4c06-9746-01e9da51a127
-DTSTART:20160807T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160807T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/10
-SUMMARY:GT vs SAT
-DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
-  : LPL 2016 Summer Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-19b1aadc-612d-4ecc-b872-9c29c5f47b9c
-DTSTART:20160722T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160722T130000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/8
-SUMMARY:GT vs SS
-DESCRIPTION:Game Talents (GT) vs Snake Esports (SS)\nType : BO3\nTournament
-  : LPL 2016 Summer Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-05856473-a8dc-4cd1-a451-8bec8263176f
-DTSTART:20160626T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160626T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/5
-SUMMARY:IM vs GT
-DESCRIPTION:I MAY (IM) vs Game Talents (GT)\nType : BO3\nTournament : LPL 2
- 016 Summer Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e220fb7d-871b-41fb-a070-2bcaff7ad622
-DTSTART:20160709T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160709T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/6
-SUMMARY:VG vs GT
-DESCRIPTION:Vici Gaming (VG) vs Game Talents (GT)\nType : BO3\nTournament :
-  LPL 2016 Summer Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-84c14af2-f04d-43dc-a7d4-3aafda128de8
-DTSTART:20160707T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160707T130000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/6
-SUMMARY:RNG vs GT
-DESCRIPTION:Royal Never Give Up (RNG) vs Game Talents (GT)\nType : BO3\nTou
- rnament : LPL 2016 Summer Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e219ddb5-0858-4741-a398-59e478d10075
-DTSTART:20160716T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160716T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/7
-SUMMARY:OMG vs GT
-DESCRIPTION:OMG (OMG) vs Game Talents (GT)\nType : BO3\nTournament : LPL 20
- 16 Summer Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8e48134b-d041-4e15-b7b7-c60c5ca38057
-DTSTART:20160730T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160730T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/9
-SUMMARY:GT vs IG
-DESCRIPTION:Game Talents (GT) vs Invictus Gaming (IG)\nType : BO3\nTourname
- nt : LPL 2016 Summer Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d38b0032-2619-4b74-8e1a-f55d06d3507d
-DTSTART:20160528T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160528T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/1
-SUMMARY:GT vs SAT
-DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
-  : LPL 2016 Summer Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-49333654-1cc2-4462-9ad1-ddfbe2478999
-DTSTART:20160603T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160603T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/2
-SUMMARY:GT vs NB
-DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
- 2016 Summer Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-22dc50d3-0698-46d7-b9b8-7e313c0780a7
 DTSTART:20160617T090000Z
 SEQUENCE:0
@@ -197,7 +15,7 @@ SUMMARY:WE vs GT
 DESCRIPTION:Team World Elite (WE) vs Game Talents (GT)\nType : BO3\nTournam
  ent : LPL 2016 Summer Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
+DTSTAMP:20160525T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a1e8fddc-fa6d-4bc5-b583-c0e6ef802279
@@ -211,7 +29,7 @@ SUMMARY:LGD vs GT
 DESCRIPTION:LGD Gaming (LGD) vs Game Talents (GT)\nType : BO3\nTournament :
   LPL 2016 Summer Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
+DTSTAMP:20160525T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0498b763-5ec2-40d6-a2df-cbbfcfdf5a66
@@ -225,6 +43,188 @@ SUMMARY:GT vs NB
 DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
  2016 Summer Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160524T130126Z
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d38b0032-2619-4b74-8e1a-f55d06d3507d
+DTSTART:20160528T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160528T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/1
+SUMMARY:GT vs SAT
+DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
+  : LPL 2016 Summer Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-49333654-1cc2-4462-9ad1-ddfbe2478999
+DTSTART:20160603T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160603T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/2
+SUMMARY:GT vs NB
+DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
+ 2016 Summer Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ceb66a9e-7062-43e2-ad32-6ac2a0434eb7
+DTSTART:20160605T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160605T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/2
+SUMMARY:GT vs IG
+DESCRIPTION:Game Talents (GT) vs Invictus Gaming (IG)\nType : BO3\nTourname
+ nt : LPL 2016 Summer Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-167d589c-7147-407f-b23d-19f80c7bcf6a
+DTSTART:20160724T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160724T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/8
+SUMMARY:GT vs EDG
+DESCRIPTION:Game Talents (GT) vs Edward Gaming (EDG)\nType : BO3\nTournamen
+ t : LPL 2016 Summer Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-da4a728f-6be1-4fd6-be88-77f59a05381b
+DTSTART:20160526T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160526T130000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/1
+SUMMARY:SS vs GT
+DESCRIPTION:Snake Esports (SS) vs Game Talents (GT)\nType : BO3\nTournament
+  : LPL 2016 Summer Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-10c8d0e3-64b7-4c06-9746-01e9da51a127
+DTSTART:20160807T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160807T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/10
+SUMMARY:GT vs SAT
+DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
+  : LPL 2016 Summer Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d5390586-3f3a-4055-a82b-4e6b34d72471
+DTSTART:20160611T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/3
+SUMMARY:EDG vs GT
+DESCRIPTION:Edward Gaming (EDG) vs Game Talents (GT)\nType : BO3\nTournamen
+ t : LPL 2016 Summer Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-05856473-a8dc-4cd1-a451-8bec8263176f
+DTSTART:20160626T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160626T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/5
+SUMMARY:IM vs GT
+DESCRIPTION:I MAY (IM) vs Game Talents (GT)\nType : BO3\nTournament : LPL 2
+ 016 Summer Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e220fb7d-871b-41fb-a070-2bcaff7ad622
+DTSTART:20160709T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160709T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/6
+SUMMARY:VG vs GT
+DESCRIPTION:Vici Gaming (VG) vs Game Talents (GT)\nType : BO3\nTournament :
+  LPL 2016 Summer Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-84c14af2-f04d-43dc-a7d4-3aafda128de8
+DTSTART:20160707T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160707T130000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/6
+SUMMARY:RNG vs GT
+DESCRIPTION:Royal Never Give Up (RNG) vs Game Talents (GT)\nType : BO3\nTou
+ rnament : LPL 2016 Summer Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e219ddb5-0858-4741-a398-59e478d10075
+DTSTART:20160716T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160716T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/7
+SUMMARY:OMG vs GT
+DESCRIPTION:OMG (OMG) vs Game Talents (GT)\nType : BO3\nTournament : LPL 20
+ 16 Summer Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8e48134b-d041-4e15-b7b7-c60c5ca38057
+DTSTART:20160730T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160730T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/9
+SUMMARY:GT vs IG
+DESCRIPTION:Game Talents (GT) vs Invictus Gaming (IG)\nType : BO3\nTourname
+ nt : LPL 2016 Summer Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-19b1aadc-612d-4ecc-b872-9c29c5f47b9c
+DTSTART:20160722T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160722T130000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/8
+SUMMARY:GT vs SS
+DESCRIPTION:Game Talents (GT) vs Snake Esports (SS)\nType : BO3\nTournament
+  : LPL 2016 Summer Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160525T130118Z
 END:VEVENT
 END:VCALENDAR

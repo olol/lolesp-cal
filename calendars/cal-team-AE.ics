@@ -16,7 +16,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Abyss Esports (AE)\nType : BO3\
  nTournament : OPL 2016 Summer Split\nWeek : 1\nWinner : Abyss Esports\nLoo
  ser : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-50aedd69-692a-4a2a-be86-5807f8cdf0f9
@@ -30,7 +30,7 @@ SUMMARY:SIN vs AE
 DESCRIPTION:Sin Gaming (SIN) vs Abyss Esports (AE)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 5\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-421dfdb3-2ce3-46b6-8ec1-2b5d736fb629
@@ -44,91 +44,7 @@ SUMMARY:DW vs AE
 DESCRIPTION:Dire Wolves (DW) vs Abyss Esports (AE)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-23297c69-3539-46b9-aea4-15b3218143e9
-DTSTART:20160628T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160628T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/6
-SUMMARY:AE vs AV
-DESCRIPTION:Abyss Esports (AE) vs Avant Garde (AV)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 6\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9b5a6970-3476-45ad-ab1d-c52878ed8820
-DTSTART:20160704T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160704T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/7
-SUMMARY:TM vs AE
-DESCRIPTION:Tainted Minds (TM) vs Abyss Esports (AE)\nType : BO3\nTournamen
- t : OPL 2016 Summer Split\nWeek : 7\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-177f1deb-2985-4efa-9ff8-a68378b7b79b
-DTSTART:20160718T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160718T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/9
-SUMMARY:LGC vs AE
-DESCRIPTION:Legacy eSports (LGC) vs Abyss Esports (AE)\nType : BO3\nTournam
- ent : OPL 2016 Summer Split\nWeek : 9\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-74695921-c645-4127-a32e-54bc7bc41237
-DTSTART:20160706T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160706T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/7
-SUMMARY:CHF vs AE
-DESCRIPTION:Chiefs eSports Club (CHF) vs Abyss Esports (AE)\nType : BO3\nTo
- urnament : OPL 2016 Summer Split\nWeek : 7\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-049c6473-e400-4391-bd0b-51b8ee8f5c42
-DTSTART:20160530T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160530T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_b/2
-SUMMARY:DW vs AE
-DESCRIPTION:Dire Wolves (DW) vs Abyss Esports (AE)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 2\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-97268313-3e9f-4045-b85a-deb8f391ae31
-DTSTART:20160725T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160725T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_b/10
-SUMMARY:AE vs HLN
-DESCRIPTION:Abyss Esports (AE) vs Hellions e-Sports Club (HLN)\nType : BO3\
- nTournament : OPL 2016 Summer Split\nWeek : 10\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-549c5cec-abbb-4dfa-94a1-db6664be222c
@@ -142,6 +58,90 @@ SUMMARY:AE vs LGC
 DESCRIPTION:Abyss Esports (AE) vs Legacy eSports (LGC)\nType : BO3\nTournam
  ent : OPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-049c6473-e400-4391-bd0b-51b8ee8f5c42
+DTSTART:20160530T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160530T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_b/2
+SUMMARY:DW vs AE
+DESCRIPTION:Dire Wolves (DW) vs Abyss Esports (AE)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 2\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-23297c69-3539-46b9-aea4-15b3218143e9
+DTSTART:20160628T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160628T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/6
+SUMMARY:AE vs AV
+DESCRIPTION:Abyss Esports (AE) vs Avant Garde (AV)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 6\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9b5a6970-3476-45ad-ab1d-c52878ed8820
+DTSTART:20160704T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160704T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/7
+SUMMARY:TM vs AE
+DESCRIPTION:Tainted Minds (TM) vs Abyss Esports (AE)\nType : BO3\nTournamen
+ t : OPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-177f1deb-2985-4efa-9ff8-a68378b7b79b
+DTSTART:20160718T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160718T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/9
+SUMMARY:LGC vs AE
+DESCRIPTION:Legacy eSports (LGC) vs Abyss Esports (AE)\nType : BO3\nTournam
+ ent : OPL 2016 Summer Split\nWeek : 9\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-74695921-c645-4127-a32e-54bc7bc41237
+DTSTART:20160706T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160706T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/7
+SUMMARY:CHF vs AE
+DESCRIPTION:Chiefs eSports Club (CHF) vs Abyss Esports (AE)\nType : BO3\nTo
+ urnament : OPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-97268313-3e9f-4045-b85a-deb8f391ae31
+DTSTART:20160725T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160725T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_b/10
+SUMMARY:AE vs HLN
+DESCRIPTION:Abyss Esports (AE) vs Hellions e-Sports Club (HLN)\nType : BO3\
+ nTournament : OPL 2016 Summer Split\nWeek : 10\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160525T130121Z
 END:VEVENT
 END:VCALENDAR

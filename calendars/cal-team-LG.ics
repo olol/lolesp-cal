@@ -15,7 +15,7 @@ SUMMARY:LG vs DFM
 DESCRIPTION:Lyon Gaming (LG) vs DetonatioN FocusMe (DFM)\nType : BO1\nTourn
  ament : international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab5380bb-22a1-428f-923b-e8ec8219cc07
@@ -29,7 +29,7 @@ SUMMARY:LG vs SAJ
 DESCRIPTION:Lyon Gaming (LG) vs Saigon Jokers (SAJ)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bd49c160-dda5-4d02-b21f-e7d628a85504
@@ -43,7 +43,7 @@ SUMMARY:CHF vs LG
 DESCRIPTION:Chiefs eSports Club (CHF) vs Lyon Gaming (LG)\nType : BO1\nTour
  nament : international wildcard invitational 2016\nWeek : Day 3\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9f31c71d-62ef-46d8-9ad9-b90cbb8ccd86
@@ -57,7 +57,7 @@ SUMMARY:ITZ vs LG
 DESCRIPTION:INTZ (ITZ) vs Lyon Gaming (LG)\nType : BO1\nTournament : intern
  ational wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22148d83-3977-4bfd-98a1-a3678fc94881
@@ -71,7 +71,7 @@ SUMMARY:HR vs LG
 DESCRIPTION:Hard Random (HR) vs Lyon Gaming (LG)\nType : BO1\nTournament : 
  international wildcard invitational 2016\nWeek : Day 2\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7baba786-dead-45e8-95d2-213b572e4d2c
@@ -85,7 +85,7 @@ SUMMARY:LG vs SUP
 DESCRIPTION:Lyon Gaming (LG) vs SuperMassive (SUP)\nType : BO1\nTournament 
  : international wildcard invitational 2016\nWeek : Day 4\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04694041-2e52-4f37-88e5-0764946290e6
@@ -99,7 +99,7 @@ SUMMARY:LG vs ISG
 DESCRIPTION:Lyon Gaming (LG) vs Isurus Gaming (ISG)\nType : BO1\nTournament
   : international wildcard invitational 2016\nWeek : Day 1\n
 CATEGORIES:international wildcard invitational 2016
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fa0b60c5-c880-4c13-b2c6-62b533e37ba1
@@ -113,7 +113,7 @@ SUMMARY:D9 vs LG
 DESCRIPTION:Dash9 Gaming (D9) vs Lyon Gaming (LG)\nType : BO3\nTournament :
   Copa Latinoamerica Norte\nWeek : 3\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2e0787fb-4a15-41f9-bd9b-dd2c98fec14e
@@ -127,7 +127,7 @@ SUMMARY:LG vs D9
 DESCRIPTION:Lyon Gaming (LG) vs Dash9 Gaming (D9)\nType : BO3\nTournament :
   Copa Latinoamerica Norte\nWeek : 7\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6b1caf78-d14c-4a93-b8c0-c5d795c9b313
@@ -141,7 +141,7 @@ SUMMARY:LG vs TSE
 DESCRIPTION:Lyon Gaming (LG) vs Tesla eSports (TSE)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 6\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-70979b68-da04-4271-baed-2f50f645a79b
@@ -155,7 +155,7 @@ SUMMARY:TSE vs LG
 DESCRIPTION:Tesla eSports (TSE) vs Lyon Gaming (LG)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 2\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-af3298d0-f7db-4f44-b4bf-895a470a27ae
@@ -169,7 +169,7 @@ SUMMARY:GG vs LG
 DESCRIPTION:Galactic Gaming (GG) vs Lyon Gaming (LG)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 5\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3e2f6ecb-6a22-4dc1-9d55-e9bb2482e21e
@@ -183,7 +183,7 @@ SUMMARY:LG vs HVK
 DESCRIPTION:Lyon Gaming (LG) vs Havoks Gaming (HVK)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 1\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5c597382-9fdc-4813-94ef-70b95cbde062
@@ -197,7 +197,7 @@ SUMMARY:LG vs RvG
 DESCRIPTION:Lyon Gaming (LG) vs Revenge eSports (RvG)\nType : BO3\nTourname
  nt : Copa Latinoamerica Norte\nWeek : 4\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-73ca4abc-eea6-42d6-b7c9-f4837a2ae86d
@@ -211,7 +211,7 @@ SUMMARY:HVK vs LG
 DESCRIPTION:Havoks Gaming (HVK) vs Lyon Gaming (LG)\nType : BO3\nTournament
   : Copa Latinoamerica Norte\nWeek : 5\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b753f0f3-41a5-4e3b-bc9e-412cdf3e80de
@@ -225,7 +225,7 @@ SUMMARY:RvG vs LG
 DESCRIPTION:Revenge eSports (RvG) vs Lyon Gaming (LG)\nType : BO3\nTourname
  nt : Copa Latinoamerica Norte\nWeek : 8\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8a821c8b-339e-4cec-880a-a2ac6c184bca
@@ -239,6 +239,6 @@ SUMMARY:LG vs GG
 DESCRIPTION:Lyon Gaming (LG) vs Galactic Gaming (GG)\nType : BO3\nTournamen
  t : Copa Latinoamerica Norte\nWeek : 1\n
 CATEGORIES:Copa Latinoamerica Norte
-DTSTAMP:20160524T130130Z
+DTSTAMP:20160525T130121Z
 END:VEVENT
 END:VCALENDAR
