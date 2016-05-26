@@ -16,7 +16,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs FC Schalke 04 (S04)\nType : BO1\nTournam
  ent : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : FC Schalk
  e 04\nLooser : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e423d30-2688-424d-8993-9aa260da1121
@@ -31,7 +31,7 @@ DESCRIPTION:ROCCAT (ROC) vs FC Schalke 04 (S04)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 7\nWinner : FC Schalke 04\nL
  ooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-89b691a5-b11a-443f-86f3-b324e66d5d33
@@ -46,7 +46,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs ROCCAT (ROC)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 4\nWinner : FC Schalke 04\nL
  ooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4105f121-9bbd-403b-aca7-a56e5e9af053
@@ -60,7 +60,7 @@ SUMMARY:S04 vs SPY
 DESCRIPTION:FC Schalke 04 (S04) vs Splyce (SPY)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0503f728-77d4-4600-816a-4d644dd26ec9
@@ -74,7 +74,7 @@ SUMMARY:S04 vs UOL
 DESCRIPTION:FC Schalke 04 (S04) vs Unicorns of Love (UOL)\nType : BO1\nTour
  nament : EU 2016 Spring Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d36b6c41-3e39-4006-a15f-9d0ca708da73
@@ -88,7 +88,7 @@ SUMMARY:SPY vs S04
 DESCRIPTION:Splyce (SPY) vs FC Schalke 04 (S04)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7da92a21-339d-4db6-b347-74eb550c1790
@@ -103,7 +103,7 @@ DESCRIPTION:Origen (OG) vs FC Schalke 04 (S04)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 4\nWinner : Origen\nLooser : 
  FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd272475-23d1-4a5c-8dbb-fa9526697ca8
@@ -118,7 +118,7 @@ DESCRIPTION:Giants (GIA) vs FC Schalke 04 (S04)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 5\nWinner : FC Schalke 04\nL
  ooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e5fe9677-9a58-4b10-86f9-422fce9ee234
@@ -133,7 +133,7 @@ DESCRIPTION:Fnatic (FNC) vs FC Schalke 04 (S04)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 3\nWinner : Fnatic\nLooser :
   FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4843d049-dab4-48e8-b881-a78e2ef8fac4
@@ -147,7 +147,7 @@ SUMMARY:VIT vs S04
 DESCRIPTION:Team Vitality (VIT) vs FC Schalke 04 (S04)\nType : BO1\nTournam
  ent : EU 2016 Spring Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0cae384-2d17-4322-90bf-49bf257d0d31
@@ -161,7 +161,7 @@ SUMMARY:S04 vs FNC
 DESCRIPTION:FC Schalke 04 (S04) vs Fnatic (FNC)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 9\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-036c4692-06c2-4b6b-b6c7-faa2b22b1fbf
@@ -175,7 +175,7 @@ SUMMARY:S04 vs H2K
 DESCRIPTION:FC Schalke 04 (S04) vs H2K (H2K)\nType : BO1\nTournament : EU 2
  016 Spring Split\nWeek : 4\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9616f29b-0c39-4495-8192-21a9b223dbd9
@@ -189,7 +189,7 @@ SUMMARY:S04 vs G2
 DESCRIPTION:FC Schalke 04 (S04) vs G2 Esports (G2)\nType : BO1\nTournament 
  : EU 2016 Spring Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dcbd191e-a3c2-4a68-ba1e-cd0e3f3750f4
@@ -203,7 +203,7 @@ SUMMARY:GIA vs S04
 DESCRIPTION:Giants (GIA) vs FC Schalke 04 (S04)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 6\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-74cc0d55-8eb9-4f3f-9753-d9f3ec8c2006
@@ -218,7 +218,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs Unicorns of Love (UOL)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 1\nWinner : Unicor
  ns of Love\nLooser : FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e264f2c7-2374-4da3-866e-97f7bbdc7225
@@ -233,35 +233,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs H2K (H2K)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 6\nWinner : H2K\nLooser : FC Sc
  halke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-45b62b47-4811-479e-9230-6c56392d9678
-DTSTART:20160318T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160318T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/9
-SUMMARY:H2K vs S04
-DESCRIPTION:H2K (H2K) vs FC Schalke 04 (S04)\nType : BO1\nTournament : EU 2
- 016 Spring Split\nWeek : 9\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5a5ad78a-d9b3-4a39-aac5-bf2fab02e950
-DTSTART:20160211T180000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160211T190000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/5
-SUMMARY:FNC vs S04
-DESCRIPTION:Fnatic (FNC) vs FC Schalke 04 (S04)\nType : BO1\nTournament : E
- U 2016 Spring Split\nWeek : 5\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c79a4cae-a465-4396-b507-01c9cea282b1
@@ -275,7 +247,35 @@ SUMMARY:S04 vs OG
 DESCRIPTION:FC Schalke 04 (S04) vs Origen (OG)\nType : BO1\nTournament : EU
   2016 Spring Split\nWeek : 6\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-45b62b47-4811-479e-9230-6c56392d9678
+DTSTART:20160318T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160318T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:H2K vs S04
+DESCRIPTION:H2K (H2K) vs FC Schalke 04 (S04)\nType : BO1\nTournament : EU 2
+ 016 Spring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160526T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5a5ad78a-d9b3-4a39-aac5-bf2fab02e950
+DTSTART:20160211T180000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160211T190000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:FNC vs S04
+DESCRIPTION:Fnatic (FNC) vs FC Schalke 04 (S04)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2dbceebf-2879-49cc-b46d-0b956b4dba59
@@ -290,7 +290,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs SK Gaming (SKG)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 5\nWinner : FC Schalke 04
  \nLooser : SK Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04cec915-5171-49c1-bdb7-1e4a3a06577a
@@ -305,7 +305,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs Copenhagen Wolves (CW)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 3\nWinner : Copenh
  agen Wolves\nLooser : FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-850443d1-2ff6-4d89-b391-e3bf063bdd51
@@ -320,7 +320,7 @@ DESCRIPTION:H2K (H2K) vs FC Schalke 04 (S04)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : FC Sc
  halke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1e3a274b-4645-435d-990d-559a17bd858d
@@ -335,7 +335,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs Gambit Gaming (GMB)\nType : BO1\nTournam
  ent : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : FC Schalk
  e 04\nLooser : Gambit Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a49cdce3-d055-4848-9202-66b9806bf17d
@@ -350,7 +350,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs Origen (OG)\nType : BO1\nTournament : Mi
  grated tournament for eu_2015_summer\nWeek : 6\nWinner : Origen\nLooser : 
  FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-eeeb5e96-5dc5-45ed-bead-2fa2b5f2a6db
@@ -364,21 +364,7 @@ SUMMARY:S04 vs GIA
 DESCRIPTION:FC Schalke 04 (S04) vs Giants (GIA)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8a343202-29e6-49c5-a6aa-6469d49d7d72
-DTSTART:20160212T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160212T210000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/5
-SUMMARY:S04 vs ROC
-DESCRIPTION:FC Schalke 04 (S04) vs ROCCAT (ROC)\nType : BO1\nTournament : E
- U 2016 Spring Split\nWeek : 5\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-47d10243-0678-4ddf-ba16-75fa926ec4ac
@@ -392,7 +378,21 @@ SUMMARY:ROC vs S04
 DESCRIPTION:ROCCAT (ROC) vs FC Schalke 04 (S04)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8a343202-29e6-49c5-a6aa-6469d49d7d72
+DTSTART:20160212T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160212T210000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/5
+SUMMARY:S04 vs ROC
+DESCRIPTION:FC Schalke 04 (S04) vs ROCCAT (ROC)\nType : BO1\nTournament : E
+ U 2016 Spring Split\nWeek : 5\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-db52c500-c457-4c3e-9fe4-61294de066a5
@@ -406,7 +406,7 @@ SUMMARY:UOL vs S04
 DESCRIPTION:Unicorns of Love (UOL) vs FC Schalke 04 (S04)\nType : BO1\nTour
  nament : EU 2016 Spring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69a9bb84-ef38-4628-a8af-59d0c57c76da
@@ -420,7 +420,7 @@ SUMMARY:S04 vs VIT
 DESCRIPTION:FC Schalke 04 (S04) vs Team Vitality (VIT)\nType : BO1\nTournam
  ent : EU 2016 Spring Split\nWeek : 4\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ecb0f39-5fc6-4fd6-8b5d-9f8d116b5d46
@@ -435,7 +435,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs Giants (GIA)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 2\nWinner : Giants\nLooser :
   FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4adc8c6b-3008-4a9c-a9e3-85adc5b4d1c6
@@ -450,7 +450,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs Fnatic (FNC)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 8\nWinner : Fnatic\nLooser :
   FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49175e69-aad6-4c4e-9eea-24470727b318
@@ -465,7 +465,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs FC Schalke 04 (S04)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 8\nWinner : FC Sch
  alke 04\nLooser : Copenhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dff285f5-c4ba-4441-ae2f-13f2ea3d411a
@@ -480,7 +480,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs FC Schalke 04 (S04)\nType : BO1\nTour
  nament : Migrated tournament for eu_2015_summer\nWeek : 7\nWinner : Unicor
  ns of Love\nLooser : FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-10331e80-65b8-4dc6-9e5d-c1d463d921a5
@@ -495,7 +495,7 @@ DESCRIPTION:SK Gaming (SKG) vs FC Schalke 04 (S04)\nType : BO1\nTournament
  : Migrated tournament for eu_2015_summer\nWeek : 9\nWinner : SK Gaming\nLo
  oser : FC Schalke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7a50f361-f275-40ea-b185-7553e8f01fa9
@@ -509,7 +509,7 @@ SUMMARY:OG vs S04
 DESCRIPTION:Origen (OG) vs FC Schalke 04 (S04)\nType : BO1\nTournament : EU
   2016 Spring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8834a9cd-465f-4f1d-921b-17cf3320d0d3
@@ -523,6 +523,6 @@ SUMMARY:G2 vs S04
 DESCRIPTION:G2 Esports (G2) vs FC Schalke 04 (S04)\nType : BO1\nTournament 
  : EU 2016 Spring Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 END:VCALENDAR

@@ -16,7 +16,7 @@ DESCRIPTION:Enemy (NME) vs Team Liquid Academy (TLA)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 4\nWinner : Team Liquid Academy\nLoose
  r : Team Liquid Academy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160525T130115Z
+DTSTAMP:20160526T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fe038025-3562-474b-9384-9d351bff9f79
@@ -31,7 +31,7 @@ DESCRIPTION:Enemy (NME) vs Team Dragon Knights (TDK)\nType : BO2\nTournamen
  t : NA CS 2016 Spring Split\nWeek : 1\nWinner : Team Dragon Knights\nLoose
  r : Team Dragon Knights\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160525T130115Z
+DTSTAMP:20160526T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36c25add-898d-404f-b09d-272a51d3785d
@@ -45,7 +45,7 @@ SUMMARY:NME vs APX
 DESCRIPTION:Enemy (NME) vs Apex (APX)\nType : BO2\nTournament : NA CS 2016 
  Spring Split\nWeek : 2\nWinner : Apex\nLooser : Enemy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160525T130115Z
+DTSTAMP:20160526T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1e5e6652-5963-4246-bffa-4127869077f7
@@ -59,7 +59,7 @@ SUMMARY:NME vs MBR
 DESCRIPTION:Enemy (NME) vs Ember (MBR)\nType : BO2\nTournament : NA CS 2016
   Spring Split\nWeek : 3\nWinner : Ember\nLooser : Enemy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160525T130115Z
+DTSTAMP:20160526T130111Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-aff579d7-dfa1-4b31-9752-9e8196cb5f6b
@@ -73,6 +73,6 @@ SUMMARY:NME vs DT
 DESCRIPTION:Enemy (NME) vs Dream Team (DT)\nType : BO2\nTournament : NA CS 
  2016 Spring Split\nWeek : 5\nWinner : Dream Team\nLooser : Enemy\n
 CATEGORIES:NA CS 2016 Spring Split
-DTSTAMP:20160525T130115Z
+DTSTAMP:20160526T130111Z
 END:VEVENT
 END:VCALENDAR

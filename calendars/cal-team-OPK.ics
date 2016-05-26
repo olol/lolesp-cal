@@ -16,7 +16,7 @@ DESCRIPTION:Operation Kino (OPK) vs Red Canids (RED)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 4\nWinner : Red Canid
  s\nLooser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-05047ed9-bf23-4645-acb6-5fa6e76c4237
@@ -31,7 +31,7 @@ DESCRIPTION:paiN Gaming (PNG) vs Operation Kino (OPK)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 3\nWinner : Operatio
  n Kino\nLooser : paiN Gaming\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1a070c5-6127-4d08-a922-c2bff936db6f
@@ -46,7 +46,7 @@ DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : INTZ\nLoose
  r : INTZ\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-973bd313-a346-4249-9237-085f4756cb7d
@@ -60,7 +60,7 @@ SUMMARY:OPK vs VFK
 DESCRIPTION:Operation Kino (OPK) vs Keyd Stars (VFK)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a3ab800d-9b4a-4d46-b732-3176275cd27c
@@ -75,7 +75,7 @@ DESCRIPTION:Operation Kino (OPK) vs KaBuM eSports (KBM)\nType : BO2\nTourna
  ment : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 5\nWinner : KaBuM 
  eSports\nLooser : KaBuM eSports\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-48216cf4-9fac-4c13-ac0f-12e37ff2de4c
@@ -90,7 +90,7 @@ DESCRIPTION:Operation Kino (OPK) vs KaBuM eSports (KBM)\nType : BO2\nTourna
  ment : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \nWinner : K
  aBuM eSports\nLooser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5ebaea41-aa54-46b8-bc8d-039d0fcce06c
@@ -104,7 +104,7 @@ SUMMARY:OPK vs BG
 DESCRIPTION:Operation Kino (OPK) vs Big Gods eSports (BG)\nType : BO2\nTour
  nament : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6636bd6a-3448-41d3-b365-61b3cb51cfab
@@ -119,7 +119,7 @@ DESCRIPTION:CNB e-Sports Club (CNB) vs Operation Kino (OPK)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 1\nWinner : Op
  eration Kino\nLooser : CNB e-Sports Club\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e362b6f4-e84e-410e-b865-d6882b9e5f15
@@ -133,7 +133,7 @@ SUMMARY:OPK vs CNB
 DESCRIPTION:Operation Kino (OPK) vs CNB e-Sports Club (CNB)\nType : BO2\nTo
  urnament : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 2 \n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f9288380-7262-4001-b2e0-306bc618e5e7
@@ -147,7 +147,35 @@ SUMMARY:OPK vs ITZ
 DESCRIPTION:Operation Kino (OPK) vs INTZ (ITZ)\nType : BO2\nTournament : Th
  e CBLOL 2016 Split 2 Tournament\nWeek : Semana 3\n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2e54b86c-00a4-432f-94ea-7c99f0f80e27
+DTSTART:20160312T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160312T200000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
+ e/eliminatorias/Quartas%20de%20Final
+SUMMARY:OPK vs RED
+DESCRIPTION:Operation Kino (OPK) vs Red Canids (RED)\nType : BO3\nTournamen
+ t : The CBLOL 2016 Split 1 Tournament\nWeek : Quartas de Final\n
+CATEGORIES:The CBLOL 2016 Split 1 Tournament
+DTSTAMP:20160526T130118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9516f33e-e834-47ef-9158-9032a20270ce
+DTSTART:20160612T160000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160612T170000Z
+URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
+ e/fase_de_grupos/Semana%204
+SUMMARY:OPK vs RED
+DESCRIPTION:Operation Kino (OPK) vs Red Canids (RED)\nType : BO2\nTournamen
+ t : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
+CATEGORIES:The CBLOL 2016 Split 2 Tournament
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-105adbcc-c5ae-419c-b600-42275f3ecf25
@@ -162,7 +190,7 @@ DESCRIPTION:Keyd Stars (VFK) vs Operation Kino (OPK)\nType : BO2\nTournamen
  t : The CBLOL 2016 Split 1 Tournament\nWeek : Super Semana\nWinner : Keyd 
  Stars\nLooser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-631d7072-50e4-44b0-829c-5be2ae5507ee
@@ -176,7 +204,7 @@ SUMMARY:ITZ vs OPK
 DESCRIPTION:INTZ (ITZ) vs Operation Kino (OPK)\nType : BO5\nTournament : Th
  e CBLOL 2016 Split 1 Tournament\nWeek : Semifinais\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c37538e9-e1cc-482c-9111-52406c484c90
@@ -191,7 +219,7 @@ DESCRIPTION:Operation Kino (OPK) vs g3nerationX (G3X)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 1 Tournament\nWeek : Semana 2\nWinner : g3nerati
  onX\nLooser : g3nerationX\n
 CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-378f690e-c21b-4645-8d90-948b1989b728
@@ -206,34 +234,6 @@ DESCRIPTION:Operation Kino (OPK) vs paiN Gaming (PNG)\nType : BO2\nTourname
  nt : The CBLOL 2016 Split 2 Tournament\nWeek : Super Semana \nWinner : pai
  N Gaming\nLooser : Operation Kino\n
 CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160525T130122Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2e54b86c-00a4-432f-94ea-7c99f0f80e27
-DTSTART:20160312T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160312T200000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_1/schedul
- e/eliminatorias/Quartas%20de%20Final
-SUMMARY:OPK vs RED
-DESCRIPTION:Operation Kino (OPK) vs Red Canids (RED)\nType : BO3\nTournamen
- t : The CBLOL 2016 Split 1 Tournament\nWeek : Quartas de Final\n
-CATEGORIES:The CBLOL 2016 Split 1 Tournament
-DTSTAMP:20160525T130122Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9516f33e-e834-47ef-9158-9032a20270ce
-DTSTART:20160612T160000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160612T170000Z
-URL:http://www.lolesports.com/en_US/cblol-brazil/cblol_2016_split_2/schedul
- e/fase_de_grupos/Semana%204
-SUMMARY:OPK vs RED
-DESCRIPTION:Operation Kino (OPK) vs Red Canids (RED)\nType : BO2\nTournamen
- t : The CBLOL 2016 Split 2 Tournament\nWeek : Semana 4\n
-CATEGORIES:The CBLOL 2016 Split 2 Tournament
-DTSTAMP:20160525T130122Z
+DTSTAMP:20160526T130118Z
 END:VEVENT
 END:VCALENDAR

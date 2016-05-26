@@ -16,7 +16,7 @@ DESCRIPTION:H2K (H2K) vs Gambit Gaming (GMB)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : Gambi
  t Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab180458-8aeb-4fb6-97b3-b8e13c2735fd
@@ -30,7 +30,7 @@ SUMMARY:H2K vs ROC
 DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 1\nWinner : H2K\nLooser : ROCCAT\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3c5dd95f-247f-444b-a53e-414df56ad7c8
@@ -44,7 +44,7 @@ SUMMARY:ROC vs H2K
 DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 7\nWinner : ROCCAT\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-317349d3-2759-4605-9819-fb20f8f099d0
@@ -58,7 +58,7 @@ SUMMARY:UOL vs H2K
 DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO3\nTournament : G
  enerated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-af35adbc-6a6a-4769-9b59-8257f21d3bd6
@@ -72,7 +72,7 @@ SUMMARY:H2K vs G2
 DESCRIPTION:H2K (H2K) vs G2 Esports (G2)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 5\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e74d417-5dd3-465d-b38d-c2372c17bf2c
@@ -86,21 +86,7 @@ SUMMARY:ROC vs H2K
 DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2cf3ecdb-146f-40bb-8525-8df4c166fd48
-DTSTART:20160218T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160218T220000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/6
-SUMMARY:VIT vs H2K
-DESCRIPTION:Team Vitality (VIT) vs H2K (H2K)\nType : BO1\nTournament : EU 2
- 016 Spring Split\nWeek : 6\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-99dd7246-960c-40c5-9408-05812222c9c7
@@ -114,7 +100,21 @@ SUMMARY:H2K vs VIT
 DESCRIPTION:H2K (H2K) vs Team Vitality (VIT)\nType : BO1\nTournament : EU 2
  016 Spring Split\nWeek : 3\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2cf3ecdb-146f-40bb-8525-8df4c166fd48
+DTSTART:20160218T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160218T220000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/6
+SUMMARY:VIT vs H2K
+DESCRIPTION:Team Vitality (VIT) vs H2K (H2K)\nType : BO1\nTournament : EU 2
+ 016 Spring Split\nWeek : 6\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c62b06d5-8edf-4071-be7d-b5f56a2206a1
@@ -128,7 +128,7 @@ SUMMARY:G2 vs H2K
 DESCRIPTION:G2 Esports (G2) vs H2K (H2K)\nType : BO2\nTournament : EU 2016 
  Summer Split\nWeek : 7\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-323f4be5-224d-4780-ad27-e35cf08af2e9
@@ -142,7 +142,7 @@ SUMMARY:H2K vs ROC
 DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 1\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e597de3-ace2-463c-b821-1199c7dfa28e
@@ -156,7 +156,7 @@ SUMMARY:VIT vs H2K
 DESCRIPTION:Team Vitality (VIT) vs H2K (H2K)\nType : BO2\nTournament : EU 2
  016 Summer Split\nWeek : 3\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-da035ae1-8431-40d1-a16c-70201e5e9960
@@ -170,7 +170,7 @@ SUMMARY:S04 vs H2K
 DESCRIPTION:FC Schalke 04 (S04) vs H2K (H2K)\nType : BO2\nTournament : EU 2
  016 Summer Split\nWeek : 6\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6c999da8-bc75-43ab-a3ae-408d2fcebc82
@@ -185,7 +185,7 @@ DESCRIPTION:H2K (H2K) vs Copenhagen Wolves (CW)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 8\nWinner : Copenhagen Wolve
  s\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22a7b5aa-cd47-45c8-819b-87177b657256
@@ -200,7 +200,7 @@ DESCRIPTION:H2K (H2K) vs Unicorns of Love (UOL)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 6\nWinner : H2K\nLooser : Un
  icorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1aac8f0f-a16c-4ddf-85ad-b0171b638ef9
@@ -214,7 +214,7 @@ SUMMARY:H2K vs OG
 DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : Migrated tou
  rnament for eu_2015_summer\nWeek : 9\nWinner : Origen\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a06b1974-1553-4c61-92f8-04f0d5fb3735
@@ -228,7 +228,7 @@ SUMMARY:H2K vs FNC
 DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 7\nWinner : Fnatic\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6723971e-ae69-483f-93b8-c7d2e3698829
@@ -243,7 +243,7 @@ DESCRIPTION:Gambit Gaming (GMB) vs H2K (H2K)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 9\nWinner : H2K\nLooser : Gambi
  t Gaming\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-036c4692-06c2-4b6b-b6c7-faa2b22b1fbf
@@ -257,7 +257,7 @@ SUMMARY:S04 vs H2K
 DESCRIPTION:FC Schalke 04 (S04) vs H2K (H2K)\nType : BO1\nTournament : EU 2
  016 Spring Split\nWeek : 4\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d920039-b1bc-4c07-9c73-8992a3a9a04f
@@ -271,7 +271,7 @@ SUMMARY:SPY vs H2K
 DESCRIPTION:Splyce (SPY) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac838c76-04a2-4350-adef-df304cd702c6
@@ -285,7 +285,7 @@ SUMMARY:GIA vs H2K
 DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5836bd8e-b41e-4bbe-aa29-4ba869effd5a
@@ -299,7 +299,7 @@ SUMMARY:FNC vs H2K
 DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6e21fe43-8797-4739-8511-e23c44c83761
@@ -313,7 +313,7 @@ SUMMARY:OG vs H2K
 DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 Spri
  ng Split\nWeek : 6\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d79583ae-22a1-4485-ace0-08236a0f323a
@@ -327,7 +327,7 @@ SUMMARY:H2K vs G2
 DESCRIPTION:H2K (H2K) vs G2 Esports (G2)\nType : BO2\nTournament : EU 2016 
  Summer Split\nWeek : 3\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bc95c4dc-9b92-4090-846a-b81026d7d3e2
@@ -341,7 +341,7 @@ SUMMARY:FNC vs H2K
 DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 7\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2fd1e4b8-a0a4-431e-aecb-9f7ec2731e85
@@ -355,7 +355,7 @@ SUMMARY:OG vs H2K
 DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO1\nTournament : Migrated tou
  rnament for eu_2015_summer\nWeek : 1\nWinner : Origen\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e264f2c7-2374-4da3-866e-97f7bbdc7225
@@ -370,7 +370,7 @@ DESCRIPTION:FC Schalke 04 (S04) vs H2K (H2K)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 6\nWinner : H2K\nLooser : FC Sc
  halke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5e233ca1-1904-4b8f-a24e-f0a3f51a68fe
@@ -384,21 +384,7 @@ SUMMARY:H2K vs OG
 DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO1\nTournament : EU 2016 Spri
  ng Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-45b62b47-4811-479e-9230-6c56392d9678
-DTSTART:20160318T170000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160318T180000Z
-URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
- season/9
-SUMMARY:H2K vs S04
-DESCRIPTION:H2K (H2K) vs FC Schalke 04 (S04)\nType : BO1\nTournament : EU 2
- 016 Spring Split\nWeek : 9\n
-CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d7650be3-a80e-470b-952c-041f0acd83a0
@@ -412,7 +398,21 @@ SUMMARY:H2K vs SPY
 DESCRIPTION:H2K (H2K) vs Splyce (SPY)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 4\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-45b62b47-4811-479e-9230-6c56392d9678
+DTSTART:20160318T170000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160318T180000Z
+URL:http://www.lolesports.com/en_US/eu-lcs/eu_2016_spring/schedule/regular_
+ season/9
+SUMMARY:H2K vs S04
+DESCRIPTION:H2K (H2K) vs FC Schalke 04 (S04)\nType : BO1\nTournament : EU 2
+ 016 Spring Split\nWeek : 9\n
+CATEGORIES:EU 2016 Spring Split
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2bb8cf15-b79e-43de-ad3d-cc59d68414b6
@@ -426,7 +426,7 @@ SUMMARY:ROC vs H2K
 DESCRIPTION:ROCCAT (ROC) vs H2K (H2K)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 5\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-46f94c6c-3fec-4ca2-a4f0-bf20168debb1
@@ -440,7 +440,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2f06377f-e80e-441c-9594-c16b9954746c
@@ -455,7 +455,7 @@ DESCRIPTION:Copenhagen Wolves (CW) vs H2K (H2K)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 4\nWinner : H2K\nLooser : Co
  penhagen Wolves\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-224b8697-a115-4d7d-9ca2-e7b93b669236
@@ -470,7 +470,7 @@ DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : M
  igrated tournament for eu_2015_summer\nWeek : 3\nWinner : H2K\nLooser : Un
  icorns of Love\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-850443d1-2ff6-4d89-b391-e3bf063bdd51
@@ -485,7 +485,7 @@ DESCRIPTION:H2K (H2K) vs FC Schalke 04 (S04)\nType : BO1\nTournament : Migr
  ated tournament for eu_2015_summer\nWeek : 2\nWinner : H2K\nLooser : FC Sc
  halke 04\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5eddc0a6-7efe-4bb2-905c-856d1bf6107a
@@ -500,7 +500,7 @@ DESCRIPTION:H2K (H2K) vs SK Gaming (SKG)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 5\nWinner : SK Gaming\nLooser : H2K
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dc2d2cb0-643d-4d46-819b-81e831aff46e
@@ -514,7 +514,7 @@ SUMMARY:GIA vs H2K
 DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 8\nWinner : H2K\nLooser : Giants\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-20f9394a-e275-4691-b2da-6d249b830e60
@@ -528,7 +528,7 @@ SUMMARY:H2K vs ROC
 DESCRIPTION:H2K (H2K) vs ROCCAT (ROC)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 8\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e934dab3-d36b-42e2-b622-abe06b7b6720
@@ -542,7 +542,7 @@ SUMMARY:H2K vs FNC
 DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO5\nTournament : EU 2016 Spr
  ing Split\nWeek : Finals\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f5b8570e-6164-4ed8-bce1-040af24493ec
@@ -556,7 +556,7 @@ SUMMARY:H2K vs UOL
 DESCRIPTION:H2K (H2K) vs Unicorns of Love (UOL)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 9\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9932f492-f070-428c-a1f9-aa8d4cbc7fb2
@@ -570,7 +570,7 @@ SUMMARY:H2K vs OG
 DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO5\nTournament : EU 2016 Spri
  ng Split\nWeek : Semifinals\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7cdd8a6c-efe0-4272-b997-6a7e8d59a221
@@ -584,7 +584,7 @@ SUMMARY:GIA vs H2K
 DESCRIPTION:Giants (GIA) vs H2K (H2K)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 6\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-99508ed0-c279-4ca8-8b0b-b20e90ab4d92
@@ -598,7 +598,7 @@ SUMMARY:H2K vs S04
 DESCRIPTION:H2K (H2K) vs FC Schalke 04 (S04)\nType : BO2\nTournament : EU 2
  016 Summer Split\nWeek : 1\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-39992031-50bd-460e-8442-822326c8220e
@@ -612,7 +612,7 @@ SUMMARY:SPY vs H2K
 DESCRIPTION:Splyce (SPY) vs H2K (H2K)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 4\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fdd80e07-e221-4240-a582-cbc9056075ed
@@ -626,7 +626,7 @@ SUMMARY:H2K vs UOL
 DESCRIPTION:H2K (H2K) vs Unicorns of Love (UOL)\nType : BO2\nTournament : E
  U 2016 Summer Split\nWeek : 4\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-235fd1bb-564e-4f02-b8f9-8229e00f83a7
@@ -640,7 +640,7 @@ SUMMARY:H2K vs SPY
 DESCRIPTION:H2K (H2K) vs Splyce (SPY)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 8\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-35d4128c-add3-45c6-9bc6-6eafa99c9e80
@@ -654,7 +654,7 @@ SUMMARY:OG vs H2K
 DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO2\nTournament : EU 2016 Summ
  er Split\nWeek : 9\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d24bff4e-d81e-45a3-8f11-a6d04f2d6ee3
@@ -668,7 +668,7 @@ SUMMARY:FNC vs H2K
 DESCRIPTION:Fnatic (FNC) vs H2K (H2K)\nType : BO1\nTournament : Migrated to
  urnament for eu_2015_summer\nWeek : 5\nWinner : Fnatic\nLooser : H2K\n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cb737ec3-9044-43a7-9cb2-d3fdcbd73f39
@@ -683,7 +683,7 @@ DESCRIPTION:SK Gaming (SKG) vs H2K (H2K)\nType : BO1\nTournament : Migrated
   tournament for eu_2015_summer\nWeek : 3\nWinner : H2K\nLooser : SK Gaming
  \n
 CATEGORIES:Migrated tournament for eu_2015_summer
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-88fef2cf-9289-427d-852f-6034ac2ba8d3
@@ -697,7 +697,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO3\nTournament : Generated t
  ournament for the 2015 summer playoffs\nWeek : quarterfinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-699aaccc-8977-462e-a11c-5f0aeb2d234b
@@ -711,7 +711,7 @@ SUMMARY:OG vs H2K
 DESCRIPTION:Origen (OG) vs H2K (H2K)\nType : BO4\nTournament : Generated to
  urnament for the 2015 summer playoffs\nWeek : semifinals\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-712e165c-2540-42b0-96e9-7b8b45a7b2d6
@@ -725,7 +725,7 @@ SUMMARY:UOL vs H2K
 DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO1\nTournament : E
  U 2016 Spring Split\nWeek : 5\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d13671bc-a0dd-4520-a617-43f7f67a002d
@@ -739,7 +739,7 @@ SUMMARY:H2K vs FNC
 DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 7\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-786f3e3f-0abe-4c52-8f3a-c3b854bfcde8
@@ -753,7 +753,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO1\nTournament : EU 2016 Spr
  ing Split\nWeek : 1\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f96bb4e0-180e-4921-a6e8-2bb9cd84c22b
@@ -767,7 +767,7 @@ SUMMARY:G2 vs H2K
 DESCRIPTION:G2 Esports (G2) vs H2K (H2K)\nType : BO1\nTournament : EU 2016 
  Spring Split\nWeek : 2\n
 CATEGORIES:EU 2016 Spring Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-31595e26-e681-4f88-8052-619605d826ee
@@ -781,7 +781,7 @@ SUMMARY:H2K vs GIA
 DESCRIPTION:H2K (H2K) vs Giants (GIA)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 2\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a117fd34-5a89-499b-ad5f-e7873a705c32
@@ -795,7 +795,7 @@ SUMMARY:H2K vs FNC
 DESCRIPTION:H2K (H2K) vs Fnatic (FNC)\nType : BO2\nTournament : EU 2016 Sum
  mer Split\nWeek : 2\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ebc436e-69f4-4b4b-843e-8c21f0868f96
@@ -809,7 +809,7 @@ SUMMARY:H2K vs OG
 DESCRIPTION:H2K (H2K) vs Origen (OG)\nType : BO2\nTournament : EU 2016 Summ
  er Split\nWeek : 5\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-44cdcfe7-045c-451c-b79d-d99fd2ac979c
@@ -823,7 +823,7 @@ SUMMARY:H2K vs VIT
 DESCRIPTION:H2K (H2K) vs Team Vitality (VIT)\nType : BO2\nTournament : EU 2
  016 Summer Split\nWeek : 8\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-198b1328-d6b6-4668-9b2f-bf1e570e491c
@@ -837,7 +837,7 @@ SUMMARY:UOL vs H2K
 DESCRIPTION:Unicorns of Love (UOL) vs H2K (H2K)\nType : BO2\nTournament : E
  U 2016 Summer Split\nWeek : 9\n
 CATEGORIES:EU 2016 Summer Split
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e5e1a4a-aacb-4439-b0b9-175e32669cdc
@@ -852,7 +852,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs H2K (H2K)\nType : BO1\nTournament : The
   2015 World Championship\nWeek : paris-day-6\nWinner : H2K\nLooser : Bangk
  ok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-75f816cc-dcdf-4b0f-a1da-cadaec3cacf7
@@ -867,7 +867,7 @@ DESCRIPTION:Edward Gaming (EDG) vs H2K (H2K)\nType : BO1\nTournament : The
  2015 World Championship\nWeek : paris-day-6\nWinner : Edward Gaming\nLoose
  r : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-78471ed4-b756-46fc-a18e-694676be4f2e
@@ -882,7 +882,7 @@ DESCRIPTION:H2K (H2K) vs Bangkok Titans (BKT)\nType : BO1\nTournament : The
   2015 World Championship\nWeek : paris-day-3\nWinner : H2K\nLooser : Bangk
  ok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2371ff8b-4179-4d8c-82da-ed806d11db7c
@@ -897,7 +897,7 @@ DESCRIPTION:H2K (H2K) vs Edward Gaming (EDG)\nType : BO1\nTournament : The
  2015 World Championship\nWeek : paris-day-2\nWinner : Edward Gaming\nLoose
  r : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-245fc1f2-dab9-40fd-afa2-f24b6173e26a
@@ -912,7 +912,7 @@ DESCRIPTION:H2K (H2K) vs SKTelecom T1 (SKT)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom T1\nLooser 
  : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c79c3fc6-b2db-4789-a588-65f226c549b2
@@ -927,6 +927,6 @@ DESCRIPTION:SKTelecom T1 (SKT) vs H2K (H2K)\nType : BO1\nTournament : The 2
  015 World Championship\nWeek : paris-day-1\nWinner : SKTelecom T1\nLooser 
  : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160525T130114Z
+DTSTAMP:20160526T130110Z
 END:VEVENT
 END:VCALENDAR

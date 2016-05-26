@@ -4,363 +4,6 @@ PRODID:www.lolesports.com|cal-team-SS
 X-WR-CALNAME:LoL eSports SS
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-0f458ecb-6770-4b40-946c-b4b5e4ab9263
-DTSTART:20150529T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150529T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/2
-SUMMARY:EDG vs SS
-DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO2\nTourname
- nt : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Edward Ga
- ming\nLooser : Snake Esports\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2c4f8b15-c97f-4a92-b48a-9c33e5c1d46a
-DTSTART:20150605T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:OMG vs SS
-DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO2\nTournament : Migra
- ted tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Esports\nLoos
- er : Snake Esports\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-98f4501c-9108-48ba-8414-18fab948cae3
-DTSTART:20150606T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150606T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:LGD vs SS
-DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO2\nTournament 
- : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Esport
- s\nLooser : LGD Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0fa5a663-9622-4843-a69d-d1d25df0970e
-DTSTART:20150801T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150801T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/10
-SUMMARY:UP vs SS
-DESCRIPTION:Unlimited Potential (UP) vs Snake Esports (SS)\nType : BO2\nTou
- rnament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Sna
- ke Esports\nLooser : Unlimited Potential\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6750ad53-4199-463f-9a13-a4111cd8b494
-DTSTART:20150703T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150703T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/7
-SUMMARY:SS vs WE
-DESCRIPTION:Snake Esports (SS) vs Team World Elite (WE)\nType : BO2\nTourna
- ment : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Team Wo
- rld Elite\nLooser : Team World Elite\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4f3d8244-b2ec-4948-96f9-3dd3212bcede
-DTSTART:20150705T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150705T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/7
-SUMMARY:SS vs EDG
-DESCRIPTION:Snake Esports (SS) vs Edward Gaming (EDG)\nType : BO2\nTourname
- nt : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Edward Ga
- ming\nLooser : Snake Esports\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ecb6ac78-1b14-4d5a-bb7f-ba8770b2e554
-DTSTART:20160402T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160402T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/9
-SUMMARY:GT vs SS
-DESCRIPTION:Game Talents (GT) vs Snake Esports (SS)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0d00ca0f-beeb-4437-a65e-dbb4918152f8
-DTSTART:20160320T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:VG vs SS
-DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a02b0e41-80e3-4991-93e9-465a391d3e7f
-DTSTART:20160410T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160410T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:SS vs LGD
-DESCRIPTION:Snake Esports (SS) vs LGD Gaming (LGD)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3aacff64-0df2-4a68-a59b-7fd0a125ca2e
-DTSTART:20160331T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160331T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/9
-SUMMARY:M3 vs SS
-DESCRIPTION:Master3 (M3) vs Snake Esports (SS)\nType : BO3\nTournament : LP
- L 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-fb83bd8b-b28e-415d-98cf-2da91081f9db
-DTSTART:20160619T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160619T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/4
-SUMMARY:SS vs WE
-DESCRIPTION:Snake Esports (SS) vs Team World Elite (WE)\nType : BO3\nTourna
- ment : LPL 2016 Summer Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ef00fbd4-9b22-4943-b173-d562458bf709
-DTSTART:20160730T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160730T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/9
-SUMMARY:SS vs NB
-DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
-  2016 Summer Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-5f8e2ef1-350d-45bd-a8e4-5f69a87c93f5
-DTSTART:20160605T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160605T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/2
-SUMMARY:SS vs NB
-DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
-  2016 Summer Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-93da5597-efd4-4d18-9c93-8972694d58b3
-DTSTART:20150614T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150614T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/4
-SUMMARY:VG vs SS
-DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO2\nTournament 
- : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Vici Gaming\
- nLooser : Snake Esports\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a8ff7f20-7872-4bdf-9c83-ae85e19301af
-DTSTART:20160220T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:IG vs SS
-DESCRIPTION:Invictus Gaming (IG) vs Snake Esports (SS)\nType : BO3\nTournam
- ent : LPL 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c89d73cf-4615-4e00-a62a-63964060c2a5
-DTSTART:20160131T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:NB vs SS
-DESCRIPTION:NewBee (NB) vs Snake Esports (SS)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-20c0b41f-bddb-4608-957f-49c0b1b03ad0
-DTSTART:20160327T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/8
-SUMMARY:SS vs NB
-DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-2c71d587-ed79-41e7-b86c-353685c1da1e
-DTSTART:20160317T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160317T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:SS vs RNG
-DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO3\nTo
- urnament : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-da3f7834-51df-4cc2-9995-c957aa87d56d
-DTSTART:20160117T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:LGD vs SS
-DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-dc7e9aea-24de-4b4a-9122-300df582f631
-DTSTART:20160807T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160807T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/10
-SUMMARY:SS vs EDG
-DESCRIPTION:Snake Esports (SS) vs Edward Gaming (EDG)\nType : BO3\nTourname
- nt : LPL 2016 Summer Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-77cbcbc3-2535-49a2-bde4-88ab41f1b8d7
-DTSTART:20160609T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160609T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/3
-SUMMARY:SS vs SAT
-DESCRIPTION:Snake Esports (SS) vs Saint Gaming (SAT)\nType : BO3\nTournamen
- t : LPL 2016 Summer Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cfe739f5-fb88-4972-97ce-7ee706069651
-DTSTART:20160617T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160617T130000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/4
-SUMMARY:LGD vs SS
-DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
- : LPL 2016 Summer Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-66776151-e399-4927-8e6a-347b62018115
-DTSTART:20160709T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160709T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/6
-SUMMARY:SS vs RNG
-DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO3\nTo
- urnament : LPL 2016 Summer Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1935f249-3af5-48e7-b532-64286f5fcb22
-DTSTART:20160715T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160715T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/7
-SUMMARY:SS vs IM
-DESCRIPTION:Snake Esports (SS) vs I MAY (IM)\nType : BO3\nTournament : LPL 
- 2016 Summer Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-da4a728f-6be1-4fd6-be88-77f59a05381b
-DTSTART:20160526T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160526T130000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/1
-SUMMARY:SS vs GT
-DESCRIPTION:Snake Esports (SS) vs Game Talents (GT)\nType : BO3\nTournament
-  : LPL 2016 Summer Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-6129758c-2590-4908-a107-1cb5d6340f8a
 DTSTART:20150522T070000Z
 SEQUENCE:0
@@ -373,7 +16,7 @@ DESCRIPTION:Snake Esports (SS) vs Unlimited Potential (UP)\nType : BO2\nTou
  rnament : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Unli
  mited Potential\nLooser : Unlimited Potential\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b3487d4d-e073-4677-9a38-8d4a26c9af4a
@@ -388,7 +31,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Snake Esports (SS)\nType : BO2\nTo
  urnament : Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Sna
  ke Esports\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f42bd301-7f77-4bb3-a899-82abe250b578
@@ -403,7 +46,7 @@ DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 4\nWinner : NewBee\nLooser : 
  NewBee\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcbdc1e4-7130-4053-97c7-3c7403f894b6
@@ -418,7 +61,7 @@ DESCRIPTION:Snake Esports (SS) vs OMG (OMG)\nType : BO2\nTournament : Migra
  ted tournament for lpl_2015_summer\nWeek : 8\nWinner : Snake Esports\nLoos
  er : OMG\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e5154153-2156-4b36-a0d3-1ba97923628f
@@ -432,7 +75,7 @@ SUMMARY:SS vs GT
 DESCRIPTION:Snake Esports (SS) vs Game Talents (GT)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fef1333f-ffe3-4df4-95b8-da11a4efe859
@@ -446,7 +89,7 @@ SUMMARY:SS vs M3
 DESCRIPTION:Snake Esports (SS) vs Master3 (M3)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13c4c0cf-212c-4714-bb1b-1473a574e17f
@@ -460,7 +103,7 @@ SUMMARY:EDG vs SS
 DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b462f4af-6469-4af1-b367-b2f7718ba3ca
@@ -474,7 +117,7 @@ SUMMARY:IG vs SS
 DESCRIPTION:Invictus Gaming (IG) vs Snake Esports (SS)\nType : BO3\nTournam
  ent : LPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c34d57b9-2a95-4a39-9078-a55ea16cd847
@@ -488,7 +131,7 @@ SUMMARY:SS vs OMG
 DESCRIPTION:Snake Esports (SS) vs OMG (OMG)\nType : BO3\nTournament : LPL 2
  016 Summer Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-073f0a85-4248-46cb-a07f-5d720eec5e30
@@ -502,7 +145,176 @@ SUMMARY:SS vs SAT
 DESCRIPTION:Snake Esports (SS) vs Saint Gaming (SAT)\nType : BO3\nTournamen
  t : LPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-93da5597-efd4-4d18-9c93-8972694d58b3
+DTSTART:20150614T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150614T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:VG vs SS
+DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO2\nTournament 
+ : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Vici Gaming\
+ nLooser : Snake Esports\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a8ff7f20-7872-4bdf-9c83-ae85e19301af
+DTSTART:20160220T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:IG vs SS
+DESCRIPTION:Invictus Gaming (IG) vs Snake Esports (SS)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c89d73cf-4615-4e00-a62a-63964060c2a5
+DTSTART:20160131T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:NB vs SS
+DESCRIPTION:NewBee (NB) vs Snake Esports (SS)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-20c0b41f-bddb-4608-957f-49c0b1b03ad0
+DTSTART:20160327T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160327T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/8
+SUMMARY:SS vs NB
+DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2c71d587-ed79-41e7-b86c-353685c1da1e
+DTSTART:20160317T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160317T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:SS vs RNG
+DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO3\nTo
+ urnament : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-da3f7834-51df-4cc2-9995-c957aa87d56d
+DTSTART:20160117T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:LGD vs SS
+DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-dc7e9aea-24de-4b4a-9122-300df582f631
+DTSTART:20160807T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160807T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/10
+SUMMARY:SS vs EDG
+DESCRIPTION:Snake Esports (SS) vs Edward Gaming (EDG)\nType : BO3\nTourname
+ nt : LPL 2016 Summer Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-77cbcbc3-2535-49a2-bde4-88ab41f1b8d7
+DTSTART:20160609T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160609T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/3
+SUMMARY:SS vs SAT
+DESCRIPTION:Snake Esports (SS) vs Saint Gaming (SAT)\nType : BO3\nTournamen
+ t : LPL 2016 Summer Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cfe739f5-fb88-4972-97ce-7ee706069651
+DTSTART:20160617T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160617T130000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/4
+SUMMARY:LGD vs SS
+DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO3\nTournament 
+ : LPL 2016 Summer Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-66776151-e399-4927-8e6a-347b62018115
+DTSTART:20160709T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160709T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/6
+SUMMARY:SS vs RNG
+DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO3\nTo
+ urnament : LPL 2016 Summer Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1935f249-3af5-48e7-b532-64286f5fcb22
+DTSTART:20160715T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160715T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/7
+SUMMARY:SS vs IM
+DESCRIPTION:Snake Esports (SS) vs I MAY (IM)\nType : BO3\nTournament : LPL 
+ 2016 Summer Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-da4a728f-6be1-4fd6-be88-77f59a05381b
+DTSTART:20160526T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160526T130000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/1
+SUMMARY:SS vs GT
+DESCRIPTION:Snake Esports (SS) vs Game Talents (GT)\nType : BO3\nTournament
+  : LPL 2016 Summer Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-04657ee7-1adc-48af-a934-5716e68fd341
@@ -517,7 +329,7 @@ DESCRIPTION:Snake Esports (SS) vs King (KNG)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 7\nWinner : King\nLooser : Kin
  g\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1a36b123-aeb9-4a15-9097-2678bcf81a03
@@ -532,7 +344,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Snake Esports (SS)\nType : BO2\nTournam
  ent : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Es
  ports\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-be0fa613-b266-414b-aac1-ce4e9caa08d8
@@ -547,7 +359,7 @@ DESCRIPTION:Snake Esports (SS) vs LGD Gaming (LGD)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : LGD Gaming\n
  Looser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4ee04a3e-33bd-414c-b67f-f8d324b91e2f
@@ -561,7 +373,7 @@ SUMMARY:SS vs IG
 DESCRIPTION:Snake Esports (SS) vs Invictus Gaming (IG)\nType : BO2\nTournam
  ent : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e8de5732-240f-45da-a6f4-a77263647a27
@@ -575,7 +387,7 @@ SUMMARY:WE vs SS
 DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0aa3dfc6-8a3b-40e3-a643-e6411c6555d3
@@ -589,7 +401,7 @@ SUMMARY:OMG vs SS
 DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO3\nTournament : LPL 2
  016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f709b9c3-f099-4e69-b080-e771eec81194
@@ -603,7 +415,7 @@ SUMMARY:WE vs SS
 DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-509bd152-f2c3-4689-9910-523133852937
@@ -617,7 +429,7 @@ SUMMARY:EDG vs SS
 DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO5\nTourname
  nt : LPL 2016 Spring Split\nWeek : Round 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-189242d4-eeff-4f90-8822-64a90a86a889
@@ -631,7 +443,7 @@ SUMMARY:EDG vs SS
 DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO3\nTourname
  nt : LPL 2016 Summer Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2e9bf81b-418b-4ee0-bf14-c83132ffe86c
@@ -645,7 +457,7 @@ SUMMARY:SS vs IG
 DESCRIPTION:Snake Esports (SS) vs Invictus Gaming (IG)\nType : BO3\nTournam
  ent : LPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a55a8f17-be92-4672-87eb-2e05b00bcb01
@@ -660,7 +472,7 @@ DESCRIPTION:King (KNG) vs Snake Esports (SS)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 2\nWinner : Snake Esports\nLoo
  ser : King\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-de64fed0-c518-49d0-9042-a7a32eb6d271
@@ -675,7 +487,7 @@ DESCRIPTION:Team World Elite (WE) vs Snake Esports (SS)\nType : BO2\nTourna
  ment : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Snake E
  sports\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7217da4a-f693-47b6-a42b-343f39cd29fa
@@ -690,7 +502,7 @@ DESCRIPTION:Master3 (M3) vs Snake Esports (SS)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 6\nWinner : Snake Esports\nL
  ooser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-92d97cb3-fb57-4f45-9692-e8d3b574f09b
@@ -705,7 +517,7 @@ DESCRIPTION:Snake Esports (SS) vs Royal Never Give Up (RNG)\nType : BO2\nTo
  urnament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Ro
  yal Never Give Up\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8bd37182-4ce1-4dbe-a3cc-192cab9710ee
@@ -720,7 +532,7 @@ DESCRIPTION:Snake Esports (SS) vs Master3 (M3)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 10\nWinner : Snake Esports\n
  Looser : Master3\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57a7e632-f6bf-434a-b54d-e71951a8a785
@@ -735,7 +547,7 @@ DESCRIPTION:Snake Esports (SS) vs Vici Gaming (VG)\nType : BO2\nTournament
  : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Vici Gaming\
  nLooser : Vici Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-69ab4840-8a2e-42be-9898-59af18423e50
@@ -750,7 +562,7 @@ DESCRIPTION:NewBee (NB) vs Snake Esports (SS)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 9\nWinner : Snake Esports\nLo
  oser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ad07706e-8f4e-49d7-aec8-96f986b09c72
@@ -764,7 +576,7 @@ SUMMARY:SS vs IG
 DESCRIPTION:Snake Esports (SS) vs Invictus Gaming (IG)\nType : BO5\nTournam
  ent : LPL 2016 Spring Split\nWeek : Round 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13c1b84e-759f-4751-880f-8c4f5eda815d
@@ -778,7 +590,7 @@ SUMMARY:SAT vs SS
 DESCRIPTION:Saint Gaming (SAT) vs Snake Esports (SS)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-19b1aadc-612d-4ecc-b872-9c29c5f47b9c
@@ -792,7 +604,7 @@ SUMMARY:GT vs SS
 DESCRIPTION:Game Talents (GT) vs Snake Esports (SS)\nType : BO3\nTournament
   : LPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5e1ec011-83fb-4a9f-a43b-a2d59c0b4625
@@ -806,6 +618,194 @@ SUMMARY:SS vs VG
 DESCRIPTION:Snake Esports (SS) vs Vici Gaming (VG)\nType : BO3\nTournament 
  : LPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160525T130117Z
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0f458ecb-6770-4b40-946c-b4b5e4ab9263
+DTSTART:20150529T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150529T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/2
+SUMMARY:EDG vs SS
+DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO2\nTourname
+ nt : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Edward Ga
+ ming\nLooser : Snake Esports\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-2c4f8b15-c97f-4a92-b48a-9c33e5c1d46a
+DTSTART:20150605T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:OMG vs SS
+DESCRIPTION:OMG (OMG) vs Snake Esports (SS)\nType : BO2\nTournament : Migra
+ ted tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Esports\nLoos
+ er : Snake Esports\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-98f4501c-9108-48ba-8414-18fab948cae3
+DTSTART:20150606T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150606T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:LGD vs SS
+DESCRIPTION:LGD Gaming (LGD) vs Snake Esports (SS)\nType : BO2\nTournament 
+ : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Snake Esport
+ s\nLooser : LGD Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0fa5a663-9622-4843-a69d-d1d25df0970e
+DTSTART:20150801T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150801T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/10
+SUMMARY:UP vs SS
+DESCRIPTION:Unlimited Potential (UP) vs Snake Esports (SS)\nType : BO2\nTou
+ rnament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Sna
+ ke Esports\nLooser : Unlimited Potential\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6750ad53-4199-463f-9a13-a4111cd8b494
+DTSTART:20150703T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150703T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:SS vs WE
+DESCRIPTION:Snake Esports (SS) vs Team World Elite (WE)\nType : BO2\nTourna
+ ment : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Team Wo
+ rld Elite\nLooser : Team World Elite\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4f3d8244-b2ec-4948-96f9-3dd3212bcede
+DTSTART:20150705T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150705T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/7
+SUMMARY:SS vs EDG
+DESCRIPTION:Snake Esports (SS) vs Edward Gaming (EDG)\nType : BO2\nTourname
+ nt : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Edward Ga
+ ming\nLooser : Snake Esports\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ecb6ac78-1b14-4d5a-bb7f-ba8770b2e554
+DTSTART:20160402T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160402T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/9
+SUMMARY:GT vs SS
+DESCRIPTION:Game Talents (GT) vs Snake Esports (SS)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0d00ca0f-beeb-4437-a65e-dbb4918152f8
+DTSTART:20160320T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:VG vs SS
+DESCRIPTION:Vici Gaming (VG) vs Snake Esports (SS)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a02b0e41-80e3-4991-93e9-465a391d3e7f
+DTSTART:20160410T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160410T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:SS vs LGD
+DESCRIPTION:Snake Esports (SS) vs LGD Gaming (LGD)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3aacff64-0df2-4a68-a59b-7fd0a125ca2e
+DTSTART:20160331T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160331T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/9
+SUMMARY:M3 vs SS
+DESCRIPTION:Master3 (M3) vs Snake Esports (SS)\nType : BO3\nTournament : LP
+ L 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-5f8e2ef1-350d-45bd-a8e4-5f69a87c93f5
+DTSTART:20160605T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160605T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/2
+SUMMARY:SS vs NB
+DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
+  2016 Summer Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fb83bd8b-b28e-415d-98cf-2da91081f9db
+DTSTART:20160619T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160619T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/4
+SUMMARY:SS vs WE
+DESCRIPTION:Snake Esports (SS) vs Team World Elite (WE)\nType : BO3\nTourna
+ ment : LPL 2016 Summer Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ef00fbd4-9b22-4943-b173-d562458bf709
+DTSTART:20160730T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160730T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/9
+SUMMARY:SS vs NB
+DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
+  2016 Summer Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160526T130113Z
 END:VEVENT
 END:VCALENDAR
