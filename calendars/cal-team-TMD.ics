@@ -15,7 +15,7 @@ SUMMARY:TM vs CHF
 DESCRIPTION:Tainted Minds (TM) vs Chiefs eSports Club (CHF)\nType : BO3\nTo
  urnament : OPL 2016 Summer Split\nWeek : 2\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f464068-8c36-4eb1-8353-a2fa22d566ee
@@ -29,7 +29,7 @@ SUMMARY:TM vs AV
 DESCRIPTION:Tainted Minds (TM) vs Avant Garde (AV)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 9\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4d36688e-fbc0-4e0e-87ab-3984f34a0c51
@@ -44,7 +44,7 @@ DESCRIPTION:Tainted Minds (TM) vs Avant Garde (AV)\nType : BO3\nTournament
  : OPL 2016 Summer Split\nWeek : 1\nWinner : Tainted Minds\nLooser : Avant 
  Garde\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-737e6a09-e26e-4fe1-a84d-fd35414814c8
@@ -58,7 +58,7 @@ SUMMARY:TM vs SIN
 DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-00d97eef-ee91-4d5f-b4bb-1d87952a2d6f
@@ -72,7 +72,7 @@ SUMMARY:TM vs HLN
 DESCRIPTION:Tainted Minds (TM) vs Hellions e-Sports Club (HLN)\nType : BO3\
  nTournament : OPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-99abc0a7-7629-4ae1-9485-e20b738f183e
@@ -86,35 +86,7 @@ SUMMARY:TM vs CHF
 DESCRIPTION:Tainted Minds (TM) vs Chiefs eSports Club (CHF)\nType : BO3\nTo
  urnament : OPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9b5a6970-3476-45ad-ab1d-c52878ed8820
-DTSTART:20160704T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160704T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/7
-SUMMARY:TM vs AE
-DESCRIPTION:Tainted Minds (TM) vs Abyss Esports (AE)\nType : BO3\nTournamen
- t : OPL 2016 Summer Split\nWeek : 7\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a0096fe0-3b04-41a7-9f47-ba56b694af9e
-DTSTART:20160726T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160726T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/10
-SUMMARY:TM vs SIN
-DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 10\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5400d4a-ec7a-406d-bfb7-98544324d9af
@@ -128,7 +100,7 @@ SUMMARY:TM vs LGC
 DESCRIPTION:Tainted Minds (TM) vs Legacy eSports (LGC)\nType : BO3\nTournam
  ent : OPL 2016 Summer Split\nWeek : 5\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-01185929-aed0-4b6a-8241-f3e9a418acd9
@@ -142,6 +114,34 @@ SUMMARY:TM vs DW
 DESCRIPTION:Tainted Minds (TM) vs Dire Wolves (DW)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 6\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160526T130117Z
+DTSTAMP:20160527T130133Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9b5a6970-3476-45ad-ab1d-c52878ed8820
+DTSTART:20160704T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160704T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/7
+SUMMARY:TM vs AE
+DESCRIPTION:Tainted Minds (TM) vs Abyss Esports (AE)\nType : BO3\nTournamen
+ t : OPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160527T130133Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a0096fe0-3b04-41a7-9f47-ba56b694af9e
+DTSTART:20160726T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160726T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/10
+SUMMARY:TM vs SIN
+DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 10\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160527T130133Z
 END:VEVENT
 END:VCALENDAR

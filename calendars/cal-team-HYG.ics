@@ -4,104 +4,6 @@ PRODID:www.lolesports.com|cal-team-HYG
 X-WR-CALNAME:LoL eSports HYG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-8d53aa37-3f06-4b5e-a377-56ee1efd8116
-DTSTART:20160318T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160318T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:SAT vs LGD
-DESCRIPTION:Saint Gaming (SAT) vs LGD Gaming (LGD)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e296fb6f-1cea-4461-99e7-f4b9d78e55a5
-DTSTART:20160409T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160409T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/10
-SUMMARY:SAT vs VG
-DESCRIPTION:Saint Gaming (SAT) vs Vici Gaming (VG)\nType : BO3\nTournament 
- : LPL 2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b24650bf-bef0-4a1c-810e-9da732c57cfe
-DTSTART:20160124T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:SAT vs RNG
-DESCRIPTION:Saint Gaming (SAT) vs Royal Never Give Up (RNG)\nType : BO3\nTo
- urnament : LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-68640220-6829-428e-b204-00382a61dbe5
-DTSTART:20160220T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:GT vs SAT
-DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-381b6225-1552-4fcc-8228-05260d17790a
-DTSTART:20160403T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160403T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/9
-SUMMARY:SAT vs IG
-DESCRIPTION:Saint Gaming (SAT) vs Invictus Gaming (IG)\nType : BO3\nTournam
- ent : LPL 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-dc3c2d4c-376e-4383-b8c1-03eaf0c3788a
-DTSTART:20160326T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160326T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/8
-SUMMARY:SAT vs OMG
-DESCRIPTION:Saint Gaming (SAT) vs OMG (OMG)\nType : BO3\nTournament : LPL 2
- 016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-52da36d3-8e30-44a6-9201-8fbfa952b5ca
-DTSTART:20160414T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160414T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- 2016_spring_promotion_relegation/Promotion%20-%20Round%201
-SUMMARY:M3 vs SAT
-DESCRIPTION:Master3 (M3) vs Saint Gaming (SAT)\nType : BO5\nTournament : LP
- L 2016 Spring Split\nWeek : Promotion - Round 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-3c0a8ba0-2888-4db1-b051-13c739c501b8
 DTSTART:20160313T070000Z
 SEQUENCE:0
@@ -113,7 +15,7 @@ SUMMARY:SAT vs WE
 DESCRIPTION:Saint Gaming (SAT) vs Team World Elite (WE)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b64f3121-682c-443b-905e-480d2906b46b
@@ -127,7 +29,7 @@ SUMMARY:IG vs SAT
 DESCRIPTION:Invictus Gaming (IG) vs Saint Gaming (SAT)\nType : BO3\nTournam
  ent : LPL 2016 Spring Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-80b374d0-8762-4b24-bdcc-98243a619416
@@ -141,7 +43,105 @@ SUMMARY:SAT vs NB
 DESCRIPTION:Saint Gaming (SAT) vs NewBee (NB)\nType : BO3\nTournament : LPL
   2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8d53aa37-3f06-4b5e-a377-56ee1efd8116
+DTSTART:20160318T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160318T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:SAT vs LGD
+DESCRIPTION:Saint Gaming (SAT) vs LGD Gaming (LGD)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e296fb6f-1cea-4461-99e7-f4b9d78e55a5
+DTSTART:20160409T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160409T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/10
+SUMMARY:SAT vs VG
+DESCRIPTION:Saint Gaming (SAT) vs Vici Gaming (VG)\nType : BO3\nTournament 
+ : LPL 2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b24650bf-bef0-4a1c-810e-9da732c57cfe
+DTSTART:20160124T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:SAT vs RNG
+DESCRIPTION:Saint Gaming (SAT) vs Royal Never Give Up (RNG)\nType : BO3\nTo
+ urnament : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-68640220-6829-428e-b204-00382a61dbe5
+DTSTART:20160220T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:GT vs SAT
+DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-381b6225-1552-4fcc-8228-05260d17790a
+DTSTART:20160403T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160403T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/9
+SUMMARY:SAT vs IG
+DESCRIPTION:Saint Gaming (SAT) vs Invictus Gaming (IG)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-dc3c2d4c-376e-4383-b8c1-03eaf0c3788a
+DTSTART:20160326T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160326T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/8
+SUMMARY:SAT vs OMG
+DESCRIPTION:Saint Gaming (SAT) vs OMG (OMG)\nType : BO3\nTournament : LPL 2
+ 016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-52da36d3-8e30-44a6-9201-8fbfa952b5ca
+DTSTART:20160414T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160414T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ 2016_spring_promotion_relegation/Promotion%20-%20Round%201
+SUMMARY:M3 vs SAT
+DESCRIPTION:Master3 (M3) vs Saint Gaming (SAT)\nType : BO5\nTournament : LP
+ L 2016 Spring Split\nWeek : Promotion - Round 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9db72a49-b6a6-47b5-8529-e0d4db74d564
@@ -155,7 +155,7 @@ SUMMARY:SAT vs OMG
 DESCRIPTION:Saint Gaming (SAT) vs OMG (OMG)\nType : BO3\nTournament : LPL 2
  016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bf7b1691-6520-4dc3-87ba-948f6f74a2fd
@@ -169,7 +169,7 @@ SUMMARY:YM vs SAT
 DESCRIPTION:Young Miracles (YM) vs Saint Gaming (SAT)\nType : BO5\nTourname
  nt : LPL 2016 Spring Split\nWeek : Promotion - Round 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-393e37a8-1a6e-4f4e-aa31-0e3995f4f9eb
@@ -183,7 +183,7 @@ SUMMARY:SAT vs EDG
 DESCRIPTION:Saint Gaming (SAT) vs Edward Gaming (EDG)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9c4fd6f9-79c9-42e0-b52e-1e1fb4b6c63b
@@ -197,7 +197,7 @@ SUMMARY:VG vs SAT
 DESCRIPTION:Vici Gaming (VG) vs Saint Gaming (SAT)\nType : BO3\nTournament 
  : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6071c82-764a-4940-aa3c-a5555707e5d0
@@ -211,7 +211,7 @@ SUMMARY:SAT vs RNG
 DESCRIPTION:Saint Gaming (SAT) vs Royal Never Give Up (RNG)\nType : BO3\nTo
  urnament : LPL 2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-13c1b84e-759f-4751-880f-8c4f5eda815d
@@ -225,7 +225,7 @@ SUMMARY:SAT vs SS
 DESCRIPTION:Saint Gaming (SAT) vs Snake Esports (SS)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4d74a54b-d6f3-4daa-bc20-396ee7d83599
@@ -239,7 +239,7 @@ SUMMARY:EDG vs SAT
 DESCRIPTION:Edward Gaming (EDG) vs Saint Gaming (SAT)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-73aa8ea8-df1a-4745-856f-a1b2c8d496ba
@@ -253,6 +253,6 @@ SUMMARY:M3 vs SAT
 DESCRIPTION:Master3 (M3) vs Saint Gaming (SAT)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130114Z
+DTSTAMP:20160527T130129Z
 END:VEVENT
 END:VCALENDAR

@@ -4,165 +4,6 @@ PRODID:www.lolesports.com|cal-team-EDG
 X-WR-CALNAME:LoL eSports EDG
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-490e29dc-bc96-4867-8121-ff0e3a8009b8
-DTSTART:20150524T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150524T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/1
-SUMMARY:EDG vs VG
-DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
-  : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Vici Gaming
- \nLooser : Vici Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f4f4765f-d835-4c42-9d34-2b1cc4901f15
-DTSTART:20150605T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150605T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/3
-SUMMARY:EDG vs IG
-DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (IG)\nType : BO2\nTourna
- ment : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Edward 
- Gaming\nLooser : Invictus Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d7dc10ed-9483-43eb-a14b-0fd83e5ffb4d
-DTSTART:20150612T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150612T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/4
-SUMMARY:EDG vs M3
-DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : M
- igrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Edward Gaming\n
- Looser : Master3\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9b42f90a-9c58-466c-bba7-9a128bf669c2
-DTSTART:20150621T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150621T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/5
-SUMMARY:EDG vs OMG
-DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : Migr
- ated tournament for lpl_2015_summer\nWeek : 5\nWinner : OMG\nLooser : OMG\
- n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bca9178d-e646-4f9f-b52e-82dbfec8c826
-DTSTART:20150613T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150613T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
- -lpl-summer/4
-SUMMARY:EDG vs UP
-DESCRIPTION:Edward Gaming (EDG) vs Unlimited Potential (UP)\nType : BO2\nTo
- urnament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Unl
- imited Potential\nLooser : Edward Gaming\n
-CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-33f4ad87-63a2-43dd-874e-5431f7cfc3a0
-DTSTART:20160326T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160326T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_b/8
-SUMMARY:IG vs EDG
-DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
- ment : LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a99a42d2-03b7-42c8-87e8-ee4b7701176a
-DTSTART:20160130T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160130T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:EDG vs OMG
-DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7c64fa8f-e8fd-4b6b-83ee-b812f96e8453
-DTSTART:20160124T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160124T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:VG vs EDG
-DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-13c4c0cf-212c-4714-bb1b-1473a574e17f
-DTSTART:20160227T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:EDG vs SS
-DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8ab5281f-fc91-4543-a32a-bbb3560a6053
-DTSTART:20160605T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160605T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/2
-SUMMARY:EDG vs SAT
-DESCRIPTION:Edward Gaming (EDG) vs Saint Gaming (SAT)\nType : BO3\nTourname
- nt : LPL 2016 Summer Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d5390586-3f3a-4055-a82b-4e6b34d72471
-DTSTART:20160611T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160611T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/3
-SUMMARY:EDG vs GT
-DESCRIPTION:Edward Gaming (EDG) vs Game Talents (GT)\nType : BO3\nTournamen
- t : LPL 2016 Summer Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-516232d9-c2c9-402c-91d6-3a5aca54ed32
 DTSTART:20150619T050000Z
 SEQUENCE:0
@@ -175,7 +16,7 @@ DESCRIPTION:Edward Gaming (EDG) vs NewBee (NB)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 5\nWinner : NewBee\nLooser :
   NewBee\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5f83b959-aac7-4169-a6c1-1ec5089a3234
@@ -190,7 +31,7 @@ DESCRIPTION:Edward Gaming (EDG) vs LGD Gaming (LGD)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : LGD Gaming\
  nLooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-abfc6df0-18eb-44be-90c9-75e390abf4cb
@@ -205,7 +46,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 5\nWinner : Team W
  orld Elite\nLooser : Edward Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d355936-d111-4149-a00c-36a8f8a1ea17
@@ -220,7 +61,7 @@ DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 6\nWinner : Edward Gami
  ng\nLooser : Edward Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e71c6320-554a-418f-b4ee-0e79d23c70c8
@@ -235,7 +76,7 @@ DESCRIPTION:Team World Elite (WE) vs Edward Gaming (EDG)\nType : BO2\nTourn
  ament : Migrated tournament for lpl_2015_summer\nWeek : 10\nWinner : Edwar
  d Gaming\nLooser : Team World Elite\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2de32150-ec68-4fd0-be8d-be32e427d8c1
@@ -249,7 +90,7 @@ SUMMARY:M3 vs EDG
 DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO3\nTournament : L
  PL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-622bfcd5-88d1-4361-894b-7b67d2e00679
@@ -263,7 +104,7 @@ SUMMARY:GT vs EDG
 DESCRIPTION:Game Talents (GT) vs Edward Gaming (EDG)\nType : BO3\nTournamen
  t : LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8500c718-db3a-4a1e-821d-6b4d63a63242
@@ -277,7 +118,7 @@ SUMMARY:EDG vs NB
 DESCRIPTION:Edward Gaming (EDG) vs NewBee (NB)\nType : BO3\nTournament : LP
  L 2016 Spring Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dc7e9aea-24de-4b4a-9122-300df582f631
@@ -291,7 +132,7 @@ SUMMARY:SS vs EDG
 DESCRIPTION:Snake Esports (SS) vs Edward Gaming (EDG)\nType : BO3\nTourname
  nt : LPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-167d589c-7147-407f-b23d-19f80c7bcf6a
@@ -305,7 +146,7 @@ SUMMARY:GT vs EDG
 DESCRIPTION:Game Talents (GT) vs Edward Gaming (EDG)\nType : BO3\nTournamen
  t : LPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-51ee9ce6-22ae-4e88-a5b9-db4d53663700
@@ -319,7 +160,166 @@ SUMMARY:EDG vs IG
 DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (IG)\nType : BO3\nTourna
  ment : LPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-490e29dc-bc96-4867-8121-ff0e3a8009b8
+DTSTART:20150524T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150524T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/1
+SUMMARY:EDG vs VG
+DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO2\nTournament
+  : Migrated tournament for lpl_2015_summer\nWeek : 1\nWinner : Vici Gaming
+ \nLooser : Vici Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f4f4765f-d835-4c42-9d34-2b1cc4901f15
+DTSTART:20150605T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150605T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/3
+SUMMARY:EDG vs IG
+DESCRIPTION:Edward Gaming (EDG) vs Invictus Gaming (IG)\nType : BO2\nTourna
+ ment : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Edward 
+ Gaming\nLooser : Invictus Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d7dc10ed-9483-43eb-a14b-0fd83e5ffb4d
+DTSTART:20150612T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150612T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:EDG vs M3
+DESCRIPTION:Edward Gaming (EDG) vs Master3 (M3)\nType : BO2\nTournament : M
+ igrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Edward Gaming\n
+ Looser : Master3\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9b42f90a-9c58-466c-bba7-9a128bf669c2
+DTSTART:20150621T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150621T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/5
+SUMMARY:EDG vs OMG
+DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO2\nTournament : Migr
+ ated tournament for lpl_2015_summer\nWeek : 5\nWinner : OMG\nLooser : OMG\
+ n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bca9178d-e646-4f9f-b52e-82dbfec8c826
+DTSTART:20150613T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150613T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2015_summer/schedule/2015
+ -lpl-summer/4
+SUMMARY:EDG vs UP
+DESCRIPTION:Edward Gaming (EDG) vs Unlimited Potential (UP)\nType : BO2\nTo
+ urnament : Migrated tournament for lpl_2015_summer\nWeek : 4\nWinner : Unl
+ imited Potential\nLooser : Edward Gaming\n
+CATEGORIES:Migrated tournament for lpl_2015_summer
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-33f4ad87-63a2-43dd-874e-5431f7cfc3a0
+DTSTART:20160326T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160326T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_b/8
+SUMMARY:IG vs EDG
+DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
+ ment : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a99a42d2-03b7-42c8-87e8-ee4b7701176a
+DTSTART:20160130T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160130T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:EDG vs OMG
+DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7c64fa8f-e8fd-4b6b-83ee-b812f96e8453
+DTSTART:20160124T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160124T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:VG vs EDG
+DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-13c4c0cf-212c-4714-bb1b-1473a574e17f
+DTSTART:20160227T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:EDG vs SS
+DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8ab5281f-fc91-4543-a32a-bbb3560a6053
+DTSTART:20160605T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160605T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/2
+SUMMARY:EDG vs SAT
+DESCRIPTION:Edward Gaming (EDG) vs Saint Gaming (SAT)\nType : BO3\nTourname
+ nt : LPL 2016 Summer Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160527T130127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d5390586-3f3a-4055-a82b-4e6b34d72471
+DTSTART:20160611T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/3
+SUMMARY:EDG vs GT
+DESCRIPTION:Edward Gaming (EDG) vs Game Talents (GT)\nType : BO3\nTournamen
+ t : LPL 2016 Summer Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-22f3c7cd-9898-4a2b-9ef7-717a953f20b3
@@ -334,7 +334,7 @@ DESCRIPTION:King (KNG) vs Edward Gaming (EDG)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 6\nWinner : Edward Gaming\nLo
  oser : Edward Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c3cc153a-004c-4fff-bb5d-4dbe9c61862b
@@ -349,7 +349,7 @@ DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 9\nWinner : Ed
  ward Gaming\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8ce548e9-309d-475c-be72-baf5a50c190a
@@ -363,7 +363,7 @@ SUMMARY:OMG vs EDG
 DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO2\nTournament : Migr
  ated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9822f532-d4c7-409d-a66e-dc3debd65528
@@ -377,7 +377,7 @@ SUMMARY:UP vs EDG
 DESCRIPTION:Unlimited Potential (UP) vs Edward Gaming (EDG)\nType : BO2\nTo
  urnament : Migrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-38974f0a-31ac-4cf7-8a40-6bb078369e56
@@ -391,7 +391,7 @@ SUMMARY:RNG vs EDG
 DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-509bd152-f2c3-4689-9910-523133852937
@@ -405,7 +405,7 @@ SUMMARY:EDG vs SS
 DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO5\nTourname
  nt : LPL 2016 Spring Split\nWeek : Round 2\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-393e37a8-1a6e-4f4e-aa31-0e3995f4f9eb
@@ -419,7 +419,7 @@ SUMMARY:SAT vs EDG
 DESCRIPTION:Saint Gaming (SAT) vs Edward Gaming (EDG)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-189242d4-eeff-4f90-8822-64a90a86a889
@@ -433,7 +433,7 @@ SUMMARY:EDG vs SS
 DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO3\nTourname
  nt : LPL 2016 Summer Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d002973e-61c2-4fba-b931-c35e51d5eaa6
@@ -447,7 +447,7 @@ SUMMARY:IG vs EDG
 DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
  ment : LPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-21ab2515-2643-4405-847b-c58f8b5513f8
@@ -461,7 +461,7 @@ SUMMARY:LGD vs EDG
 DESCRIPTION:LGD Gaming (LGD) vs Edward Gaming (EDG)\nType : BO3\nTournament
   : LPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e375af4c-35b4-47a6-aa34-473a3bbefc52
@@ -475,7 +475,7 @@ SUMMARY:EDG vs IM
 DESCRIPTION:Edward Gaming (EDG) vs I MAY (IM)\nType : BO3\nTournament : LPL
   2016 Summer Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d3e85a68-7797-4579-8279-9f2c63853124
@@ -490,7 +490,7 @@ DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO2\nTourna
  ment : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Edward 
  Gaming\nLooser : Invictus Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-982e36cd-e805-4d8b-b3f9-c5a1141a2d61
@@ -504,7 +504,7 @@ SUMMARY:OMG vs EDG
 DESCRIPTION:OMG (OMG) vs Edward Gaming (EDG)\nType : BO3\nTournament : LPL 
  2016 Spring Split\nWeek : 10\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e0607574-cb7c-4642-b0c8-0eeb5ab3614e
@@ -518,7 +518,7 @@ SUMMARY:NB vs EDG
 DESCRIPTION:NewBee (NB) vs Edward Gaming (EDG)\nType : BO5\nTournament : LP
  L 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0904dce8-2458-45b6-b8a9-f63f7177a920
@@ -532,7 +532,7 @@ SUMMARY:RNG vs EDG
 DESCRIPTION:Royal Never Give Up (RNG) vs Edward Gaming (EDG)\nType : BO5\nT
  ournament : LPL 2016 Spring Split\nWeek : Finals\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e58ff1d5-a05b-4b45-8063-1890e02a7c05
@@ -546,7 +546,7 @@ SUMMARY:EDG vs RNG
 DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO3\nT
  ournament : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5560d29a-30a3-4b14-9a38-b398ee2dd640
@@ -560,7 +560,7 @@ SUMMARY:VG vs EDG
 DESCRIPTION:Vici Gaming (VG) vs Edward Gaming (EDG)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4d74a54b-d6f3-4daa-bc20-396ee7d83599
@@ -574,7 +574,7 @@ SUMMARY:EDG vs SAT
 DESCRIPTION:Edward Gaming (EDG) vs Saint Gaming (SAT)\nType : BO3\nTourname
  nt : LPL 2016 Spring Split\nWeek : 3\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-52ed2556-a466-45cf-b471-43c0978881c7
@@ -588,7 +588,7 @@ SUMMARY:EDG vs OMG
 DESCRIPTION:Edward Gaming (EDG) vs OMG (OMG)\nType : BO3\nTournament : LPL 
  2016 Summer Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-40c57997-f9e4-45ba-8644-21f49a2fac17
@@ -602,7 +602,7 @@ SUMMARY:EDG vs VG
 DESCRIPTION:Edward Gaming (EDG) vs Vici Gaming (VG)\nType : BO3\nTournament
   : LPL 2016 Summer Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-53abc7fb-d1da-486c-b16d-47865e1b22f8
@@ -616,7 +616,7 @@ SUMMARY:EDG vs NB
 DESCRIPTION:Edward Gaming (EDG) vs NewBee (NB)\nType : BO3\nTournament : LP
  L 2016 Summer Split\nWeek : 8\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c89a8306-ef26-4da6-a015-f9b31fb16ad8
@@ -631,7 +631,7 @@ DESCRIPTION:Edward Gaming (EDG) vs King (KNG)\nType : BO2\nTournament : Mig
  rated tournament for lpl_2015_summer\nWeek : 1\nWinner : Edward Gaming\nLo
  oser : King\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0f458ecb-6770-4b40-946c-b4b5e4ab9263
@@ -646,7 +646,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Snake Esports (SS)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 2\nWinner : Edward Ga
  ming\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a32793ae-53ae-4c68-a7ef-23cce537bd0a
@@ -661,7 +661,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO2\nT
  ournament : Migrated tournament for lpl_2015_summer\nWeek : 3\nWinner : Ed
  ward Gaming\nLooser : Royal Never Give Up\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4c688442-1551-42f7-80f5-c9ad453921d5
@@ -676,7 +676,7 @@ DESCRIPTION:LGD Gaming (LGD) vs Edward Gaming (EDG)\nType : BO2\nTournament
   : Migrated tournament for lpl_2015_summer\nWeek : 8\nWinner : Edward Gami
  ng\nLooser : LGD Gaming\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4f3d8244-b2ec-4948-96f9-3dd3212bcede
@@ -691,7 +691,7 @@ DESCRIPTION:Snake Esports (SS) vs Edward Gaming (EDG)\nType : BO2\nTourname
  nt : Migrated tournament for lpl_2015_summer\nWeek : 7\nWinner : Edward Ga
  ming\nLooser : Snake Esports\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ba4e8165-6dcf-4172-b77b-8a9e8c0978a8
@@ -706,7 +706,7 @@ DESCRIPTION:NewBee (NB) vs Edward Gaming (EDG)\nType : BO2\nTournament : Mi
  grated tournament for lpl_2015_summer\nWeek : 9\nWinner : Edward Gaming\nL
  ooser : NewBee\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c573e485-fcfd-4d23-b2e9-78125dda5811
@@ -720,7 +720,7 @@ SUMMARY:M3 vs EDG
 DESCRIPTION:Master3 (M3) vs Edward Gaming (EDG)\nType : BO2\nTournament : M
  igrated tournament for lpl_2015_summer\nWeek : 11\n
 CATEGORIES:Migrated tournament for lpl_2015_summer
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cedbab10-d6fc-4bfb-932f-35e3830ee635
@@ -734,7 +734,7 @@ SUMMARY:IG vs EDG
 DESCRIPTION:Invictus Gaming (IG) vs Edward Gaming (EDG)\nType : BO3\nTourna
  ment : LPL 2016 Spring Split\nWeek : 1\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ecaa024e-1736-43c5-bd3a-028e3a776d13
@@ -748,7 +748,7 @@ SUMMARY:EDG vs LGD
 DESCRIPTION:Edward Gaming (EDG) vs LGD Gaming (LGD)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6b4cb3b2-990d-4be4-88ca-a1c4090ec309
@@ -762,7 +762,7 @@ SUMMARY:EDG vs WE
 DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO3\nTourn
  ament : LPL 2016 Spring Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e3fbb49-56f7-4514-870d-add818d4a5bd
@@ -774,9 +774,9 @@ URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
  group_a/1
 SUMMARY:NB vs EDG
 DESCRIPTION:NewBee (NB) vs Edward Gaming (EDG)\nType : BO3\nTournament : LP
- L 2016 Summer Split\nWeek : 1\n
+ L 2016 Summer Split\nWeek : 1\nWinner : Edward Gaming\nLooser : NewBee\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-012725dd-25bd-42a3-9bde-ede397d3ea1d
@@ -790,7 +790,7 @@ SUMMARY:SAT vs EDG
 DESCRIPTION:Saint Gaming (SAT) vs Edward Gaming (EDG)\nType : BO3\nTourname
  nt : LPL 2016 Summer Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a8868de1-642b-402a-bb7d-a4111662c64b
@@ -804,7 +804,7 @@ SUMMARY:EDG vs RNG
 DESCRIPTION:Edward Gaming (EDG) vs Royal Never Give Up (RNG)\nType : BO3\nT
  ournament : LPL 2016 Summer Split\nWeek : 4\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9809a8cd-eecd-4ed7-b0a7-d1898367e560
@@ -818,7 +818,7 @@ SUMMARY:EDG vs WE
 DESCRIPTION:Edward Gaming (EDG) vs Team World Elite (WE)\nType : BO3\nTourn
  ament : LPL 2016 Summer Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-75f816cc-dcdf-4b0f-a1da-cadaec3cacf7
@@ -833,7 +833,7 @@ DESCRIPTION:Edward Gaming (EDG) vs H2K (H2K)\nType : BO1\nTournament : The
  2015 World Championship\nWeek : paris-day-6\nWinner : Edward Gaming\nLoose
  r : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d184d955-c4f5-46f1-abd0-f7f992401959
@@ -848,7 +848,7 @@ DESCRIPTION:Bangkok Titans (BKT) vs Edward Gaming (EDG)\nType : BO1\nTourna
  ment : The 2015 World Championship\nWeek : paris-day-6\nWinner : Edward Ga
  ming\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f6d7d736-56c1-4eaa-b9d0-28a92f994503
@@ -862,7 +862,7 @@ SUMMARY:FNC vs EDG
 DESCRIPTION:Fnatic (FNC) vs Edward Gaming (EDG)\nType : BO5\nTournament : T
  he 2015 World Championship\nWeek : london-day-3\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fbb6be62-36ee-4670-add3-0f4d811d07ce
@@ -877,7 +877,7 @@ DESCRIPTION:Edward Gaming (EDG) vs Bangkok Titans (BKT)\nType : BO1\nTourna
  ment : The 2015 World Championship\nWeek : paris-day-1\nWinner : Edward Ga
  ming\nLooser : Bangkok Titans\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2371ff8b-4179-4d8c-82da-ed806d11db7c
@@ -892,7 +892,7 @@ DESCRIPTION:H2K (H2K) vs Edward Gaming (EDG)\nType : BO1\nTournament : The
  2015 World Championship\nWeek : paris-day-2\nWinner : Edward Gaming\nLoose
  r : H2K\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b4e26f33-21a5-4e46-8818-cf7e667926c1
@@ -907,7 +907,7 @@ DESCRIPTION:SKTelecom T1 (SKT) vs Edward Gaming (EDG)\nType : BO1\nTourname
  nt : The 2015 World Championship\nWeek : paris-day-6\nWinner : SKTelecom T
  1\nLooser : Edward Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5a81f88e-8157-46b9-bb82-b9cf72662c07
@@ -922,6 +922,6 @@ DESCRIPTION:Edward Gaming (EDG) vs SKTelecom T1 (SKT)\nType : BO1\nTourname
  nt : The 2015 World Championship\nWeek : paris-day-3\nWinner : SKTelecom T
  1\nLooser : Edward Gaming\n
 CATEGORIES:The 2015 World Championship
-DTSTAMP:20160526T130113Z
+DTSTAMP:20160527T130127Z
 END:VEVENT
 END:VCALENDAR
