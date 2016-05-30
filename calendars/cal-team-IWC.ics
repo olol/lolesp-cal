@@ -15,7 +15,7 @@ SUMMARY:NAA vs IWC
 DESCRIPTION:NA LCS All-Stars (NAA) vs IWC All-Stars (IWC)\nType : BO1\nTour
  nament : Initial All-Star format\nWeek : ase-day-2\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160527T130130Z
+DTSTAMP:20160530T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-588c1265-d531-448f-a6cc-b9bb12443252
@@ -29,7 +29,7 @@ SUMMARY:LCK vs IWC
 DESCRIPTION:LCK All-Stars (LCK) vs IWC All-Stars (IWC)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-1\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160527T130130Z
+DTSTAMP:20160530T130113Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8f3a452b-b615-41d5-be2a-8e2ba5d04364
@@ -43,6 +43,6 @@ SUMMARY:LMS vs IWC
 DESCRIPTION:LMS All-Stars (LMS) vs IWC All-Stars (IWC)\nType : BO1\nTournam
  ent : Initial All-Star format\nWeek : ase-day-3\n
 CATEGORIES:Initial All-Star format
-DTSTAMP:20160527T130130Z
+DTSTAMP:20160530T130113Z
 END:VEVENT
 END:VCALENDAR

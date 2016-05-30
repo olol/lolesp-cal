@@ -15,7 +15,7 @@ SUMMARY:DIG vs C9
 DESCRIPTION:Team Dignitas (DIG) vs Cloud9  (C9)\nType : BO1\nTournament : N
  A 2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-35f192bb-43db-47f4-af81-f4aba957f296
@@ -29,7 +29,7 @@ SUMMARY:DIG vs FOX
 DESCRIPTION:Team Dignitas (DIG) vs Echo Fox (FOX)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac027c02-a3c7-4eab-abf7-3cda57a6b4da
@@ -43,7 +43,7 @@ SUMMARY:CLG vs DIG
 DESCRIPTION:Counter Logic Gaming (CLG) vs Team Dignitas (DIG)\nType : BO1\n
  Tournament : NA 2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0f8b4f7f-359b-4e80-942a-e3438f5f4ff1
@@ -57,7 +57,7 @@ SUMMARY:REN vs DIG
 DESCRIPTION:Renegades (REN) vs Team Dignitas (DIG)\nType : BO1\nTournament 
  : NA 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1c6634a-f25a-484e-8605-3e028e2ca5d3
@@ -71,7 +71,7 @@ SUMMARY:DIG vs TL
 DESCRIPTION:Team Dignitas (DIG) vs Liquid (TL)\nType : BO1\nTournament : NA
   2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9e7db3a2-f25e-4b87-ad03-5bb1251060c0
@@ -86,7 +86,7 @@ DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO3\nTourname
  nt : Generated tournament for the 2015 summer playoffs\nWeek : quarterfina
  ls\n
 CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d6272882-d1df-4dff-b156-bf8a750c82df
@@ -100,7 +100,7 @@ SUMMARY:TSM vs DIG
 DESCRIPTION:TSM (TSM) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA 2
  016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9945b7df-5485-4c2f-a4b3-759c82b891e2
@@ -114,7 +114,7 @@ SUMMARY:DIG vs REN
 DESCRIPTION:Team Dignitas (DIG) vs Renegades (REN)\nType : BO1\nTournament 
  : NA 2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ecd76d66-45fc-49c6-904e-675485aac2ef
@@ -128,91 +128,7 @@ SUMMARY:TL vs DIG
 DESCRIPTION:Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
   2016 Spring Split\nWeek : 4\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4dab28b6-f9ff-4f18-8a52-dbdbc4f8c5e5
-DTSTART:20160313T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160313T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/8
-SUMMARY:DIG vs IMT
-DESCRIPTION:Team Dignitas (DIG) vs Immortals (IMT)\nType : BO1\nTournament 
- : NA 2016 Spring Split\nWeek : 8\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a2b124d3-2d1e-4277-9eb6-b20c961758d9
-DTSTART:20160214T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160214T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:IMT vs DIG
-DESCRIPTION:Immortals (IMT) vs Team Dignitas (DIG)\nType : BO1\nTournament 
- : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6b739e9a-1399-4a70-a496-15cccdb5fa86
-DTSTART:20160221T210000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160221T220000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:DIG vs TSM
-DESCRIPTION:Team Dignitas (DIG) vs TSM (TSM)\nType : BO1\nTournament : NA 2
- 016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a1ff1570-993c-4c19-ada2-6e018699c7f2
-DTSTART:20160116T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160116T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:DIG vs NRG
-DESCRIPTION:Team Dignitas (DIG) vs NRG Esports (NRG)\nType : BO1\nTournamen
- t : NA 2016 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cf0346d2-2614-4b2a-987a-a90b80ce0c74
-DTSTART:20160215T000000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160215T010000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/5
-SUMMARY:DIG vs TIP
-DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
- nt : NA 2016 Spring Split\nWeek : 5\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-113795d3-6119-4330-a645-b5bdb44ae6a6
-DTSTART:20160220T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/6
-SUMMARY:NRG vs DIG
-DESCRIPTION:NRG Esports (NRG) vs Team Dignitas (DIG)\nType : BO1\nTournamen
- t : NA 2016 Spring Split\nWeek : 6\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9285a10b-c63b-4b41-95fd-a25f08a802ac
@@ -226,7 +142,7 @@ SUMMARY:DIG vs CLG
 DESCRIPTION:Team Dignitas (DIG) vs Counter Logic Gaming (CLG)\nType : BO1\n
  Tournament : NA 2016 Spring Split\nWeek : 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-361d0f49-2621-48bd-addf-c4e55d96b708
@@ -240,7 +156,7 @@ SUMMARY:DIG vs TDK
 DESCRIPTION:Team Dignitas (DIG) vs Team Dragon Knights (TDK)\nType : BO5\nT
  ournament : NA 2016 Spring Split\nWeek : Round 1\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bae87161-57e5-4529-b0b3-afd507581c6b
@@ -254,7 +170,7 @@ SUMMARY:FOX vs DIG
 DESCRIPTION:Echo Fox (FOX) vs Team Dignitas (DIG)\nType : BO1\nTournament :
   NA 2016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcd8810c-125b-4e26-a096-5dbdd187a943
@@ -268,7 +184,7 @@ SUMMARY:TIP vs DIG
 DESCRIPTION:Team Impulse (TIP) vs Team Dignitas (DIG)\nType : BO1\nTourname
  nt : NA 2016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a44c32cc-eafe-4bd0-aa98-b1bd357bacf5
@@ -282,6 +198,90 @@ SUMMARY:C9 vs DIG
 DESCRIPTION:Cloud9  (C9) vs Team Dignitas (DIG)\nType : BO1\nTournament : N
  A 2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160527T130120Z
+DTSTAMP:20160530T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a2b124d3-2d1e-4277-9eb6-b20c961758d9
+DTSTART:20160214T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160214T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:IMT vs DIG
+DESCRIPTION:Immortals (IMT) vs Team Dignitas (DIG)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160530T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6b739e9a-1399-4a70-a496-15cccdb5fa86
+DTSTART:20160221T210000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160221T220000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:DIG vs TSM
+DESCRIPTION:Team Dignitas (DIG) vs TSM (TSM)\nType : BO1\nTournament : NA 2
+ 016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160530T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4dab28b6-f9ff-4f18-8a52-dbdbc4f8c5e5
+DTSTART:20160313T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160313T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/8
+SUMMARY:DIG vs IMT
+DESCRIPTION:Team Dignitas (DIG) vs Immortals (IMT)\nType : BO1\nTournament 
+ : NA 2016 Spring Split\nWeek : 8\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160530T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cf0346d2-2614-4b2a-987a-a90b80ce0c74
+DTSTART:20160215T000000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160215T010000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/5
+SUMMARY:DIG vs TIP
+DESCRIPTION:Team Dignitas (DIG) vs Team Impulse (TIP)\nType : BO1\nTourname
+ nt : NA 2016 Spring Split\nWeek : 5\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160530T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a1ff1570-993c-4c19-ada2-6e018699c7f2
+DTSTART:20160116T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160116T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:DIG vs NRG
+DESCRIPTION:Team Dignitas (DIG) vs NRG Esports (NRG)\nType : BO1\nTournamen
+ t : NA 2016 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160530T130108Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-113795d3-6119-4330-a645-b5bdb44ae6a6
+DTSTART:20160220T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/6
+SUMMARY:NRG vs DIG
+DESCRIPTION:NRG Esports (NRG) vs Team Dignitas (DIG)\nType : BO1\nTournamen
+ t : NA 2016 Spring Split\nWeek : 6\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160530T130108Z
 END:VEVENT
 END:VCALENDAR

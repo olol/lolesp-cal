@@ -16,7 +16,7 @@ DESCRIPTION:Kaos Latin Gamers (KMV) vs Hafnet E-Sports (HAF)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Hafnet 
  E-Sports\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e20e5d3a-8335-4108-8ba8-11f91e9ef3ff
@@ -30,7 +30,7 @@ SUMMARY:HAF vs KMV
 DESCRIPTION:Hafnet E-Sports (HAF) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
  ournament : Clausura - Copa Latinoamérica Sur\nWeek : 7\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5757caf-26d7-49ab-b3e8-8bf25fe32da2
@@ -45,7 +45,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Kaos Latin Gamers (KMV)\nType : BO2\nT
  ournament : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Hafnet 
  E-Sports\nLooser : Kaos Latin Gamers\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-23422ebc-a5dc-40c1-aa97-4af9232eb5d8
@@ -60,7 +60,7 @@ DESCRIPTION:Furious Gaming (FG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Hafnet E-Sp
  orts\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-df1dc421-982d-465d-85da-2a0cee35402e
@@ -75,7 +75,49 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Rebirth eSports (RBT)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 2\nWinner : Rebirth e
  Sports\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bd393c5d-8470-4117-b301-ef42c6242d96
+DTSTART:20160623T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160624T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/5
+SUMMARY:ISG vs HAF
+DESCRIPTION:Isurus Gaming (ISG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
+ ament : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160530T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e7a0d6fa-371a-4d5c-95fe-1f8f5ff898d6
+DTSTART:20160630T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160701T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/6
+SUMMARY:FG vs HAF
+DESCRIPTION:Furious Gaming (FG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
+ ament : Clausura - Copa Latinoamérica Sur\nWeek : 6\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160530T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-376defee-5c25-4d97-b02a-e8b8be781ebd
+DTSTART:20160616T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160617T000000Z
+URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
+ ausura/schedule/round_robin/4
+SUMMARY:HAF vs RBT
+DESCRIPTION:Hafnet E-Sports (HAF) vs Rebirth eSports (RBT)\nType : BO2\nTou
+ rnament : Clausura - Copa Latinoamérica Sur\nWeek : 4\n
+CATEGORIES:Clausura - Copa Latinoamérica Sur
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-93b8afe7-5dd7-49bb-9a03-786675ec92bc
@@ -90,7 +132,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Furious Gaming (FG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 4\nWinner : Furious Gam
  ing\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-239537c2-5440-4231-ad88-e079e2e44573
@@ -105,49 +147,7 @@ DESCRIPTION:Last Kings (LK) vs Hafnet E-Sports (HAF)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Last Kings\nLoo
  ser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bd393c5d-8470-4117-b301-ef42c6242d96
-DTSTART:20160623T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160624T000000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/5
-SUMMARY:ISG vs HAF
-DESCRIPTION:Isurus Gaming (ISG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
- ament : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e7a0d6fa-371a-4d5c-95fe-1f8f5ff898d6
-DTSTART:20160630T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160701T000000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/6
-SUMMARY:FG vs HAF
-DESCRIPTION:Furious Gaming (FG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
- ament : Clausura - Copa Latinoamérica Sur\nWeek : 6\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-376defee-5c25-4d97-b02a-e8b8be781ebd
-DTSTART:20160616T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160617T000000Z
-URL:http://www.lolesports.com/en_US/copa-latinoam%C3%A9rica-sur/cls_2016_cl
- ausura/schedule/round_robin/4
-SUMMARY:HAF vs RBT
-DESCRIPTION:Hafnet E-Sports (HAF) vs Rebirth eSports (RBT)\nType : BO2\nTou
- rnament : Clausura - Copa Latinoamérica Sur\nWeek : 4\n
-CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e7af5ae1-0f4b-4d2a-8c4d-89d45d5b65a4
@@ -162,7 +162,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Isurus Gaming (ISG)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Isurus Gami
  ng\nLooser : Isurus Gaming\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6da9e620-b6e4-4f9e-aa02-5fcdf3753ea1
@@ -177,7 +177,7 @@ DESCRIPTION:Rebirth eSports (RBT) vs Hafnet E-Sports (HAF)\nType : BO2\nTou
  rnament : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Hafnet E-
  Sports\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-714a6788-28ba-4eff-97d0-9d57cc968666
@@ -191,7 +191,7 @@ SUMMARY:KMV vs HAF
 DESCRIPTION:Kaos Latin Gamers (KMV) vs Hafnet E-Sports (HAF)\nType : BO2\nT
  ournament : Clausura - Copa Latinoamérica Sur\nWeek : 3\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-02329f2b-3207-4aa9-b20a-702b3e6a0bdf
@@ -206,7 +206,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Isurus Gaming (ISG)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Isurus Gami
  ng\nLooser : Hafnet E-Sports\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0a42e3fa-7c7f-4205-af3a-c9f21c96946f
@@ -220,7 +220,7 @@ SUMMARY:RBT vs HAF
 DESCRIPTION:Rebirth eSports (RBT) vs Hafnet E-Sports (HAF)\nType : BO2\nTou
  rnament : Clausura - Copa Latinoamérica Sur\nWeek : 7\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5042a3ac-0607-4ca7-b706-40c879f48c99
@@ -234,7 +234,7 @@ SUMMARY:HAF vs LK
 DESCRIPTION:Hafnet E-Sports (HAF) vs Last Kings (LK)\nType : BO2\nTournamen
  t : Clausura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5be26341-1f30-4ff0-89ba-f1eaf6815b8b
@@ -249,7 +249,7 @@ DESCRIPTION:Last Kings (LK) vs Hafnet E-Sports (HAF)\nType : BO2\nTournamen
  t : Clausura - Copa Latinoamérica Sur\nWeek : 1\nWinner : Hafnet E-Sports
  \nLooser : Last Kings\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77159b71-7f4f-4397-a8c4-7ff519574d05
@@ -264,7 +264,7 @@ DESCRIPTION:Hafnet E-Sports (HAF) vs Last Kings (LK)\nType : BO2\nTournamen
  t : Apertura - Copa Latinoamérica Sur\nWeek : 3\nWinner : Last Kings\nLoo
  ser : Last Kings\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-872114cd-5dfa-4343-8ebb-e20d6726012e
@@ -278,7 +278,7 @@ SUMMARY:ISG vs HAF
 DESCRIPTION:Isurus Gaming (ISG) vs Hafnet E-Sports (HAF)\nType : BO1\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 5\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-36ee7f5b-d6ec-462a-931f-82d4d4025557
@@ -293,7 +293,7 @@ DESCRIPTION:Isurus Gaming (ISG) vs Hafnet E-Sports (HAF)\nType : BO2\nTourn
  ament : Apertura - Copa Latinoamérica Sur\nWeek : 5\nWinner : Hafnet E-Sp
  orts\nLooser : Hafnet E-Sports\n
 CATEGORIES:Apertura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c17896b0-6caf-454e-a037-dfeb3e218130
@@ -307,6 +307,6 @@ SUMMARY:HAF vs FG
 DESCRIPTION:Hafnet E-Sports (HAF) vs Furious Gaming (FG)\nType : BO2\nTourn
  ament : Clausura - Copa Latinoamérica Sur\nWeek : 2\n
 CATEGORIES:Clausura - Copa Latinoamérica Sur
-DTSTAMP:20160527T130131Z
+DTSTAMP:20160530T130114Z
 END:VEVENT
 END:VCALENDAR
