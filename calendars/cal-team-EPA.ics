@@ -4,230 +4,6 @@ PRODID:www.lolesports.com|cal-team-EPA
 X-WR-CALNAME:LoL eSports EPA
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-0169bafc-3a7e-4914-8917-9bf844569631
-DTSTART:20160325T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160325T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/8
-SUMMARY:GT vs WE
-DESCRIPTION:Game Talents (GT) vs Team World Elite (WE)\nType : BO3\nTournam
- ent : LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-732d0cfe-a3ed-457f-bfda-8fca684b66d4
-DTSTART:20160311T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160311T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/6
-SUMMARY:GT vs RNG
-DESCRIPTION:Game Talents (GT) vs Royal Never Give Up (RNG)\nType : BO3\nTou
- rnament : LPL 2016 Spring Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3ef2325a-19da-4725-940a-b1b4db58da5d
-DTSTART:20160416T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160416T110000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- 2016_spring_promotion_relegation/Promotion%20-%20Round%202
-SUMMARY:MFG vs GT
-DESCRIPTION:MF Gaming (MFG) vs Game Talents (GT)\nType : BO5\nTournament : 
- LPL 2016 Spring Split\nWeek : Promotion - Round 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-622bfcd5-88d1-4361-894b-7b67d2e00679
-DTSTART:20160320T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160320T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/7
-SUMMARY:GT vs EDG
-DESCRIPTION:Game Talents (GT) vs Edward Gaming (EDG)\nType : BO3\nTournamen
- t : LPL 2016 Spring Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e5154153-2156-4b36-a0d3-1ba97923628f
-DTSTART:20160123T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160123T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/2
-SUMMARY:SS vs GT
-DESCRIPTION:Snake Esports (SS) vs Game Talents (GT)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8313e192-f4bf-4978-af38-440ef0172126
-DTSTART:20160121T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160121T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/2
-SUMMARY:GT vs NB
-DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 2\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7816913a-cd32-4795-9623-15c3f8d00126
-DTSTART:20160115T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160115T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/1
-SUMMARY:WE vs GT
-DESCRIPTION:Team World Elite (WE) vs Game Talents (GT)\nType : BO3\nTournam
- ent : LPL 2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-68640220-6829-428e-b204-00382a61dbe5
-DTSTART:20160220T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160220T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/4
-SUMMARY:GT vs SAT
-DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
-  : LPL 2016 Spring Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-446385b6-0955-4e92-8391-076196a68a15
-DTSTART:20160228T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160228T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:GT vs OMG
-DESCRIPTION:Game Talents (GT) vs OMG (OMG)\nType : BO3\nTournament : LPL 20
- 16 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7554db0d-2732-40e7-83ca-f387f8dd5af5
-DTSTART:20160414T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160414T110000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- 2016_spring_promotion_relegation/Promotion%20-%20Round%201
-SUMMARY:GT vs OMG
-DESCRIPTION:Game Talents (GT) vs OMG (OMG)\nType : BO5\nTournament : LPL 20
- 16 Spring Split\nWeek : Promotion - Round 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ad073804-2119-413d-8cc7-fc072739a58b
-DTSTART:20160131T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/3
-SUMMARY:GT vs LGD
-DESCRIPTION:Game Talents (GT) vs LGD Gaming (LGD)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-beb63730-79c3-4edb-b583-6aa92869e6ae
-DTSTART:20160410T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160410T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/10
-SUMMARY:GT vs M3
-DESCRIPTION:Game Talents (GT) vs Master3 (M3)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-29c05528-a90b-49d4-9fdd-2eb15ed8f758
-DTSTART:20160226T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160226T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/5
-SUMMARY:IG vs GT
-DESCRIPTION:Invictus Gaming (IG) vs Game Talents (GT)\nType : BO3\nTourname
- nt : LPL 2016 Spring Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-53c6d1d6-e9cf-4e44-836c-9bd48d3222c2
-DTSTART:20160331T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160331T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/9
-SUMMARY:GT vs NB
-DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
- 2016 Spring Split\nWeek : 9\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-39f12dd5-41f6-4020-ab7a-78c91a1dca05
-DTSTART:20160327T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160327T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_a/8
-SUMMARY:GT vs LGD
-DESCRIPTION:Game Talents (GT) vs LGD Gaming (LGD)\nType : BO3\nTournament :
-  LPL 2016 Spring Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c8a846ab-1932-4772-a605-5a1976ae9766
-DTSTART:20160117T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T080000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
- group_ab/1
-SUMMARY:M3 vs GT
-DESCRIPTION:Master3 (M3) vs Game Talents (GT)\nType : BO3\nTournament : LPL
-  2016 Spring Split\nWeek : 1\n
-CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-ecb6ac78-1b14-4d5a-bb7f-ba8770b2e554
 DTSTART:20160402T070000Z
 SEQUENCE:0
@@ -239,7 +15,7 @@ SUMMARY:GT vs SS
 DESCRIPTION:Game Talents (GT) vs Snake Esports (SS)\nType : BO3\nTournament
   : LPL 2016 Spring Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
+DTSTAMP:20160531T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-600d2f63-6137-478b-ad9d-cb47654379ce
@@ -253,6 +29,230 @@ SUMMARY:VG vs GT
 DESCRIPTION:Vici Gaming (VG) vs Game Talents (GT)\nType : BO3\nTournament :
   LPL 2016 Spring Split\nWeek : 7\n
 CATEGORIES:LPL 2016 Spring Split
-DTSTAMP:20160530T130112Z
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0169bafc-3a7e-4914-8917-9bf844569631
+DTSTART:20160325T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160325T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/8
+SUMMARY:GT vs WE
+DESCRIPTION:Game Talents (GT) vs Team World Elite (WE)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-732d0cfe-a3ed-457f-bfda-8fca684b66d4
+DTSTART:20160311T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160311T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/6
+SUMMARY:GT vs RNG
+DESCRIPTION:Game Talents (GT) vs Royal Never Give Up (RNG)\nType : BO3\nTou
+ rnament : LPL 2016 Spring Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3ef2325a-19da-4725-940a-b1b4db58da5d
+DTSTART:20160416T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160416T110000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ 2016_spring_promotion_relegation/Promotion%20-%20Round%202
+SUMMARY:MFG vs GT
+DESCRIPTION:MF Gaming (MFG) vs Game Talents (GT)\nType : BO5\nTournament : 
+ LPL 2016 Spring Split\nWeek : Promotion - Round 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-622bfcd5-88d1-4361-894b-7b67d2e00679
+DTSTART:20160320T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160320T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/7
+SUMMARY:GT vs EDG
+DESCRIPTION:Game Talents (GT) vs Edward Gaming (EDG)\nType : BO3\nTournamen
+ t : LPL 2016 Spring Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e5154153-2156-4b36-a0d3-1ba97923628f
+DTSTART:20160123T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160123T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/2
+SUMMARY:SS vs GT
+DESCRIPTION:Snake Esports (SS) vs Game Talents (GT)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8313e192-f4bf-4978-af38-440ef0172126
+DTSTART:20160121T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160121T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/2
+SUMMARY:GT vs NB
+DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 2\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7816913a-cd32-4795-9623-15c3f8d00126
+DTSTART:20160115T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160115T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/1
+SUMMARY:WE vs GT
+DESCRIPTION:Team World Elite (WE) vs Game Talents (GT)\nType : BO3\nTournam
+ ent : LPL 2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-68640220-6829-428e-b204-00382a61dbe5
+DTSTART:20160220T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160220T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/4
+SUMMARY:GT vs SAT
+DESCRIPTION:Game Talents (GT) vs Saint Gaming (SAT)\nType : BO3\nTournament
+  : LPL 2016 Spring Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-446385b6-0955-4e92-8391-076196a68a15
+DTSTART:20160228T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160228T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:GT vs OMG
+DESCRIPTION:Game Talents (GT) vs OMG (OMG)\nType : BO3\nTournament : LPL 20
+ 16 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7554db0d-2732-40e7-83ca-f387f8dd5af5
+DTSTART:20160414T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160414T110000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ 2016_spring_promotion_relegation/Promotion%20-%20Round%201
+SUMMARY:GT vs OMG
+DESCRIPTION:Game Talents (GT) vs OMG (OMG)\nType : BO5\nTournament : LPL 20
+ 16 Spring Split\nWeek : Promotion - Round 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ad073804-2119-413d-8cc7-fc072739a58b
+DTSTART:20160131T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/3
+SUMMARY:GT vs LGD
+DESCRIPTION:Game Talents (GT) vs LGD Gaming (LGD)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-beb63730-79c3-4edb-b583-6aa92869e6ae
+DTSTART:20160410T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160410T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/10
+SUMMARY:GT vs M3
+DESCRIPTION:Game Talents (GT) vs Master3 (M3)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-29c05528-a90b-49d4-9fdd-2eb15ed8f758
+DTSTART:20160226T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160226T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/5
+SUMMARY:IG vs GT
+DESCRIPTION:Invictus Gaming (IG) vs Game Talents (GT)\nType : BO3\nTourname
+ nt : LPL 2016 Spring Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-53c6d1d6-e9cf-4e44-836c-9bd48d3222c2
+DTSTART:20160331T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160331T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/9
+SUMMARY:GT vs NB
+DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
+ 2016 Spring Split\nWeek : 9\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-39f12dd5-41f6-4020-ab7a-78c91a1dca05
+DTSTART:20160327T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160327T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_a/8
+SUMMARY:GT vs LGD
+DESCRIPTION:Game Talents (GT) vs LGD Gaming (LGD)\nType : BO3\nTournament :
+  LPL 2016 Spring Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c8a846ab-1932-4772-a605-5a1976ae9766
+DTSTART:20160117T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T080000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_spring/schedule/lpl_
+ group_ab/1
+SUMMARY:M3 vs GT
+DESCRIPTION:Master3 (M3) vs Game Talents (GT)\nType : BO3\nTournament : LPL
+  2016 Spring Split\nWeek : 1\n
+CATEGORIES:LPL 2016 Spring Split
+DTSTAMP:20160531T130109Z
 END:VEVENT
 END:VCALENDAR
