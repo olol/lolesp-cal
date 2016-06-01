@@ -16,7 +16,7 @@ DESCRIPTION:Sin Gaming (SIN) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 10\nWinner : Chiefs eSports Club\nL
  ooser : Sin Gaming\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2b392238-2956-4dac-a433-4fb373a25d59
@@ -31,7 +31,7 @@ DESCRIPTION:Avant Garde (AV) vs Sin Gaming (SIN)\nType : BO3\nTournament :
  OPL 2016 Spring Split\nWeek : 6\nWinner : Sin Gaming\nLooser : Avant Garde
  \n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-31ef53a4-b692-4d53-8462-fd684adfca99
@@ -45,7 +45,7 @@ SUMMARY:INF vs SIN
 DESCRIPTION:Infernum (INF) vs Sin Gaming (SIN)\nType : BO3\nTournament : OP
  L 2016 Spring Split\nWeek : 8\nWinner : Sin Gaming\nLooser : Infernum\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1af40877-e255-44b0-8910-74598c4c0aa8
@@ -59,7 +59,7 @@ SUMMARY:SIN vs DW
 DESCRIPTION:Sin Gaming (SIN) vs Dire Wolves (DW)\nType : BO3\nTournament : 
  OPL 2016 Summer Split\nWeek : 4\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-46d9e87f-3fd8-4fc7-b289-d5e722b2e33d
@@ -74,7 +74,7 @@ DESCRIPTION:Dire Wolves (DW) vs Sin Gaming (SIN)\nType : BO3\nTournament :
  OPL 2016 Spring Split\nWeek : 7\nWinner : Sin Gaming\nLooser : Dire Wolves
  \n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-75a11618-bc65-4b6b-8292-94a80f2fd25a
@@ -89,7 +89,7 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Sin Gaming (SIN)\nType : BO3\nT
  ournament : OPL 2016 Spring Split\nWeek : 9\nWinner : Sin Gaming\nLooser :
   Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77567824-34d6-4e8e-bc4a-e39c309ac8e8
@@ -104,7 +104,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Sin Gaming (SIN)\nType : BO3\nTournamen
  t : OPL 2016 Spring Split\nWeek : 1\nWinner : Legacy eSports\nLooser : Sin
   Gaming\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f93c704c-b587-4663-bd0d-28c4c2bc8fdf
@@ -119,7 +119,7 @@ DESCRIPTION:Trident Esports (TRI) vs Sin Gaming (SIN)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 5\nWinner : Trident Esports\nLooser : S
  in Gaming\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5694422a-6b2d-4167-8a26-a94412a36357
@@ -133,7 +133,7 @@ SUMMARY:CHF vs SIN
 DESCRIPTION:Chiefs eSports Club (CHF) vs Sin Gaming (SIN)\nType : BO5\nTour
  nament : OPL 2016 Spring Split\nWeek : quarterfinals\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-737e6a09-e26e-4fe1-a84d-fd35414814c8
@@ -147,7 +147,7 @@ SUMMARY:TM vs SIN
 DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-50aedd69-692a-4a2a-be86-5807f8cdf0f9
@@ -161,7 +161,7 @@ SUMMARY:SIN vs AE
 DESCRIPTION:Sin Gaming (SIN) vs Abyss Esports (AE)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 5\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-15188c0c-c3e9-4665-b9dd-85518e860d25
@@ -175,7 +175,7 @@ SUMMARY:SIN vs CHF
 DESCRIPTION:Sin Gaming (SIN) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
  nament : OPL 2016 Summer Split\nWeek : 9\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f161ce74-1864-4333-9d3b-e7940ab29eaf
@@ -190,7 +190,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Sin Gaming (SIN)\nType : BO3\nTour
  nament : OPL 2016 Summer Split\nWeek : 1\nWinner : Chiefs eSports Club\nLo
  oser : Sin Gaming\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b0b6f63e-b90b-4c4c-a8a9-170c3f62a1e8
@@ -205,7 +205,7 @@ DESCRIPTION:Trident Esports (TRI) vs Sin Gaming (SIN)\nType : BO3\nTourname
  nt : OPL 2016 Spring Split\nWeek : 2\nWinner : Sin Gaming\nLooser : Triden
  t Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-76e1b940-09a6-4f7f-beec-9acf7cb27de2
@@ -220,7 +220,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Sin Gaming (SIN)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 7\nWinner : Sin Gaming\nLooser : Ch
  iefs eSports Club\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f8599f7b-db8b-4036-8f0e-1f0b547b9f3e
@@ -235,7 +235,7 @@ DESCRIPTION:Sin Gaming (SIN) vs Dire Wolves (DW)\nType : BO3\nTournament :
  OPL 2016 Spring Split\nWeek : 4\nWinner : Dire Wolves\nLooser : Sin Gaming
  \n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fb57218f-b627-4c3f-a38b-962ed2d1c110
@@ -247,9 +247,10 @@ URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
  oup_a/2
 SUMMARY:AV vs SIN
 DESCRIPTION:Avant Garde (AV) vs Sin Gaming (SIN)\nType : BO3\nTournament : 
- OPL 2016 Summer Split\nWeek : 2\n
+ OPL 2016 Summer Split\nWeek : 2\nWinner : Avant Garde\nLooser : Sin Gaming
+ \n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-55f77032-280b-4347-ad7a-0c1e68c3b81f
@@ -263,7 +264,7 @@ SUMMARY:SIN vs AV
 DESCRIPTION:Sin Gaming (SIN) vs Avant Garde (AV)\nType : BO3\nTournament : 
  OPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0096fe0-3b04-41a7-9f47-ba56b694af9e
@@ -277,7 +278,7 @@ SUMMARY:TM vs SIN
 DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-62af88e4-0745-455f-9f4a-2d12c1df2e3d
@@ -291,7 +292,7 @@ SUMMARY:SIN vs LGC
 DESCRIPTION:Sin Gaming (SIN) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cdc0ab74-84ab-42a3-866d-1a576fb079c4
@@ -305,6 +306,6 @@ SUMMARY:SIN vs HLN
 DESCRIPTION:Sin Gaming (SIN) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
  ournament : OPL 2016 Summer Split\nWeek : 6\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160531T130112Z
+DTSTAMP:20160601T130114Z
 END:VEVENT
 END:VCALENDAR
