@@ -16,7 +16,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (M17)\nType : BO2\nTournam
  ent : Migrated tournament for lms_2015_summer\nWeek : 3\nWinner : Midnight
   Sun e-Sports\nLooser : Machi\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-40aa73f5-f133-40bb-954c-d0f25ad0a77a
@@ -31,7 +31,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (FW)\nType : BO2\nT
  ournament : Migrated tournament for lms_2015_summer\nWeek : 2\nWinner : Fl
  ash Wolves\nLooser : Flash Wolves\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fb18f0f2-40e8-4af0-b44c-b883a26380d0
@@ -46,7 +46,7 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinne
  r : ahq e-Sports Club\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ed046683-eb94-4235-aaaf-6f40568f79ac
@@ -61,7 +61,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType :
  BO2\nTournament : LMS 2016 Spring Split\nWeek : 1\nWinner : Hong Kong Espo
  rts\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-57f173bc-0f5e-437e-859c-a2c0df5b6eef
@@ -76,7 +76,7 @@ DESCRIPTION:eXtreme Gamers (XG) vs Midnight Sun e-Sports (MSE)\nType : BO2\
  nTournament : LMS 2016 Spring Split\nWeek : 1\nWinner : Midnight Sun e-Spo
  rts\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-4c48e255-1ac8-481a-abd4-8b7af26d4405
@@ -91,7 +91,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
  O2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinner
   : Taipei Assassins\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-dfc2a525-a1a1-4edc-baff-d2d82a75e491
@@ -106,37 +106,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 3\nWinne
  r : ahq e-Sports Club\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e2be4c86-1a2c-49ae-8b27-8e76273908bb
-DTSTART:20160326T130000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160326T140000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/9
-SUMMARY:MSE vs CGE
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Cougar eSports (CGE)\nType : BO2
- \nTournament : LMS 2016 Spring Split\nWeek : 9\nWinner : Midnight Sun e-Sp
- orts\nLooser : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a45f5e51-9fe3-48fd-9b7e-5f3bd6577f91
-DTSTART:20160219T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160219T120000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/5
-SUMMARY:CGE vs MSE
-DESCRIPTION:Cougar eSports (CGE) vs Midnight Sun e-Sports (MSE)\nType : BO2
- \nTournament : LMS 2016 Spring Split\nWeek : 5\nWinner : Midnight Sun e-Sp
- orts\nLooser : Cougar eSports\n
-CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1032f84d-754f-4a0b-966e-9c58cdb2c0a5
@@ -150,7 +120,7 @@ SUMMARY:MSE vs M17
 DESCRIPTION:Midnight Sun e-Sports (MSE) vs Machi (M17)\nType : BO2\nTournam
  ent : LMS 2016 Spring Split\nWeek : 7\nWinner : Machi\nLooser : Machi\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2777dc4c-5f4c-4aaa-b37d-9eb8cd4c50e5
@@ -165,82 +135,37 @@ DESCRIPTION:Machi (M17) vs Midnight Sun e-Sports (MSE)\nType : BO2\nTournam
  ent : LMS 2016 Spring Split\nWeek : 2\nWinner : Machi\nLooser : Midnight S
  un e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-8f0e53f5-9a0e-4263-aee0-10cc65474599
-DTSTART:20150619T103000Z
+UID:match-e2be4c86-1a2c-49ae-8b27-8e76273908bb
+DTSTART:20160326T130000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20150619T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/5
-SUMMARY:LGS vs MSE
-DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
- BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinne
- r : Midnight Sun e-Sports\nLooser : Logitech G Sniper\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b350be46-b802-4bdb-8b24-028f7046e059
-DTSTART:20150701T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150701T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/7
-SUMMARY:FW vs MSE
-DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
- ournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Fl
- ash Wolves\nLooser : Midnight Sun e-Sports\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-eafc9322-303b-48f5-b618-ecd73a942d85
-DTSTART:20150617T103000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150617T113000Z
-URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
- ummer/5
-SUMMARY:MSE vs HKE
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType : 
- BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinne
- r : Hong Kong Esports\nLooser : Hong Kong Esports\n
-CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1d7ece99-86a8-4d4d-a408-3521a9aa4f58
-DTSTART:20160227T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160227T120000Z
+DTEND:20160326T140000Z
 URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/6
-SUMMARY:FW vs MSE
-DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
- ournament : LMS 2016 Spring Split\nWeek : 6\nWinner : Flash Wolves\nLooser
-  : Midnight Sun e-Sports\n
+ ason/9
+SUMMARY:MSE vs CGE
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Cougar eSports (CGE)\nType : BO2
+ \nTournament : LMS 2016 Spring Split\nWeek : 9\nWinner : Midnight Sun e-Sp
+ orts\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-056b8222-4bca-4d17-a3a1-0b4c3f2d1522
-DTSTART:20160318T130000Z
+UID:match-a45f5e51-9fe3-48fd-9b7e-5f3bd6577f91
+DTSTART:20160219T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160318T140000Z
+DTEND:20160219T120000Z
 URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
- ason/8
-SUMMARY:MSE vs AHQ
-DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType : 
- BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\nWinner : ahq e-Sports C
- lub\nLooser : Midnight Sun e-Sports\n
+ ason/5
+SUMMARY:CGE vs MSE
+DESCRIPTION:Cougar eSports (CGE) vs Midnight Sun e-Sports (MSE)\nType : BO2
+ \nTournament : LMS 2016 Spring Split\nWeek : 5\nWinner : Midnight Sun e-Sp
+ orts\nLooser : Cougar eSports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bcb9ba56-5b60-48b4-ac67-7eeee4c6070d
@@ -255,7 +180,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Logitech G Sniper (LGS)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 1\nWinne
  r : Logitech G Sniper\nLooser : Logitech G Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b5c06e18-89ee-478c-b8a6-8778fe9d76ce
@@ -270,7 +195,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Taipei Assassins (TPA)\nType : B
  O2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : Taipei Assassin
  s\nLooser : Taipei Assassins\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8b739588-4d1f-44da-98a3-77d101427c57
@@ -285,7 +210,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType :
  BO2\nTournament : LMS 2016 Spring Split\nWeek : 9\nWinner : Midnight Sun e
  -Sports\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ce09d9e0-080f-447c-968a-ff4f5674bd47
@@ -300,7 +225,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
  O2\nTournament : LMS 2016 Spring Split\nWeek : 6\nWinner : Taipei Assassin
  s\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0e96698-808b-4261-9e00-0281b254a424
@@ -315,7 +240,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs eXtreme Gamers (XG)\nType : BO2\
  nTournament : LMS 2016 Spring Split\nWeek : 8\nWinner : eXtreme Gamers\nLo
  oser : eXtreme Gamers\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-38076292-df2a-4f7d-b84a-a52bb348272a
@@ -330,7 +255,82 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Flash Wolves (FW)\nType : BO2\nT
  ournament : LMS 2016 Spring Split\nWeek : 3\nWinner : Flash Wolves\nLooser
   : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-8f0e53f5-9a0e-4263-aee0-10cc65474599
+DTSTART:20150619T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150619T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/5
+SUMMARY:LGS vs MSE
+DESCRIPTION:Logitech G Sniper (LGS) vs Midnight Sun e-Sports (MSE)\nType : 
+ BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinne
+ r : Midnight Sun e-Sports\nLooser : Logitech G Sniper\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160602T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b350be46-b802-4bdb-8b24-028f7046e059
+DTSTART:20150701T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150701T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/7
+SUMMARY:FW vs MSE
+DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
+ ournament : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Fl
+ ash Wolves\nLooser : Midnight Sun e-Sports\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160602T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-eafc9322-303b-48f5-b618-ecd73a942d85
+DTSTART:20150617T103000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150617T113000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2015_summer/schedule/2015-lms-s
+ ummer/5
+SUMMARY:MSE vs HKE
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs Hong Kong Esports (HKE)\nType : 
+ BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 5\nWinne
+ r : Hong Kong Esports\nLooser : Hong Kong Esports\n
+CATEGORIES:Migrated tournament for lms_2015_summer
+DTSTAMP:20160602T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1d7ece99-86a8-4d4d-a408-3521a9aa4f58
+DTSTART:20160227T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160227T120000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/6
+SUMMARY:FW vs MSE
+DESCRIPTION:Flash Wolves (FW) vs Midnight Sun e-Sports (MSE)\nType : BO2\nT
+ ournament : LMS 2016 Spring Split\nWeek : 6\nWinner : Flash Wolves\nLooser
+  : Midnight Sun e-Sports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160602T130109Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-056b8222-4bca-4d17-a3a1-0b4c3f2d1522
+DTSTART:20160318T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160318T140000Z
+URL:http://www.lolesports.com/en_US/lms/lms_2016_spring/schedule/regular_se
+ ason/8
+SUMMARY:MSE vs AHQ
+DESCRIPTION:Midnight Sun e-Sports (MSE) vs ahq e-Sports Club (AHQ)\nType : 
+ BO2\nTournament : LMS 2016 Spring Split\nWeek : 8\nWinner : ahq e-Sports C
+ lub\nLooser : Midnight Sun e-Sports\n
+CATEGORIES:LMS 2016 Spring Split
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-343f259c-25a2-4233-a8b5-d6c7a81903db
@@ -345,7 +345,7 @@ DESCRIPTION:Midnight Sun e-Sports (MSE) vs Assassin Sniper (AS)\nType : BO2
  \nTournament : Migrated tournament for lms_2015_summer\nWeek : 4\nWinner :
   Assassin Sniper\nLooser : Assassin Sniper\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ac2d443a-1ee0-4c76-8a22-29757c8edf26
@@ -360,7 +360,7 @@ DESCRIPTION:Assassin Sniper (AS) vs Midnight Sun e-Sports (MSE)\nType : BO2
  \nTournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinner :
   Midnight Sun e-Sports\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-050e9730-587e-427f-bf52-670c00dd7743
@@ -375,7 +375,7 @@ DESCRIPTION:Machi (M17) vs Midnight Sun e-Sports (MSE)\nType : BO2\nTournam
  ent : Migrated tournament for lms_2015_summer\nWeek : 7\nWinner : Midnight
   Sun e-Sports\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c084fb25-5ef7-4753-8200-47ebc9f62f6d
@@ -390,7 +390,7 @@ DESCRIPTION:Taipei Assassins (TPA) vs Midnight Sun e-Sports (MSE)\nType : B
  O2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 6\nWinner
   : Midnight Sun e-Sports\nLooser : Taipei Assassins\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-e7f08e0b-a8f3-48cf-9db0-e1afddc374f8
@@ -405,7 +405,7 @@ DESCRIPTION:Hong Kong Esports (HKE) vs Midnight Sun e-Sports (MSE)\nType :
  BO2\nTournament : Migrated tournament for lms_2015_summer\nWeek : 8\nWinne
  r : Midnight Sun e-Sports\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:Migrated tournament for lms_2015_summer
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c562199f-f07d-471b-9c30-f209d0ae29ba
@@ -420,6 +420,6 @@ DESCRIPTION:ahq e-Sports Club (AHQ) vs Midnight Sun e-Sports (MSE)\nType :
  BO2\nTournament : LMS 2016 Spring Split\nWeek : 4\nWinner : ahq e-Sports C
  lub\nLooser : Midnight Sun e-Sports\n
 CATEGORIES:LMS 2016 Spring Split
-DTSTAMP:20160601T130112Z
+DTSTAMP:20160602T130109Z
 END:VEVENT
 END:VCALENDAR

@@ -15,7 +15,7 @@ SUMMARY:C9 vs TL
 DESCRIPTION:Cloud9  (C9) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 S
  pring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3cb4eabc-9315-4830-8162-c455682d1061
@@ -29,7 +29,7 @@ SUMMARY:TL vs CLG
 DESCRIPTION:Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO1\nTourname
  nt : NA 2016 Spring Split\nWeek : 2\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-87224bd7-b515-4592-b410-15d7d2c14a6f
@@ -43,7 +43,7 @@ SUMMARY:CLG vs TL
 DESCRIPTION:Counter Logic Gaming (CLG) vs Liquid (TL)\nType : BO5\nTourname
  nt : NA 2016 Spring Split\nWeek : Semifinals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f1c6634a-f25a-484e-8605-3e028e2ca5d3
@@ -57,7 +57,7 @@ SUMMARY:DIG vs TL
 DESCRIPTION:Team Dignitas (DIG) vs Liquid (TL)\nType : BO1\nTournament : NA
   2016 Spring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-3474b279-47e2-418f-a9fe-741203696b56
@@ -71,21 +71,21 @@ SUMMARY:TL vs APX
 DESCRIPTION:Liquid (TL) vs Apex (APX)\nType : BO3\nTournament : NA 2016 Sum
  mer Split\nWeek : 4\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2b5b4a4a-5e57-4891-a6af-302f30c8370b
-DTSTART:20160717T230000Z
+DTSTART:20160717T230001Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160718T000000Z
+DTEND:20160718T000001Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
  season/7
 SUMMARY:TL vs TSM
 DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO3\nTournament : NA 2016 Summ
  er Split\nWeek : 7\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-979342e5-6a26-4891-b160-5e2755ccae9a
@@ -99,21 +99,21 @@ SUMMARY:TL vs C9
 DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO3\nTournament : NA 2016 S
  ummer Split\nWeek : 9\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f7371869-45ff-4e47-bc81-48b26eef6ed0
-DTSTART:20160730T190000Z
+DTSTART:20160730T190001Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160730T200000Z
+DTEND:20160730T200001Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
  season/9
 SUMMARY:APX vs TL
 DESCRIPTION:Apex (APX) vs Liquid (TL)\nType : BO3\nTournament : NA 2016 Sum
  mer Split\nWeek : 9\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a117be1c-cd36-4b3e-a6cf-65a7f81a03ce
@@ -127,231 +127,7 @@ SUMMARY:NV vs TL
 DESCRIPTION:Team Envy (NV) vs Liquid (TL)\nType : BO3\nTournament : NA 2016
   Summer Split\nWeek : 1\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a9968710-452c-4b8b-bed2-85cdb780ab55
-DTSTART:20150816T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150816T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
- /na_2015_summer_playoffs/semifinals
-SUMMARY:TL vs TSM
-DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO4\nTournament : Generated to
- urnament for the 2015 summer playoffs\nWeek : semifinals\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-cbca1277-25fa-4357-9990-84bbdfe5cce8
-DTSTART:20150831T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150831T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_regionals/schedule/na_20
- 15_regionals/finals
-SUMMARY:TL vs C9
-DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS Su
- mmer regional playoffs\nWeek : finals\n
-CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a758d97a-8fec-49a8-a26a-fcc1888fe16a
-DTSTART:20160131T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160131T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/3
-SUMMARY:TL vs TIP
-DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 
- 2016 Spring Split\nWeek : 3\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-1f8a9847-a82d-4ce8-8b6f-f4caa44e06f6
-DTSTART:20160207T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160207T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:IMT vs TL
-DESCRIPTION:Immortals (IMT) vs Liquid (TL)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ecd76d66-45fc-49c6-904e-675485aac2ef
-DTSTART:20160206T200000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160206T210000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/4
-SUMMARY:TL vs DIG
-DESCRIPTION:Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
-  2016 Spring Split\nWeek : 4\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-505de084-1aba-4112-8239-200d66ea3519
-DTSTART:20160403T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160403T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
- spring_playoffs/Quarterfinals
-SUMMARY:TL vs NRG
-DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO5\nTournament : NA 2
- 016 Spring Split\nWeek : Quarterfinals\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-41e3799a-4415-479c-a641-09157cb06794
-DTSTART:20160117T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:TSM vs TL
-DESCRIPTION:TSM (TSM) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 Spri
- ng Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-47ee45b7-cb6e-4f4b-a16a-c5e71a8826ed
-DTSTART:20160612T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160612T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/2
-SUMMARY:FOX vs TL
-DESCRIPTION:Echo Fox (FOX) vs Liquid (TL)\nType : BO3\nTournament : NA 2016
-  Summer Split\nWeek : 2\n
-CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-84d17c3d-d4a4-480a-ac25-5c1e6d081a63
-DTSTART:20160618T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160618T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/3
-SUMMARY:TL vs NRG
-DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO3\nTournament : NA 2
- 016 Summer Split\nWeek : 3\n
-CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4dc4efa4-0dc6-4320-b126-5bce1739c3ec
-DTSTART:20160724T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160724T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/8
-SUMMARY:NRG vs TL
-DESCRIPTION:NRG Esports (NRG) vs Liquid (TL)\nType : BO3\nTournament : NA 2
- 016 Summer Split\nWeek : 8\n
-CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f7cda096-3fff-4433-aecd-339350f0c845
-DTSTART:20160611T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160611T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/2
-SUMMARY:TL vs CLG
-DESCRIPTION:Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO3\nTourname
- nt : NA 2016 Summer Split\nWeek : 2\n
-CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-8c8ab8a2-12c2-4a52-af6e-135f5d106a0c
-DTSTART:20150822T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150822T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
- /na_2015_summer_playoffs/3rd-place
-SUMMARY:TL vs TIP
-DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO4\nTournament : Gen
- erated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
-CATEGORIES:Generated tournament for the 2015 summer playoffs
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-e715a9c6-09f3-4080-baa3-c52ec8c6692e
-DTSTART:20160116T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160117T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/1
-SUMMARY:REN vs TL
-DESCRIPTION:Renegades (REN) vs Liquid (TL)\nType : BO1\nTournament : NA 201
- 6 Spring Split\nWeek : 1\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-7810f3db-c4de-4926-ae0b-f62c16174357
-DTSTART:20160124T230000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160125T000000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
- season/2
-SUMMARY:FOX vs TL
-DESCRIPTION:Echo Fox (FOX) vs Liquid (TL)\nType : BO1\nTournament : NA 2016
-  Spring Split\nWeek : 2\n
-CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-d577ff70-7c73-4619-8796-ecdd35231eeb
-DTSTART:20160709T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160709T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/6
-SUMMARY:TL vs IMT
-DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO3\nTournament : NA 201
- 6 Summer Split\nWeek : 6\n
-CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-61399e02-17b6-4d06-9dfd-b013ef042860
-DTSTART:20160710T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160710T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/6
-SUMMARY:TL vs FOX
-DESCRIPTION:Liquid (TL) vs Echo Fox (FOX)\nType : BO3\nTournament : NA 2016
-  Summer Split\nWeek : 6\n
-CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f65f5674-fd2e-4bb8-b4d2-67c96d9c664e
@@ -365,21 +141,35 @@ SUMMARY:TL vs REN
 DESCRIPTION:Liquid (TL) vs Renegades (REN)\nType : BO1\nTournament : NA 201
  6 Spring Split\nWeek : 5\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a1216faf-ca83-47a5-ad2b-91d786cbd5be
-DTSTART:20160605T190000Z
+DTSTART:20160605T190001Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160605T200000Z
+DTEND:20160605T200001Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
  season/1
 SUMMARY:TSM vs TL
 DESCRIPTION:TSM (TSM) vs Liquid (TL)\nType : BO3\nTournament : NA 2016 Summ
  er Split\nWeek : 1\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-fc590ff6-736b-44fe-b08e-abf1c00e5e7b
+DTSTART:20160702T220001Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160702T230001Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/5
+SUMMARY:TL vs NV
+DESCRIPTION:Liquid (TL) vs Team Envy (NV)\nType : BO3\nTournament : NA 2016
+  Summer Split\nWeek : 5\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-322e1a5d-efae-497a-96ad-a8143d723265
@@ -393,21 +183,77 @@ SUMMARY:CLG vs TL
 DESCRIPTION:Counter Logic Gaming (CLG) vs Liquid (TL)\nType : BO3\nTourname
  nt : NA 2016 Summer Split\nWeek : 8\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-fc590ff6-736b-44fe-b08e-abf1c00e5e7b
-DTSTART:20160702T220000Z
+UID:match-8c8ab8a2-12c2-4a52-af6e-135f5d106a0c
+DTSTART:20150822T220000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160702T230000Z
+DTEND:20150822T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
+ /na_2015_summer_playoffs/3rd-place
+SUMMARY:TL vs TIP
+DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO4\nTournament : Gen
+ erated tournament for the 2015 summer playoffs\nWeek : 3rd-place\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-e715a9c6-09f3-4080-baa3-c52ec8c6692e
+DTSTART:20160116T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:REN vs TL
+DESCRIPTION:Renegades (REN) vs Liquid (TL)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-7810f3db-c4de-4926-ae0b-f62c16174357
+DTSTART:20160124T230000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160125T000000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/2
+SUMMARY:FOX vs TL
+DESCRIPTION:Echo Fox (FOX) vs Liquid (TL)\nType : BO1\nTournament : NA 2016
+  Spring Split\nWeek : 2\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-61399e02-17b6-4d06-9dfd-b013ef042860
+DTSTART:20160710T220001Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160710T230001Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/5
-SUMMARY:TL vs NV
-DESCRIPTION:Liquid (TL) vs Team Envy (NV)\nType : BO3\nTournament : NA 2016
-  Summer Split\nWeek : 5\n
+ season/6
+SUMMARY:TL vs FOX
+DESCRIPTION:Liquid (TL) vs Echo Fox (FOX)\nType : BO3\nTournament : NA 2016
+  Summer Split\nWeek : 6\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-d577ff70-7c73-4619-8796-ecdd35231eeb
+DTSTART:20160709T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160709T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/6
+SUMMARY:TL vs IMT
+DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO3\nTournament : NA 201
+ 6 Summer Split\nWeek : 6\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8120797c-6305-4045-860e-33d07f153e8e
@@ -421,7 +267,7 @@ SUMMARY:TL vs C9
 DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO1\nTournament : NA 2016 S
  pring Split\nWeek : 9\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ef5400c8-9ad7-4251-a71c-b1780a6be74e
@@ -435,7 +281,7 @@ SUMMARY:TL vs TSM
 DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO1\nTournament : NA 2016 Spri
  ng Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbb6777d-edea-4f92-9e4f-8ac8aceb39e8
@@ -449,7 +295,7 @@ SUMMARY:TL vs FOX
 DESCRIPTION:Liquid (TL) vs Echo Fox (FOX)\nType : BO1\nTournament : NA 2016
   Spring Split\nWeek : 6\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-43c24453-6851-4492-8916-0141bcb520fd
@@ -463,7 +309,7 @@ SUMMARY:NRG vs TL
 DESCRIPTION:NRG Esports (NRG) vs Liquid (TL)\nType : BO1\nTournament : NA 2
  016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77933566-624e-4a8d-bb4b-833cd12d6eeb
@@ -477,7 +323,7 @@ SUMMARY:CLG vs TL
 DESCRIPTION:Counter Logic Gaming (CLG) vs Liquid (TL)\nType : BO1\nTourname
  nt : NA 2016 Spring Split\nWeek : 8\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-b63224a8-b89e-4728-aff0-e71c5d8c2135
@@ -491,7 +337,7 @@ SUMMARY:TIP vs TL
 DESCRIPTION:Team Impulse (TIP) vs Liquid (TL)\nType : BO1\nTournament : NA 
  2016 Spring Split\nWeek : 7\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-df049c85-4f26-4c08-a5e5-b53fa4c3cc83
@@ -505,7 +351,7 @@ SUMMARY:TL vs NRG
 DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO1\nTournament : NA 2
  016 Spring Split\nWeek : 3\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-16ef4750-d7b6-410e-b16f-f1b248d38a3e
@@ -519,7 +365,7 @@ SUMMARY:TL vs IMT
 DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO5\nTournament : NA 201
  6 Spring Split\nWeek : Finals\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-001e39c9-43cc-41ec-a05d-f69db2a42380
@@ -533,21 +379,7 @@ SUMMARY:TL vs IMT
 DESCRIPTION:Liquid (TL) vs Immortals (IMT)\nType : BO1\nTournament : NA 201
  6 Spring Split\nWeek : 6\n
 CATEGORIES:NA 2016 Spring Split
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-6051b60b-0679-4713-9a37-68553903626f
-DTSTART:20160625T220000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160625T230000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
- season/4
-SUMMARY:IMT vs TL
-DESCRIPTION:Immortals (IMT) vs Liquid (TL)\nType : BO3\nTournament : NA 201
- 6 Summer Split\nWeek : 4\n
-CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-62b5a0f1-b49d-46d4-9db0-ca0c7455db99
@@ -561,7 +393,7 @@ SUMMARY:C9 vs TL
 DESCRIPTION:Cloud9  (C9) vs Liquid (TL)\nType : BO3\nTournament : NA 2016 S
  ummer Split\nWeek : 5\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-1d5574f3-fb55-4d9b-a5a0-d0f1baa4c9da
@@ -575,20 +407,188 @@ SUMMARY:TL vs P1
 DESCRIPTION:Liquid (TL) vs Phoenix1 (P1)\nType : BO3\nTournament : NA 2016 
  Summer Split\nWeek : 3\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bdb55f1b-7cbb-4200-9b9c-2e8a0d98da19
-DTSTART:20160716T220000Z
+DTSTART:20160716T220001Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160716T230000Z
+DTEND:20160716T230001Z
 URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
  season/7
 SUMMARY:P1 vs TL
 DESCRIPTION:Phoenix1 (P1) vs Liquid (TL)\nType : BO3\nTournament : NA 2016 
  Summer Split\nWeek : 7\n
 CATEGORIES:NA 2016 Summer Split
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-6051b60b-0679-4713-9a37-68553903626f
+DTSTART:20160625T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160625T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/4
+SUMMARY:IMT vs TL
+DESCRIPTION:Immortals (IMT) vs Liquid (TL)\nType : BO3\nTournament : NA 201
+ 6 Summer Split\nWeek : 4\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a9968710-452c-4b8b-bed2-85cdb780ab55
+DTSTART:20150816T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150816T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_summer_playoffs/schedule
+ /na_2015_summer_playoffs/semifinals
+SUMMARY:TL vs TSM
+DESCRIPTION:Liquid (TL) vs TSM (TSM)\nType : BO4\nTournament : Generated to
+ urnament for the 2015 summer playoffs\nWeek : semifinals\n
+CATEGORIES:Generated tournament for the 2015 summer playoffs
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-cbca1277-25fa-4357-9990-84bbdfe5cce8
+DTSTART:20150831T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150831T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_regionals/schedule/na_20
+ 15_regionals/finals
+SUMMARY:TL vs C9
+DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS Su
+ mmer regional playoffs\nWeek : finals\n
+CATEGORIES:NA LCS Summer regional playoffs
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a758d97a-8fec-49a8-a26a-fcc1888fe16a
+DTSTART:20160131T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160131T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/3
+SUMMARY:TL vs TIP
+DESCRIPTION:Liquid (TL) vs Team Impulse (TIP)\nType : BO1\nTournament : NA 
+ 2016 Spring Split\nWeek : 3\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-1f8a9847-a82d-4ce8-8b6f-f4caa44e06f6
+DTSTART:20160207T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160207T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:IMT vs TL
+DESCRIPTION:Immortals (IMT) vs Liquid (TL)\nType : BO1\nTournament : NA 201
+ 6 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ecd76d66-45fc-49c6-904e-675485aac2ef
+DTSTART:20160206T200000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160206T210000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/4
+SUMMARY:TL vs DIG
+DESCRIPTION:Liquid (TL) vs Team Dignitas (DIG)\nType : BO1\nTournament : NA
+  2016 Spring Split\nWeek : 4\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-505de084-1aba-4112-8239-200d66ea3519
+DTSTART:20160403T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160403T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/na_2016_
+ spring_playoffs/Quarterfinals
+SUMMARY:TL vs NRG
+DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO5\nTournament : NA 2
+ 016 Spring Split\nWeek : Quarterfinals\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-41e3799a-4415-479c-a641-09157cb06794
+DTSTART:20160117T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160117T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_spring/schedule/regular_
+ season/1
+SUMMARY:TSM vs TL
+DESCRIPTION:TSM (TSM) vs Liquid (TL)\nType : BO1\nTournament : NA 2016 Spri
+ ng Split\nWeek : 1\n
+CATEGORIES:NA 2016 Spring Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-47ee45b7-cb6e-4f4b-a16a-c5e71a8826ed
+DTSTART:20160612T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160612T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/2
+SUMMARY:FOX vs TL
+DESCRIPTION:Echo Fox (FOX) vs Liquid (TL)\nType : BO3\nTournament : NA 2016
+  Summer Split\nWeek : 2\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-84d17c3d-d4a4-480a-ac25-5c1e6d081a63
+DTSTART:20160618T220000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160618T230000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/3
+SUMMARY:TL vs NRG
+DESCRIPTION:Liquid (TL) vs NRG Esports (NRG)\nType : BO3\nTournament : NA 2
+ 016 Summer Split\nWeek : 3\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4dc4efa4-0dc6-4320-b126-5bce1739c3ec
+DTSTART:20160724T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160724T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/8
+SUMMARY:NRG vs TL
+DESCRIPTION:NRG Esports (NRG) vs Liquid (TL)\nType : BO3\nTournament : NA 2
+ 016 Summer Split\nWeek : 8\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160602T130102Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f7cda096-3fff-4433-aecd-339350f0c845
+DTSTART:20160611T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2016_summer/schedule/regular_
+ season/2
+SUMMARY:TL vs CLG
+DESCRIPTION:Liquid (TL) vs Counter Logic Gaming (CLG)\nType : BO3\nTourname
+ nt : NA 2016 Summer Split\nWeek : 2\n
+CATEGORIES:NA 2016 Summer Split
+DTSTAMP:20160602T130102Z
 END:VEVENT
 END:VCALENDAR

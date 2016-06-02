@@ -4,6 +4,20 @@ PRODID:www.lolesports.com|cal-tournament-na-2015-regionals
 X-WR-CALNAME:LoL eSports Na 2015 regionals
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
+UID:match-3294f2ca-0b24-4752-b6b3-177b362c2c16
+DTSTART:20150829T190000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20150829T200000Z
+URL:http://www.lolesports.com/en_US/na-lcs/na_2015_regionals/schedule/na_20
+ 15_regionals/quarterfinals
+SUMMARY:GV vs C9
+DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS S
+ ummer regional playoffs\nWeek : quarterfinals\n
+CATEGORIES:NA LCS Summer regional playoffs
+DTSTAMP:20160602T130103Z
+END:VEVENT
+BEGIN:VEVENT
 UID:match-e9a5b193-697c-44db-b614-2ce29d70f1b3
 DTSTART:20150830T190000Z
 SEQUENCE:0
@@ -15,7 +29,7 @@ SUMMARY:TIP vs C9
 DESCRIPTION:Team Impulse (TIP) vs Cloud9  (C9)\nType : BO5\nTournament : NA
   LCS Summer regional playoffs\nWeek : semifinals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130103Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cbca1277-25fa-4357-9990-84bbdfe5cce8
@@ -29,20 +43,6 @@ SUMMARY:TL vs C9
 DESCRIPTION:Liquid (TL) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS Su
  mmer regional playoffs\nWeek : finals\n
 CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160601T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3294f2ca-0b24-4752-b6b3-177b362c2c16
-DTSTART:20150829T190000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20150829T200000Z
-URL:http://www.lolesports.com/en_US/na-lcs/na_2015_regionals/schedule/na_20
- 15_regionals/quarterfinals
-SUMMARY:GV vs C9
-DESCRIPTION:Gravity (GV) vs Cloud9  (C9)\nType : BO5\nTournament : NA LCS S
- ummer regional playoffs\nWeek : quarterfinals\n
-CATEGORIES:NA LCS Summer regional playoffs
-DTSTAMP:20160601T130108Z
+DTSTAMP:20160602T130103Z
 END:VEVENT
 END:VCALENDAR

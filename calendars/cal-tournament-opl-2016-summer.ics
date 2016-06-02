@@ -4,74 +4,18 @@ PRODID:www.lolesports.com|cal-tournament-opl-2016-summer
 X-WR-CALNAME:LoL eSports Opl 2016 summer
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-ee896872-02dd-496a-8657-8434d12278f1
-DTSTART:20160705T080000Z
+UID:match-1af40877-e255-44b0-8910-74598c4c0aa8
+DTSTART:20160614T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160705T090000Z
+DTEND:20160614T120000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/7
-SUMMARY:HLN vs AV
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Avant Garde (AV)\nType : BO3\nT
- ournament : OPL 2016 Summer Split\nWeek : 7\n
+ oup_ab/4
+SUMMARY:SIN vs DW
+DESCRIPTION:Sin Gaming (SIN) vs Dire Wolves (DW)\nType : BO3\nTournament : 
+ OPL 2016 Summer Split\nWeek : 4\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0620a2e6-1fa0-4202-bdb5-fbfd2276e7f7
-DTSTART:20160725T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160725T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/10
-SUMMARY:CHF vs AV
-DESCRIPTION:Chiefs eSports Club (CHF) vs Avant Garde (AV)\nType : BO3\nTour
- nament : OPL 2016 Summer Split\nWeek : 10\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ed2e1e03-ab0d-4a7d-8634-5dd91c78d3d8
-DTSTART:20160620T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160620T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/5
-SUMMARY:HLN vs CHF
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Chiefs eSports Club (CHF)\nType
-  : BO3\nTournament : OPL 2016 Summer Split\nWeek : 5\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-38ba1461-2286-48a1-ab68-62c662207a6d
-DTSTART:20160620T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160620T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/5
-SUMMARY:DW vs AV
-DESCRIPTION:Dire Wolves (DW) vs Avant Garde (AV)\nType : BO3\nTournament : 
- OPL 2016 Summer Split\nWeek : 5\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-a49d7429-0255-4416-80ce-9409c484c139
-DTSTART:20160531T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160531T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/2
-SUMMARY:TM vs CHF
-DESCRIPTION:Tainted Minds (TM) vs Chiefs eSports Club (CHF)\nType : BO3\nTo
- urnament : OPL 2016 Summer Split\nWeek : 2\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-870fc417-96af-4cd7-839c-dcfc0128cfe7
@@ -86,35 +30,21 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Abyss Esports (AE)\nType : BO3\
  nTournament : OPL 2016 Summer Split\nWeek : 1\nWinner : Abyss Esports\nLoo
  ser : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-1af40877-e255-44b0-8910-74598c4c0aa8
-DTSTART:20160614T110000Z
+UID:match-0d73f9a3-eff2-46e7-a1fb-0698b02b266d
+DTSTART:20160607T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160614T120000Z
+DTEND:20160607T120000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/4
-SUMMARY:SIN vs DW
-DESCRIPTION:Sin Gaming (SIN) vs Dire Wolves (DW)\nType : BO3\nTournament : 
- OPL 2016 Summer Split\nWeek : 4\n
+ oup_a/3
+SUMMARY:AV vs CHF
+DESCRIPTION:Avant Garde (AV) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
+ nament : OPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4f464068-8c36-4eb1-8353-a2fa22d566ee
-DTSTART:20160718T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160718T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/9
-SUMMARY:TM vs AV
-DESCRIPTION:Tainted Minds (TM) vs Avant Garde (AV)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 9\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6b94d97c-75cd-41d8-9d3c-8a3458229d14
@@ -129,166 +59,133 @@ DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 1\nWinner : Legacy eSports\nLooser : Dir
  e Wolves\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-0d73f9a3-eff2-46e7-a1fb-0698b02b266d
-DTSTART:20160607T110000Z
+UID:match-4f464068-8c36-4eb1-8353-a2fa22d566ee
+DTSTART:20160718T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160607T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_a/3
-SUMMARY:AV vs CHF
-DESCRIPTION:Avant Garde (AV) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
- nament : OPL 2016 Summer Split\nWeek : 3\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bc34c124-dec6-4b5a-8ba4-3f910570b720
-DTSTART:20160530T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160530T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_b/2
-SUMMARY:HLN vs LGC
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
- 3\nTournament : OPL 2016 Summer Split\nWeek : 2\nWinner : Legacy eSports\n
- Looser : Hellions e-Sports Club\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-4d36688e-fbc0-4e0e-87ab-3984f34a0c51
-DTSTART:20160524T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160524T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_a/1
-SUMMARY:TM vs AV
-DESCRIPTION:Tainted Minds (TM) vs Avant Garde (AV)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 1\nWinner : Tainted Minds\nLooser : Avant 
- Garde\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-737e6a09-e26e-4fe1-a84d-fd35414814c8
-DTSTART:20160606T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160606T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_a/3
-SUMMARY:TM vs SIN
-DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 3\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-50aedd69-692a-4a2a-be86-5807f8cdf0f9
-DTSTART:20160621T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160621T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/5
-SUMMARY:SIN vs AE
-DESCRIPTION:Sin Gaming (SIN) vs Abyss Esports (AE)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 5\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-15188c0c-c3e9-4665-b9dd-85518e860d25
-DTSTART:20160719T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160719T120000Z
+DTEND:20160718T120000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
  oup_ab/9
-SUMMARY:SIN vs CHF
-DESCRIPTION:Sin Gaming (SIN) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
- nament : OPL 2016 Summer Split\nWeek : 9\n
+SUMMARY:TM vs AV
+DESCRIPTION:Tainted Minds (TM) vs Avant Garde (AV)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 9\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-f161ce74-1864-4333-9d3b-e7940ab29eaf
-DTSTART:20160523T080000Z
+UID:match-0620a2e6-1fa0-4202-bdb5-fbfd2276e7f7
+DTSTART:20160725T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160523T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_a/1
-SUMMARY:CHF vs SIN
-DESCRIPTION:Chiefs eSports Club (CHF) vs Sin Gaming (SIN)\nType : BO3\nTour
- nament : OPL 2016 Summer Split\nWeek : 1\nWinner : Chiefs eSports Club\nLo
- oser : Sin Gaming\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-00d97eef-ee91-4d5f-b4bb-1d87952a2d6f
-DTSTART:20160706T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160706T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/7
-SUMMARY:TM vs HLN
-DESCRIPTION:Tainted Minds (TM) vs Hellions e-Sports Club (HLN)\nType : BO3\
- nTournament : OPL 2016 Summer Split\nWeek : 7\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-421dfdb3-2ce3-46b6-8ec1-2b5d736fb629
-DTSTART:20160726T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160726T120000Z
+DTEND:20160725T120000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
  oup_ab/10
-SUMMARY:DW vs AE
-DESCRIPTION:Dire Wolves (DW) vs Abyss Esports (AE)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 10\n
+SUMMARY:CHF vs AV
+DESCRIPTION:Chiefs eSports Club (CHF) vs Avant Garde (AV)\nType : BO3\nTour
+ nament : OPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-99abc0a7-7629-4ae1-9485-e20b738f183e
+UID:match-38ba1461-2286-48a1-ab68-62c662207a6d
+DTSTART:20160620T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160620T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/5
+SUMMARY:DW vs AV
+DESCRIPTION:Dire Wolves (DW) vs Avant Garde (AV)\nType : BO3\nTournament : 
+ OPL 2016 Summer Split\nWeek : 5\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ee896872-02dd-496a-8657-8434d12278f1
+DTSTART:20160705T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160705T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/7
+SUMMARY:HLN vs AV
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Avant Garde (AV)\nType : BO3\nT
+ ournament : OPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ed2e1e03-ab0d-4a7d-8634-5dd91c78d3d8
+DTSTART:20160620T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160620T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/5
+SUMMARY:HLN vs CHF
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Chiefs eSports Club (CHF)\nType
+  : BO3\nTournament : OPL 2016 Summer Split\nWeek : 5\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-a49d7429-0255-4416-80ce-9409c484c139
 DTSTART:20160712T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND:20160712T120000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_a/8
+ oup_ab/8
 SUMMARY:TM vs CHF
 DESCRIPTION:Tainted Minds (TM) vs Chiefs eSports Club (CHF)\nType : BO3\nTo
- urnament : OPL 2016 Summer Split\nWeek : 8\nWinner : Chiefs eSports Club\n
- Looser : Tainted Minds\n
+ urnament : OPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-049c6473-e400-4391-bd0b-51b8ee8f5c42
-DTSTART:20160530T110000Z
+UID:match-177f1deb-2985-4efa-9ff8-a68378b7b79b
+DTSTART:20160718T080000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160530T120000Z
+DTEND:20160718T090000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_b/2
-SUMMARY:DW vs AE
-DESCRIPTION:Dire Wolves (DW) vs Abyss Esports (AE)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 2\nWinner : Dire Wolves\nLooser : Abyss Es
- ports\n
+ oup_ab/9
+SUMMARY:LGC vs AE
+DESCRIPTION:Legacy eSports (LGC) vs Abyss Esports (AE)\nType : BO3\nTournam
+ ent : OPL 2016 Summer Split\nWeek : 9\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-74695921-c645-4127-a32e-54bc7bc41237
+DTSTART:20160706T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160706T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/7
+SUMMARY:CHF vs AE
+DESCRIPTION:Chiefs eSports Club (CHF) vs Abyss Esports (AE)\nType : BO3\nTo
+ urnament : OPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-07c9f85c-0e3b-454c-a207-72a3477c2eee
+DTSTART:20160704T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160704T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/7
+SUMMARY:DW vs CHF
+DESCRIPTION:Dire Wolves (DW) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
+ nament : OPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-8e57fb7e-4df2-43ca-9436-b568e5b6d68a
@@ -302,7 +199,7 @@ SUMMARY:HLN vs DW
 DESCRIPTION:Hellions e-Sports Club (HLN) vs Dire Wolves (DW)\nType : BO3\nT
  ournament : OPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-fb57218f-b627-4c3f-a38b-962ed2d1c110
@@ -317,7 +214,7 @@ DESCRIPTION:Avant Garde (AV) vs Sin Gaming (SIN)\nType : BO3\nTournament :
  OPL 2016 Summer Split\nWeek : 2\nWinner : Avant Garde\nLooser : Sin Gaming
  \n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-23297c69-3539-46b9-aea4-15b3218143e9
@@ -331,7 +228,7 @@ SUMMARY:AE vs AV
 DESCRIPTION:Abyss Esports (AE) vs Avant Garde (AV)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 6\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-9b5a6970-3476-45ad-ab1d-c52878ed8820
@@ -345,63 +242,7 @@ SUMMARY:TM vs AE
 DESCRIPTION:Tainted Minds (TM) vs Abyss Esports (AE)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-07c9f85c-0e3b-454c-a207-72a3477c2eee
-DTSTART:20160704T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160704T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/7
-SUMMARY:DW vs CHF
-DESCRIPTION:Dire Wolves (DW) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
- nament : OPL 2016 Summer Split\nWeek : 7\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-177f1deb-2985-4efa-9ff8-a68378b7b79b
-DTSTART:20160718T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160718T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/9
-SUMMARY:LGC vs AE
-DESCRIPTION:Legacy eSports (LGC) vs Abyss Esports (AE)\nType : BO3\nTournam
- ent : OPL 2016 Summer Split\nWeek : 9\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-74695921-c645-4127-a32e-54bc7bc41237
-DTSTART:20160706T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160706T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/7
-SUMMARY:CHF vs AE
-DESCRIPTION:Chiefs eSports Club (CHF) vs Abyss Esports (AE)\nType : BO3\nTo
- urnament : OPL 2016 Summer Split\nWeek : 7\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-55f77032-280b-4347-ad7a-0c1e68c3b81f
-DTSTART:20160712T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160712T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/8
-SUMMARY:SIN vs AV
-DESCRIPTION:Sin Gaming (SIN) vs Avant Garde (AV)\nType : BO3\nTournament : 
- OPL 2016 Summer Split\nWeek : 8\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-97268313-3e9f-4045-b85a-deb8f391ae31
@@ -415,7 +256,21 @@ SUMMARY:AE vs HLN
 DESCRIPTION:Abyss Esports (AE) vs Hellions e-Sports Club (HLN)\nType : BO3\
  nTournament : OPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-55f77032-280b-4347-ad7a-0c1e68c3b81f
+DTSTART:20160712T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160712T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/8
+SUMMARY:SIN vs AV
+DESCRIPTION:Sin Gaming (SIN) vs Avant Garde (AV)\nType : BO3\nTournament : 
+ OPL 2016 Summer Split\nWeek : 8\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-a0096fe0-3b04-41a7-9f47-ba56b694af9e
@@ -429,63 +284,22 @@ SUMMARY:TM vs SIN
 DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
  : OPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-549c5cec-abbb-4dfa-94a1-db6664be222c
-DTSTART:20160606T110000Z
+UID:match-049c6473-e400-4391-bd0b-51b8ee8f5c42
+DTSTART:20160530T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160606T120000Z
+DTEND:20160530T120000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_b/3
-SUMMARY:AE vs LGC
-DESCRIPTION:Abyss Esports (AE) vs Legacy eSports (LGC)\nType : BO3\nTournam
- ent : OPL 2016 Summer Split\nWeek : 3\n
+ oup_b/2
+SUMMARY:DW vs AE
+DESCRIPTION:Dire Wolves (DW) vs Abyss Esports (AE)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 2\nWinner : Dire Wolves\nLooser : Abyss Es
+ ports\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-f9b21bfa-0025-4117-8097-11ce8d8cf38c
-DTSTART:20160614T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160614T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/4
-SUMMARY:LGC vs AV
-DESCRIPTION:Legacy eSports (LGC) vs Avant Garde (AV)\nType : BO3\nTournamen
- t : OPL 2016 Summer Split\nWeek : 4\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-c5400d4a-ec7a-406d-bfb7-98544324d9af
-DTSTART:20160621T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160621T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/5
-SUMMARY:TM vs LGC
-DESCRIPTION:Tainted Minds (TM) vs Legacy eSports (LGC)\nType : BO3\nTournam
- ent : OPL 2016 Summer Split\nWeek : 5\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-01185929-aed0-4b6a-8241-f3e9a418acd9
-DTSTART:20160627T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160627T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/6
-SUMMARY:TM vs DW
-DESCRIPTION:Tainted Minds (TM) vs Dire Wolves (DW)\nType : BO3\nTournament 
- : OPL 2016 Summer Split\nWeek : 6\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-62af88e4-0745-455f-9f4a-2d12c1df2e3d
@@ -499,21 +313,7 @@ SUMMARY:SIN vs LGC
 DESCRIPTION:Sin Gaming (SIN) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-ab9fbf4a-452b-4e03-bfd3-13ae7b5c7438
-DTSTART:20160711T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160711T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/8
-SUMMARY:DW vs LGC
-DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
- t : OPL 2016 Summer Split\nWeek : 8\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-efe59519-53e6-43df-8a0c-00d3de36146d
@@ -527,35 +327,21 @@ SUMMARY:HLN vs LGC
 DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
  3\nTournament : OPL 2016 Summer Split\nWeek : 8\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
-UID:match-0a28874a-353a-425a-b863-5fc2c164a46e
-DTSTART:20160719T080000Z
+UID:match-549c5cec-abbb-4dfa-94a1-db6664be222c
+DTSTART:20160606T110000Z
 SEQUENCE:0
 TRANSP:OPAQUE
-DTEND:20160719T090000Z
+DTEND:20160606T120000Z
 URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_b/9
-SUMMARY:DW vs HLN
-DESCRIPTION:Dire Wolves (DW) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
- ournament : OPL 2016 Summer Split\nWeek : 9\n
+ oup_b/3
+SUMMARY:AE vs LGC
+DESCRIPTION:Abyss Esports (AE) vs Legacy eSports (LGC)\nType : BO3\nTournam
+ ent : OPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-86bf4b47-ee4c-4111-8afe-2293a22430c9
-DTSTART:20160628T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160628T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/6
-SUMMARY:LGC vs CHF
-DESCRIPTION:Legacy eSports (LGC) vs Chiefs eSports Club (CHF)\nType : BO3\n
- Tournament : OPL 2016 Summer Split\nWeek : 6\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cdc0ab74-84ab-42a3-866d-1a576fb079c4
@@ -569,6 +355,220 @@ SUMMARY:SIN vs HLN
 DESCRIPTION:Sin Gaming (SIN) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
  ournament : OPL 2016 Summer Split\nWeek : 6\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160601T130114Z
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-86bf4b47-ee4c-4111-8afe-2293a22430c9
+DTSTART:20160628T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160628T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/6
+SUMMARY:LGC vs CHF
+DESCRIPTION:Legacy eSports (LGC) vs Chiefs eSports Club (CHF)\nType : BO3\n
+ Tournament : OPL 2016 Summer Split\nWeek : 6\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-01185929-aed0-4b6a-8241-f3e9a418acd9
+DTSTART:20160627T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160627T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/6
+SUMMARY:TM vs DW
+DESCRIPTION:Tainted Minds (TM) vs Dire Wolves (DW)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 6\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f9b21bfa-0025-4117-8097-11ce8d8cf38c
+DTSTART:20160614T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160614T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/4
+SUMMARY:LGC vs AV
+DESCRIPTION:Legacy eSports (LGC) vs Avant Garde (AV)\nType : BO3\nTournamen
+ t : OPL 2016 Summer Split\nWeek : 4\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0a28874a-353a-425a-b863-5fc2c164a46e
+DTSTART:20160719T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160719T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_b/9
+SUMMARY:DW vs HLN
+DESCRIPTION:Dire Wolves (DW) vs Hellions e-Sports Club (HLN)\nType : BO3\nT
+ ournament : OPL 2016 Summer Split\nWeek : 9\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-ab9fbf4a-452b-4e03-bfd3-13ae7b5c7438
+DTSTART:20160726T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160726T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/10
+SUMMARY:DW vs LGC
+DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
+ t : OPL 2016 Summer Split\nWeek : 10\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-c5400d4a-ec7a-406d-bfb7-98544324d9af
+DTSTART:20160621T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160621T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/5
+SUMMARY:TM vs LGC
+DESCRIPTION:Tainted Minds (TM) vs Legacy eSports (LGC)\nType : BO3\nTournam
+ ent : OPL 2016 Summer Split\nWeek : 5\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bc34c124-dec6-4b5a-8ba4-3f910570b720
+DTSTART:20160530T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160530T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_b/2
+SUMMARY:HLN vs LGC
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
+ 3\nTournament : OPL 2016 Summer Split\nWeek : 2\nWinner : Legacy eSports\n
+ Looser : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-50aedd69-692a-4a2a-be86-5807f8cdf0f9
+DTSTART:20160621T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160621T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/5
+SUMMARY:SIN vs AE
+DESCRIPTION:Sin Gaming (SIN) vs Abyss Esports (AE)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 5\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-15188c0c-c3e9-4665-b9dd-85518e860d25
+DTSTART:20160719T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160719T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/9
+SUMMARY:SIN vs CHF
+DESCRIPTION:Sin Gaming (SIN) vs Chiefs eSports Club (CHF)\nType : BO3\nTour
+ nament : OPL 2016 Summer Split\nWeek : 9\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-737e6a09-e26e-4fe1-a84d-fd35414814c8
+DTSTART:20160606T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160606T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_a/3
+SUMMARY:TM vs SIN
+DESCRIPTION:Tainted Minds (TM) vs Sin Gaming (SIN)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 3\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-f161ce74-1864-4333-9d3b-e7940ab29eaf
+DTSTART:20160523T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160523T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_a/1
+SUMMARY:CHF vs SIN
+DESCRIPTION:Chiefs eSports Club (CHF) vs Sin Gaming (SIN)\nType : BO3\nTour
+ nament : OPL 2016 Summer Split\nWeek : 1\nWinner : Chiefs eSports Club\nLo
+ oser : Sin Gaming\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-99abc0a7-7629-4ae1-9485-e20b738f183e
+DTSTART:20160531T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160531T130000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_a/2
+SUMMARY:TM vs CHF
+DESCRIPTION:Tainted Minds (TM) vs Chiefs eSports Club (CHF)\nType : BO3\nTo
+ urnament : OPL 2016 Summer Split\nWeek : 2\nWinner : Chiefs eSports Club\n
+ Looser : Tainted Minds\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-421dfdb3-2ce3-46b6-8ec1-2b5d736fb629
+DTSTART:20160711T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160711T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/8
+SUMMARY:DW vs AE
+DESCRIPTION:Dire Wolves (DW) vs Abyss Esports (AE)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 8\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-00d97eef-ee91-4d5f-b4bb-1d87952a2d6f
+DTSTART:20160706T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160706T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/7
+SUMMARY:TM vs HLN
+DESCRIPTION:Tainted Minds (TM) vs Hellions e-Sports Club (HLN)\nType : BO3\
+ nTournament : OPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-4d36688e-fbc0-4e0e-87ab-3984f34a0c51
+DTSTART:20160524T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160524T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_a/1
+SUMMARY:TM vs AV
+DESCRIPTION:Tainted Minds (TM) vs Avant Garde (AV)\nType : BO3\nTournament 
+ : OPL 2016 Summer Split\nWeek : 1\nWinner : Tainted Minds\nLooser : Avant 
+ Garde\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160602T130112Z
 END:VEVENT
 END:VCALENDAR
