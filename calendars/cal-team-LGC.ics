@@ -16,7 +16,7 @@ DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 1\nWinner : Legacy eSports\nLooser : Dir
  e Wolves\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c3ff30af-71a4-4e28-aac9-e7160158e53d
@@ -31,7 +31,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Trident Esports (TRI)\nType : BO3\nTour
  nament : OPL 2016 Spring Split\nWeek : 7\nWinner : Legacy eSports\nLooser 
  : Trident Esports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ad6f3bf6-57a3-4998-9d3a-189306ff942b
@@ -45,66 +45,7 @@ SUMMARY:LGC vs CHF
 DESCRIPTION:Legacy eSports (LGC) vs Chiefs eSports Club (CHF)\nType : BO5\n
  Tournament : OPL 2016 Spring Split\nWeek : finals\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-bc3ec608-541b-4659-8062-c6e362197fd7
-DTSTART:20160208T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160208T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_b/4
-SUMMARY:LGC vs INF
-DESCRIPTION:Legacy eSports (LGC) vs Infernum (INF)\nType : BO3\nTournament 
- : OPL 2016 Spring Split\nWeek : 4\nWinner : Legacy eSports\nLooser : Infer
- num\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-0695671c-830f-49e0-b090-f45a52b32886
-DTSTART:20160202T070000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160202T080000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_ab/3
-SUMMARY:HLN vs LGC
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
- 3\nTournament : OPL 2016 Spring Split\nWeek : 3\nWinner : Legacy eSports\n
- Looser : Hellions e-Sports Club\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-926dbf02-cc0b-4244-9d15-c6c13165ab87
-DTSTART:20160308T100000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160308T110000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
- oup_b/8
-SUMMARY:LGC vs HLN
-DESCRIPTION:Legacy eSports (LGC) vs Hellions e-Sports Club (HLN)\nType : BO
- 3\nTournament : OPL 2016 Spring Split\nWeek : 8\nWinner : Legacy eSports\n
- Looser : Hellions e-Sports Club\n
-CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-177f1deb-2985-4efa-9ff8-a68378b7b79b
-DTSTART:20160718T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160718T090000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/9
-SUMMARY:LGC vs AE
-DESCRIPTION:Legacy eSports (LGC) vs Abyss Esports (AE)\nType : BO3\nTournam
- ent : OPL 2016 Summer Split\nWeek : 9\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c936a0dd-f772-4fca-85e9-f073ac3fc0a6
@@ -119,7 +60,7 @@ DESCRIPTION:Chiefs eSports Club (CHF) vs Legacy eSports (LGC)\nType : BO3\n
  Tournament : OPL 2016 Spring Split\nWeek : 9\nWinner : Chiefs eSports Club
  \nLooser : Legacy eSports\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-cd116bf7-2e8e-4b46-847a-e4e57a2e9024
@@ -134,7 +75,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Avant Garde (AV)\nType : BO3\nTournamen
  t : OPL 2016 Spring Split\nWeek : 10\nWinner : Legacy eSports\nLooser : Av
  ant Garde\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f3f7ff2d-d2ed-448c-a452-914e8cb419d2
@@ -149,7 +90,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Infernum (INF)\nType : BO3\nTournament
  : OPL 2016 Spring Split\nWeek : 6\nWinner : Legacy eSports\nLooser : Infer
  num\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-62af88e4-0745-455f-9f4a-2d12c1df2e3d
@@ -163,21 +104,7 @@ SUMMARY:SIN vs LGC
 DESCRIPTION:Sin Gaming (SIN) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 7\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-efe59519-53e6-43df-8a0c-00d3de36146d
-DTSTART:20160711T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160711T120000Z
-URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
- oup_ab/8
-SUMMARY:HLN vs LGC
-DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
- 3\nTournament : OPL 2016 Summer Split\nWeek : 8\n
-CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-549c5cec-abbb-4dfa-94a1-db6664be222c
@@ -191,7 +118,21 @@ SUMMARY:AE vs LGC
 DESCRIPTION:Abyss Esports (AE) vs Legacy eSports (LGC)\nType : BO3\nTournam
  ent : OPL 2016 Summer Split\nWeek : 3\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-efe59519-53e6-43df-8a0c-00d3de36146d
+DTSTART:20160711T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160711T120000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/8
+SUMMARY:HLN vs LGC
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
+ 3\nTournament : OPL 2016 Summer Split\nWeek : 8\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-86bf4b47-ee4c-4111-8afe-2293a22430c9
@@ -205,7 +146,7 @@ SUMMARY:LGC vs CHF
 DESCRIPTION:Legacy eSports (LGC) vs Chiefs eSports Club (CHF)\nType : BO3\n
  Tournament : OPL 2016 Summer Split\nWeek : 6\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-f9b21bfa-0025-4117-8097-11ce8d8cf38c
@@ -219,7 +160,7 @@ SUMMARY:LGC vs AV
 DESCRIPTION:Legacy eSports (LGC) vs Avant Garde (AV)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 4\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ab9fbf4a-452b-4e03-bfd3-13ae7b5c7438
@@ -233,7 +174,7 @@ SUMMARY:DW vs LGC
 DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Summer Split\nWeek : 10\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-c5400d4a-ec7a-406d-bfb7-98544324d9af
@@ -247,7 +188,66 @@ SUMMARY:TM vs LGC
 DESCRIPTION:Tainted Minds (TM) vs Legacy eSports (LGC)\nType : BO3\nTournam
  ent : OPL 2016 Summer Split\nWeek : 5\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-bc3ec608-541b-4659-8062-c6e362197fd7
+DTSTART:20160208T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160208T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_b/4
+SUMMARY:LGC vs INF
+DESCRIPTION:Legacy eSports (LGC) vs Infernum (INF)\nType : BO3\nTournament 
+ : OPL 2016 Spring Split\nWeek : 4\nWinner : Legacy eSports\nLooser : Infer
+ num\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160603T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-0695671c-830f-49e0-b090-f45a52b32886
+DTSTART:20160202T070000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160202T080000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_ab/3
+SUMMARY:HLN vs LGC
+DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
+ 3\nTournament : OPL 2016 Spring Split\nWeek : 3\nWinner : Legacy eSports\n
+ Looser : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160603T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-926dbf02-cc0b-4244-9d15-c6c13165ab87
+DTSTART:20160308T100000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160308T110000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_spring/schedule/opl_gr
+ oup_b/8
+SUMMARY:LGC vs HLN
+DESCRIPTION:Legacy eSports (LGC) vs Hellions e-Sports Club (HLN)\nType : BO
+ 3\nTournament : OPL 2016 Spring Split\nWeek : 8\nWinner : Legacy eSports\n
+ Looser : Hellions e-Sports Club\n
+CATEGORIES:OPL 2016 Spring Split
+DTSTAMP:20160603T130117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-177f1deb-2985-4efa-9ff8-a68378b7b79b
+DTSTART:20160718T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160718T090000Z
+URL:http://www.lolesports.com/en_US/oce-opl/opl_2016_summer/schedule/opl_gr
+ oup_ab/9
+SUMMARY:LGC vs AE
+DESCRIPTION:Legacy eSports (LGC) vs Abyss Esports (AE)\nType : BO3\nTournam
+ ent : OPL 2016 Summer Split\nWeek : 9\n
+CATEGORIES:OPL 2016 Summer Split
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-2bdca23a-f875-4411-8811-006904130f3a
@@ -262,7 +262,7 @@ DESCRIPTION:Avant Garde (AV) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Spring Split\nWeek : 2\nWinner : Legacy eSports\nLooser : Ava
  nt Garde\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-77567824-34d6-4e8e-bc4a-e39c309ac8e8
@@ -277,7 +277,7 @@ DESCRIPTION:Legacy eSports (LGC) vs Sin Gaming (SIN)\nType : BO3\nTournamen
  t : OPL 2016 Spring Split\nWeek : 1\nWinner : Legacy eSports\nLooser : Sin
   Gaming\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-7259fe3e-ca6b-4201-9713-76fe697d6c2c
@@ -292,7 +292,7 @@ DESCRIPTION:Dire Wolves (DW) vs Legacy eSports (LGC)\nType : BO3\nTournamen
  t : OPL 2016 Spring Split\nWeek : 5\nWinner : Legacy eSports\nLooser : Dir
  e Wolves\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-d1e56848-f099-4da6-afa9-7c963256afea
@@ -306,7 +306,7 @@ SUMMARY:LGC vs DW
 DESCRIPTION:Legacy eSports (LGC) vs Dire Wolves (DW)\nType : BO5\nTournamen
  t : OPL 2016 Spring Split\nWeek : quarterfinals\n
 CATEGORIES:OPL 2016 Spring Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-bc34c124-dec6-4b5a-8ba4-3f910570b720
@@ -321,6 +321,6 @@ DESCRIPTION:Hellions e-Sports Club (HLN) vs Legacy eSports (LGC)\nType : BO
  3\nTournament : OPL 2016 Summer Split\nWeek : 2\nWinner : Legacy eSports\n
  Looser : Hellions e-Sports Club\n
 CATEGORIES:OPL 2016 Summer Split
-DTSTAMP:20160602T130111Z
+DTSTAMP:20160603T130117Z
 END:VEVENT
 END:VCALENDAR

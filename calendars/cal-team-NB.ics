@@ -4,118 +4,6 @@ PRODID:www.lolesports.com|cal-team-NB
 X-WR-CALNAME:LoL eSports NB
 X-PUBLISHED-TTL:P1W
 BEGIN:VEVENT
-UID:match-348e4d7a-5d44-497e-9549-99ff63eca7ca
-DTSTART:20160710T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160710T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/6
-SUMMARY:LGD vs NB
-DESCRIPTION:LGD Gaming (LGD) vs NewBee (NB)\nType : BO3\nTournament : LPL 2
- 016 Summer Split\nWeek : 6\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-396374a6-217c-40ca-8074-fa59587dec3f
-DTSTART:20160807T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160807T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/10
-SUMMARY:IG vs NB
-DESCRIPTION:Invictus Gaming (IG) vs NewBee (NB)\nType : BO3\nTournament : L
- PL 2016 Summer Split\nWeek : 10\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-3c8c7f4e-7909-426d-9688-3ace4b61b896
-DTSTART:20160724T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160724T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_a/8
-SUMMARY:SAT vs NB
-DESCRIPTION:Saint Gaming (SAT) vs NewBee (NB)\nType : BO3\nTournament : LPL
-  2016 Summer Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-07073ab6-7ad6-4467-98c8-ebc182c666f4
-DTSTART:20160715T120000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160715T130000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/7
-SUMMARY:WE vs NB
-DESCRIPTION:Team World Elite (WE) vs NewBee (NB)\nType : BO3\nTournament : 
- LPL 2016 Summer Split\nWeek : 7\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-856eda4a-8889-46f6-8b9f-e85099f71d60
-DTSTART:20160618T050000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160618T060000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/4
-SUMMARY:VG vs NB
-DESCRIPTION:Vici Gaming (VG) vs NewBee (NB)\nType : BO3\nTournament : LPL 2
- 016 Summer Split\nWeek : 4\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-9cbc1f01-118a-4e7e-b334-795db069ea5f
-DTSTART:20160626T110000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160626T120000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/5
-SUMMARY:RNG vs NB
-DESCRIPTION:Royal Never Give Up (RNG) vs NewBee (NB)\nType : BO3\nTournamen
- t : LPL 2016 Summer Split\nWeek : 5\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-b2309aec-6cbf-4374-95f3-2df6ebca7e56
-DTSTART:20160611T080000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160611T090000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/3
-SUMMARY:NB vs SAT
-DESCRIPTION:NewBee (NB) vs Saint Gaming (SAT)\nType : BO3\nTournament : LPL
-  2016 Summer Split\nWeek : 3\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
-UID:match-53abc7fb-d1da-486c-b16d-47865e1b22f8
-DTSTART:20160722T090000Z
-SEQUENCE:0
-TRANSP:OPAQUE
-DTEND:20160722T100000Z
-URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
- group_ab/8
-SUMMARY:EDG vs NB
-DESCRIPTION:Edward Gaming (EDG) vs NewBee (NB)\nType : BO3\nTournament : LP
- L 2016 Summer Split\nWeek : 8\n
-CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
-END:VEVENT
-BEGIN:VEVENT
 UID:match-e7a351ee-b953-4d89-92c9-cd0e3620e971
 DTSTART:20160624T090000Z
 SEQUENCE:0
@@ -127,7 +15,7 @@ SUMMARY:IM vs NB
 DESCRIPTION:I MAY (IM) vs NewBee (NB)\nType : BO3\nTournament : LPL 2016 Su
  mmer Split\nWeek : 5\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-97b83152-6094-4df0-b6d6-d85937f0c0ac
@@ -142,7 +30,119 @@ DESCRIPTION:NewBee (NB) vs Invictus Gaming (IG)\nType : BO3\nTournament : L
  PL 2016 Summer Split\nWeek : 1\nWinner : NewBee\nLooser : Invictus Gaming\
  n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-348e4d7a-5d44-497e-9549-99ff63eca7ca
+DTSTART:20160710T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160710T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/6
+SUMMARY:LGD vs NB
+DESCRIPTION:LGD Gaming (LGD) vs NewBee (NB)\nType : BO3\nTournament : LPL 2
+ 016 Summer Split\nWeek : 6\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-396374a6-217c-40ca-8074-fa59587dec3f
+DTSTART:20160807T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160807T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/10
+SUMMARY:IG vs NB
+DESCRIPTION:Invictus Gaming (IG) vs NewBee (NB)\nType : BO3\nTournament : L
+ PL 2016 Summer Split\nWeek : 10\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-3c8c7f4e-7909-426d-9688-3ace4b61b896
+DTSTART:20160724T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160724T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_a/8
+SUMMARY:SAT vs NB
+DESCRIPTION:Saint Gaming (SAT) vs NewBee (NB)\nType : BO3\nTournament : LPL
+  2016 Summer Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-07073ab6-7ad6-4467-98c8-ebc182c666f4
+DTSTART:20160715T120000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160715T130000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/7
+SUMMARY:WE vs NB
+DESCRIPTION:Team World Elite (WE) vs NewBee (NB)\nType : BO3\nTournament : 
+ LPL 2016 Summer Split\nWeek : 7\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-856eda4a-8889-46f6-8b9f-e85099f71d60
+DTSTART:20160618T050000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160618T060000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/4
+SUMMARY:VG vs NB
+DESCRIPTION:Vici Gaming (VG) vs NewBee (NB)\nType : BO3\nTournament : LPL 2
+ 016 Summer Split\nWeek : 4\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-9cbc1f01-118a-4e7e-b334-795db069ea5f
+DTSTART:20160626T110000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160626T120000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/5
+SUMMARY:RNG vs NB
+DESCRIPTION:Royal Never Give Up (RNG) vs NewBee (NB)\nType : BO3\nTournamen
+ t : LPL 2016 Summer Split\nWeek : 5\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-b2309aec-6cbf-4374-95f3-2df6ebca7e56
+DTSTART:20160611T080000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160611T090000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/3
+SUMMARY:NB vs SAT
+DESCRIPTION:NewBee (NB) vs Saint Gaming (SAT)\nType : BO3\nTournament : LPL
+  2016 Summer Split\nWeek : 3\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:match-53abc7fb-d1da-486c-b16d-47865e1b22f8
+DTSTART:20160722T090000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND:20160722T100000Z
+URL:http://www.lolesports.com/en_US/lpl-china/lpl_2016_summer/schedule/lpl_
+ group_ab/8
+SUMMARY:EDG vs NB
+DESCRIPTION:Edward Gaming (EDG) vs NewBee (NB)\nType : BO3\nTournament : LP
+ L 2016 Summer Split\nWeek : 8\n
+CATEGORIES:LPL 2016 Summer Split
+DTSTAMP:20160603T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-6ab053d2-2e9b-4356-8045-7836de0989e8
@@ -156,7 +156,7 @@ SUMMARY:OMG vs NB
 DESCRIPTION:OMG (OMG) vs NewBee (NB)\nType : BO3\nTournament : LPL 2016 Sum
  mer Split\nWeek : 6\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0498b763-5ec2-40d6-a2df-cbbfcfdf5a66
@@ -170,7 +170,7 @@ SUMMARY:GT vs NB
 DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
  2016 Summer Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-ef00fbd4-9b22-4943-b173-d562458bf709
@@ -184,7 +184,7 @@ SUMMARY:SS vs NB
 DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
   2016 Summer Split\nWeek : 9\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-0e3fbb49-56f7-4514-870d-add818d4a5bd
@@ -198,7 +198,7 @@ SUMMARY:NB vs EDG
 DESCRIPTION:NewBee (NB) vs Edward Gaming (EDG)\nType : BO3\nTournament : LP
  L 2016 Summer Split\nWeek : 1\nWinner : Edward Gaming\nLooser : NewBee\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-49333654-1cc2-4462-9ad1-ddfbe2478999
@@ -212,7 +212,7 @@ SUMMARY:GT vs NB
 DESCRIPTION:Game Talents (GT) vs NewBee (NB)\nType : BO3\nTournament : LPL 
  2016 Summer Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
 END:VEVENT
 BEGIN:VEVENT
 UID:match-5f8e2ef1-350d-45bd-a8e4-5f69a87c93f5
@@ -226,6 +226,6 @@ SUMMARY:SS vs NB
 DESCRIPTION:Snake Esports (SS) vs NewBee (NB)\nType : BO3\nTournament : LPL
   2016 Summer Split\nWeek : 2\n
 CATEGORIES:LPL 2016 Summer Split
-DTSTAMP:20160602T130108Z
+DTSTAMP:20160603T130114Z
 END:VEVENT
 END:VCALENDAR
